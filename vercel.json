@@ -1,0 +1,37 @@
+{
+  "buildCommand": "python3 scripts/build_site.py && python3 scripts/generate_config.py && .venv/bin/python scripts/generate_media_kit_pdf.py",
+  "installCommand": "python3 -m venv .venv && .venv/bin/pip install fpdf2 pillow -q",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" },
+        { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains; preload" }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/js/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=604800" }
+      ]
+    },
+    {
+      "source": "/css/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=604800" }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/:path*", "has": [{ "type": "host", "value": "www.mkofman.com" }], "destination": "https://mkofman.com/:path*", "permanent": true }
+  ]
+}
