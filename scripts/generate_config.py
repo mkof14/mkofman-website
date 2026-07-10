@@ -34,6 +34,7 @@ def main() -> None:
     provider = os.environ.get("ANALYTICS_PROVIDER", "").strip().lower()
     plausible = os.environ.get("PLAUSIBLE_DOMAIN", "mkofman.com").strip()
     ga4 = os.environ.get("GA4_ID", "").strip()
+    calendly = os.environ.get("CALENDLY_URL", "").strip()
 
     if provider and provider not in ("plausible", "ga4"):
         raise SystemExit(f"Invalid ANALYTICS_PROVIDER: {provider!r} (use plausible or ga4)")
@@ -47,6 +48,11 @@ def main() -> None:
    * Leave empty to use mailto: fallback.
    */
   formspreeEndpoint: '{esc_js(formspree)}',
+  /**
+   * Calendly scheduling URL — set CALENDLY_URL in Vercel or .env.
+   * Example: https://calendly.com/your-name/intro
+   */
+  calendlyUrl: '{esc_js(calendly)}',
   ogImage: '/images/portrait-hero.webp',
   /**
    * Analytics — set ANALYTICS_PROVIDER=plausible|ga4 in Vercel or .env.

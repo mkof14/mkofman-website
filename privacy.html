@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="alternate" type="application/rss+xml" title="Michael Kofman Insights" href="/feed.xml">
   <meta charset="UTF-8">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,41 +34,42 @@
   <meta name="twitter:image" content="https://mkofman.com/images/portrait-hero.webp">
   <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "name": "Michael Kofman", "url": "https://mkofman.com", "image": "https://mkofman.com/images/portrait-hero.webp", "jobTitle": "CEO & Strategic Technologist", "worksFor": {"@type": "Organization", "name": "Digital Invest Inc."}, "email": "mailto:mkofman@mkofman.com", "sameAs": ["https://www.linkedin.com/in/michael-kofman-0509176/"]}, {"@context": "https://schema.org", "@type": "WebSite", "name": "Michael Kofman", "url": "https://mkofman.com", "description": "Privacy policy for mkofman.com — how we handle contact form data and site analytics.", "inLanguage": ["en", "es", "de", "fr", "ru", "uk", "zh", "ar", "he"]}, {"@context": "https://schema.org", "@type": "WebPage", "name": "Privacy Policy — Michael Kofman", "description": "Privacy policy for mkofman.com — how we handle contact form data and site analytics.", "url": "https://mkofman.com/privacy.html", "isPartOf": {"@type": "WebSite", "url": "https://mkofman.com", "name": "Michael Kofman"}}]</script>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/expansion.css">
   <link rel="stylesheet" href="css/controls.css">
   <script src="js/theme.js"></script>
   <script>initThemeEarly();</script>
 </head>
 <body data-page="privacy">
 
-  <header class="site-header">
+      <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
         <span class="logo-name">Michael Kofman</span>
       </a>
       <div class="header-right">
         <nav class="main-nav" aria-label="Primary">
-          <a href="about.html" data-i18n="nav.about">About</a>
-          <a href="consulting.html" data-i18n="nav.consulting">Consulting</a>
-          <a href="insights.html" data-i18n="nav.insights">Insights</a>
-          <a href="ventures.html" data-i18n="nav.ventures">Ventures</a>
-          <a href="contact.html" data-i18n="nav.contact">Contact</a>
+        <a href="about.html" data-i18n="nav.about">About</a>
+        <a href="consulting.html" data-i18n="nav.consulting">Consulting</a>
+        <a href="insights.html" data-i18n="nav.insights">Insights</a>
+        <a href="ventures.html" data-i18n="nav.ventures">Ventures</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact</a>
         </nav>
-        <div class="header-controls">
-          <button class="theme-toggle" type="button" data-i18n-aria="ui.toggleTheme" aria-label="Toggle theme">
-            <svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
-            <svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
-          </button>
-          <div class="lang-switcher">
-            <button class="lang-trigger" type="button" data-i18n-aria="ui.selectLanguage" aria-label="Select language">
-              <span class="lang-flag">🇺🇸</span>
-              <svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+          <div class="header-controls">
+            <button class="theme-toggle" type="button" data-i18n-aria="ui.toggleTheme" aria-label="Toggle theme">
+              <svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+              <svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
             </button>
-            <ul class="lang-panel" role="listbox"></ul>
+            <div class="lang-switcher">
+              <button class="lang-trigger" type="button" data-i18n-aria="ui.selectLanguage" aria-label="Select language">
+                <span class="lang-flag">🇺🇸</span>
+                <svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+              </button>
+              <ul class="lang-panel" role="listbox"></ul>
+            </div>
           </div>
-        </div>
-        <button class="nav-toggle" type="button" data-i18n-aria="ui.toggleNav" aria-label="Toggle navigation">
-          <span></span><span></span><span></span>
-        </button>
+          <button class="nav-toggle" type="button" data-i18n-aria="ui.toggleNav" aria-label="Toggle navigation">
+            <span></span><span></span><span></span>
+          </button>
       </div>
     </div>
     <nav class="main-nav main-nav-mobile" aria-label="Mobile">
@@ -77,6 +79,16 @@
       <a href="insights.html" data-i18n="nav.insights">Insights</a>
       <a href="ventures.html" data-i18n="nav.ventures">Ventures</a>
       <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      <span class="mobile-nav-divider"></span>
+      <a href="board.html" class="mobile-nav-secondary" data-i18n="nav.board">Board Advisory</a>
+      <a href="thesis.html" class="mobile-nav-secondary" data-i18n="nav.thesis">Leadership Thesis</a>
+      <a href="press.html" class="mobile-nav-secondary" data-i18n="nav.press">Press</a>
+      <a href="ip.html" class="mobile-nav-secondary" data-i18n="nav.ip">Intellectual Property</a>
+      <a href="speaking.html" class="mobile-nav-secondary" data-i18n="nav.speaking">Speaking</a>
+      <a href="case-studies.html" class="mobile-nav-secondary" data-i18n="nav.caseStudies">Case Studies</a>
+      <a href="career.html" class="mobile-nav-secondary" data-i18n="nav.career">Career</a>
+      <a href="recognition.html" class="mobile-nav-secondary" data-i18n="nav.recognition">Recognition</a>
+      <a href="media-kit.html" class="mobile-nav-secondary" data-i18n="nav.mediaKit">Media Kit</a>
     </nav>
   </header>
 
@@ -145,6 +157,7 @@
   <script src="js/forms.js" defer></script>
   <script src="js/cta.js" defer></script>
   <script src="js/analytics.js" defer></script>
+  <script src="js/features.js" defer></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

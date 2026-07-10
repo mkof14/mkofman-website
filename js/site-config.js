@@ -7,6 +7,11 @@ const SITE_CONFIG = {
    * Leave empty to use mailto: fallback.
    */
   formspreeEndpoint: '',
+  /**
+   * Calendly scheduling URL — set CALENDLY_URL in Vercel or .env.
+   * Example: https://calendly.com/your-name/intro
+   */
+  calendlyUrl: '',
   ogImage: '/images/portrait-hero.webp',
   /**
    * Analytics — set ANALYTICS_PROVIDER=plausible|ga4 in Vercel or .env.

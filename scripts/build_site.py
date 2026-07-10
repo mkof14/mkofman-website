@@ -26,6 +26,14 @@ PAGES = [
     ("article-data-infrastructure.html", "article1", "article-data-infrastructure.html"),
     ("article-precision-medicine.html", "article2", "article-precision-medicine.html"),
     ("privacy.html", "privacy", "privacy.html"),
+    ("board.html", "board", "board.html"),
+    ("thesis.html", "thesis", "thesis.html"),
+    ("press.html", "press", "press.html"),
+    ("ip.html", "ip", "ip.html"),
+    ("deck.html", "deck", "deck.html"),
+    ("brief-ipo.html", "briefIpo", "brief-ipo.html"),
+    ("brief-genetic.html", "briefGenetic", "brief-genetic.html"),
+    ("brief-ai.html", "briefAi", "brief-ai.html"),
 ]
 
 OG_IMAGE = f"{SITE_URL}/images/portrait-hero.webp"
@@ -234,12 +242,77 @@ def optimize_hero_images() -> tuple[int, int]:
 
 def update_sitemap():
     path = ROOT / "sitemap.xml"
-    text = path.read_text(encoding="utf-8")
-    entry = '  <url><loc>https://mkofman.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>\n'
-    if "privacy.html" not in text:
-        text = text.replace("</urlset>", entry + "</urlset>")
-        path.write_text(text, encoding="utf-8")
-        print("updated sitemap.xml")
+    entries = [
+        ("", "monthly", "1.0"),
+        ("about.html", "monthly", "0.9"),
+        ("consulting.html", "monthly", "0.8"),
+        ("board.html", "monthly", "0.85"),
+        ("thesis.html", "monthly", "0.8"),
+        ("insights.html", "weekly", "0.8"),
+        ("ventures.html", "monthly", "0.8"),
+        ("career.html", "monthly", "0.7"),
+        ("recognition.html", "monthly", "0.7"),
+        ("press.html", "monthly", "0.7"),
+        ("ip.html", "yearly", "0.6"),
+        ("contact.html", "yearly", "0.8"),
+        ("speaking.html", "monthly", "0.7"),
+        ("case-studies.html", "monthly", "0.7"),
+        ("media-kit.html", "monthly", "0.6"),
+        ("article-data-infrastructure.html", "yearly", "0.6"),
+        ("article-precision-medicine.html", "yearly", "0.6"),
+        ("brief-ipo.html", "monthly", "0.65"),
+        ("brief-genetic.html", "monthly", "0.65"),
+        ("brief-ai.html", "monthly", "0.65"),
+        ("privacy.html", "yearly", "0.3"),
+    ]
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for page, freq, pri in entries:
+        loc = SITE_URL if not page else f"{SITE_URL}/{page}"
+        lines.append(f"  <url><loc>{loc}</loc><changefreq>{freq}</changefreq><priority>{pri}</priority></url>")
+    lines.append("</urlset>")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("updated sitemap.xml")
+
+
+def generate_feed():
+    meta_en = load_meta()["en"]
+    items = [
+        ("article-data-infrastructure.html", "article1"),
+        ("article-precision-medicine.html", "article2"),
+        ("brief-ipo.html", "briefIpo"),
+        ("brief-genetic.html", "briefGenetic"),
+        ("brief-ai.html", "briefAi"),
+    ]
+    from datetime import datetime, timezone
+
+    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0">',
+        "<channel>",
+        "<title>Michael Kofman — Insights</title>",
+        f"<link>{SITE_URL}/insights.html</link>",
+        "<description>Executive perspectives from Michael Kofman</description>",
+        f"<lastBuildDate>{now}</lastBuildDate>",
+    ]
+    for path, key in items:
+        m = meta_en.get(key, {})
+        title = m.get("title", "Michael Kofman")
+        desc = m.get("description", "")
+        link = page_url(path)
+        parts.extend(
+            [
+                "<item>",
+                f"<title>{title}</title>",
+                f"<link>{link}</link>",
+                f"<guid>{link}</guid>",
+                f"<description>{desc}</description>",
+                "</item>",
+            ]
+        )
+    parts.extend(["</channel>", "</rss>"])
+    (ROOT / "feed.xml").write_text("\n".join(parts) + "\n", encoding="utf-8")
+    print("generated feed.xml")
 
 
 PRIVACY_I18N = {
@@ -399,6 +472,7 @@ def main():
     strip_font_import_from_css()
     patch_all_html(hero_dims)
     update_sitemap()
+    generate_feed()
     cleanup_unused_images()
     print("build complete")
 

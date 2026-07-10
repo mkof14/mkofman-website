@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="alternate" type="application/rss+xml" title="Michael Kofman Insights" href="/feed.xml">
   <meta charset="UTF-8">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,13 +34,14 @@
   <meta name="twitter:image" content="https://mkofman.com/images/portrait-hero.webp">
   <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "name": "Michael Kofman", "url": "https://mkofman.com", "image": "https://mkofman.com/images/portrait-hero.webp", "jobTitle": "CEO & Strategic Technologist", "worksFor": {"@type": "Organization", "name": "Digital Invest Inc."}, "email": "mailto:mkofman@mkofman.com", "sameAs": ["https://www.linkedin.com/in/michael-kofman-0509176/"]}, {"@context": "https://schema.org", "@type": "WebSite", "name": "Michael Kofman", "url": "https://mkofman.com", "description": "Professional career timeline of Michael Kofman.", "inLanguage": ["en", "es", "de", "fr", "ru", "uk", "zh", "ar", "he"]}, {"@context": "https://schema.org", "@type": "WebPage", "name": "Career — Michael Kofman", "description": "Professional career timeline of Michael Kofman.", "url": "https://mkofman.com/career.html", "isPartOf": {"@type": "WebSite", "url": "https://mkofman.com", "name": "Michael Kofman"}}]</script>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/expansion.css">
   <link rel="stylesheet" href="css/controls.css">
   <script src="js/theme.js"></script>
   <script>initThemeEarly();</script>
 </head>
 <body data-page="career">
 
-        <header class="site-header">
+            <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
         <span class="logo-name">Michael Kofman</span>
@@ -78,11 +80,15 @@
       <a href="ventures.html" data-i18n="nav.ventures">Ventures</a>
       <a href="contact.html" data-i18n="nav.contact">Contact</a>
       <span class="mobile-nav-divider"></span>
-      <a href="speaking.html" data-i18n="nav.speaking" class="mobile-nav-secondary">Speaking</a>
-      <a href="case-studies.html" data-i18n="nav.caseStudies" class="mobile-nav-secondary">Case Studies</a>
+      <a href="board.html" class="mobile-nav-secondary" data-i18n="nav.board">Board Advisory</a>
+      <a href="thesis.html" class="mobile-nav-secondary" data-i18n="nav.thesis">Leadership Thesis</a>
+      <a href="press.html" class="mobile-nav-secondary" data-i18n="nav.press">Press</a>
+      <a href="ip.html" class="mobile-nav-secondary" data-i18n="nav.ip">Intellectual Property</a>
+      <a href="speaking.html" class="mobile-nav-secondary" data-i18n="nav.speaking">Speaking</a>
+      <a href="case-studies.html" class="mobile-nav-secondary" data-i18n="nav.caseStudies">Case Studies</a>
       <a href="career.html" class="mobile-nav-secondary active" data-i18n="nav.career">Career</a>
-      <a href="recognition.html" data-i18n="nav.recognition" class="mobile-nav-secondary">Recognition</a>
-      <a href="media-kit.html" data-i18n="nav.mediaKit" class="mobile-nav-secondary">Media Kit</a>
+      <a href="recognition.html" class="mobile-nav-secondary" data-i18n="nav.recognition">Recognition</a>
+      <a href="media-kit.html" class="mobile-nav-secondary" data-i18n="nav.mediaKit">Media Kit</a>
     </nav>
   </header>
 
@@ -103,9 +109,17 @@
         <div class="gold-line"></div>
       </div>
 
+      
+      <div class="filter-bar fade-in" data-filter-target=".timeline-item">
+        <button type="button" class="filter-btn is-active" data-filter="all" data-i18n="career.filterAll">All</button>
+        <button type="button" class="filter-btn" data-filter="healthcare" data-i18n="career.filterHealthcare">Healthcare</button>
+        <button type="button" class="filter-btn" data-filter="infrastructure" data-i18n="career.filterInfrastructure">Infrastructure</button>
+        <button type="button" class="filter-btn" data-filter="defense" data-i18n="career.filterDefense">Defense & Gov</button>
+        <button type="button" class="filter-btn" data-filter="telecom" data-i18n="career.filterTelecom">Telecom</button>
+      </div>
       <div class="timeline fade-in">
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="healthcare infrastructure">
           <div class="timeline-year" data-i18n="career.t1year">2021 — Present</div>
           <div class="timeline-title">Digital Invest Inc.</div>
           <div class="timeline-role" data-i18n="career.t1role">Founder & CEO</div>
@@ -114,7 +128,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="defense infrastructure">
           <div class="timeline-year" data-i18n="career.t2year">2001 — 2019</div>
           <div class="timeline-title" data-i18n="career.t2title">GovTech, Defense & State Programs</div>
           <div class="timeline-role" data-i18n="career.t2role">Chief Technology Advisor / Program Architect</div>
@@ -123,7 +137,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="healthcare">
           <div class="timeline-year" data-i18n="career.t3year">2008 — 2014</div>
           <div class="timeline-title">Biotechnology Group Inc.</div>
           <div class="timeline-role" data-i18n="career.t3role">CEO & CTO</div>
@@ -132,7 +146,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="telecom infrastructure">
           <div class="timeline-year" data-i18n="career.t4year">2000 — 2012</div>
           <div class="timeline-title" data-i18n="career.t4title">Telecommunications Projects</div>
           <div class="timeline-role" data-i18n="career.t4role">VP of Technology / Regional CTO — Eastern Europe & CIS</div>
@@ -141,7 +155,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="infrastructure">
           <div class="timeline-year" data-i18n="career.t5year">2006 — 2011</div>
           <div class="timeline-title">XIBI Group Inc.</div>
           <div class="timeline-role" data-i18n="career.t5role">Founder & CEO · Board of Directors</div>
@@ -150,7 +164,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="infrastructure">
           <div class="timeline-year" data-i18n="career.t6year">2000 — 2004</div>
           <div class="timeline-title">DataPeer Inc.</div>
           <div class="timeline-role" data-i18n="career.t6role">Founder & CEO</div>
@@ -159,7 +173,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="infrastructure telecom">
           <div class="timeline-year" data-i18n="career.t7year">1996 — 2000</div>
           <div class="timeline-title">9 Net Avenue Inc.</div>
           <div class="timeline-role" data-i18n="career.t7role">Founder & CEO</div>
@@ -168,7 +182,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="infrastructure">
           <div class="timeline-year" data-i18n="career.t8year">1994 — 1996</div>
           <div class="timeline-title">Elitan United Inc.</div>
           <div class="timeline-role" data-i18n="career.t8role">CEO & Director of Information Technology</div>
@@ -177,7 +191,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="telecom defense">
           <div class="timeline-year" data-i18n="career.t9year">1989 — 1994</div>
           <div class="timeline-title">Astra Corp</div>
           <div class="timeline-role" data-i18n="career.t9role">Founder & CEO</div>
@@ -186,7 +200,7 @@
           </div>
         </div>
 
-        <div class="timeline-item">
+        <div class="timeline-item" data-tags="defense">
           <div class="timeline-year" data-i18n="career.t10year">1984 — 1989</div>
           <div class="timeline-title" data-i18n="career.t10title">Nikolaev Shipbuilding Plant</div>
           <div class="timeline-role" data-i18n="career.t10role">Electronics Engineer — 6th Category (Highest)</div>
@@ -246,6 +260,10 @@
         <div class="footer-col">
           <h4 data-i18n="footer.more">More</h4>
           <ul>
+            <li><a href="board.html" data-i18n="nav.board">Board Advisory</a></li>
+            <li><a href="thesis.html" data-i18n="nav.thesis">Leadership Thesis</a></li>
+            <li><a href="press.html" data-i18n="nav.press">Press</a></li>
+            <li><a href="ip.html" data-i18n="nav.ip">Intellectual Property</a></li>
             <li><a href="speaking.html" data-i18n="nav.speaking">Speaking</a></li>
             <li><a href="case-studies.html" data-i18n="nav.caseStudies">Case Studies</a></li>
             <li><a href="career.html" data-i18n="nav.career">Career</a></li>
@@ -300,6 +318,7 @@
   <script src="js/forms.js" defer></script>
   <script src="js/cta.js" defer></script>
     <script src="js/analytics.js" defer></script>
+  <script src="js/features.js" defer></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

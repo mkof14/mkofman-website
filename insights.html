@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="alternate" type="application/rss+xml" title="Michael Kofman Insights" href="/feed.xml">
   <meta charset="UTF-8">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,13 +34,14 @@
   <meta name="twitter:image" content="https://mkofman.com/images/portrait-hero.webp">
   <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "name": "Michael Kofman", "url": "https://mkofman.com", "image": "https://mkofman.com/images/portrait-hero.webp", "jobTitle": "CEO & Strategic Technologist", "worksFor": {"@type": "Organization", "name": "Digital Invest Inc."}, "email": "mailto:mkofman@mkofman.com", "sameAs": ["https://www.linkedin.com/in/michael-kofman-0509176/"]}, {"@context": "https://schema.org", "@type": "WebSite", "name": "Michael Kofman", "url": "https://mkofman.com", "description": "Publications, press features, patents, and industry recognition from Michael Kofman.", "inLanguage": ["en", "es", "de", "fr", "ru", "uk", "zh", "ar", "he"]}, {"@context": "https://schema.org", "@type": "WebPage", "name": "Insights — Michael Kofman", "description": "Publications, press features, patents, and industry recognition from Michael Kofman.", "url": "https://mkofman.com/insights.html", "isPartOf": {"@type": "WebSite", "url": "https://mkofman.com", "name": "Michael Kofman"}}]</script>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/expansion.css">
   <link rel="stylesheet" href="css/controls.css">
   <script src="js/theme.js"></script>
   <script>initThemeEarly();</script>
 </head>
 <body data-page="insights">
 
-        <header class="site-header">
+            <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
         <span class="logo-name">Michael Kofman</span>
@@ -78,11 +80,15 @@
       <a href="ventures.html" data-i18n="nav.ventures">Ventures</a>
       <a href="contact.html" data-i18n="nav.contact">Contact</a>
       <span class="mobile-nav-divider"></span>
-      <a href="speaking.html" data-i18n="nav.speaking" class="mobile-nav-secondary">Speaking</a>
-      <a href="case-studies.html" data-i18n="nav.caseStudies" class="mobile-nav-secondary">Case Studies</a>
-      <a href="career.html" data-i18n="nav.career" class="mobile-nav-secondary">Career</a>
-      <a href="recognition.html" data-i18n="nav.recognition" class="mobile-nav-secondary">Recognition</a>
-      <a href="media-kit.html" data-i18n="nav.mediaKit" class="mobile-nav-secondary">Media Kit</a>
+      <a href="board.html" class="mobile-nav-secondary" data-i18n="nav.board">Board Advisory</a>
+      <a href="thesis.html" class="mobile-nav-secondary" data-i18n="nav.thesis">Leadership Thesis</a>
+      <a href="press.html" class="mobile-nav-secondary" data-i18n="nav.press">Press</a>
+      <a href="ip.html" class="mobile-nav-secondary" data-i18n="nav.ip">Intellectual Property</a>
+      <a href="speaking.html" class="mobile-nav-secondary" data-i18n="nav.speaking">Speaking</a>
+      <a href="case-studies.html" class="mobile-nav-secondary" data-i18n="nav.caseStudies">Case Studies</a>
+      <a href="career.html" class="mobile-nav-secondary" data-i18n="nav.career">Career</a>
+      <a href="recognition.html" class="mobile-nav-secondary" data-i18n="nav.recognition">Recognition</a>
+      <a href="media-kit.html" class="mobile-nav-secondary" data-i18n="nav.mediaKit">Media Kit</a>
     </nav>
   </header>
 
@@ -94,6 +100,36 @@
     </div>
   </section>
 
+  
+  <section class="section section-white">
+    <div class="container">
+      <div class="section-header fade-in">
+        <span class="eyebrow" data-i18n="insights.briefsEyebrow">Executive Briefs</span>
+        <h2 data-i18n="insights.briefsTitle">Short-Form Perspectives</h2>
+        <p class="lead" data-i18n="insights.briefsLead">Concise analysis for boards and executive teams.</p>
+      </div>
+      <div class="insights-grid insights-grid--2">
+        <article class="brief-card fade-in">
+          <span class="brief-tag" data-i18n="insights.brief1tag">Capital Markets</span>
+          <h3 data-i18n="insights.brief1title">What an IPO Changes</h3>
+          <p data-i18n="insights.brief1desc">Operating discipline before and after going public.</p>
+          <a href="brief-ipo.html" class="text-link">Read →</a>
+        </article>
+        <article class="brief-card fade-in">
+          <span class="brief-tag" data-i18n="insights.brief2tag">Digital Health</span>
+          <h3 data-i18n="insights.brief2title">Genetic Data to Decisions</h3>
+          <p data-i18n="insights.brief2desc">Responsible clinical intelligence from genomic data.</p>
+          <a href="brief-genetic.html" class="text-link">Read →</a>
+        </article>
+        <article class="brief-card fade-in">
+          <span class="brief-tag" data-i18n="insights.brief3tag">Enterprise AI</span>
+          <h3 data-i18n="insights.brief3title">AI Beyond the Pilot</h3>
+          <p data-i18n="insights.brief3desc">Governed, measurable AI at enterprise scale.</p>
+          <a href="brief-ai.html" class="text-link">Read →</a>
+        </article>
+      </div>
+    </div>
+  </section>
   <section class="section section-cream">
     <div class="container container-narrow">
       <div class="insights-intro fade-in">
@@ -248,7 +284,34 @@
       <div class="insights-quotes-grid">
         <blockquote class="insights-quote fade-in">
           <p data-i18n="home.quote1text">A technology visionary recognized for his dynamic approach to understanding the ever-changing demands of today's complex marketplace.</p>
-          <footer data-i18n="home.quote1author">Healthcare Tech Outlook</footer>
+          <footer data-i18n="home.quote1author">Healthcare Tech Outlook
+  <section class="section section-cream">
+    <div class="container container-narrow">
+      <div class="section-header-left fade-in">
+        <span class="eyebrow" data-i18n="insights.readingEyebrow">Reading List</span>
+        <h2 data-i18n="insights.readingTitle">Books That Shape My Thinking</h2>
+        <div class="gold-line"></div>
+      </div>
+      <ul class="reading-list fade-in">
+        <li><span data-i18n="insights.r1title">Book</span><span class="reading-author" data-i18n="insights.r1author">Author</span></li>
+        <li><span data-i18n="insights.r2title">Book</span><span class="reading-author" data-i18n="insights.r2author">Author</span></li>
+        <li><span data-i18n="insights.r3title">Book</span><span class="reading-author" data-i18n="insights.r3author">Author</span></li>
+        <li><span data-i18n="insights.r4title">Book</span><span class="reading-author" data-i18n="insights.r4author">Author</span></li>
+        <li><span data-i18n="insights.r5title">Book</span><span class="reading-author" data-i18n="insights.r5author">Author</span></li>
+      </ul>
+    </div>
+  </section>
+  <section class="section section-white">
+    <div class="container container-narrow">
+      <div class="newsletter-box fade-in">
+        <span class="eyebrow" data-i18n="insights.newsletterEyebrow">Stay Informed</span>
+        <h2 data-i18n="insights.newsletterTitle">Executive Updates</h2>
+        <p class="lead" data-i18n="insights.newsletterLead">Occasional perspectives on technology, health, and leadership.</p>
+        <a href="contact.html" class="hero-cta" data-i18n="insights.newsletterCta">Request Updates</a>
+      </div>
+    </div>
+  </section>
+  </footer>
         </blockquote>
         <blockquote class="insights-quote fade-in">
           <p data-i18n="home.quote2text">Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.</p>
@@ -304,6 +367,10 @@
         <div class="footer-col">
           <h4 data-i18n="footer.more">More</h4>
           <ul>
+            <li><a href="board.html" data-i18n="nav.board">Board Advisory</a></li>
+            <li><a href="thesis.html" data-i18n="nav.thesis">Leadership Thesis</a></li>
+            <li><a href="press.html" data-i18n="nav.press">Press</a></li>
+            <li><a href="ip.html" data-i18n="nav.ip">Intellectual Property</a></li>
             <li><a href="speaking.html" data-i18n="nav.speaking">Speaking</a></li>
             <li><a href="case-studies.html" data-i18n="nav.caseStudies">Case Studies</a></li>
             <li><a href="career.html" data-i18n="nav.career">Career</a></li>
@@ -358,6 +425,7 @@
   <script src="js/forms.js" defer></script>
   <script src="js/cta.js" defer></script>
     <script src="js/analytics.js" defer></script>
+  <script src="js/features.js" defer></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="alternate" type="application/rss+xml" title="Michael Kofman Insights" href="/feed.xml">
   <meta charset="UTF-8">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,13 +34,14 @@
   <meta name="twitter:image" content="https://mkofman.com/images/portrait-hero.webp">
   <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "name": "Michael Kofman", "url": "https://mkofman.com", "image": "https://mkofman.com/images/portrait-hero.webp", "jobTitle": "CEO & Strategic Technologist", "worksFor": {"@type": "Organization", "name": "Digital Invest Inc."}, "email": "mailto:mkofman@mkofman.com", "sameAs": ["https://www.linkedin.com/in/michael-kofman-0509176/"]}, {"@context": "https://schema.org", "@type": "WebSite", "name": "Michael Kofman", "url": "https://mkofman.com", "description": "Companies founded and led by Michael Kofman.", "inLanguage": ["en", "es", "de", "fr", "ru", "uk", "zh", "ar", "he"]}, {"@context": "https://schema.org", "@type": "WebPage", "name": "Ventures — Michael Kofman", "description": "Companies founded and led by Michael Kofman.", "url": "https://mkofman.com/ventures.html", "isPartOf": {"@type": "WebSite", "url": "https://mkofman.com", "name": "Michael Kofman"}}]</script>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/expansion.css">
   <link rel="stylesheet" href="css/controls.css">
   <script src="js/theme.js"></script>
   <script>initThemeEarly();</script>
 </head>
 <body data-page="ventures">
 
-        <header class="site-header">
+            <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
         <span class="logo-name">Michael Kofman</span>
@@ -78,11 +80,15 @@
       <a href="ventures.html" class="active" data-i18n="nav.ventures">Ventures</a>
       <a href="contact.html" data-i18n="nav.contact">Contact</a>
       <span class="mobile-nav-divider"></span>
-      <a href="speaking.html" data-i18n="nav.speaking" class="mobile-nav-secondary">Speaking</a>
-      <a href="case-studies.html" data-i18n="nav.caseStudies" class="mobile-nav-secondary">Case Studies</a>
-      <a href="career.html" data-i18n="nav.career" class="mobile-nav-secondary">Career</a>
-      <a href="recognition.html" data-i18n="nav.recognition" class="mobile-nav-secondary">Recognition</a>
-      <a href="media-kit.html" data-i18n="nav.mediaKit" class="mobile-nav-secondary">Media Kit</a>
+      <a href="board.html" class="mobile-nav-secondary" data-i18n="nav.board">Board Advisory</a>
+      <a href="thesis.html" class="mobile-nav-secondary" data-i18n="nav.thesis">Leadership Thesis</a>
+      <a href="press.html" class="mobile-nav-secondary" data-i18n="nav.press">Press</a>
+      <a href="ip.html" class="mobile-nav-secondary" data-i18n="nav.ip">Intellectual Property</a>
+      <a href="speaking.html" class="mobile-nav-secondary" data-i18n="nav.speaking">Speaking</a>
+      <a href="case-studies.html" class="mobile-nav-secondary" data-i18n="nav.caseStudies">Case Studies</a>
+      <a href="career.html" class="mobile-nav-secondary" data-i18n="nav.career">Career</a>
+      <a href="recognition.html" class="mobile-nav-secondary" data-i18n="nav.recognition">Recognition</a>
+      <a href="media-kit.html" class="mobile-nav-secondary" data-i18n="nav.mediaKit">Media Kit</a>
     </nav>
   </header>
 
@@ -99,7 +105,8 @@
     <div class="container">
       <div class="ventures-grid">
 
-        <article class="venture-card fade-in">
+        <article class="venture-card fade-in" data-tags="healthcare infrastructure">
+          <span class="venture-status" data-i18n="ventures.statusActive">Active</span>
           <div class="venture-card-header">
             <div class="venture-year" data-period-start="2021" data-period-end="present" data-i18n="ventures.v1year">2021 — Present</div>
             <h3>Digital Invest Inc.</h3>
@@ -108,10 +115,12 @@
           <div class="venture-card-body">
             <p data-i18n="ventures.v1p1">Founded and scaled Digital Invest from inception through a successful IPO. The company is dedicated to the bio-mathematical sphere, transforming medicine through AI, ML, and DNA technologies.</p>
             <span class="venture-highlight" data-i18n="ventures.v1highlight">Top 10 U.S. Precision Medicine Company — 2023</span>
+            <p class="venture-lesson" data-i18n="ventures.v1lesson">Lesson</p>
           </div>
         </article>
 
-        <article class="venture-card fade-in">
+        <article class="venture-card fade-in" data-tags="healthcare">
+          <span class="venture-status" data-i18n="ventures.statusLegacy">Legacy</span>
           <div class="venture-card-header">
             <div class="venture-year" data-period-start="2008" data-period-end="2014" data-i18n="ventures.v2year">2008 — 2014</div>
             <h3>Biotechnology Group Inc.</h3>
@@ -121,6 +130,7 @@
             <p data-i18n="ventures.v2p1">DNA testing and analysis, automation of genetic profiling, and comprehensive human genetic research. Initiated genetic testing projects in Ukraine, Russia, and the Baltic countries.</p>
             <p data-i18n="ventures.v2p2">Collaborated with Harvard Medical School and Stanford Biomath on genetic reports adopted by leading laboratories worldwide.</p>
             <span class="venture-highlight" data-i18n="ventures.v2highlight">Harvard Medical School & Stanford Biomath Partner</span>
+            <p class="venture-lesson" data-i18n="ventures.v2lesson">Lesson</p>
           </div>
         </article>
 
@@ -148,7 +158,8 @@
           </div>
         </article>
 
-        <article class="venture-card fade-in">
+        <article class="venture-card fade-in" data-tags="infrastructure telecom">
+          <span class="venture-status" data-i18n="ventures.statusExited">Exited</span>
           <div class="venture-card-header">
             <div class="venture-year" data-period-start="1996" data-period-end="2000" data-i18n="ventures.v5year">1996 — 2000</div>
             <h3>9 Net Avenue Inc.</h3>
@@ -157,6 +168,7 @@
           <div class="venture-card-body">
             <p data-i18n="ventures.v5p1">Built one of the world's largest hosting companies. By 2000, acquired by Concentric Networks (NASDAQ: CNTX), then XO Communications (NASDAQ: XOXO), reaching a peak market value of $19.5 billion.</p>
             <span class="venture-highlight" data-i18n="ventures.v5highlight">Acquired · Peak Value $19.5 Billion</span>
+            <p class="venture-lesson" data-i18n="ventures.v5lesson">Lesson</p>
           </div>
         </article>
 
@@ -198,6 +210,37 @@
 
       </div>
     </div>
+  
+  <section class="section section-white">
+    <div class="container">
+      <div class="section-header fade-in">
+        <span class="eyebrow" data-i18n="ventures.ecosystemEyebrow">Portfolio Ecosystem</span>
+        <h2 data-i18n="ventures.ecosystemTitle">Connected Innovation</h2>
+        <p class="lead" data-i18n="ventures.ecosystemLead">How ventures align across precision medicine, data, and robotics.</p>
+      </div>
+      <div class="ecosystem-map fade-in" aria-hidden="true">
+        <svg viewBox="0 0 400 320" role="img" aria-label="Venture ecosystem">
+          <line class="ecosystem-line" x1="200" y1="160" x2="200" y2="60"/>
+          <line class="ecosystem-line" x1="200" y1="160" x2="80" y2="220"/>
+          <line class="ecosystem-line" x1="200" y1="160" x2="320" y2="220"/>
+          <line class="ecosystem-line" x1="200" y1="160" x2="120" y2="100"/>
+          <line class="ecosystem-line" x1="200" y1="160" x2="280" y2="100"/>
+          <circle class="ecosystem-node ecosystem-node--hub" cx="200" cy="160" r="36"/>
+          <text class="ecosystem-label" x="200" y="165">Digital Invest</text>
+          <circle class="ecosystem-node" cx="200" cy="60" r="28"/>
+          <text class="ecosystem-label" x="200" y="64" fill="#0c1829">BioMath</text>
+          <circle class="ecosystem-node" cx="80" cy="220" r="28"/>
+          <text class="ecosystem-label" x="80" y="224" fill="#0c1829">Human Model</text>
+          <circle class="ecosystem-node" cx="320" cy="220" r="28"/>
+          <text class="ecosystem-label" x="320" y="224" fill="#0c1829">Aero-Ground</text>
+          <circle class="ecosystem-node" cx="120" cy="100" r="22"/>
+          <text class="ecosystem-label" x="120" y="104" fill="#0c1829" font-size="9">XIBI</text>
+          <circle class="ecosystem-node" cx="280" cy="100" r="22"/>
+          <text class="ecosystem-label" x="280" y="104" fill="#0c1829" font-size="9">Biotech</text>
+        </svg>
+      </div>
+    </div>
+  </section>
   </section>
 
     <footer class="site-footer">
@@ -220,6 +263,10 @@
         <div class="footer-col">
           <h4 data-i18n="footer.more">More</h4>
           <ul>
+            <li><a href="board.html" data-i18n="nav.board">Board Advisory</a></li>
+            <li><a href="thesis.html" data-i18n="nav.thesis">Leadership Thesis</a></li>
+            <li><a href="press.html" data-i18n="nav.press">Press</a></li>
+            <li><a href="ip.html" data-i18n="nav.ip">Intellectual Property</a></li>
             <li><a href="speaking.html" data-i18n="nav.speaking">Speaking</a></li>
             <li><a href="case-studies.html" data-i18n="nav.caseStudies">Case Studies</a></li>
             <li><a href="career.html" data-i18n="nav.career">Career</a></li>
@@ -274,6 +321,7 @@
   <script src="js/forms.js" defer></script>
   <script src="js/cta.js" defer></script>
     <script src="js/analytics.js" defer></script>
+  <script src="js/features.js" defer></script>
   <script src="js/main.js" defer></script>
 </body>
 </html>

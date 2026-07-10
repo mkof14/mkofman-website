@@ -32,6 +32,10 @@ NAV_LINKS = [
 ]
 
 MOBILE_EXTRA = [
+    ("board.html", "nav.board", "Board Advisory"),
+    ("thesis.html", "nav.thesis", "Leadership Thesis"),
+    ("press.html", "nav.press", "Press"),
+    ("ip.html", "nav.ip", "Intellectual Property"),
     ("speaking.html", "nav.speaking", "Speaking"),
     ("case-studies.html", "nav.caseStudies", "Case Studies"),
     ("career.html", "nav.career", "Career"),
