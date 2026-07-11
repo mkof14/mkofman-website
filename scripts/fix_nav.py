@@ -35,13 +35,19 @@ MOBILE_EXTRA = [
     ("board.html", "nav.board", "Board Advisory"),
     ("thesis.html", "nav.thesis", "Leadership Thesis"),
     ("press.html", "nav.press", "Press"),
-    ("ip.html", "nav.ip", "Intellectual Property"),
-    ("speaking.html", "nav.speaking", "Speaking"),
     ("case-studies.html", "nav.caseStudies", "Case Studies"),
     ("career.html", "nav.career", "Career"),
     ("recognition.html", "nav.recognition", "Recognition"),
-    ("media-kit.html", "nav.mediaKit", "Media Kit"),
+    ("brief-ipo.html", "nav.briefIpo", "Brief: IPO"),
+    ("brief-genetic.html", "nav.briefGenetic", "Brief: Genetic Data"),
+    ("brief-ai.html", "nav.briefAi", "Brief: AI Strategy"),
+    ("article-data-infrastructure.html", "nav.articleInfra", "Data Infrastructure"),
+    ("article-precision-medicine.html", "nav.articleHealth", "Precision Medicine"),
 ]
+
+FOOTER_MORE = MOBILE_EXTRA
+
+SKIP_HTML = {"speaking.html", "ip.html", "media-kit.html"}
 
 
 def nav_links(active_file, desktop_only=False):
@@ -144,6 +150,27 @@ def home_header():
   </header>"""
 
 
+def footer_more_block() -> str:
+    lines = [
+        '          <h4 data-i18n="footer.more">More</h4>',
+        "          <ul>",
+    ]
+    for href, key, label in FOOTER_MORE:
+        lines.append(f'            <li><a href="{href}" data-i18n="{key}">{label}</a></li>')
+    lines.append("          </ul>")
+    return "\n".join(lines)
+
+
+def patch_footer(html: str) -> str:
+    return re.sub(
+        r'<h4 data-i18n="footer\.more">More</h4>\s*<ul>.*?</ul>',
+        footer_more_block(),
+        html,
+        count=1,
+        flags=re.S,
+    )
+
+
 def patch_file(path):
     name = os.path.basename(path)
     html = open(path, encoding="utf-8").read()
@@ -185,13 +212,15 @@ def patch_file(path):
             flags=re.S,
         )
 
+    html = patch_footer(html)
+
     open(path, "w", encoding="utf-8").write(html)
     print(f"patched {name}")
 
 
 def main():
     for name in sorted(os.listdir(ROOT)):
-        if name.endswith(".html"):
+        if name.endswith(".html") and name not in SKIP_HTML:
             patch_file(os.path.join(ROOT, name))
 
 

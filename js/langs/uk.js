@@ -27,7 +27,11 @@ window.__LANG_uk = {
     "board": "Робота в радах директорів",
     "thesis": "Принципи лідерства",
     "press": "Преса",
-    "ip": "Інтелектуальна власність"
+    "briefIpo": "Бриф: IPO",
+    "briefGenetic": "Бриф: генетичні дані",
+    "briefAi": "Бриф: стратегія ШІ",
+    "articleInfra": "Data Infrastructure",
+    "articleHealth": "Precision Medicine"
   },
   "footer": {
     "navigation": "Навігація",

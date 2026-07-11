@@ -21,6 +21,11 @@ const TRANSLATIONS = {
       "speaking": "Speaking",
       "caseStudies": "Case Studies",
       "mediaKit": "Media Kit",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
       "groupMain": "Main",
       "groupServices": "Services",
       "groupWork": "Work",
@@ -1629,7 +1634,11 @@ const TRANSLATIONS = {
       "board": "Работа в советах директоров",
       "thesis": "Принципы лидерства",
       "press": "Пресса",
-      "ip": "Интеллектуальная собственность"
+      "briefIpo": "Бриф: IPO",
+      "briefGenetic": "Бриф: генетические данные",
+      "briefAi": "Бриф: стратегия ИИ",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine"
     },
     "footer": {
       "navigation": "Навигация",
@@ -2221,7 +2230,11 @@ const TRANSLATIONS = {
       "board": "Робота в радах директорів",
       "thesis": "Принципи лідерства",
       "press": "Преса",
-      "ip": "Інтелектуальна власність"
+      "briefIpo": "Бриф: IPO",
+      "briefGenetic": "Бриф: генетичні дані",
+      "briefAi": "Бриф: стратегія ШІ",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine"
     },
     "footer": {
       "navigation": "Навігація",

@@ -40,12 +40,14 @@ FOOTER = """    <footer class="site-footer">
             <li><a href="board.html" data-i18n="nav.board">Board Advisory</a></li>
             <li><a href="thesis.html" data-i18n="nav.thesis">Leadership Thesis</a></li>
             <li><a href="press.html" data-i18n="nav.press">Press</a></li>
-            <li><a href="ip.html" data-i18n="nav.ip">Intellectual Property</a></li>
-            <li><a href="speaking.html" data-i18n="nav.speaking">Speaking</a></li>
             <li><a href="case-studies.html" data-i18n="nav.caseStudies">Case Studies</a></li>
             <li><a href="career.html" data-i18n="nav.career">Career</a></li>
             <li><a href="recognition.html" data-i18n="nav.recognition">Recognition</a></li>
-            <li><a href="media-kit.html" data-i18n="nav.mediaKit">Media Kit</a></li>
+            <li><a href="brief-ipo.html" data-i18n="nav.briefIpo">Brief: IPO</a></li>
+            <li><a href="brief-genetic.html" data-i18n="nav.briefGenetic">Brief: Genetic Data</a></li>
+            <li><a href="brief-ai.html" data-i18n="nav.briefAi">Brief: AI Strategy</a></li>
+            <li><a href="article-data-infrastructure.html" data-i18n="nav.articleInfra">Data Infrastructure</a></li>
+            <li><a href="article-precision-medicine.html" data-i18n="nav.articleHealth">Precision Medicine</a></li>
           </ul>
         </div>
         <div class="footer-col">
@@ -302,7 +304,7 @@ def press_page() -> str:
       <h1 data-i18n="press.title">Press Archive</h1>
       <div class="gold-line"></div>
       <p class="lead" data-i18n="press.lead">Selected coverage and industry recognition.</p>
-      <p style="margin-top:1.25rem"><a href="media-kit.html" class="text-link" data-i18n="nav.mediaKit">Media Kit →</a></p>
+      <p style="margin-top:1.25rem"><a href="contact.html?topic=press" class="text-link" data-i18n="contact.inquiryPress">Press inquiries →</a></p>
     </div>
   </section>
   <section class="section section-cream">
@@ -438,7 +440,6 @@ def generate_pages() -> None:
         "board.html": board_page(),
         "thesis.html": thesis_page(),
         "press.html": press_page(),
-        "ip.html": ip_page(),
         "deck.html": deck_page(),
         "brief-ipo.html": brief_page(
             "briefIpo",
@@ -831,11 +832,9 @@ PATCHERS = {
     "index.html": patch_index,
     "career.html": patch_career,
     "ventures.html": patch_ventures,
-    "speaking.html": patch_speaking,
     "insights.html": patch_insights,
     "about.html": patch_about,
     "contact.html": patch_contact,
-    "media-kit.html": patch_media_kit,
 }
 
 

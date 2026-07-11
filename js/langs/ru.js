@@ -27,7 +27,11 @@ window.__LANG_ru = {
     "board": "Работа в советах директоров",
     "thesis": "Принципы лидерства",
     "press": "Пресса",
-    "ip": "Интеллектуальная собственность"
+    "briefIpo": "Бриф: IPO",
+    "briefGenetic": "Бриф: генетические данные",
+    "briefAi": "Бриф: стратегия ИИ",
+    "articleInfra": "Data Infrastructure",
+    "articleHealth": "Precision Medicine"
   },
   "footer": {
     "navigation": "Навигация",
