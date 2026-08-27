@@ -207,7 +207,7 @@ window.__LANG_en = {
     "videoEyebrow": "Executive Perspective",
     "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
     "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
-    "videoCta": "Watch the Introduction"
+    "videoCta": "Read Leadership Thesis →"
   },
   "about": {
     "eyebrow": "About Michael Kofman",

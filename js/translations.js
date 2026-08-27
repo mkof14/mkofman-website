@@ -207,7 +207,7 @@ const TRANSLATIONS = {
       "videoEyebrow": "Executive Perspective",
       "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
       "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
-      "videoCta": "Watch the Introduction"
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "About Michael Kofman",
@@ -1804,7 +1804,7 @@ const TRANSLATIONS = {
       "videoEyebrow": "Взгляд руководителя",
       "videoTitle": "Лидерство на пересечении технологий и бизнеса",
       "videoLead": "Краткое знакомство с принципами, опытом и долгосрочным подходом, лежащими в основе работы Майкла Кофмана.",
-      "videoCta": "Смотреть вступление"
+      "videoCta": "Читать Leadership Thesis →"
     },
     "about": {
       "eyebrow": "О Michael Kofman",
@@ -2400,7 +2400,7 @@ const TRANSLATIONS = {
       "videoEyebrow": "Погляд керівника",
       "videoTitle": "Лідерство на перетині технологій і бізнесу",
       "videoLead": "Стисле знайомство з принципами, досвідом і довгостроковим підходом, що лежать в основі роботи Майкла Кофмана.",
-      "videoCta": "Переглянути вступ"
+      "videoCta": "Читати Leadership Thesis →"
     },
     "about": {
       "eyebrow": "Про Michael Kofman",

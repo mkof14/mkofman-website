@@ -127,11 +127,47 @@ def head_extras(page_key: str, path: str, meta_en: dict) -> str:
     return "\n".join([font_links(), seo_block(page_key, path, meta_en), json_ld_block(page_key, path, meta_en)])
 
 
+def strip_seo_blocks(html: str) -> str:
+    """Remove all injected SEO/OG/JSON-LD/font blocks so rebuild is idempotent."""
+    # Repeated canonical → JSON-LD clusters (may appear many times)
+    html = re.sub(
+        r"(?:\n\s*)?<link rel=\"canonical\" href=\"[^\"]*\">"
+        r"(?:\n\s*<link rel=\"alternate\"[^>]*>)*"
+        r"(?:\n\s*<meta property=\"og:[^>]*>)*"
+        r"(?:\n\s*<meta name=\"twitter:[^>]*>)*"
+        r"(?:\n\s*<script type=\"application/ld\+json\">.*?</script>)+",
+        "",
+        html,
+        flags=re.S,
+    )
+    html = re.sub(
+        r"(?:\n\s*)?<link rel=\"preconnect\" href=\"https://fonts\.googleapis\.com\">"
+        r"(?:\n\s*<link rel=\"preconnect\"[^>]*>)?"
+        r"(?:\n\s*<link rel=\"stylesheet\" href=\"https://fonts\.googleapis\.com[^>]*>)?"
+        r"(?:\n\s*<noscript><link rel=\"stylesheet\" href=\"https://fonts\.googleapis\.com[^>]*></noscript>)?",
+        "",
+        html,
+        flags=re.S,
+    )
+    # RSS alternate may be injected repeatedly by expansion patches
+    html = re.sub(
+        r"(?:\n\s*)?<link rel=\"alternate\" type=\"application/rss\+xml\"[^>]*>",
+        "",
+        html,
+    )
+    # Keep a single RSS link near the top of <head>
+    if "<head>" in html:
+        html = html.replace(
+            "<head>",
+            '<head>\n  <link rel="alternate" type="application/rss+xml" title="Michael Kofman Insights" href="/feed.xml">',
+            1,
+        )
+    return html
+
+
 def patch_html_head(html: str, page_key: str, path: str, meta_en: dict) -> str:
     extras = head_extras(page_key, path, meta_en)
-    # Remove old dynamic SEO if re-running
-    html = re.sub(r"\n  <link rel=\"canonical\".*?</script>\n(?=  <link rel=\"stylesheet\")", "\n", html, flags=re.S)
-    html = re.sub(r"\n  <link rel=\"preconnect\".*?</noscript>\n", "\n", html, flags=re.S)
+    html = strip_seo_blocks(html)
     html = re.sub(
         r'(<meta name="description" content="[^"]*">)\n',
         r"\1\n" + extras + "\n",
