@@ -232,7 +232,16 @@ const TRANSLATIONS = {
       "p2title": "Make Accountability Explicit",
       "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
       "p3title": "Leave Stronger Institutions",
-      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure."
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "Portfolio of Ventures",
@@ -564,7 +573,16 @@ const TRANSLATIONS = {
       "y2001link": "View archive",
       "y1999type": "Biographical Recognition",
       "y1999title": "Who's Who in America",
-      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering."
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
     },
     "ip": {
       "eyebrow": "Intellectual Property",
@@ -1829,7 +1847,16 @@ const TRANSLATIONS = {
       "p2title": "Закрепить ответственность",
       "p2text": "Ясные полномочия и измеримые результаты превращают стратегию из презентации в операционную реальность.",
       "p3title": "Оставлять после себя более сильные институты",
-      "p3text": "Лидерство должно приумножать возможности, развивая людей, повышая качество решений и создавая устойчивые системы."
+      "p3text": "Лидерство должно приумножать возможности, развивая людей, повышая качество решений и создавая устойчивые системы.",
+      "archiveEyebrow": "Из архива",
+      "archiveTitle": "Моменты пути",
+      "archiveLead": "Избранные фотографии из истории создания компаний, инфраструктуры и лидерства — от эпохи 9 Net Avenue до сегодняшнего дня.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Основатель и CEO — одна из крупнейших hosting-компаний мира, позднее приобретённая при пиковой оценке $19.5 млрд.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Практические годы в хранении данных, сетях и высоконагруженных серверных средах в DataPeer и связанных компаниях.",
+      "photoTodayTitle": "Сегодня",
+      "photoTodayCaption": "Работа в советах, стратегическое технологическое лидерство и создание следующего поколения компаний digital health и инфраструктуры."
     },
     "ventures": {
       "eyebrow": "Портфель компаний",
@@ -2141,7 +2168,16 @@ const TRANSLATIONS = {
       "y2001link": "Открыть архив",
       "y1999type": "Биографическое признание",
       "y1999title": "Who's Who in America",
-      "y1999desc": "Признание с 1999 года, за которым последовали включения в Who's Who in the World и Who's Who in Science and Engineering."
+      "y1999desc": "Признание с 1999 года, за которым последовали включения в Who's Who in the World и Who's Who in Science and Engineering.",
+      "clipEyebrow": "Из архива",
+      "clipMeta": "Отраслевой материал · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "Раннее интервью с Майклом Кофманом как Founder, Chairman и CEO DataPeer Inc. — о fiber optics, спутниковой передаче, SAN и рынке хранения данных.",
+      "clipBody": "В материале отмечено звание Entrepreneur of the Year (Entrepreneur Magazine, 1999) и подход DataPeer к mission-critical storage, iSCSI и непрерывности бизнеса.",
+      "clipOpen": "Открыть полный скан →",
+      "y2000type": "Интервью",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Интервью как Founder, Chairman и CEO DataPeer Inc. о сетях хранения, iSCSI и непрерывности бизнеса."
     },
     "ip": {
       "eyebrow": "Интеллектуальная собственность",
@@ -2425,7 +2461,16 @@ const TRANSLATIONS = {
       "p2title": "Закріпити відповідальність",
       "p2text": "Чіткі повноваження й вимірювані результати перетворюють стратегію з презентації на операційну реальність.",
       "p3title": "Залишати сильніші інституції",
-      "p3text": "Лідерство має примножувати спроможності, розвиваючи людей, підвищуючи якість рішень і створюючи стійкі системи."
+      "p3text": "Лідерство має примножувати спроможності, розвиваючи людей, підвищуючи якість рішень і створюючи стійкі системи.",
+      "archiveEyebrow": "З архіву",
+      "archiveTitle": "Моменти шляху",
+      "archiveLead": "Вибрані фотографії з історії створення компаній, інфраструктури та лідерства — від епохи 9 Net Avenue до сьогодні.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Засновник і CEO — одна з найбільших hosting-компаній світу, згодом придбана при піковій оцінці $19.5 млрд.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Практичні роки у зберіганні даних, мережах і високонавантажених серверних середовищах у DataPeer та пов’язаних компаніях.",
+      "photoTodayTitle": "Сьогодні",
+      "photoTodayCaption": "Робота в радах, стратегічне технологічне лідерство та створення наступного покоління компаній digital health й інфраструктури."
     },
     "ventures": {
       "eyebrow": "Портфель компаній",
@@ -2737,7 +2782,16 @@ const TRANSLATIONS = {
       "y2001link": "Відкрити архів",
       "y1999type": "Біографічне визнання",
       "y1999title": "Who's Who in America",
-      "y1999desc": "Визнання з 1999 року, за яким відбулися включення до Who's Who in the World і Who's Who in Science and Engineering."
+      "y1999desc": "Визнання з 1999 року, за яким відбулися включення до Who's Who in the World і Who's Who in Science and Engineering.",
+      "clipEyebrow": "З архіву",
+      "clipMeta": "Галузевий матеріал · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "Раннє інтерв’ю з Майклом Кофманом як Founder, Chairman і CEO DataPeer Inc. — про fiber optics, супутникову передачу, SAN і ринок зберігання даних.",
+      "clipBody": "У матеріалі відзначено звання Entrepreneur of the Year (Entrepreneur Magazine, 1999) і підхід DataPeer до mission-critical storage, iSCSI та безперервності бізнесу.",
+      "clipOpen": "Відкрити повний скан →",
+      "y2000type": "Інтерв’ю",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Інтерв’ю як Founder, Chairman і CEO DataPeer Inc. про мережі зберігання, iSCSI та безперервність бізнесу."
     },
     "ip": {
       "eyebrow": "Інтелектуальна власність",
