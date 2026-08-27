@@ -31,7 +31,9 @@ NAV_LINKS = [
     ("contact.html", "nav.contact", "Contact"),
 ]
 
-MOBILE_EXTRA = [
+MOBILE_EXTRA = []  # Additional pages live in footer only — keep header/mobile nav short
+
+FOOTER_MORE = [
     ("board.html", "nav.board", "Board Advisory"),
     ("thesis.html", "nav.thesis", "Leadership Thesis"),
     ("press.html", "nav.press", "Press"),
@@ -44,8 +46,6 @@ MOBILE_EXTRA = [
     ("article-data-infrastructure.html", "nav.articleInfra", "Data Infrastructure"),
     ("article-precision-medicine.html", "nav.articleHealth", "Precision Medicine"),
 ]
-
-FOOTER_MORE = MOBILE_EXTRA
 
 SKIP_HTML = {"speaking.html", "ip.html", "media-kit.html"}
 
@@ -65,16 +65,9 @@ def mobile_nav(active_file):
     for href, key, label in NAV_LINKS:
         cls = ' class="active"' if href == active_file else ""
         primary.append(f'      <a href="{href}"{cls} data-i18n="{key}">{label}</a>')
-    secondary = ['      <span class="mobile-nav-divider"></span>']
-    for href, key, label in MOBILE_EXTRA:
-        classes = ["mobile-nav-secondary"]
-        if href == active_file:
-            classes.append("active")
-        cls_attr = f' class="{" ".join(classes)}"'
-        secondary.append(f'      <a href="{href}"{cls_attr} data-i18n="{key}">{label}</a>')
     return (
         '    <nav class="main-nav main-nav-mobile" aria-label="Mobile">\n'
-        + "\n".join(primary + secondary)
+        + "\n".join(primary)
         + "\n    </nav>"
     )
 
