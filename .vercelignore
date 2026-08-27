@@ -1,0 +1,11 @@
+# Build sources / tooling — not needed at runtime CDN edge
+js/translations.js
+js/page-content.js
+js/seo.js
+js/og-meta.js
+.tools/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+agent-transcripts/

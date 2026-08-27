@@ -1,5 +1,5 @@
 {
-  "buildCommand": "python3 scripts/build_site.py && python3 scripts/generate_config.py && .venv/bin/python scripts/generate_media_kit_pdf.py",
+  "buildCommand": "python3 scripts/build_site.py && python3 scripts/generate_config.py && python3 scripts/optimize_perf.py && .venv/bin/python scripts/generate_media_kit_pdf.py",
   "installCommand": "python3 -m venv .venv && .venv/bin/pip install fpdf2 pillow -q",
   "outputDirectory": ".",
   "headers": [
@@ -29,6 +29,18 @@
       "source": "/css/(.*)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=604800" }
+      ]
+    },
+    {
+      "source": "/js/langs/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=2592000, immutable" }
+      ]
+    },
+    {
+      "source": "/(css/site\\.css|js/app\\.js)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=86400" }
       ]
     }
   ],

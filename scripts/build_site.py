@@ -116,11 +116,17 @@ def json_ld_block(page_key: str, path: str, meta_en: dict) -> str:
     return f'  <script type="application/ld+json">{payload}</script>'
 
 
+FONT_HREF = (
+    "https://fonts.googleapis.com/css2?"
+    "family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap"
+)
+
+
 def font_links() -> str:
-    return """  <link rel="preconnect" href="https://fonts.googleapis.com">
+    return f"""  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap"></noscript>"""
+  <link rel="stylesheet" href="{FONT_HREF}" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="{FONT_HREF}"></noscript>"""
 
 
 def head_extras(page_key: str, path: str, meta_en: dict) -> str:
@@ -187,12 +193,6 @@ def patch_html_head(html: str, page_key: str, path: str, meta_en: dict) -> str:
         lambda m: m.group(1) + (' loading="lazy"' if 'loading=' not in m.group(1) else '') + m.group(2),
         html,
     )
-    # Ensure analytics + structured data scripts present once
-    if "js/analytics.js" not in html:
-        html = html.replace(
-            '<script src="js/main.js" defer></script>',
-            '<script src="js/analytics.js" defer></script>\n  <script src="js/main.js" defer></script>',
-        )
     return html
 
 
@@ -206,15 +206,15 @@ def patch_footer_privacy(html: str) -> str:
     )
 
 
-def patch_index_hero(html: str, hero_w: int = 1131, hero_h: int = 1608) -> str:
+def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
     picture = (
         '<picture><source srcset="images/portrait-hero.webp" type="image/webp">'
-        f'<img src="images/portrait-hero.png" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
+        f'<img src="images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
         f'width="{hero_w}" height="{hero_h}" fetchpriority="high" decoding="async"></picture>'
     )
-    if "portrait-hero.webp" in html:
+    if "portrait-hero.webp" in html or "portrait-hero.jpg" in html or "portrait-hero.png" in html:
         html = re.sub(
-            r'<picture>.*?portrait-hero\.png.*?</picture>',
+            r'<picture>.*?portrait-hero\.(?:png|jpg|webp).*?</picture>',
             picture,
             html,
             count=1,
@@ -225,50 +225,56 @@ def patch_index_hero(html: str, hero_w: int = 1131, hero_h: int = 1608) -> str:
             '<img src="images/portrait-hero.png" alt="Michael Kofman" data-i18n-alt="home.heroAlt">',
             picture,
         )
+    html = html.replace("images/portrait-hero.png", "images/portrait-hero.jpg")
     if 'rel="preload" as="image"' not in html:
-        html = html.replace(
-            '<link rel="stylesheet" href="css/styles.css">',
-            '  <link rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="css/styles.css">',
+        html = re.sub(
+            r'<link rel="stylesheet" href="css/(?:styles|site)\.css">',
+            '  <link rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="css/site.css">',
+            html,
+            count=1,
         )
     return html
 
 
 def optimize_hero_images() -> tuple[int, int]:
-    png = ROOT / "images" / "portrait-hero.png"
+    """Emit lean WebP (alpha) + JPEG (navy bake) — no heavy PNG in the deploy."""
     webp = ROOT / "images" / "portrait-hero.webp"
-    if not png.exists():
-        return 1131, 1608
+    jpg = ROOT / "images" / "portrait-hero.jpg"
+    sources = [
+        ROOT / "images" / "portrait-hero-source.png",
+        ROOT / "images" / "portrait-hero.png",
+        webp,
+        jpg,
+    ]
+    src = next((p for p in sources if p.exists()), None)
+    if src is None:
+        return 720, 1022
     try:
         from PIL import Image
     except ImportError:
         print("PIL not available — skipping hero image optimization")
-        return 1131, 1608
+        return 720, 1022
 
-    img = Image.open(png)
-    max_w = 800
+    img = Image.open(src).convert("RGBA")
+    max_w = 720
     if img.width > max_w:
         ratio = max_w / img.width
-        new_size = (max_w, int(img.height * ratio))
         resample = getattr(Image, "Resampling", Image).LANCZOS
-        img = img.resize(new_size, resample)
+        img = img.resize((max_w, int(img.height * ratio)), resample)
 
-    if img.mode == "RGBA":
-        r, g, b, a = img.split()
-        rgb = Image.merge("RGB", (r, g, b))
-        quantize = getattr(Image, "Quantize", Image).MEDIANCUT
-        pal = rgb.quantize(colors=192, method=quantize).convert("RGBA")
-        pal.putalpha(a)
-        pal.save(png, "PNG", optimize=True, compress_level=9)
-    else:
-        if img.mode not in ("RGB",):
-            img = img.convert("RGB")
-        img.save(png, "PNG", optimize=True, compress_level=9)
+    img.save(webp, "WEBP", quality=78, method=6)
+    navy = (12, 24, 41, 255)
+    composed = Image.alpha_composite(Image.new("RGBA", img.size, navy), img).convert("RGB")
+    composed.save(jpg, "JPEG", quality=82, optimize=True, progressive=True)
 
-    img = Image.open(png)
-    img.save(webp, "WEBP", quality=82, method=6)
+    # Drop legacy PNG from deploy tree if present
+    legacy_png = ROOT / "images" / "portrait-hero.png"
+    if legacy_png.exists():
+        legacy_png.unlink()
+
     print(
-        f"hero assets: png {png.stat().st_size // 1024} KB, "
-        f"webp {webp.stat().st_size // 1024} KB"
+        f"hero assets: webp {webp.stat().st_size // 1024} KB, "
+        f"jpg {jpg.stat().st_size // 1024} KB ({img.width}x{img.height})"
     )
     return img.width, img.height
 
@@ -513,6 +519,12 @@ def cleanup_unused_images():
         "portrait-bw.jpg",
         "portrait-hero-2.png",
         "portrait-hero-4.png",
+        "portrait-color.jpg",
+        "portrait-color-2.jpg",
+        "portrait-hero-3.png",
+        "portrait-hero-3.jpg",
+        "portrait-hero-3.webp",
+        "portrait-hero.png",
     ]
     for name in unused:
         p = ROOT / "images" / name
