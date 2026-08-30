@@ -1,6 +1,4 @@
-# Build sources / tooling — not needed at runtime CDN edge
-js/translations.js
-js/page-content.js
+# Tooling — not needed at runtime CDN edge
 js/seo.js
 js/og-meta.js
 .tools/
