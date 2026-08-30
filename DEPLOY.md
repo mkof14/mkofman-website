@@ -9,7 +9,7 @@
 5. **Output Directory:** `.` (static HTML at root)
 6. Deploy
 
-`vercel.json` configures cache headers, www → apex redirect, and the build pipeline.
+`vercel.json` configures cache headers and the build pipeline. **Do not** add a www→apex redirect in `vercel.json` if Vercel Domains already redirects apex→www — that creates an infinite loop for `/js/*` and `/css/*`.
 
 ## 2. Custom domain
 
