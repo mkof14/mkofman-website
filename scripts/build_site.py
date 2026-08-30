@@ -437,15 +437,10 @@ def optimize_hero_images() -> tuple[int, int]:
         return 720, 1022
 
     img = Image.open(src).convert("RGBA")
-    max_w = 800
-    if img.width > max_w:
-        ratio = max_w / img.width
-        resample = getattr(Image, "Resampling", Image).LANCZOS
-        img = img.resize((max_w, int(img.height * ratio)), resample)
-
+    # Keep native resolution — no resize on desktop hero.
     prepared = _prepare_hero_cutout(img)
-    prepared.save(webp, "WEBP", quality=86, method=6, lossless=False)
-    _bake_hero_on_bg(prepared).save(jpg, "JPEG", quality=86, optimize=True, progressive=True)
+    prepared.save(webp, "WEBP", quality=92, method=6, lossless=False)
+    _bake_hero_on_bg(prepared).save(jpg, "JPEG", quality=92, optimize=True, progressive=True)
 
     mobile_w = 480
     if img.width > mobile_w:
@@ -457,9 +452,9 @@ def optimize_hero_images() -> tuple[int, int]:
     mobile_prepared = _prepare_hero_cutout(mobile)
     mobile_webp = ROOT / "images" / "portrait-hero-480.webp"
     mobile_jpg = ROOT / "images" / "portrait-hero-480.jpg"
-    mobile_prepared.save(mobile_webp, "WEBP", quality=84, method=6, lossless=False)
+    mobile_prepared.save(mobile_webp, "WEBP", quality=90, method=6, lossless=False)
     _bake_hero_on_bg(mobile_prepared).save(
-        mobile_jpg, "JPEG", quality=84, optimize=True, progressive=True
+        mobile_jpg, "JPEG", quality=90, optimize=True, progressive=True
     )
 
     legacy_png = ROOT / "images" / "portrait-hero.png"
