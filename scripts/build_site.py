@@ -332,14 +332,11 @@ def patch_footer_copyright(html: str) -> str:
 
 
 def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
-    sizes = '(max-width: 768px) 85vw, 380px'
     picture = (
         '<picture>'
-        '<source srcset="/images/portrait-hero-480.webp 480w, /images/portrait-hero.webp 720w" '
-        f'type="image/webp" sizes="{sizes}">'
-        f'<img src="/images/portrait-hero.jpg" '
-        f'srcset="/images/portrait-hero-480.jpg 480w, /images/portrait-hero.jpg 720w" '
-        f'sizes="{sizes}" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
+        '<source srcset="/images/portrait-hero-480.webp" type="image/webp" media="(max-width: 768px)">'
+        '<source srcset="/images/portrait-hero.webp" type="image/webp">'
+        f'<img src="/images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
         f'width="{hero_w}" height="{hero_h}" fetchpriority="high" decoding="async"></picture>'
     )
     if "portrait-hero.webp" in html or "portrait-hero.jpg" in html or "portrait-hero.png" in html:
