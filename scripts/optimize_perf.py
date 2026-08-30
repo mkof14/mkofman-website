@@ -142,10 +142,21 @@ def patch_html_assets(html: str) -> str:
     return normalize_image_paths(html)
 
 
-def patch_all_html() -> None:
+def css_cache_version() -> str:
+    return str(int((ROOT / "css" / "site.css").stat().st_mtime))
+
+
+def stamp_css_href(html: str, version: str) -> str:
+    href = f'/css/site.css?v={version}'
+    html = re.sub(r'href="/css/site\.css(?:\?v=[^"]*)?"', f'href="{href}"', html)
+    return html
+
+
+def patch_all_html(css_version: str | None = None) -> None:
+    version = css_version or css_cache_version()
     for path in sorted(ROOT.glob("*.html")):
         html = path.read_text(encoding="utf-8")
-        new = patch_html_assets(html)
+        new = stamp_css_href(patch_html_assets(html), version)
         if new != html:
             path.write_text(new, encoding="utf-8")
             print(f"assets patched {path.name}")
@@ -153,8 +164,9 @@ def patch_all_html() -> None:
 
 def main() -> None:
     bundle_css()
+    css_version = css_cache_version()
     bundle_js()
-    patch_all_html()
+    patch_all_html(css_version)
     print("perf bundle complete")
 
 

@@ -345,6 +345,24 @@ h1, h2, h3, h4,
   filter: var(--portrait-shadow);
 }
 
+/* Desktop home: align portrait with quote dots; trim hero so press band sits flush */
+@media (min-width: 1025px) {
+  .page-home .hero-premium,
+  .page-home .hero-split {
+    min-height: calc(100dvh - clamp(7rem, 22vh, 13rem));
+  }
+
+  .page-home .hero-panel-right {
+    align-items: flex-end;
+    padding-bottom: 0;
+  }
+
+  .page-home .hero-portrait-wrap {
+    height: calc(100dvh - var(--header-height) - clamp(7rem, 22vh, 13rem));
+    max-height: none;
+  }
+}
+
 [data-theme="light"] .hero-cta-light {
   color: var(--gold-dark);
   border-color: rgba(168, 134, 74, 0.55);

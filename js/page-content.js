@@ -4,7 +4,7 @@ const PAGE_CONTENT = {
       "present": "Present"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman is CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest board. His work spans company building, technology strategy, security, research, and investment in the U.S. and Europe.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "Precision Medicine & Biotechnology",
       "secBioP1": "Prior to Digital Invest, he played a significant role in the success of Biotechnology Group Inc. (2008–2014), a company committed to DNA testing and analysis, process automation for creating genetic profiles, and comprehensive human genetic research. Mr. Kofman is a firm believer in the potential of combining life sciences with the latest technological advancements.",
@@ -166,7 +166,7 @@ const PAGE_CONTENT = {
       "present": "Actual"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman es CEO de Digital Invest Inc. y fundador de AGRON Inc. Forma parte del consejo de Digital Invest. Su trabajo abarca la creación de empresas, estrategia tecnológica, seguridad, investigación e inversión en Estados Unidos y Europa.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "Medicina de precisión y biotecnología",
       "secBioP1": "Antes de Digital Invest, desempeñó un papel decisivo en el éxito de Biotechnology Group Inc. (2008–2014), empresa dedicada a pruebas y análisis de ADN, automatización de perfiles genéticos e investigación genética humana integral. El Sr. Kofman cree firmemente en el potencial de combinar las ciencias de la vida con los últimos avances tecnológicos.",
@@ -328,7 +328,7 @@ const PAGE_CONTENT = {
       "present": "حتى الآن"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman هو الرئيس التنفيذي لـ Digital Invest Inc. ومؤسس AGRON Inc. وعضو مجلس إدارة Digital Invest. يشمل عمله بناء الشركات والاستراتيجية التقنية والأمن والبحث والاستثمار في الولايات المتحدة وأوروبا.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "الطب الدقيق والتكنولوجيا الحيوية",
       "secBioP1": "قبل Digital Invest، لعب دوراً بارزاً في نجاح Biotechnology Group Inc. (2008 — 2014)، شركة ملتزمة بفحص وتحليل الحمض النووي، وأتمتة عمليات إنشاء الملفات الجينية، والبحث الجيني البشري الشامل. يؤمن السيد Kofman إيماناً راسخاً بإمكانات الجمع بين علوم الحياة وأحدث التقدم التكنولوجي.",
@@ -490,7 +490,7 @@ const PAGE_CONTENT = {
       "present": "Heute"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman ist CEO von Digital Invest Inc. und Gründer von AGRON Inc. Er gehört dem Vorstand von Digital Invest an. Seine Arbeit umfasst Unternehmensaufbau, Technologiestrategie, Sicherheit, Forschung und Investitionen in den USA und Europa.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "Präzisionsmedizin & Biotechnologie",
       "secBioP1": "Vor Digital Invest spielte er eine bedeutende Rolle beim Erfolg der Biotechnology Group Inc. (2008–2014), einem Unternehmen, das sich DNA-Tests und -Analysen, Prozessautomatisierung zur Erstellung genetischer Profile und umfassende humangenetische Forschung verschrieben hat. Herr Kofman ist fest davon überzeugt, dass die Verbindung von Biowissenschaften mit den neuesten technologischen Entwicklungen großes Potenzial birgt.",
@@ -652,7 +652,7 @@ const PAGE_CONTENT = {
       "present": "Aujourd'hui"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman est PDG de Digital Invest Inc. et fondateur d'AGRON Inc. Il siège au conseil de Digital Invest. Son travail couvre la création d'entreprises, la stratégie technologique, la sécurité, la recherche et l'investissement aux États-Unis et en Europe.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "Médecine de précision & biotechnologie",
       "secBioP1": "Avant Digital Invest, il a joué un rôle déterminant dans le succès de Biotechnology Group Inc. (2008–2014), une entreprise engagée dans les tests et analyses ADN, l'automatisation de la création de profils génétiques et la recherche génétique humaine complète. M. Kofman croit fermement au potentiel de la combinaison des sciences de la vie avec les dernières avancées technologiques.",
@@ -814,7 +814,7 @@ const PAGE_CONTENT = {
       "present": "עד היום"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman הוא מנכ\"ל Digital Invest Inc. ומייסד AGRON Inc. וחבר בדירקטוריון Digital Invest. עבודתו כוללת הקמת חברות, אסטרטגיה טכנולוגית, אבטחה, מחקר והשקעות בארה\"ב ובאירופה.",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "רפואה מדויקת וביוטכנולוגיה",
       "secBioP1": "טרם Digital Invest, הוא מילא תפקיד מרכזי בהצלחה של Biotechnology Group Inc. (2008 — 2014), חברה המחויבת לבדיקות וניתוח DNA, אוטומציה של תהליכי יצירת פרופילים גנטיים ומחקר גנטי אנושי מקיף. מר Kofman מאמין בתוקף בפוטנציאל של שילוב מדעי החיים עם ההתקדמות הטכנולוגית העדכנית ביותר.",
@@ -976,7 +976,7 @@ const PAGE_CONTENT = {
       "present": "настоящее время"
     },
     "about": {
-      "bioP1": "Michael Kofman — CEO Digital Invest Inc. и основатель AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Майкл Кофман — генеральный директор Digital Invest Inc. и основатель AGRON Inc., член совета директоров Digital Invest. Его работа охватывает создание компаний, технологическую стратегию, безопасность, исследования и инвестиции в США и Европе.",
       "bioP2": "Как предприниматель, член советов директоров и советник публичных и частных компаний, Michael Kofman основал несколько компаний в США и Европе. В 2026 году он основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network. Также создал Digital Invest — компанию в биоматематической сфере, трансформирующую медицину с помощью науки, ДНК-технологий, ИИ и ML.",
       "secBioTitle": "Прецизионная медицина и биотехнологии",
       "secBioP1": "До Digital Invest он сыграл значительную роль в успехе Biotechnology Group Inc. (2008–2014) — компании, занимающейся ДНК-тестированием и анализом, автоматизацией процессов создания генетических профилей и комплексными исследованиями человеческой генетики. Г-н Кофман твёрдо верит в потенциал объединения наук о жизни с новейшими технологическими достижениями.",
@@ -1138,7 +1138,7 @@ const PAGE_CONTENT = {
       "present": "дотепер"
     },
     "about": {
-      "bioP1": "Майкл Кофман — генеральний директор Digital Invest Inc. і член її ради директорів. Як технологічний візіонер він відомий динамічним підходом до розуміння постійно змінюваних потреб сьогоднішнього складного ринку. Його експертиза охоплює executive-менеджмент, стратегічний аналіз emerging-технологій і ринків, інформаційну безпеку та приватність, дослідження, науку й розробки, адміністрування та інвестиції.",
+      "bioP1": "Майкл Кофман — генеральний директор Digital Invest Inc. і засновник AGRON Inc., член ради директорів Digital Invest. Його робота охоплює створення компаній, технологічну стратегію, безпеку, дослідження та інвестиції в США та Європі.",
       "bioP2": "Як підприємець, член рад директорів і радник публічних і приватних компаній, Michael Kofman заснував кілька компаній у США та Європі. У 2026 році він заснув AGRON Inc. для розвитку Aerial-Ground Robotics Operations Network. Також створив Digital Invest — компанію в біоматематичній сфері, що трансформує медицину за допомогою науки, ДНК-технологій, ШІ та ML.",
       "secBioTitle": "Прецизійна медицина та біотехнології",
       "secBioP1": "До Digital Invest він відіграв значну роль у успіху Biotechnology Group Inc. (2008–2014) — компанії, що займається ДНК-тестуванням і аналізом, автоматизацією процесів створення генетичних профілів і комплексними дослідженнями людської генетики. Пан Кофман твердо вірить у потенціал поєднання наук про життя з новітніми технологічними досягненнями.",
@@ -1300,7 +1300,7 @@ const PAGE_CONTENT = {
       "present": "至今"
     },
     "about": {
-      "bioP1": "Michael Kofman is the CEO of Digital Invest Inc. and founder of AGRON Inc. He serves on the Digital Invest Board of Directors. A technological visionary, he is renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. His expertise spans executive acumen, strategic analysis of emerging technologies and markets, information security and privacy, research, science and development, administration, and investment.",
+      "bioP1": "Michael Kofman 是 Digital Invest Inc. 首席执行官兼 AGRON Inc. 创始人，担任 Digital Invest 董事会成员。其工作涵盖在美国和欧洲的公司创建、技术战略、安全、研究与投资。",
       "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
       "secBioTitle": "精准医疗与生物技术",
       "secBioP1": "在创立 Digital Invest 之前，他在 Biotechnology Group Inc.（2008 — 2014）的成功中发挥了重要作用。该公司致力于 DNA 检测与分析、基因图谱构建流程自动化以及全面的人类遗传学研究。科夫曼先生坚信，将生命科学与最新技术进展相结合具有巨大潜力。",
