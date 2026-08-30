@@ -47,26 +47,27 @@ def patch_html_assets(html: str) -> str:
         html,
     )
 
-    # Single CSS bundle
+    # Single CSS bundle — root-absolute path avoids redirect loops on custom domains
     html = re.sub(
-        r'\s*<link rel="stylesheet" href="css/(?:styles|expansion|controls)\.css">',
+        r'\s*<link rel="stylesheet" href="css/(?:styles|expansion|controls|site)\.css">',
         "",
         html,
     )
-    if 'href="css/site.css"' not in html:
+    if 'href="/css/site.css"' not in html and 'href="css/site.css"' not in html:
         # after preload or before theme
         if 'rel="preload" as="image"' in html:
             html = html.replace(
                 'rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">',
-                'rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="css/site.css">',
+                'rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="/css/site.css">',
                 1,
             )
         else:
             html = html.replace(
                 '<script src="js/theme.js"></script>',
-                '<link rel="stylesheet" href="css/site.css">\n  <script src="js/theme.js"></script>',
+                '<link rel="stylesheet" href="/css/site.css">\n  <script src="/js/theme.js"></script>',
                 1,
             )
+    html = html.replace('href="css/site.css"', 'href="/css/site.css"')
 
     # Hero PNG → JPG fallback
     html = html.replace("images/portrait-hero.png", "images/portrait-hero.jpg")
@@ -86,31 +87,41 @@ def patch_html_assets(html: str) -> str:
     # Collapse many defer scripts → boot chain
     # Remove individual runtime scripts; keep i18n + app
     for name in ("site-config.js", "forms.js", "cta.js", "analytics.js", "features.js", "main.js"):
-        html = re.sub(rf'\s*<script src="js/{re.escape(name)}"[^>]*></script>', "", html)
+        html = re.sub(rf'\s*<script src="(?:/)?js/{re.escape(name)}"[^>]*></script>', "", html)
 
-    if 'src="js/app.js"' not in html:
+    if 'src="/js/app.js"' not in html and 'src="js/app.js"' not in html:
         # after i18n.js
         if "i18n.js" in html:
             html = re.sub(
-                r'(<script src="js/i18n\.js[^"]*"[^>]*></script>)',
-                r'\1\n  <script src="js/app.js" defer></script>',
+                r'(<script src="(?:/)?js/i18n\.js[^"]*"[^>]*></script>)',
+                r'\1\n  <script src="/js/app.js" defer></script>',
                 html,
                 count=1,
             )
         else:
             html = html.replace(
                 "</body>",
-                '  <script src="js/app.js" defer></script>\n</body>',
+                '  <script src="/js/app.js" defer></script>\n</body>',
                 1,
             )
 
     # Ensure i18n-bootstrap present once before i18n
     if "i18n-bootstrap.js" not in html and "i18n.js" in html:
         html = html.replace(
-            '<script src="js/i18n.js',
-            '<script src="js/i18n-bootstrap.js" defer></script>\n  <script src="js/i18n.js',
+            '<script src="/js/i18n.js',
+            '<script src="/js/i18n-bootstrap.js" defer></script>\n  <script src="/js/i18n.js',
             1,
         )
+        html = html.replace(
+            '<script src="js/i18n.js',
+            '<script src="/js/i18n-bootstrap.js" defer></script>\n  <script src="/js/i18n.js',
+            1,
+        )
+
+    html = html.replace('src="js/app.js"', 'src="/js/app.js"')
+    html = html.replace('src="js/i18n-bootstrap.js"', 'src="/js/i18n-bootstrap.js"')
+    html = html.replace('src="js/i18n.js', 'src="/js/i18n.js')
+    html = html.replace('src="js/theme.js"', 'src="/js/theme.js"')
 
     return html
 

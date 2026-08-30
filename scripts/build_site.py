@@ -228,8 +228,8 @@ def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
     html = html.replace("images/portrait-hero.png", "images/portrait-hero.jpg")
     if 'rel="preload" as="image"' not in html:
         html = re.sub(
-            r'<link rel="stylesheet" href="css/(?:styles|site)\.css">',
-            '  <link rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="css/site.css">',
+            r'<link rel="stylesheet" href="(?:/)?css/(?:styles|site)\.css">',
+            '  <link rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="/css/site.css">',
             html,
             count=1,
         )
@@ -510,7 +510,20 @@ def main():
     update_sitemap()
     generate_feed()
     cleanup_unused_images()
+    finalize_deploy_assets()
     print("build complete")
+
+
+def finalize_deploy_assets() -> None:
+    """Generate runtime config, bundle CSS/JS, and wire HTML for Vercel deploy."""
+    import subprocess
+    import sys
+
+    py = sys.executable
+    scripts = ROOT / "scripts"
+    subprocess.run([py, str(scripts / "generate_config.py")], check=True, cwd=ROOT)
+    subprocess.run([py, str(scripts / "optimize_perf.py")], check=True, cwd=ROOT)
+    print("deploy assets ready (site-config, site.css, app.js)")
 
 
 def cleanup_unused_images():

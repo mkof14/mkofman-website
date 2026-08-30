@@ -87,7 +87,7 @@ const TRANSLATIONS = {
       },
       "caseStudies": {
         "title": "Case Studies — Michael Kofman",
-        "description": "Case studies from Michael Kofman's career — 9 Net Avenue Inc. and Digital Invest Inc."
+        "description": "Case studies from Michael Kofman's career — AGRON Inc., 9 Net Avenue Inc., and Digital Invest Inc."
       },
       "mediaKit": {
         "title": "Media Kit — Michael Kofman",
@@ -155,7 +155,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Meet Michael Kofman",
       "aboutTitle": "A Legacy of Innovation and Leadership",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "From founding one of the world's largest Data Storage companies — acquired at a peak market value of $19.5 billion — to leading Digital Invest Inc. in data storage and advanced technology innovation, his career spans executive acumen, strategic technology, and transformative leadership. Digital Invest comprises diverse innovative projects, including Human Digital Model, BioMath Life, and Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "From founding one of the world's largest Data Storage companies — acquired at a peak market value of $19.5 billion — to leading Digital Invest Inc. in precision medicine and founding AGRON Inc. in 2026 to build the Aerial-Ground Robotics Operations Network, his career spans executive acumen, strategic technology, and transformative leadership across digital health, data infrastructure, and robotics.",
       "aboutLink": "Read Full Biography",
       "expertiseEyebrow": "Multifaceted Expertise",
       "expertiseTitle": "Executive Leadership Across Industries",
@@ -198,6 +198,8 @@ const TRANSLATIONS = {
       "cs1desc": "Built one of the world's largest Data Storage companies — acquired at a peak market value of $19.5 billion.",
       "cs2title": "Digital Invest Inc.",
       "cs2desc": "Founded and scaled from inception through IPO — Top 10 U.S. Precision Medicine Company, 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
       "boardCtaEyebrow": "Board & Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
@@ -215,7 +217,7 @@ const TRANSLATIONS = {
       "lead": "Technology visionary, entrepreneur, and executive leader with a career spanning over three decades across continents and industries.",
       "glance": "At a Glance",
       "role": "Current Role",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "Location",
       "locationVal": "Charlotte, North Carolina",
       "education": "Education",
@@ -246,7 +248,7 @@ const TRANSLATIONS = {
     "ventures": {
       "eyebrow": "Portfolio of Ventures",
       "title": "Building Companies That Transform Industries",
-      "lead": "From precision medicine to global telecommunications — a track record of founding, scaling, and leading companies to market-defining success.",
+      "lead": "From precision medicine and robotics to global telecommunications — a track record of founding, scaling, and leading companies to market-defining success.",
       "ecosystemEyebrow": "Venture Ecosystem",
       "ecosystemTitle": "Companies Across Technology Frontiers",
       "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
@@ -296,7 +298,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "Current Company",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "Send a Message",
       "formLead": "Fill out the form below and I'll get back to you promptly.",
       "firstName": "First Name",
@@ -420,7 +422,7 @@ const TRANSLATIONS = {
     "caseStudies": {
       "eyebrow": "Case Studies",
       "title": "Building Companies That Scale",
-      "lead": "Selected outcomes from founding and leading companies across data infrastructure and digital health.",
+      "lead": "Selected outcomes from founding and leading companies across robotics, data infrastructure, and digital health.",
       "cs1eyebrow": "Data Infrastructure · 1996 — 2000",
       "cs1title": "9 Net Avenue Inc.",
       "cs1challenge": "Challenge",
@@ -436,7 +438,15 @@ const TRANSLATIONS = {
       "cs2action": "Approach",
       "cs2actionText": "Founded and scaled Digital Invest Inc. from inception through a successful IPO. Led the full public offering process — legal structuring, financial compliance, investor roadshows, and SEC coordination. Directed design, construction, and operations of multiple data centers in the U.S. and Europe.",
       "cs2result": "Outcome",
-      "cs2resultText": "Achieved consistent financial growth, positioning the company among Top 10 Precision Medicine Companies in the U.S. (2023). Digital Invest comprises diverse innovative projects, including Human Digital Model, BioMath Life, and Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Achieved consistent financial growth, positioning the company among Top 10 Precision Medicine Companies in the U.S. (2023), with projects including Human Digital Model and BioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "Press & Events",
@@ -480,7 +490,7 @@ const TRANSLATIONS = {
       "article2p1": "I am a firm believer in the potential of combining life sciences with the latest technological advancements. At Biotechnology Group Inc. (2008–2014), we focused on DNA testing and analysis, process automation for creating genetic profiles, and comprehensive human genetic research.",
       "article2p2": "Under my leadership, successful genetic testing projects were initiated in Ukraine, Russia, and the Baltic countries. In collaboration with Harvard Medical School and Stanford Biomath, I played a crucial role in developing easily understandable genetic reports for both doctors and patients.",
       "article2p3": "With Digital Invest Inc., founded in 2021, we are dedicated to the bio-mathematical sphere — transforming outdated approaches in medicine using science, DNA technologies, AI, and ML. The company was scaled from inception through a successful IPO and recognized among America's Top 10 Best Companies in Precision Medicine and Digital Health in 2023.",
-      "article2p4": "Digital Invest comprises diverse innovative projects, including Human Digital Model, BioMath Life, and Aero-Ground Robotics Operations Network — each advancing the integration of data science and life sciences."
+      "article2p4": "Digital Invest advances bio-mathematical medicine through projects including Human Digital Model and BioMath Life. In 2026, Michael Kofman founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network — UAV capability development, geospatial systems, and maritime intelligence at agron1.com."
     },
     "privacy": {
       "eyebrow": "Legal",
@@ -753,7 +763,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Conozca a Michael Kofman",
       "aboutTitle": "Un legado de innovación y liderazgo",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "Desde la fundación de una de las mayores empresas de Data Storage del mundo — adquirida con un valor de mercado máximo de 19,5 mil millones de dólares — hasta liderar Digital Invest Inc. en almacenamiento de datos e innovación tecnológica avanzada. Digital Invest reúne diversos proyectos innovadores, incluidos Human Digital Model, BioMath Life y Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "Desde fundar una de las mayores empresas de Data Storage del mundo — adquirida por $19,5 mil millones — hasta liderar Digital Invest Inc. en medicina de precisión y fundar AGRON Inc. en 2026 para construir la Aerial-Ground Robotics Operations Network, su carrera abarca salud digital, infraestructura de datos y robótica.",
       "aboutLink": "Leer biografía completa",
       "expertiseEyebrow": "Experiencia multifacética",
       "expertiseTitle": "Liderazgo ejecutivo en múltiples industrias",
@@ -803,7 +813,7 @@ const TRANSLATIONS = {
       "lead": "Visionario tecnológico, emprendedor y líder ejecutivo con más de tres décadas de carrera.",
       "glance": "En resumen",
       "role": "Cargo actual",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "Ubicación",
       "locationVal": "Charlotte, North Carolina",
       "education": "Educación",
@@ -853,7 +863,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "Empresa actual",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "Enviar mensaje",
       "formLead": "Complete el formulario y le responderé pronto.",
       "firstName": "Nombre",
@@ -933,7 +943,7 @@ const TRANSLATIONS = {
       "cs2action": "Enfoque",
       "cs2actionText": "Fundé y escalé Digital Invest Inc. desde su inicio hasta una salida a bolsa exitosa. Dirigí todo el proceso de oferta pública: estructuración legal, cumplimiento financiero, roadshows con inversores y coordinación con la SEC. También dirigí el diseño, la construcción y la operación de múltiples centros de datos en EE. UU. y Europa.",
       "cs2result": "Resultado",
-      "cs2resultText": "Logramos un crecimiento financiero sostenido y posicionamos a la empresa entre las 10 principales compañías de medicina de precisión de EE. UU. (2023). Digital Invest integra proyectos innovadores como Human Digital Model, BioMath Life y Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Logramos un crecimiento financiero sostenido y posicionamos a la empresa entre las 10 principales compañías de medicina de precisión de EE. UU. (2023), con proyectos como Human Digital Model y BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "Prensa y eventos",
@@ -967,7 +977,7 @@ const TRANSLATIONS = {
       "article2p1": "Creo firmemente en el potencial de combinar las ciencias de la vida con los últimos avances tecnológicos. En Biotechnology Group Inc. (2008-2014), nos enfocamos en pruebas y análisis de ADN, automatización de procesos para crear perfiles genéticos e investigación genética humana integral.",
       "article2p2": "Bajo mi liderazgo, se iniciaron proyectos exitosos de pruebas genéticas en Ucrania, Rusia y los países bálticos. En colaboración con Harvard Medical School y Stanford Biomath, desempeñé un papel clave en el desarrollo de reportes genéticos fáciles de comprender para médicos y pacientes.",
       "article2p3": "Con Digital Invest Inc., fundada en 2021, nos dedicamos al ámbito bio-matemático, transformando enfoques médicos obsoletos mediante ciencia, tecnologías de ADN, IA y ML. La empresa se escaló desde su inicio hasta una salida a bolsa exitosa y fue reconocida entre las 10 mejores compañías de EE. UU. en medicina de precisión y salud digital en 2023.",
-      "article2p4": "Digital Invest integra diversos proyectos innovadores, incluidos Human Digital Model, BioMath Life y Aero-Ground Robotics Operations Network, cada uno impulsando la integración de la ciencia de datos y las ciencias de la vida."
+      "article2p4": "Digital Invest impulsa la medicina biomatemática con proyectos como Human Digital Model y BioMath Life. En 2026, Michael Kofman fundó AGRON Inc. para liderar la Aerial-Ground Robotics Operations Network — desarrollo de capacidades UAV, sistemas geoespaciales e inteligencia marítima en agron1.com."
     }
   },
   "de": {
@@ -1080,7 +1090,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Michael Kofman",
       "aboutTitle": "Ein Vermächtnis der Innovation",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "Von der Gründung eines der weltweit größten Data-Storage-Unternehmen — übernommen bei einem Spitzenmarktwert von 19,5 Milliarden US-Dollar — bis zur Führung von Digital Invest Inc. im Bereich Datenspeicherung und fortgeschrittener Technologieinnovation. Digital Invest vereint vielfältige innovative Projekte, darunter Human Digital Model, BioMath Life und Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "Von der Gründung eines der weltweit größten Data-Storage-Unternehmen — übernommen bei $19,5 Mrd. — bis zur Führung von Digital Invest Inc. in der Präzisionsmedizin und Gründung von AGRON Inc. 2026 für das Aerial-Ground Robotics Operations Network spannt sich seine Karriere über Digital Health, Dateninfrastruktur und Robotik.",
       "aboutLink": "Vollständige Biografie",
       "expertiseEyebrow": "Vielseitige Expertise",
       "expertiseTitle": "Führung in verschiedenen Branchen",
@@ -1130,7 +1140,7 @@ const TRANSLATIONS = {
       "lead": "Technologievisionär und Führungskraft mit über drei Jahrzehnten Erfahrung.",
       "glance": "Auf einen Blick",
       "role": "Aktuelle Rolle",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "Standort",
       "locationVal": "Charlotte, North Carolina",
       "education": "Ausbildung",
@@ -1180,7 +1190,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "Aktuelles Unternehmen",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "Nachricht senden",
       "formLead": "Füllen Sie das Formular aus.",
       "firstName": "Vorname",
@@ -1260,7 +1270,7 @@ const TRANSLATIONS = {
       "cs2action": "Ansatz",
       "cs2actionText": "Ich gründete und skalierte Digital Invest Inc. vom Start bis zu einem erfolgreichen IPO. Ich leitete den gesamten Börsengangsprozess: rechtliche Strukturierung, finanzielle Compliance, Investoren-Roadshows und SEC-Koordination. Zudem verantwortete ich Planung, Bau und Betrieb mehrerer Rechenzentren in den USA und Europa.",
       "cs2result": "Ergebnis",
-      "cs2resultText": "Stetiges finanzielles Wachstum positionierte das Unternehmen unter den Top 10 Präzisionsmedizin-Unternehmen in den USA (2023). Digital Invest umfasst innovative Projekte wie Human Digital Model, BioMath Life und Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Stetiges finanzielles Wachstum positionierte das Unternehmen unter den Top 10 Präzisionsmedizin-Unternehmen in den USA (2023), mit Projekten wie Human Digital Model und BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "Presse und Events",
@@ -1294,7 +1304,7 @@ const TRANSLATIONS = {
       "article2p1": "Ich bin fest davon überzeugt, dass die Kombination von Life Sciences mit den neuesten technologischen Fortschritten enormes Potenzial bietet. Bei Biotechnology Group Inc. (2008-2014) konzentrierten wir uns auf DNA-Tests und -Analysen, Prozessautomatisierung zur Erstellung genetischer Profile und umfassende humangenetische Forschung.",
       "article2p2": "Unter meiner Leitung wurden erfolgreiche genetische Testprojekte in der Ukraine, in Russland und in den baltischen Staaten initiiert. In Zusammenarbeit mit Harvard Medical School und Stanford Biomath spielte ich eine entscheidende Rolle bei der Entwicklung leicht verständlicher genetischer Berichte für Ärzte und Patienten.",
       "article2p3": "Mit Digital Invest Inc., gegründet 2021, widmen wir uns dem bio-mathematischen Bereich und transformieren veraltete medizinische Ansätze mithilfe von Wissenschaft, DNA-Technologien, KI und ML. Das Unternehmen wurde vom Start bis zu einem erfolgreichen IPO skaliert und 2023 als eines der Top 10 Unternehmen der USA in Präzisionsmedizin und Digital Health ausgezeichnet.",
-      "article2p4": "Digital Invest umfasst vielfältige innovative Projekte, darunter Human Digital Model, BioMath Life und Aero-Ground Robotics Operations Network, die jeweils die Integration von Data Science und Life Sciences vorantreiben."
+      "article2p4": "Digital Invest treibt biomathematische Medizin mit Projekten wie Human Digital Model und BioMath Life voran. 2026 gründete Michael Kofman AGRON Inc., um das Aerial-Ground Robotics Operations Network aufzubauen — UAV-Fähigkeiten, Geodaten und maritime Intelligence auf agron1.com."
     }
   },
   "fr": {
@@ -1407,7 +1417,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Michael Kofman",
       "aboutTitle": "Un héritage d'innovation",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "De la fondation de l'une des plus grandes entreprises de Data Storage au monde — acquise pour une valorisation record de 19,5 milliards de dollars — à la direction de Digital Invest Inc. dans le stockage de données et l'innovation technologique avancée. Digital Invest regroupe divers projets innovants, notamment Human Digital Model, BioMath Life et Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "De la fondation de l'une des plus grandes entreprises de Data Storage — acquise pour 19,5 milliards de dollars — à la direction de Digital Invest Inc. en médecine de précision et la création d'AGRON Inc. en 2026 pour l'Aerial-Ground Robotics Operations Network, sa carrière couvre la santé numérique, l'infrastructure de données et la robotique.",
       "aboutLink": "Biographie complète",
       "expertiseEyebrow": "Expertise multifacette",
       "expertiseTitle": "Leadership exécutif",
@@ -1457,7 +1467,7 @@ const TRANSLATIONS = {
       "lead": "Visionnaire technologique et leader exécutif depuis plus de trois décennies.",
       "glance": "En bref",
       "role": "Rôle actuel",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "Localisation",
       "locationVal": "Charlotte, North Carolina",
       "education": "Formation",
@@ -1507,7 +1517,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "Entreprise actuelle",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "Envoyer un message",
       "formLead": "Remplissez le formulaire ci-dessous.",
       "firstName": "Prénom",
@@ -1587,7 +1597,7 @@ const TRANSLATIONS = {
       "cs2action": "Approche",
       "cs2actionText": "J'ai fondé et développé Digital Invest Inc. de sa création à une introduction en bourse réussie. J'ai dirigé l'ensemble du processus d'IPO : structuration juridique, conformité financière, roadshows investisseurs et coordination avec la SEC. J'ai également piloté la conception, la construction et l'exploitation de plusieurs data centers aux États-Unis et en Europe.",
       "cs2result": "Résultat",
-      "cs2resultText": "Nous avons atteint une croissance financière soutenue, positionnant l'entreprise parmi les 10 meilleures sociétés de médecine de précision aux États-Unis (2023). Digital Invest regroupe des projets innovants tels que Human Digital Model, BioMath Life et Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Nous avons atteint une croissance financière soutenue, positionnant l'entreprise parmi les 10 meilleures sociétés de médecine de précision aux États-Unis (2023), avec des projets comme Human Digital Model et BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "Presse et événements",
@@ -1621,7 +1631,7 @@ const TRANSLATIONS = {
       "article2p1": "Je crois fermement au potentiel de la combinaison des sciences de la vie avec les dernières avancées technologiques. Chez Biotechnology Group Inc. (2008-2014), nous nous sommes concentrés sur les tests et analyses ADN, l'automatisation des processus de création de profils génétiques et la recherche génétique humaine complète.",
       "article2p2": "Sous ma direction, des projets réussis de tests génétiques ont été lancés en Ukraine, en Russie et dans les pays baltes. En collaboration avec Harvard Medical School et Stanford Biomath, j'ai joué un rôle clé dans le développement de rapports génétiques faciles à comprendre pour les médecins comme pour les patients.",
       "article2p3": "Avec Digital Invest Inc., fondée en 2021, nous nous consacrons au domaine bio-mathématique, transformant les approches médicales obsolètes grâce à la science, aux technologies ADN, à l'IA et au ML. L'entreprise a été développée de sa création jusqu'à une introduction en bourse réussie et reconnue parmi les 10 meilleures entreprises américaines de médecine de précision et de santé numérique en 2023.",
-      "article2p4": "Digital Invest regroupe divers projets innovants, dont Human Digital Model, BioMath Life et Aero-Ground Robotics Operations Network, chacun faisant progresser l'intégration de la data science et des sciences de la vie."
+      "article2p4": "Digital Invest fait progresser la médecine bio-mathématique via des projets comme Human Digital Model et BioMath Life. En 2026, Michael Kofman a fondé AGRON Inc. pour diriger l'Aerial-Ground Robotics Operations Network — capacités UAV, systèmes géospatiaux et renseignement maritime sur agron1.com."
     }
   },
   "ru": {
@@ -1770,7 +1780,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Michael Kofman",
       "aboutTitle": "Наследие инноваций и лидерства",
       "aboutLead1": "Michael Kofman — технологический визионер, предприниматель, член советов директоров и советник публичных и частных компаний в США и Европе.",
-      "aboutLead2": "От основания одной из крупнейших в мире компаний Data Storage — с пиковой капитализацией $19,5 млрд — до руководства Digital Invest Inc. в сфере хранения данных и передовых технологий. Digital Invest объединяет различные инновационные проекты, включая Human Digital Model, BioMath Life и Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "От основания одной из крупнейших в мире компаний Data Storage — с пиковой капитализацией $19,5 млрд — до руководства Digital Invest Inc. в precision medicine и основания AGRON Inc. в 2026 году для построения Aerial-Ground Robotics Operations Network. Карьера охватывает цифровое здравоохранение, инфраструктуру данных и робототехнику.",
       "aboutLink": "Полная биография",
       "expertiseEyebrow": "Многогранная экспертиза",
       "expertiseTitle": "Executive-лидерство в разных отраслях",
@@ -1830,7 +1840,7 @@ const TRANSLATIONS = {
       "lead": "Технологический визионер и executive-лидер с карьерой более трёх десятилетий.",
       "glance": "Кратко",
       "role": "Текущая роль",
-      "roleVal": "CEO и член совета директоров · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Основатель · AGRON Inc.",
       "location": "Местоположение",
       "locationVal": "Шарлотт, Северная Каролина",
       "education": "Образование",
@@ -1911,7 +1921,7 @@ const TRANSLATIONS = {
       "locationVal": "Шарлотт, Северная Каролина\nСША",
       "linkedin": "LinkedIn",
       "company": "Текущая компания",
-      "companyVal": "Digital Invest Inc.\nCEO и член совета директоров",
+      "companyVal": "Digital Invest Inc.\nCEO и член совета директоров\nAGRON Inc.\nОснователь",
       "formTitle": "Отправить сообщение",
       "formLead": "Заполните форму — отвечу в ближайшее время.",
       "firstName": "Имя",
@@ -2051,7 +2061,7 @@ const TRANSLATIONS = {
       "cs2action": "Подход",
       "cs2actionText": "Основана и масштабирована Digital Invest Inc. от старта до успешного IPO. Руководство полным процессом публичного размещения.",
       "cs2result": "Результат",
-      "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты: Human Digital Model, BioMath Life, Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты Human Digital Model и BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "Пресса и мероприятия",
@@ -2091,7 +2101,7 @@ const TRANSLATIONS = {
       "article2p1": "Biotechnology Group Inc. (2008–2014): ДНК-тестирование, автоматизация генетических профилей, исследования человеческой генетики.",
       "article2p2": "Проекты в Украине, России и Балтии. Сотрудничество с Harvard Medical School и Stanford Biomath над генетическими отчётами.",
       "article2p3": "Digital Invest Inc. (2021): биоматематическая сфера, ИИ, ML, ДНК. IPO. Топ-10 precision medicine в США, 2023.",
-      "article2p4": "Проекты: Human Digital Model, BioMath Life, Aero-Ground Robotics Operations Network."
+      "article2p4": "Digital Invest развивает биоматематическую медицину через проекты Human Digital Model и BioMath Life. В 2026 году Michael Kofman основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network — БПЛА, геопространственные системы и морская разведка на agron1.com."
     },
     "board": {
       "eyebrow": "Советы директоров и стратегическое консультирование",
@@ -2384,7 +2394,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "Michael Kofman",
       "aboutTitle": "Спадщина інновацій і лідерства",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "Від заснування однієї з найбільших у світі компаній Data Storage — з піковою капіталізацією $19,5 млрд — до керівництва Digital Invest Inc. у сфері зберігання даних і передових технологій. Digital Invest об'єднує різноманітні інноваційні проєкти, зокрема Human Digital Model, BioMath Life та Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "Від заснування однієї з найбільших у світі компаній Data Storage — з піковою капіталізацією $19,5 млрд — до керівництва Digital Invest Inc. у precision medicine та заснування AGRON Inc. у 2026 році для побудови Aerial-Ground Robotics Operations Network. Кар'єра охоплює цифрове здоров'я, інфраструктуру даних і робототехніку.",
       "aboutLink": "Повна біографія",
       "expertiseEyebrow": "Багатогранна експертиза",
       "expertiseTitle": "Executive-лідерство в різних галузях",
@@ -2444,7 +2454,7 @@ const TRANSLATIONS = {
       "lead": "Технологічний візіонер і executive-лідер з кар'єрою понад три десятиліття.",
       "glance": "Коротко",
       "role": "Поточна роль",
-      "roleVal": "CEO і член ради директорів · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Засновник · AGRON Inc.",
       "location": "Локація",
       "locationVal": "Шарлотт, Північна Кароліна",
       "education": "Освіта",
@@ -2525,7 +2535,7 @@ const TRANSLATIONS = {
       "locationVal": "Шарлотт, Північна Кароліна\nСША",
       "linkedin": "LinkedIn",
       "company": "Поточна компанія",
-      "companyVal": "Digital Invest Inc.\nCEO і член ради директорів",
+      "companyVal": "Digital Invest Inc.\nCEO і член ради директорів\nAGRON Inc.\nЗасновник",
       "formTitle": "Надіслати повідомлення",
       "formLead": "Заповніть форму — відповім найближчим часом.",
       "firstName": "Ім'я",
@@ -2665,7 +2675,7 @@ const TRANSLATIONS = {
       "cs2action": "Підхід",
       "cs2actionText": "Digital Invest Inc. була заснована та масштабована від старту до успішного IPO. Було очолено повний процес публічного розміщення: юридичне структурування, фінансовий комплаєнс, роудшоу для інвесторів і координацію із SEC. Також було організовано проєктування, будівництво та операційну діяльність кількох дата-центрів у США та Європі.",
       "cs2result": "Результат",
-      "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023). Digital Invest об'єднує інноваційні проєкти Human Digital Model, BioMath Life та Aero-Ground Robotics Operations Network."
+      "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023), з проєктами Human Digital Model і BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "Преса та події",
@@ -2705,7 +2715,7 @@ const TRANSLATIONS = {
       "article2p1": "Я переконаний у потенціалі поєднання наук про життя з найновішими технологічними досягненнями. У Biotechnology Group Inc. (2008-2014) ми зосереджувалися на ДНК-тестуванні та аналізі, автоматизації процесів створення генетичних профілів і комплексних дослідженнях генетики людини.",
       "article2p2": "Під моїм керівництвом було започатковано успішні проєкти генетичного тестування в Україні, Росії та країнах Балтії. У співпраці з Harvard Medical School і Stanford Biomath я відіграв ключову роль у створенні зрозумілих генетичних звітів як для лікарів, так і для пацієнтів.",
       "article2p3": "З Digital Invest Inc., заснованою у 2021 році, ми працюємо в біо-математичному напрямі, трансформуючи застарілі підходи в медицині за допомогою науки, ДНК-технологій, AI і ML. Компанію було масштабовано від старту до успішного IPO, а у 2023 році її визнано однією з Top 10 найкращих компаній США у сфері прецизійної медицини та digital health.",
-      "article2p4": "Digital Invest об'єднує інноваційні проєкти, зокрема Human Digital Model, BioMath Life та Aero-Ground Robotics Operations Network, кожен з яких посилює інтеграцію data science і наук про життя."
+      "article2p4": "Digital Invest розвиває біоматематичну медицину через проєкти Human Digital Model і BioMath Life. У 2026 році Michael Kofman заснув AGRON Inc. для розвитку Aerial-Ground Robotics Operations Network — БПЛА, геопросторові системи та морська розвідка на agron1.com."
     },
     "board": {
       "eyebrow": "Ради директорів і стратегічне консультування",
@@ -2962,7 +2972,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "认识 Michael Kofman",
       "aboutTitle": "创新与领导力的传承",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "从创立全球最大的 Data Storage 公司之一——峰值市值达195亿美元——到领导 Digital Invest Inc. 从事数据存储与前沿技术创新。Digital Invest 涵盖多项创新项目，包括 Human Digital Model、BioMath Life 和 Aero-Ground Robotics Operations Network。",
+      "aboutLead2": "从创立全球最大 Data Storage 公司之一（峰值市值195亿美元），到领导 Digital Invest Inc. 从事精准医疗，并于2026年创立 AGRON Inc. 构建 Aerial-Ground Robotics Operations Network，其职业生涯涵盖数字健康、数据基础设施与机器人技术。",
       "aboutLink": "阅读完整传记",
       "expertiseEyebrow": "多元专长",
       "expertiseTitle": "跨行业高管领导力",
@@ -3012,7 +3022,7 @@ const TRANSLATIONS = {
       "lead": "技术愿景家与高管，职业生涯跨越三十多年。",
       "glance": "概览",
       "role": "现任职位",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "地点",
       "locationVal": "Charlotte, North Carolina",
       "education": "教育",
@@ -3062,7 +3072,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "现任公司",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "发送消息",
       "formLead": "填写以下表格，我会尽快回复。",
       "firstName": "名",
@@ -3142,7 +3152,7 @@ const TRANSLATIONS = {
       "cs2action": "策略",
       "cs2actionText": "创立并推动 Digital Invest Inc. 从零发展到成功 IPO，主导完整上市流程，包括法律架构、财务合规、投资者路演及与 SEC 协调。同时负责美国和欧洲多个数据中心的设计、建设与运营。",
       "cs2result": "成果",
-      "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023）。Digital Invest 旗下包括 Human Digital Model、BioMath Life 及 Aero-Ground Robotics Operations Network 等创新项目。"
+      "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023），旗下包括 Human Digital Model 和 BioMath Life 等项目。"
     },
     "mediaKit": {
       "eyebrow": "媒体与活动",
@@ -3176,7 +3186,7 @@ const TRANSLATIONS = {
       "article2p1": "我始终坚信生命科学与前沿技术结合所蕴含的巨大潜力。在 Biotechnology Group Inc.（2008-2014）期间，我们重点推进 DNA 检测与分析、遗传画像流程自动化以及全面的人类遗传学研究。",
       "article2p2": "在我的领导下，乌克兰、俄罗斯和波罗的海国家启动了多个成功的基因检测项目。与 Harvard Medical School 和 Stanford Biomath 的合作中，我在为医生和患者开发易于理解的基因报告方面发挥了关键作用。",
       "article2p3": "我们于 2021 年创立 Digital Invest Inc.，专注生物数学领域，借助科学、DNA 技术、AI 与 ML 改变传统医疗方式。公司从创立发展至成功 IPO，并在 2023 年被评为美国精准医疗与数字健康领域十佳公司之一。",
-      "article2p4": "Digital Invest 旗下包括 Human Digital Model、BioMath Life 与 Aero-Ground Robotics Operations Network 等创新项目，持续推动数据科学与生命科学的深度融合。"
+      "article2p4": "Digital Invest 通过 Human Digital Model 和 BioMath Life 等项目推进生物数学医学。2026 年，Michael Kofman 创立 AGRON Inc.，领导 Aerial-Ground Robotics Operations Network——无人机能力、地理空间系统与海事情报，见 agron1.com。"
     }
   },
   "ar": {
@@ -3289,7 +3299,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "تعرف على Michael Kofman",
       "aboutTitle": "إرث من الابتكار والقيادة",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "من تأسيس إحدى أكبر شركات Data Storage في العالم — التي استُحوذ عليها بقيمة سوقية قصوى بلغت 19.5 مليار دولار — إلى قيادة Digital Invest Inc. في تخزين البيانات والابتكار التكنولوجي المتقدم. تضم Digital Invest مشاريع ابتكارية متنوعة، بما في ذلك Human Digital Model وBioMath Life وAero-Ground Robotics Operations Network.",
+      "aboutLead2": "من تأسيس إحدى أكبر شركات Data Storage في العالم — بقيمة 19.5 مليار دولار — إلى قيادة Digital Invest Inc. في الطب الدقيق وتأسيس AGRON Inc. في 2026 لبناء Aerial-Ground Robotics Operations Network، تمتد مسيرته عبر الصحة الرقمية والبنية التحتية للبيانات والروبotics.",
       "aboutLink": "السيرة الكاملة",
       "expertiseEyebrow": "خبرات متعددة",
       "expertiseTitle": "قيادة تنفيذية عبر الصناعات",
@@ -3339,7 +3349,7 @@ const TRANSLATIONS = {
       "lead": "رؤية تقنية وقائد تنفيذي بمسيرة تمتد أكثر من ثلاثة عقود.",
       "glance": "نظرة سريعة",
       "role": "الدور الحالي",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "الموقع",
       "locationVal": "Charlotte, North Carolina",
       "education": "التعليم",
@@ -3389,7 +3399,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "الشركة الحالية",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "إرسال رسالة",
       "formLead": "املأ النموذج وسأرد قريباً.",
       "firstName": "الاسم الأول",
@@ -3469,7 +3479,7 @@ const TRANSLATIONS = {
       "cs2action": "النهج",
       "cs2actionText": "أسس Michael Kofman شركة Digital Invest Inc. وقاد توسعها من البداية حتى طرح عام أولي ناجح. كما قاد كامل عملية الطرح: الهيكلة القانونية، والامتثال المالي، وجولات المستثمرين، والتنسيق مع SEC. وأشرف على تصميم وبناء وتشغيل عدة مراكز بيانات في الولايات المتحدة وأوروبا.",
       "cs2result": "النتيجة",
-      "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023). وتضم Digital Invest مشاريع ابتكارية مثل Human Digital Model وBioMath Life وAero-Ground Robotics Operations Network."
+      "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023)، مع مشاريع مثل Human Digital Model وBioMath Life."
     },
     "mediaKit": {
       "eyebrow": "الصحافة والفعاليات",
@@ -3503,7 +3513,7 @@ const TRANSLATIONS = {
       "article2p1": "أنا مؤمن بقوة بإمكانات الجمع بين علوم الحياة وأحدث التطورات التقنية. في Biotechnology Group Inc. (2008-2014)، ركزنا على اختبارات وتحليل الحمض النووي، وأتمتة عمليات إعداد الملفات الجينية، والبحث الجيني البشري الشامل.",
       "article2p2": "تحت قيادتي، انطلقت مشاريع ناجحة للاختبارات الجينية في أوكرانيا وروسيا ودول البلطيق. وبالتعاون مع Harvard Medical School وStanford Biomath، لعبت دورًا محوريًا في تطوير تقارير جينية واضحة وسهلة الفهم للأطباء والمرضى.",
       "article2p3": "مع Digital Invest Inc. التي تأسست عام 2021، نعمل في المجال البيولوجي الرياضي لتحويل الأساليب القديمة في الطب عبر العلوم وتقنيات الحمض النووي وAI وML. وقد توسعت الشركة من بدايتها حتى طرح عام أولي ناجح، وتم تصنيفها ضمن أفضل 10 شركات أمريكية في الطب الدقيق والصحة الرقمية عام 2023.",
-      "article2p4": "تضم Digital Invest مشاريع ابتكارية متعددة، منها Human Digital Model وBioMath Life وAero-Ground Robotics Operations Network، وكل مشروع يدفع تكامل علوم البيانات مع علوم الحياة."
+      "article2p4": "تطوّر Digital Invest الطب البيو-رياضي عبر مشاريع مثل Human Digital Model وBioMath Life. في 2026 أسس Michael Kofman شركة AGRON Inc. لقيادة Aerial-Ground Robotics Operations Network — قدرات الطائرات بدون طيار والأنظمة الجغرافية المكانية والاستخبارات البحرية على agron1.com."
     }
   },
   "he": {
@@ -3616,7 +3626,7 @@ const TRANSLATIONS = {
       "aboutEyebrow": "הכירו את Michael Kofman",
       "aboutTitle": "מורשת של חדשנות ומנהיגות",
       "aboutLead1": "Michael Kofman is a technological visionary renowned for his dynamic approach to understanding the ever-evolving needs of today's complex market. An entrepreneur, board member, and advisor for both public and private companies, he has successfully established several companies in the United States and Europe.",
-      "aboutLead2": "מייסוד אחת מחברות ה-Data Storage הגדולות בעולם — שנרכשה בשווי שוק שיא של 19.5 מיליארד דולר — ועד הובלת Digital Invest Inc. בתחום אחסון הנתונים וחדשנות טכנולוגית מתקדמת. Digital Invest כוללת מגוון פרויקטים חדשניים, ביניהם Human Digital Model, BioMath Life ו-Aero-Ground Robotics Operations Network.",
+      "aboutLead2": "מייסוד אחת מחברות ה-Data Storage הגדולות בעולם — ב-19.5 מiliarד דולר — ועד הובלת Digital Invest Inc. ברפואה מדויקת וייסוד AGRON Inc. ב-2026 לבניית Aerial-Ground Robotics Operations Network, קריירתו משתרעת על בריאות דיגיטלית, תשתיות נתונים ורובוטיקה.",
       "aboutLink": "ביוגרפיה מלאה",
       "expertiseEyebrow": "מומחיות רב-תחומית",
       "expertiseTitle": "מנהיגות בכירה בין תעשיות",
@@ -3666,7 +3676,7 @@ const TRANSLATIONS = {
       "lead": "חזון טכנולוגי ומנהיג בכיר עם קריירה של más de שלושה décades.",
       "glance": "בקצרה",
       "role": "תפקיד נוכחי",
-      "roleVal": "CEO & Board Member · Digital Invest Inc.",
+      "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "מיקום",
       "locationVal": "Charlotte, North Carolina",
       "education": "השכלה",
@@ -3716,7 +3726,7 @@ const TRANSLATIONS = {
       "locationVal": "Charlotte, North Carolina\nUnited States",
       "linkedin": "LinkedIn",
       "company": "חברה נוכחית",
-      "companyVal": "Digital Invest Inc.\nCEO & Board Member",
+      "companyVal": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder",
       "formTitle": "שלח הודעה",
       "formLead": "מלאו את הטופס ואחזור אליכם.",
       "firstName": "שם פרטי",
@@ -3796,7 +3806,7 @@ const TRANSLATIONS = {
       "cs2action": "גישה",
       "cs2actionText": "Michael Kofman ייסד והרחיב את Digital Invest Inc. מהקמה ועד IPO מוצלח. הוא הוביל את כל תהליך ההנפקה: מבנה משפטי, ציות פיננסי, סבבי משקיעים ותיאום מול SEC. בנוסף הוביל תכנון, הקמה ותפעול של מספר מרכזי נתונים בארצות הברית ובאירופה.",
       "cs2result": "תוצאה",
-      "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023). Digital Invest כוללת פרויקטים חדשניים כמו Human Digital Model, BioMath Life ו-Aero-Ground Robotics Operations Network."
+      "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023), עם פרויקטים כמו Human Digital Model ו-BioMath Life."
     },
     "mediaKit": {
       "eyebrow": "עיתונות ואירועים",
@@ -3830,7 +3840,7 @@ const TRANSLATIONS = {
       "article2p1": "אני מאמין עמוקות בפוטנציאל של שילוב מדעי החיים עם החידושים הטכנולוגיים המתקדמים ביותר. ב-Biotechnology Group Inc. ‏(2008-2014) התמקדנו בבדיקות וניתוחי DNA, אוטומציה של תהליכי יצירת פרופילים גנטיים, ומחקר גנטי מקיף של האדם.",
       "article2p2": "תחת הנהגתי, הושקו פרויקטים מוצלחים של בדיקות גנטיות באוקראינה, רוסיה ומדינות הבלטיות. בשיתוף עם Harvard Medical School ו-Stanford Biomath מילאתי תפקיד מרכזי בפיתוח דוחות גנטיים מובנים לרופאים ולמטופלים.",
       "article2p3": "עם Digital Invest Inc., שנוסדה ב-2021, אנו מתמקדים בתחום הביו-מתמטי ומשנים גישות מיושנות ברפואה באמצעות מדע, טכנולוגיות DNA, AI ו-ML. החברה הורחבה מהקמה ועד IPO מוצלח והוכרה בין 10 החברות הטובות בארצות הברית ברפואה מדויקת ובריאות דיגיטלית בשנת 2023.",
-      "article2p4": "Digital Invest כוללת פרויקטים חדשניים מגוונים, בהם Human Digital Model, ‏BioMath Life ו-Aero-Ground Robotics Operations Network - וכל אחד מהם מקדם את שילוב מדעי הנתונים עם מדעי החיים."
+      "article2p4": "Digital Invest מקדמת רפואה ביו-מתמטית באמצעות פרויקטים כמו Human Digital Model ו-BioMath Life. ב-2026 ייסד Michael Kofman את AGRON Inc. כדי להוביל את Aerial-Ground Robotics Operations Network — יכולות כטב\"מ, מערכות גיאו-מרחביות ומודיעין ימי ב-agron1.com."
     }
   }
 };

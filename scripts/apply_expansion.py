@@ -530,9 +530,6 @@ def patch_index(html: str) -> str:
       <p class="lead" data-i18n="home.videoLead">A message on technology, medicine, and building for the long term.</p>
       <div class="video-hero-slot">
         <img src="images/portrait-hero-3.png" alt="" loading="lazy" width="800" height="600">
-        <a href="thesis.html" class="video-hero-play" aria-label="View leadership thesis">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-        </a>
       </div>
       <p style="margin-top:1rem"><a href="thesis.html" class="text-link" data-i18n="home.videoCta">Read Leadership Thesis →</a></p>
     </div>
