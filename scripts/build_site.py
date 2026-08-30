@@ -437,7 +437,7 @@ def optimize_hero_images() -> tuple[int, int]:
         return 720, 1022
 
     img = Image.open(src).convert("RGBA")
-    max_w = 720
+    max_w = 800
     if img.width > max_w:
         ratio = max_w / img.width
         resample = getattr(Image, "Resampling", Image).LANCZOS

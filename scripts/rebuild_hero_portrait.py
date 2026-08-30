@@ -6,37 +6,50 @@ import io
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ORIGINAL = ROOT / "images" / "portrait-hero-original.jpg"
+ORIGINALS = [
+    ROOT / "images" / "portrait-hero-original.png",
+    ROOT / "images" / "portrait-hero-original.jpg",
+]
 OUT_SOURCE = ROOT / "images" / "portrait-hero-source.png"
 
 
+def _find_original() -> Path:
+    for path in ORIGINALS:
+        if path.exists():
+            return path
+    raise FileNotFoundError("No portrait-hero-original.png or .jpg found")
+
+
 def _crop_for_hero(img):
-    """Chest-up crop: exclude defective balustrade entirely."""
+    """Trim only the lowest balusters; keep natural lean on railing."""
     w, h = img.size
-    left = int(w * 0.06)
-    top = int(h * 0.02)
-    right = int(w * 0.98)
-    bottom = int(h * 0.72)  # waist-up — no railing in frame
+    left = int(w * 0.03)
+    top = int(h * 0.015)
+    right = int(w * 0.995)
+    bottom = int(h * 0.875)
     return img.crop((left, top, right, bottom))
 
 
 def _enhance_photo(img):
-    """Clarity for soft original — sharpen before cutout."""
-    from PIL import ImageEnhance, ImageFilter
+    """Restore clarity from soft camera original — natural, not plastic."""
+    from PIL import Image, ImageEnhance, ImageFilter
 
     rgb = img.convert("RGB")
-    # Upscale slightly for hero display (original is only 683px wide).
-    resample = getattr(__import__("PIL.Image", fromlist=["Image"]).Image, "Resampling", None)
-    lanczos = resample.LANCZOS if resample else 1
-    scale = 1.15
-    nw, nh = int(rgb.width * scale), int(rgb.height * scale)
-    rgb = rgb.resize((nw, nh), lanczos)
-    rgb = ImageEnhance.Contrast(rgb).enhance(1.05)
-    rgb = ImageEnhance.Brightness(rgb).enhance(1.02)
+    resample = getattr(Image, "Resampling", Image).LANCZOS
+    # Source is 683px — upscale to hero display width.
+    target_w = 800
+    if rgb.width < target_w:
+        scale = target_w / rgb.width
+        rgb = rgb.resize(
+            (target_w, int(rgb.height * scale)),
+            resample,
+        )
+    rgb = ImageEnhance.Contrast(rgb).enhance(1.04)
+    rgb = ImageEnhance.Color(rgb).enhance(1.03)
     rgb = rgb.filter(
-        ImageFilter.UnsharpMask(radius=1.6, percent=165, threshold=1)
+        ImageFilter.UnsharpMask(radius=1.2, percent=140, threshold=2)
     )
-    rgb = ImageEnhance.Sharpness(rgb).enhance(1.18)
+    rgb = ImageEnhance.Sharpness(rgb).enhance(1.1)
     return rgb
 
 
@@ -76,11 +89,9 @@ def _trim_transparent(img, pad=8):
 def main() -> None:
     from PIL import Image
 
-    if not ORIGINAL.exists():
-        raise SystemExit(f"Missing original: {ORIGINAL}")
-
-    src = Image.open(ORIGINAL)
-    print(f"original: {src.size}")
+    original_path = _find_original()
+    src = Image.open(original_path)
+    print(f"original: {original_path.name} {src.size}")
 
     cropped = _crop_for_hero(src)
     print(f"cropped: {cropped.size}")
