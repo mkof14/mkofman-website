@@ -287,6 +287,17 @@ def strip_seo_blocks(html: str) -> str:
 def patch_html_head(html: str, page_key: str, path: str, meta_en: dict) -> str:
     extras = head_extras(page_key, path, meta_en)
     html = strip_seo_blocks(html)
+    m = meta_en.get(page_key, {})
+    title = m.get("title", "Michael Kofman")
+    desc = m.get("description", "")
+    html = re.sub(r"<title>[^<]*</title>", f"<title>{title}</title>", html, count=1)
+    if desc:
+        html = re.sub(
+            r'<meta name="description" content="[^"]*">',
+            f'<meta name="description" content="{desc}">',
+            html,
+            count=1,
+        )
     html = re.sub(
         r'(<meta name="description" content="[^"]*">)\n',
         r"\1\n" + extras + "\n",
@@ -332,11 +343,13 @@ def patch_footer_copyright(html: str) -> str:
 
 
 def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
+    hero_webp = ROOT / "images" / "portrait-hero.webp"
+    v = int(hero_webp.stat().st_mtime) if hero_webp.exists() else 0
     picture = (
         '<picture>'
-        '<source srcset="/images/portrait-hero-480.webp" type="image/webp" media="(max-width: 768px)">'
-        '<source srcset="/images/portrait-hero.webp" type="image/webp">'
-        f'<img src="/images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
+        f'<source srcset="/images/portrait-hero-480.webp?v={v}" type="image/webp" media="(max-width: 768px)">'
+        f'<source srcset="/images/portrait-hero.webp?v={v}" type="image/webp">'
+        f'<img src="/images/portrait-hero.jpg?v={v}" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
         f'width="{hero_w}" height="{hero_h}" fetchpriority="high" decoding="async"></picture>'
     )
     if "portrait-hero.webp" in html or "portrait-hero.jpg" in html or "portrait-hero.png" in html:
@@ -361,8 +374,10 @@ def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
     )
     html = re.sub(
         r'(<link rel="stylesheet" href="/css/site\.css">)',
-        '  <link rel="preload" as="image" href="/images/portrait-hero-480.webp" type="image/webp" media="(max-width: 768px)">\n'
-        '  <link rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp" media="(min-width: 769px)">\n'
+        '  <link rel="preload" as="image" href="/images/portrait-hero-480.webp?v='
+        f'{v}" type="image/webp" media="(max-width: 768px)">\n'
+        '  <link rel="preload" as="image" href="/images/portrait-hero.webp?v='
+        f'{v}" type="image/webp" media="(min-width: 769px)">\n'
         r"\1",
         html,
         count=1,
@@ -370,15 +385,47 @@ def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
     return html
 
 
+HERO_PORTRAIT_BG = (0, 0, 0)  # matches --hero-portrait-bg in controls.css
+
+
+def _light_defringe(img, contam=(255, 255, 255)) -> None:
+    """Remove white matting only on semi-transparent edge pixels — no RGB retouching."""
+    px = img.load()
+    w, h = img.size
+    cr, cg, cb = contam
+    for y in range(h):
+        for x in range(w):
+            r, g, b, a = px[x, y]
+            if a == 0 or a == 255:
+                continue
+            af = a / 255.0
+            nr = int(max(0, min(255, (r - cr * (1 - af)) / af)))
+            ng = int(max(0, min(255, (g - cg * (1 - af)) / af)))
+            nb = int(max(0, min(255, (b - cb * (1 - af)) / af)))
+            px[x, y] = (nr, ng, nb, a)
+
+
+def _prepare_hero_cutout(img):
+    """Resize-ready RGBA cutout with minimal edge cleanup — no inpainting or tone edits."""
+    cutout = img.convert("RGBA")
+    _light_defringe(cutout)
+    return cutout
+
+
+def _bake_hero_on_bg(img, bg=HERO_PORTRAIT_BG):
+    from PIL import Image
+
+    base = Image.new("RGBA", img.size, (*bg, 255))
+    return Image.alpha_composite(base, img).convert("RGB")
+
+
 def optimize_hero_images() -> tuple[int, int]:
-    """Emit lean WebP (alpha) + JPEG (navy bake) — no heavy PNG in the deploy."""
+    """Rebuild hero portrait from source: natural cutout, high-quality WebP + JPEG."""
     webp = ROOT / "images" / "portrait-hero.webp"
     jpg = ROOT / "images" / "portrait-hero.jpg"
     sources = [
         ROOT / "images" / "portrait-hero-source.png",
         ROOT / "images" / "portrait-hero.png",
-        webp,
-        jpg,
     ]
     src = next((p for p in sources if p.exists()), None)
     if src is None:
@@ -396,12 +443,10 @@ def optimize_hero_images() -> tuple[int, int]:
         resample = getattr(Image, "Resampling", Image).LANCZOS
         img = img.resize((max_w, int(img.height * ratio)), resample)
 
-    img.save(webp, "WEBP", quality=78, method=6)
-    navy = (12, 24, 41, 255)
-    composed = Image.alpha_composite(Image.new("RGBA", img.size, navy), img).convert("RGB")
-    composed.save(jpg, "JPEG", quality=82, optimize=True, progressive=True)
+    prepared = _prepare_hero_cutout(img)
+    prepared.save(webp, "WEBP", quality=86, method=6, lossless=False)
+    _bake_hero_on_bg(prepared).save(jpg, "JPEG", quality=86, optimize=True, progressive=True)
 
-    # Mobile variant (~480px wide)
     mobile_w = 480
     if img.width > mobile_w:
         ratio = mobile_w / img.width
@@ -409,13 +454,14 @@ def optimize_hero_images() -> tuple[int, int]:
         mobile = img.resize((mobile_w, int(img.height * ratio)), resample)
     else:
         mobile = img
+    mobile_prepared = _prepare_hero_cutout(mobile)
     mobile_webp = ROOT / "images" / "portrait-hero-480.webp"
     mobile_jpg = ROOT / "images" / "portrait-hero-480.jpg"
-    mobile.save(mobile_webp, "WEBP", quality=76, method=6)
-    mobile_composed = Image.alpha_composite(Image.new("RGBA", mobile.size, navy), mobile).convert("RGB")
-    mobile_composed.save(mobile_jpg, "JPEG", quality=80, optimize=True, progressive=True)
+    mobile_prepared.save(mobile_webp, "WEBP", quality=84, method=6, lossless=False)
+    _bake_hero_on_bg(mobile_prepared).save(
+        mobile_jpg, "JPEG", quality=84, optimize=True, progressive=True
+    )
 
-    # Drop legacy PNG from deploy tree if present
     legacy_png = ROOT / "images" / "portrait-hero.png"
     if legacy_png.exists():
         legacy_png.unlink()
@@ -424,9 +470,9 @@ def optimize_hero_images() -> tuple[int, int]:
         f"hero assets: webp {webp.stat().st_size // 1024} KB, "
         f"jpg {jpg.stat().st_size // 1024} KB, "
         f"mobile webp {mobile_webp.stat().st_size // 1024} KB "
-        f"({img.width}x{img.height})"
+        f"({prepared.width}x{prepared.height})"
     )
-    return img.width, img.height
+    return prepared.width, prepared.height
 
 
 def optimize_archive_images() -> None:
@@ -575,6 +621,15 @@ PRIVACY_I18N = {
 }
 
 
+def fill_missing_i18n(target: dict, source: dict) -> None:
+    """Add missing keys from English without overwriting existing translations."""
+    for key, val in source.items():
+        if key not in target:
+            target[key] = json.loads(json.dumps(val))
+        elif isinstance(val, dict) and isinstance(target.get(key), dict):
+            fill_missing_i18n(target[key], val)
+
+
 def merge_privacy_i18n(translations: dict) -> None:
     for lang, patch in PRIVACY_I18N.items():
         if lang in translations:
@@ -595,11 +650,16 @@ def split_i18n():
     translations = parse_js_const(trans_path)
     merge_privacy_i18n(translations)
     page_content = parse_js_const(content_path)
+    en_base = json.loads(json.dumps(translations["en"]))
+    if "en" in page_content:
+        deep_merge(en_base, page_content["en"])
 
     for lang in LANGS:
         merged = json.loads(json.dumps(translations.get(lang, translations["en"])))
         if lang in page_content:
             deep_merge(merged, page_content[lang])
+        if lang != "en":
+            fill_missing_i18n(merged, en_base)
         out = f"window.__LANG_{lang} = {json.dumps(merged, ensure_ascii=False, indent=2)};\n"
         (langs_dir / f"{lang}.js").write_text(out, encoding="utf-8")
 
@@ -699,6 +759,10 @@ def strip_font_import_from_css():
 
 
 def main():
+    import subprocess
+    import sys
+
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "audit_fixes.py")], check=True, cwd=ROOT)
     hero_dims = optimize_hero_images()
     optimize_archive_images()
     split_i18n()

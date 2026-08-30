@@ -257,7 +257,8 @@ const TRANSLATIONS = {
       "statusLegacy": "Legacy",
       "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
       "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
-      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system."
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "Lesson: infrastructure scale is earned through operational excellence long before the exit."
     },
     "career": {
       "eyebrow": "Professional Journey",
@@ -634,7 +635,8 @@ const TRANSLATIONS = {
       "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
       "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
       "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
-      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability."
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "Executive Brief"
     },
     "briefGenetic": {
       "title": "From Genetic Data to Clinical Decisions",
@@ -642,7 +644,8 @@ const TRANSLATIONS = {
       "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
       "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
       "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
-      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product."
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "Executive Brief"
     },
     "briefAi": {
       "title": "AI Strategy Beyond the Pilot",
@@ -650,7 +653,8 @@ const TRANSLATIONS = {
       "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
       "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
       "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
-      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy."
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "Executive Brief"
     }
   },
   "es": {
@@ -677,7 +681,16 @@ const TRANSLATIONS = {
       "mediaKit": "Kit de prensa",
       "groupMain": "Principal",
       "groupServices": "Servicios",
-      "groupWork": "Trabajo"
+      "groupWork": "Trabajo",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "Navegación",
@@ -690,7 +703,8 @@ const TRANSLATIONS = {
       "writeMessage": "Su mensaje",
       "writeSend": "Enviar",
       "writeSuccess": "Gracias — su mensaje ha sido enviado.",
-      "more": "Más"
+      "more": "Más",
+      "privacy": "Privacidad"
     },
     "meta": {
       "home": {
@@ -744,6 +758,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "Medicina de precisión y tecnología — Michael Kofman",
         "description": "Michael Kofman sobre la integración de las ciencias de la vida con IA, ML y tecnologías de ADN en la medicina moderna."
+      },
+      "privacy": {
+        "title": "Política de privacidad — Michael Kofman",
+        "description": "Política de privacidad de mkofman.com: formularios de contacto y analítica."
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -754,9 +804,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "Destacado entre las principales empresas de medicina de precisión y salud digital de EE. UU.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "Empresario del Año — reconocido por liderazgo y logros innovadores en plataformas e infraestructura.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. entre las 10 mejores empresas de EE. UU. en medicina de precisión y salud digital.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "Precisión de ingeniería y estrategia empresarial — desde sistemas satelitales hasta infraestructura de $19,5 mil millones y medicina de precisión.",
       "quote4author": "Executive Profile",
@@ -805,7 +855,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Construyó una de las mayores compañías de almacenamiento de datos del mundo, adquirida con una capitalización máxima de mercado de 19.500 millones de dólares.",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "Fundada y escalada desde su inicio hasta la salida a bolsa: Top 10 de compañías de medicina de precisión en EE. UU., 2023."
+      "cs2desc": "Fundada y escalada desde su inicio hasta la salida a bolsa: Top 10 de compañías de medicina de precisión en EE. UU., 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "Sobre Michael Kofman",
@@ -822,12 +884,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Idiomas",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "Contacto"
+      "contactLabel": "Contacto",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "Portafolio de empresas",
       "title": "Empresas fundadas y lideradas",
-      "lead": "Desde medicina de precisión y robótica hasta infraestructura global de datos — fundadas, escaladas y dirigidas en EE. UU. y Europa."
+      "lead": "Desde medicina de precisión y robótica hasta infraestructura global de datos — fundadas, escaladas y dirigidas en EE. UU. y Europa.",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "Lección: la escala en infraestructura se gana con excelencia operativa mucho antes de la salida."
     },
     "career": {
       "eyebrow": "Trayectoria profesional",
@@ -836,7 +925,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "Línea de tiempo",
       "timelineTitle": "Hitos clave",
       "strengthsEyebrow": "Fortalezas",
-      "strengthsTitle": "Áreas de experiencia"
+      "strengthsTitle": "Áreas de experiencia",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "Premios y honores",
@@ -876,7 +970,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "Servicios de asesoría",
@@ -899,7 +998,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "En los medios",
       "quotesTitle": "Reconocimiento del sector y citas",
       "articlesEyebrow": "Perspectivas",
-      "articlesTitle": "Perspectivas ejecutivas"
+      "articlesTitle": "Perspectivas ejecutivas",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "Trabajemos juntos",
@@ -922,7 +1049,34 @@ const TRANSLATIONS = {
       "process2desc": "Defina el formato (ponencia principal, panel, sesión de junta o mesa redonda ejecutiva) y la logística.",
       "process3title": "Genere impacto",
       "process3desc": "Las presentaciones se basan en resultados reales de iniciativas en almacenamiento de datos, govtech y medicina de precisión.",
-      "cta": "Solicitar una conferencia"
+      "cta": "Solicitar una conferencia",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "Casos de estudio",
@@ -943,7 +1097,15 @@ const TRANSLATIONS = {
       "cs2action": "Enfoque",
       "cs2actionText": "Fundé y escalé Digital Invest Inc. desde su inicio hasta una salida a bolsa exitosa. Dirigí todo el proceso de oferta pública: estructuración legal, cumplimiento financiero, roadshows con inversores y coordinación con la SEC. También dirigí el diseño, la construcción y la operación de múltiples centros de datos en EE. UU. y Europa.",
       "cs2result": "Resultado",
-      "cs2resultText": "Logramos un crecimiento financiero sostenido y posicionamos a la empresa entre las 10 principales compañías de medicina de precisión de EE. UU. (2023), con proyectos como Human Digital Model y BioMath Life."
+      "cs2resultText": "Logramos un crecimiento financiero sostenido y posicionamos a la empresa entre las 10 principales compañías de medicina de precisión de EE. UU. (2023), con proyectos como Human Digital Model y BioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "Prensa y eventos",
@@ -962,7 +1124,17 @@ const TRANSLATIONS = {
       "photosLead": "Retratos en alta resolución disponibles previa solicitud en mkofman@mkofman.com.",
       "contactEyebrow": "Contacto de prensa",
       "contactTitle": "Consultas de medios",
-      "contactLead": "Para entrevistas, invitaciones a conferencias y solicitudes de prensa."
+      "contactLead": "Para entrevistas, invitaciones a conferencias y solicitudes de prensa.",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← Volver a Insights",
@@ -978,6 +1150,169 @@ const TRANSLATIONS = {
       "article2p2": "Bajo mi liderazgo, se iniciaron proyectos exitosos de pruebas genéticas en Ucrania, Rusia y los países bálticos. En colaboración con Harvard Medical School y Stanford Biomath, desempeñé un papel clave en el desarrollo de reportes genéticos fáciles de comprender para médicos y pacientes.",
       "article2p3": "Con Digital Invest Inc., fundada en 2021, nos dedicamos al ámbito bio-matemático, transformando enfoques médicos obsoletos mediante ciencia, tecnologías de ADN, IA y ML. La empresa se escaló desde su inicio hasta una salida a bolsa exitosa y fue reconocida entre las 10 mejores compañías de EE. UU. en medicina de precisión y salud digital en 2023.",
       "article2p4": "Digital Invest impulsa la medicina biomatemática con proyectos como Human Digital Model y BioMath Life. En 2026, Michael Kofman fundó AGRON Inc. para liderar la Aerial-Ground Robotics Operations Network — desarrollo de capacidades UAV, sistemas geoespaciales e inteligencia marítima en agron1.com."
+    },
+    "privacy": {
+      "eyebrow": "Legal",
+      "title": "Política de privacidad",
+      "lead": "Cómo mkofman.com trata la información cuando visita el sitio o envía un mensaje.",
+      "updated": "Actualizado: julio de 2026",
+      "s1title": "Información que recopilamos",
+      "s1text": "Al enviar un formulario, recibimos los campos que usted proporciona (nombre, email, mensaje). Si la analítica está activa, podemos recopilar datos de uso anonimizados.",
+      "s2title": "Cómo usamos la información",
+      "s2text": "Los formularios se usan para responder consultas y mejorar el sitio. No vendemos datos personales.",
+      "s3title": "Servicios de terceros",
+      "s3text": "Los formularios pueden procesarse con Formspree. La analítica puede usar Plausible o Google Analytics si está configurada.",
+      "s4title": "Sus derechos",
+      "s4text": "Puede solicitar acceso, corrección o eliminación escribiendo a mkofman@mkofman.com.",
+      "s5title": "Contacto",
+      "s5text": "Preguntas sobre esta política: mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "Informe ejecutivo"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "Informe ejecutivo"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "Informe ejecutivo"
     }
   },
   "de": {
@@ -1004,7 +1339,16 @@ const TRANSLATIONS = {
       "mediaKit": "Pressemappe",
       "groupMain": "Hauptmenü",
       "groupServices": "Leistungen",
-      "groupWork": "Referenzen"
+      "groupWork": "Referenzen",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "Navigation",
@@ -1017,7 +1361,8 @@ const TRANSLATIONS = {
       "writeMessage": "Ihre Nachricht",
       "writeSend": "Senden",
       "writeSuccess": "Vielen Dank — Ihre Nachricht wurde gesendet.",
-      "more": "Mehr"
+      "more": "Mehr",
+      "privacy": "Datenschutz"
     },
     "meta": {
       "home": {
@@ -1071,6 +1416,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "Präzisionsmedizin und Technologie — Michael Kofman",
         "description": "Michael Kofman über die Verbindung von Life Sciences mit KI, ML und DNA-Technologien in der modernen Medizin."
+      },
+      "privacy": {
+        "title": "Datenschutz — Michael Kofman",
+        "description": "Datenschutzerklärung für mkofman.com — Kontaktformulare und Analyse."
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -1081,9 +1462,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "Ausgewiesen als eines der führenden Unternehmen der USA in Präzisionsmedizin und Digital Health.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "Unternehmer des Jahres — ausgezeichnet für Führung und Durchbrüche in Plattforminnovation und Infrastruktur.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. zu den Top-10-Unternehmen der USA in Präzisionsmedizin und Digital Health.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "Ingenieurpräzision und Geschäftsstrategie — von Satellitensystemen über $19,5 Mrd. Infrastruktur bis zur Präzisionsmedizin.",
       "quote4author": "Executive Profile",
@@ -1132,7 +1513,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Aufbau eines der weltweit größten Data-Storage-Unternehmen, übernommen bei einem Spitzenmarktwert von 19,5 Milliarden US-Dollar.",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "Vom Start bis zum IPO aufgebaut und skaliert - Top-10-US-Unternehmen für Präzisionsmedizin, 2023."
+      "cs2desc": "Vom Start bis zum IPO aufgebaut und skaliert - Top-10-US-Unternehmen für Präzisionsmedizin, 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "Über Michael Kofman",
@@ -1149,12 +1542,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Sprachen",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "Kontakt"
+      "contactLabel": "Kontakt",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "Unternehmensportfolio",
       "title": "Gegründete und geführte Unternehmen",
-      "lead": "Von Präzisionsmedizin und Robotik bis zur globalen Dateninfrastruktur — gegründet, skaliert und geführt in den USA und Europa."
+      "lead": "Von Präzisionsmedizin und Robotik bis zur globalen Dateninfrastruktur — gegründet, skaliert und geführt in den USA und Europa.",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "Lehre: Infrastruktur-Skalierung entsteht durch operative Exzellenz lange vor dem Exit."
     },
     "career": {
       "eyebrow": "Beruflicher Werdegang",
@@ -1163,7 +1583,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "Zeitleiste",
       "timelineTitle": "Meilensteine",
       "strengthsEyebrow": "Kernkompetenzen",
-      "strengthsTitle": "Expertise"
+      "strengthsTitle": "Expertise",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "Auszeichnungen",
@@ -1203,7 +1628,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "Beratungsleistungen",
@@ -1226,7 +1656,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "In den Medien",
       "quotesTitle": "Branchenanerkennung & Zitate",
       "articlesEyebrow": "Perspektiven",
-      "articlesTitle": "Executive-Perspektiven"
+      "articlesTitle": "Executive-Perspektiven",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "Zusammenarbeiten",
@@ -1249,7 +1707,34 @@ const TRANSLATIONS = {
       "process2desc": "Format (Keynote, Panel, Board-Session oder Executive Roundtable) und Logistik abstimmen.",
       "process3title": "Mehrwert liefern",
       "process3desc": "Die Vorträge basieren auf realen Ergebnissen aus Projekten in Data Storage, GovTech und Präzisionsmedizin.",
-      "cta": "Vortragsanfrage senden"
+      "cta": "Vortragsanfrage senden",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "Fallstudien",
@@ -1270,7 +1755,15 @@ const TRANSLATIONS = {
       "cs2action": "Ansatz",
       "cs2actionText": "Ich gründete und skalierte Digital Invest Inc. vom Start bis zu einem erfolgreichen IPO. Ich leitete den gesamten Börsengangsprozess: rechtliche Strukturierung, finanzielle Compliance, Investoren-Roadshows und SEC-Koordination. Zudem verantwortete ich Planung, Bau und Betrieb mehrerer Rechenzentren in den USA und Europa.",
       "cs2result": "Ergebnis",
-      "cs2resultText": "Stetiges finanzielles Wachstum positionierte das Unternehmen unter den Top 10 Präzisionsmedizin-Unternehmen in den USA (2023), mit Projekten wie Human Digital Model und BioMath Life."
+      "cs2resultText": "Stetiges finanzielles Wachstum positionierte das Unternehmen unter den Top 10 Präzisionsmedizin-Unternehmen in den USA (2023), mit Projekten wie Human Digital Model und BioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "Presse und Events",
@@ -1289,7 +1782,17 @@ const TRANSLATIONS = {
       "photosLead": "Hochauflösende Porträts sind auf Anfrage unter mkofman@mkofman.com erhältlich.",
       "contactEyebrow": "Pressekontakt",
       "contactTitle": "Medienanfragen",
-      "contactLead": "Für Interviews, Vortragseinladungen und Presseanfragen."
+      "contactLead": "Für Interviews, Vortragseinladungen und Presseanfragen.",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← Zurück zu Insights",
@@ -1305,6 +1808,169 @@ const TRANSLATIONS = {
       "article2p2": "Unter meiner Leitung wurden erfolgreiche genetische Testprojekte in der Ukraine, in Russland und in den baltischen Staaten initiiert. In Zusammenarbeit mit Harvard Medical School und Stanford Biomath spielte ich eine entscheidende Rolle bei der Entwicklung leicht verständlicher genetischer Berichte für Ärzte und Patienten.",
       "article2p3": "Mit Digital Invest Inc., gegründet 2021, widmen wir uns dem bio-mathematischen Bereich und transformieren veraltete medizinische Ansätze mithilfe von Wissenschaft, DNA-Technologien, KI und ML. Das Unternehmen wurde vom Start bis zu einem erfolgreichen IPO skaliert und 2023 als eines der Top 10 Unternehmen der USA in Präzisionsmedizin und Digital Health ausgezeichnet.",
       "article2p4": "Digital Invest treibt biomathematische Medizin mit Projekten wie Human Digital Model und BioMath Life voran. 2026 gründete Michael Kofman AGRON Inc., um das Aerial-Ground Robotics Operations Network aufzubauen — UAV-Fähigkeiten, Geodaten und maritime Intelligence auf agron1.com."
+    },
+    "privacy": {
+      "eyebrow": "Rechtliches",
+      "title": "Datenschutzerklärung",
+      "lead": "Wie mkofman.com Informationen verarbeitet, wenn Sie die Website besuchen oder eine Nachricht senden.",
+      "updated": "Stand: Juli 2026",
+      "s1title": "Welche Daten wir erheben",
+      "s1text": "Bei Formularübermittlungen erhalten wir die von Ihnen angegebenen Felder. Bei aktivierter Analyse anonymisierte Nutzungsdaten.",
+      "s2title": "Verwendung der Daten",
+      "s2text": "Formulare dienen der Beantwortung von Anfragen und der Verbesserung der Website. Wir verkaufen keine personenbezogenen Daten.",
+      "s3title": "Drittanbieter",
+      "s3text": "Formulare können über Formspree verarbeitet werden. Analyse optional über Plausible oder Google Analytics.",
+      "s4title": "Ihre Rechte",
+      "s4text": "Auskunft, Berichtigung oder Löschung: mkofman@mkofman.com.",
+      "s5title": "Kontakt",
+      "s5text": "Fragen zu dieser Richtlinie: mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "Executive Brief"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "Executive Brief"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "Executive Brief"
     }
   },
   "fr": {
@@ -1331,7 +1997,16 @@ const TRANSLATIONS = {
       "mediaKit": "Kit média",
       "groupMain": "Principal",
       "groupServices": "Services",
-      "groupWork": "Réalisations"
+      "groupWork": "Réalisations",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "Navigation",
@@ -1344,7 +2019,8 @@ const TRANSLATIONS = {
       "writeMessage": "Votre message",
       "writeSend": "Envoyer",
       "writeSuccess": "Merci — votre message a été envoyé.",
-      "more": "Plus"
+      "more": "Plus",
+      "privacy": "Confidentialité"
     },
     "meta": {
       "home": {
@@ -1398,6 +2074,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "Médecine de précision et technologie — Michael Kofman",
         "description": "Michael Kofman sur la convergence des sciences de la vie avec l'IA, le ML et les technologies ADN dans la médecine moderne."
+      },
+      "privacy": {
+        "title": "Politique de confidentialité — Michael Kofman",
+        "description": "Politique de confidentialité de mkofman.com — formulaires et analytique."
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -1408,9 +2120,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "Figurant parmi les principales entreprises américaines en médecine de précision et santé numérique.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "Entrepreneur de l'année — reconnu pour son leadership et ses réalisations en innovation de plateformes et infrastructure.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. parmi les 10 meilleures entreprises américaines en médecine de précision et santé numérique.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "Précision d'ingénierie et stratégie commerciale — des systèmes satellites à une infrastructure de 19,5 milliards $ et à la médecine de précision.",
       "quote4author": "Executive Profile",
@@ -1459,7 +2171,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "A construit l'une des plus grandes sociétés mondiales de Data Storage, acquise avec une capitalisation boursière maximale de 19,5 milliards de dollars.",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "Fondée et développée de sa création jusqu'à l'IPO : Top 10 des entreprises américaines de médecine de précision en 2023."
+      "cs2desc": "Fondée et développée de sa création jusqu'à l'IPO : Top 10 des entreprises américaines de médecine de précision en 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "À propos",
@@ -1476,12 +2200,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Langues",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "Contact"
+      "contactLabel": "Contact",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "Portefeuille",
       "title": "Entreprises fondées et dirigées",
-      "lead": "De la médecine de précision et la robotique à l'infrastructure mondiale de données — fondées, développées et dirigées aux États-Unis et en Europe."
+      "lead": "De la médecine de précision et la robotique à l'infrastructure mondiale de données — fondées, développées et dirigées aux États-Unis et en Europe.",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "Leçon : l'échelle en infrastructure se gagne par l'excellence opérationnelle bien avant la sortie."
     },
     "career": {
       "eyebrow": "Parcours professionnel",
@@ -1490,7 +2241,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "Chronologie",
       "timelineTitle": "Jalons clés",
       "strengthsEyebrow": "Forces",
-      "strengthsTitle": "Domaines d'expertise"
+      "strengthsTitle": "Domaines d'expertise",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "Distinctions",
@@ -1530,7 +2286,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "Services de conseil",
@@ -1553,7 +2314,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "Dans les médias",
       "quotesTitle": "Reconnaissance sectorielle et citations",
       "articlesEyebrow": "Points de vue",
-      "articlesTitle": "Perspectives dirigeantes"
+      "articlesTitle": "Perspectives dirigeantes",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "Collaborons",
@@ -1576,7 +2365,34 @@ const TRANSLATIONS = {
       "process2desc": "Définissez le format (keynote, panel, session de conseil d'administration ou table ronde exécutive) et la logistique.",
       "process3title": "Créer de la valeur",
       "process3desc": "Les interventions s'appuient sur des résultats concrets obtenus dans le data storage, la govtech et la médecine de précision.",
-      "cta": "Demander une intervention"
+      "cta": "Demander une intervention",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "Études de cas",
@@ -1597,7 +2413,15 @@ const TRANSLATIONS = {
       "cs2action": "Approche",
       "cs2actionText": "J'ai fondé et développé Digital Invest Inc. de sa création à une introduction en bourse réussie. J'ai dirigé l'ensemble du processus d'IPO : structuration juridique, conformité financière, roadshows investisseurs et coordination avec la SEC. J'ai également piloté la conception, la construction et l'exploitation de plusieurs data centers aux États-Unis et en Europe.",
       "cs2result": "Résultat",
-      "cs2resultText": "Nous avons atteint une croissance financière soutenue, positionnant l'entreprise parmi les 10 meilleures sociétés de médecine de précision aux États-Unis (2023), avec des projets comme Human Digital Model et BioMath Life."
+      "cs2resultText": "Nous avons atteint une croissance financière soutenue, positionnant l'entreprise parmi les 10 meilleures sociétés de médecine de précision aux États-Unis (2023), avec des projets comme Human Digital Model et BioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "Presse et événements",
@@ -1616,7 +2440,17 @@ const TRANSLATIONS = {
       "photosLead": "Portraits en haute résolution disponibles sur demande à mkofman@mkofman.com.",
       "contactEyebrow": "Contact presse",
       "contactTitle": "Demandes médias",
-      "contactLead": "Pour les interviews, invitations à intervenir et demandes presse."
+      "contactLead": "Pour les interviews, invitations à intervenir et demandes presse.",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← Retour vers Insights",
@@ -1632,6 +2466,169 @@ const TRANSLATIONS = {
       "article2p2": "Sous ma direction, des projets réussis de tests génétiques ont été lancés en Ukraine, en Russie et dans les pays baltes. En collaboration avec Harvard Medical School et Stanford Biomath, j'ai joué un rôle clé dans le développement de rapports génétiques faciles à comprendre pour les médecins comme pour les patients.",
       "article2p3": "Avec Digital Invest Inc., fondée en 2021, nous nous consacrons au domaine bio-mathématique, transformant les approches médicales obsolètes grâce à la science, aux technologies ADN, à l'IA et au ML. L'entreprise a été développée de sa création jusqu'à une introduction en bourse réussie et reconnue parmi les 10 meilleures entreprises américaines de médecine de précision et de santé numérique en 2023.",
       "article2p4": "Digital Invest fait progresser la médecine bio-mathématique via des projets comme Human Digital Model et BioMath Life. En 2026, Michael Kofman a fondé AGRON Inc. pour diriger l'Aerial-Ground Robotics Operations Network — capacités UAV, systèmes géospatiaux et renseignement maritime sur agron1.com."
+    },
+    "privacy": {
+      "eyebrow": "Mentions légales",
+      "title": "Politique de confidentialité",
+      "lead": "Comment mkofman.com traite les informations lors de votre visite ou de l'envoi d'un message.",
+      "updated": "Mise à jour : juillet 2026",
+      "s1title": "Informations collectées",
+      "s1text": "Lors de l'envoi d'un formulaire, nous recevons les champs fournis. Si l'analytique est activée, des données d'usage anonymisées peuvent être collectées.",
+      "s2title": "Utilisation des informations",
+      "s2text": "Les formulaires servent à répondre aux demandes et à améliorer le site. Nous ne vendons pas de données personnelles.",
+      "s3title": "Services tiers",
+      "s3text": "Les formulaires peuvent être traités par Formspree. Analytique via Plausible ou Google Analytics si configurée.",
+      "s4title": "Vos droits",
+      "s4text": "Accès, rectification ou suppression : mkofman@mkofman.com.",
+      "s5title": "Contact",
+      "s5text": "Questions sur cette politique : mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "Note exécutive"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "Note exécutive"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "Note exécutive"
     }
   },
   "ru": {
@@ -1666,7 +2663,8 @@ const TRANSLATIONS = {
       "briefGenetic": "Бриф: генетические данные",
       "briefAi": "Бриф: стратегия ИИ",
       "articleInfra": "Data Infrastructure",
-      "articleHealth": "Precision Medicine"
+      "articleHealth": "Precision Medicine",
+      "ip": "Интеллектуальная собственность"
     },
     "footer": {
       "navigation": "Навигация",
@@ -1679,7 +2677,8 @@ const TRANSLATIONS = {
       "writeMessage": "Ваше сообщение",
       "writeSend": "Отправить",
       "writeSuccess": "Спасибо — ваше сообщение отправлено.",
-      "more": "Ещё"
+      "more": "Ещё",
+      "privacy": "Privacy Policy"
     },
     "meta": {
       "home": {
@@ -1761,6 +2760,14 @@ const TRANSLATIONS = {
       "briefAi": {
         "title": "Стратегия ИИ за пределами пилота — Майкл Кофман",
         "description": "Краткий материал о переходе от экспериментов с искусственным интеллектом к управляемым и измеримым корпоративным возможностям."
+      },
+      "privacy": {
+        "title": "Privacy Policy — Michael Kofman",
+        "description": "Privacy policy for mkofman.com — how we handle contact form data and site analytics."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -1832,7 +2839,9 @@ const TRANSLATIONS = {
       "videoEyebrow": "Взгляд руководителя",
       "videoTitle": "Лидерство на пересечении технологий и бизнеса",
       "videoLead": "Краткое знакомство с принципами, опытом и долгосрочным подходом, лежащими в основе работы Майкла Кофмана.",
-      "videoCta": "Читать Leadership Thesis →"
+      "videoCta": "Читать Leadership Thesis →",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Основана в 2026 году — экосистема AGRON для БПЛА, геопространственных систем и морской разведки."
     },
     "about": {
       "eyebrow": "О Michael Kofman",
@@ -1880,7 +2889,8 @@ const TRANSLATIONS = {
       "statusLegacy": "Исторический",
       "v1lesson": "Урок: инфраструктура побеждает, когда надёжность, экономика и доверие клиентов улучшаются одновременно.",
       "v2lesson": "Урок: точная медицина требует одинаковой дисциплины в науке, программном обеспечении, конфиденциальности и клинической пользе.",
-      "v3lesson": "Урок: автономность создаёт ценность только тогда, когда сенсоры, связь и контроль человека образуют единую устойчивую систему."
+      "v3lesson": "Урок: автономность создаёт ценность только тогда, когда сенсоры, связь и контроль человека образуют единую устойчивую систему.",
+      "v5lesson": "Урок: масштаб в инфраструктуре создаётся операционным совершенством задолго до exit."
     },
     "career": {
       "eyebrow": "Профессиональный путь",
@@ -2061,7 +3071,15 @@ const TRANSLATIONS = {
       "cs2action": "Подход",
       "cs2actionText": "Основана и масштабирована Digital Invest Inc. от старта до успешного IPO. Руководство полным процессом публичного размещения.",
       "cs2result": "Результат",
-      "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты Human Digital Model и BioMath Life."
+      "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты Human Digital Model и BioMath Life.",
+      "cs3eyebrow": "Робототехника и БПЛА · 2026 — настоящее время",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Задача",
+      "cs3challengeText": "Создать экосистему для разработки БПЛА, геопространственных систем и морской разведки.",
+      "cs3action": "Подход",
+      "cs3actionText": "AGRON Ecosystem объединяет Global Drone Academy, AGRON, ISDRI и GUARD.",
+      "cs3result": "Результат",
+      "cs3resultText": "Программы в 10+ странах, более 10 000 операторов и специалистов БПЛА."
     },
     "mediaKit": {
       "eyebrow": "Пресса и мероприятия",
@@ -2086,7 +3104,11 @@ const TRANSLATIONS = {
       "brandLead": "Утверждённые визуальные материалы для редакций, конференций и партнёров. Просьба сохранять пропорции, отступы и исходные цвета.",
       "brandColors": "Официальная цветовая палитра",
       "brandLogo": "Основной логотип",
-      "brandDownload": "Скачать фирменные материалы"
+      "brandDownload": "Скачать фирменные материалы",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF"
     },
     "articles": {
       "backLink": "← Назад к Insights",
@@ -2229,7 +3251,8 @@ const TRANSLATIONS = {
       "p1": "Первичное размещение часто называют событием по привлечению капитала. На практике это институциональный переход. Прогнозирование, контроль, раскрытие информации, управление и коммуникация руководства должны стать воспроизводимыми до листинга, а не после него.",
       "p2": "Готовность начинается с качества решений. Руководству нужны надёжные показатели, ясная ответственность и рабочий ритм, позволяющий объяснять как результаты, так и отклонения. Компания, не способная согласовать внутреннюю картину, не сможет убедительно представить её внешней аудитории.",
       "p3": "Меняется и роль совета директоров. Директорам необходимо сочетать рост с надзором, понимать существенные технологические и рыночные риски и следить, чтобы стимулы поддерживали долгосрочную ценность, а не один квартал.",
-      "p4": "Сильнейшие публичные компании сохраняют предпринимательскую скорость и одновременно приобретают институциональную дисциплину. Цель не в бюрократии, а в надёжном исполнении при более высокой ответственности."
+      "p4": "Сильнейшие публичные компании сохраняют предпринимательскую скорость и одновременно приобретают институциональную дисциплину. Цель не в бюрократии, а в надёжном исполнении при более высокой ответственности.",
+      "eyebrow": "Исполнительный бриф"
     },
     "briefGenetic": {
       "title": "От генетических данных к клиническим решениям",
@@ -2237,7 +3260,8 @@ const TRANSLATIONS = {
       "p1": "Генетических данных много, а клинически полезного смысла мало. Результат приобретает ценность, только когда он интерпретирован в контексте, связан с проверенными доказательствами и представлен в форме, поддерживающей реальное решение.",
       "p2": "Такой перевод требует сотрудничества молекулярной биологии, медицины, статистики, программной инженерии и коммуникации с пациентом. Слабость любого слоя превращает техническую сложность в клиническую путаницу.",
       "p3": "Конфиденциальность и согласие — требования к архитектуре, а не юридические примечания. Системы должны ограничивать лишний доступ, показывать происхождение данных и сохранять право пациента на выбор при передаче информации между лабораториями, платформами и врачами.",
-      "p4": "Точная медицина будет развиваться через взвешенную интеграцию: более качественные доказательства, прозрачные модели, совместимые процессы и результаты, которые могут оценить врачи и пациенты. Доверие — часть продукта."
+      "p4": "Точная медицина будет развиваться через взвешенную интеграцию: более качественные доказательства, прозрачные модели, совместимые процессы и результаты, которые могут оценить врачи и пациенты. Доверие — часть продукта.",
+      "eyebrow": "Исполнительный бриф"
     },
     "briefAi": {
       "title": "Стратегия ИИ за пределами пилота",
@@ -2245,7 +3269,24 @@ const TRANSLATIONS = {
       "p1": "Многие инициативы в области ИИ начинаются с впечатляющей демонстрации и останавливаются до промышленного внедрения. Причина редко заключается только в модели. Устойчивая ценность требует определённого бизнес-результата, ответственного владельца, надёжных данных и процесса, которым люди действительно будут пользоваться.",
       "p2": "Руководителям следует различать автоматизацию, прогнозирование и поддержку решений. Для каждого направления нужны свои требования к точности, объяснимости, контролю человека и риску. Единый шаблон управления не подходит всем случаям.",
       "p3": "Измерение не должно ограничиваться техническими показателями. Внедрение, длительность цикла, ошибки, влияние на клиента, безопасность и стоимость контроля определяют экономическую и институциональную состоятельность ИИ.",
-      "p4": "Выигрышный подход — управляемый портфель: масштабировать доказавшие ценность решения, рано прекращать слабые и устанавливать явные границы для решений с серьёзными последствиями. Стратегия ИИ — это в конечном счёте операционная стратегия."
+      "p4": "Выигрышный подход — управляемый портфель: масштабировать доказавшие ценность решения, рано прекращать слабые и устанавливать явные границы для решений с серьёзными последствиями. Стратегия ИИ — это в конечном счёте операционная стратегия.",
+      "eyebrow": "Исполнительный бриф"
+    },
+    "privacy": {
+      "eyebrow": "Legal",
+      "title": "Privacy Policy",
+      "lead": "This policy explains how mkofman.com handles information when you visit the site or send a message.",
+      "updated": "Last updated: July 2026",
+      "s1title": "Information We Collect",
+      "s1text": "When you submit a contact or footer form, we receive the fields you provide (such as name, email, and message). If analytics are enabled, we may collect anonymized usage data (pages visited, referrer, device type).",
+      "s2title": "How We Use Information",
+      "s2text": "Form submissions are used to respond to your inquiry. Analytics help improve the website. We do not sell personal data.",
+      "s3title": "Third-Party Services",
+      "s3text": "Forms may be processed by Formspree. Analytics may use Plausible or Google Analytics if configured. These providers have their own privacy policies.",
+      "s4title": "Your Rights",
+      "s4text": "You may request access, correction, or deletion of your data by emailing mkofman@mkofman.com.",
+      "s5title": "Contact",
+      "s5text": "Questions about this policy: mkofman@mkofman.com"
     }
   },
   "uk": {
@@ -2280,7 +3321,8 @@ const TRANSLATIONS = {
       "briefGenetic": "Бриф: генетичні дані",
       "briefAi": "Бриф: стратегія ШІ",
       "articleInfra": "Data Infrastructure",
-      "articleHealth": "Precision Medicine"
+      "articleHealth": "Precision Medicine",
+      "ip": "Інтелектуальна власність"
     },
     "footer": {
       "navigation": "Навігація",
@@ -2293,7 +3335,8 @@ const TRANSLATIONS = {
       "writeMessage": "Ваше повідомлення",
       "writeSend": "Надіслати",
       "writeSuccess": "Дякуємо — ваше повідомлення надіслано.",
-      "more": "Більше"
+      "more": "Більше",
+      "privacy": "Конфіденційність"
     },
     "meta": {
       "home": {
@@ -2375,6 +3418,14 @@ const TRANSLATIONS = {
       "briefAi": {
         "title": "Стратегія ШІ за межами пілота — Майкл Кофман",
         "description": "Стислий матеріал про перехід від експериментів зі штучним інтелектом до керованих і вимірюваних корпоративних можливостей."
+      },
+      "privacy": {
+        "title": "Політика конфіденційності — Michael Kofman",
+        "description": "Політика конфіденційності mkofman.com — форми та аналітика."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -2385,9 +3436,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "Digital Invest Inc. — серед провідних компаній США в precision medicine та digital health.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "Підприємець року — за лідерство та проривні досягнення в платформних інноваціях і інфраструктурі.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. — серед 10 найкращих компаній США в precision medicine та digital health.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "Інженерна точність і бізнес-стратегія — від супутникових систем до інфраструктури на $19,5 млрд і precision medicine.",
       "quote4author": "Executive Profile",
@@ -2446,7 +3497,9 @@ const TRANSLATIONS = {
       "videoEyebrow": "Погляд керівника",
       "videoTitle": "Лідерство на перетині технологій і бізнесу",
       "videoLead": "Стисле знайомство з принципами, досвідом і довгостроковим підходом, що лежать в основі роботи Майкла Кофмана.",
-      "videoCta": "Читати Leadership Thesis →"
+      "videoCta": "Читати Leadership Thesis →",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Заснована у 2026 році — екосистема AGRON для БПЛА, геопространствених систем і морської розвідки."
     },
     "about": {
       "eyebrow": "Про Michael Kofman",
@@ -2494,7 +3547,8 @@ const TRANSLATIONS = {
       "statusLegacy": "Історичний",
       "v1lesson": "Урок: інфраструктура перемагає, коли надійність, економіка й довіра клієнтів покращуються одночасно.",
       "v2lesson": "Урок: точна медицина потребує однакової дисципліни в науці, програмному забезпеченні, конфіденційності та клінічній користі.",
-      "v3lesson": "Урок: автономність створює цінність лише тоді, коли сенсори, зв'язок і контроль людини утворюють єдину стійку систему."
+      "v3lesson": "Урок: автономність створює цінність лише тоді, коли сенсори, зв'язок і контроль людини утворюють єдину стійку систему.",
+      "v5lesson": "Урок: масштаб у інфраструктурі досягається операційною досконалістю задовго до exit."
     },
     "career": {
       "eyebrow": "Професійний шлях",
@@ -2675,7 +3729,15 @@ const TRANSLATIONS = {
       "cs2action": "Підхід",
       "cs2actionText": "Digital Invest Inc. була заснована та масштабована від старту до успішного IPO. Було очолено повний процес публічного розміщення: юридичне структурування, фінансовий комплаєнс, роудшоу для інвесторів і координацію із SEC. Також було організовано проєктування, будівництво та операційну діяльність кількох дата-центрів у США та Європі.",
       "cs2result": "Результат",
-      "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023), з проєктами Human Digital Model і BioMath Life."
+      "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023), з проєктами Human Digital Model і BioMath Life.",
+      "cs3eyebrow": "Робототехніка та БПЛА · 2026 — сьогодні",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Завдання",
+      "cs3challengeText": "Створити екосистему для розробки БПЛА, геопространственних систем і морської розвідки.",
+      "cs3action": "Підхід",
+      "cs3actionText": "AGRON Ecosystem об'єднує Global Drone Academy, AGRON, ISDRI та GUARD.",
+      "cs3result": "Результат",
+      "cs3resultText": "Програми у 10+ країнах, понад 10 000 операторів і фахівців БПЛА."
     },
     "mediaKit": {
       "eyebrow": "Преса та події",
@@ -2700,7 +3762,11 @@ const TRANSLATIONS = {
       "brandLead": "Затверджені візуальні матеріали для редакцій, конференцій і партнерів. Просимо зберігати пропорції, відступи та оригінальні кольори.",
       "brandColors": "Офіційна колірна палітра",
       "brandLogo": "Основний логотип",
-      "brandDownload": "Завантажити фірмові матеріали"
+      "brandDownload": "Завантажити фірмові матеріали",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF"
     },
     "articles": {
       "backLink": "← Назад до Insights",
@@ -2843,7 +3909,8 @@ const TRANSLATIONS = {
       "p1": "Первинне розміщення часто називають подією із залучення капіталу. Насправді це інституційний перехід. Прогнозування, контроль, розкриття інформації, управління та комунікація керівництва мають стати відтворюваними до лістингу, а не після нього.",
       "p2": "Готовність починається з якості рішень. Керівництву потрібні надійні показники, чітка відповідальність і робочий ритм, що дає змогу пояснювати як результати, так і відхилення. Компанія, яка не може узгодити внутрішню картину, не зможе переконливо представити її зовнішній аудиторії.",
       "p3": "Змінюється і роль ради директорів. Директорам необхідно поєднувати зростання з наглядом, розуміти суттєві технологічні й ринкові ризики та стежити, щоб стимули підтримували довгострокову цінність, а не один квартал.",
-      "p4": "Найсильніші публічні компанії зберігають підприємницьку швидкість і водночас набувають інституційної дисципліни. Мета не в бюрократії, а в надійному виконанні за вищої відповідальності."
+      "p4": "Найсильніші публічні компанії зберігають підприємницьку швидкість і водночас набувають інституційної дисципліни. Мета не в бюрократії, а в надійному виконанні за вищої відповідальності.",
+      "eyebrow": "Виконавчий бриф"
     },
     "briefGenetic": {
       "title": "Від генетичних даних до клінічних рішень",
@@ -2851,7 +3918,8 @@ const TRANSLATIONS = {
       "p1": "Генетичних даних багато, а клінічно корисного змісту мало. Результат набуває цінності лише тоді, коли його інтерпретовано в контексті, пов'язано з перевіреними доказами та подано у формі, що підтримує реальне рішення.",
       "p2": "Такий переклад вимагає співпраці молекулярної біології, медицини, статистики, програмної інженерії та комунікації з пацієнтом. Слабкість будь-якого шару перетворює технічну складність на клінічну плутанину.",
       "p3": "Конфіденційність і згода — вимоги до архітектури, а не юридичні примітки. Системи мають обмежувати зайвий доступ, показувати походження даних і зберігати право пацієнта на вибір під час передавання інформації між лабораторіями, платформами та лікарями.",
-      "p4": "Точна медицина розвиватиметься через зважену інтеграцію: кращі докази, прозорі моделі, сумісні процеси й результати, які можуть оцінити лікарі та пацієнти. Довіра — частина продукту."
+      "p4": "Точна медицина розвиватиметься через зважену інтеграцію: кращі докази, прозорі моделі, сумісні процеси й результати, які можуть оцінити лікарі та пацієнти. Довіра — частина продукту.",
+      "eyebrow": "Виконавчий бриф"
     },
     "briefAi": {
       "title": "Стратегія ШІ за межами пілота",
@@ -2859,7 +3927,24 @@ const TRANSLATIONS = {
       "p1": "Багато ініціатив у сфері ШІ починаються з переконливої демонстрації та зупиняються до промислового впровадження. Причина рідко полягає лише в моделі. Стійка цінність потребує визначеного бізнес-результату, відповідального власника, надійних даних і процесу, яким люди справді користуватимуться.",
       "p2": "Керівникам слід розрізняти автоматизацію, прогнозування та підтримку рішень. Для кожного напряму потрібні свої вимоги до точності, пояснюваності, контролю людини й ризику. Єдиний шаблон управління не підходить усім випадкам.",
       "p3": "Вимірювання не повинно обмежуватися технічними показниками. Впровадження, тривалість циклу, помилки, вплив на клієнта, безпека та вартість контролю визначають економічну й інституційну спроможність ШІ.",
-      "p4": "Виграшний підхід — керований портфель: масштабувати рішення з доведеною цінністю, рано припиняти слабкі та встановлювати чіткі межі для рішень із серйозними наслідками. Стратегія ШІ — це зрештою операційна стратегія."
+      "p4": "Виграшний підхід — керований портфель: масштабувати рішення з доведеною цінністю, рано припиняти слабкі та встановлювати чіткі межі для рішень із серйозними наслідками. Стратегія ШІ — це зрештою операційна стратегія.",
+      "eyebrow": "Виконавчий бриф"
+    },
+    "privacy": {
+      "eyebrow": "Правова інформація",
+      "title": "Політика конфіденційності",
+      "lead": "Як mkofman.com обробляє інформацію під час відвідування сайту або надсилання повідомлення.",
+      "updated": "Оновлено: липень 2026",
+      "s1title": "Які дані збираємо",
+      "s1text": "Під час надсилання форми отримуємо вказані вами поля. За увімкненої аналітики — анонімізовані дані відвідувань.",
+      "s2title": "Як використовуємо дані",
+      "s2text": "Для відповіді на запити та покращення сайту. Персональні дані не продаємо.",
+      "s3title": "Сторонні сервіси",
+      "s3text": "Форми можуть оброблятися Formspree. Аналітика — Plausible або Google Analytics за налаштуванням.",
+      "s4title": "Ваші права",
+      "s4text": "Запит доступу, виправлення або видалення: mkofman@mkofman.com.",
+      "s5title": "Контакт",
+      "s5text": "Питання щодо політики: mkofman@mkofman.com"
     }
   },
   "zh": {
@@ -2886,7 +3971,16 @@ const TRANSLATIONS = {
       "mediaKit": "媒体资料包",
       "groupMain": "主要",
       "groupServices": "服务",
-      "groupWork": "成果"
+      "groupWork": "成果",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "导航",
@@ -2899,7 +3993,8 @@ const TRANSLATIONS = {
       "writeMessage": "您的留言",
       "writeSend": "发送",
       "writeSuccess": "谢谢 — 您的留言已发送。",
-      "more": "更多"
+      "more": "更多",
+      "privacy": "隐私政策"
     },
     "meta": {
       "home": {
@@ -2953,6 +4048,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "精准医疗与科技融合 — Michael Kofman",
         "description": "Michael Kofman 谈生命科学与 AI、ML 及 DNA 技术在现代医学中的融合。"
+      },
+      "privacy": {
+        "title": "隐私政策 — Michael Kofman",
+        "description": "mkofman.com 隐私政策——联系表单与分析说明。"
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -2963,9 +4094,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "入选美国精准医疗与数字健康领域的领先公司。",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "年度企业家——因平台创新与基础设施领域的领导力与突破成就而获认可。",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. 入选美国精准医学与数字健康十大最佳公司。",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "工程精度与商业战略并重——从卫星系统到195亿美元基础设施，再到精准医疗。",
       "quote4author": "Executive Profile",
@@ -3014,7 +4145,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "打造了全球最大的数据存储企业之一，并在峰值市值 195 亿美元时被收购。",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "从创立扩展至成功 IPO，入选 2023 年美国精准医疗十强企业。"
+      "cs2desc": "从创立扩展至成功 IPO，入选 2023 年美国精准医疗十强企业。",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "关于 Michael Kofman",
@@ -3031,12 +4174,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "语言",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "联系"
+      "contactLabel": "联系",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "企业组合",
       "title": "创立并领导的公司",
-      "lead": "从精准医疗和机器人到全球数据基础设施——在美国和欧洲创立、扩展并领导。"
+      "lead": "从精准医疗和机器人到全球数据基础设施——在美国和欧洲创立、扩展并领导。",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "经验：基础设施的规模来自长期运营卓越，而非退出前的冲刺。"
     },
     "career": {
       "eyebrow": "职业历程",
@@ -3045,7 +4215,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "时间线",
       "timelineTitle": "关键里程碑",
       "strengthsEyebrow": "核心优势",
-      "strengthsTitle": "专业领域"
+      "strengthsTitle": "专业领域",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "奖项",
@@ -3085,7 +4260,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "顾问服务",
@@ -3108,7 +4288,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "媒体评价",
       "quotesTitle": "行业认可与引述",
       "articlesEyebrow": "观点洞察",
-      "articlesTitle": "高管观点"
+      "articlesTitle": "高管观点",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "合作共赢",
@@ -3131,7 +4339,34 @@ const TRANSLATIONS = {
       "process2desc": "确认形式（主题演讲、论坛对谈、董事会会议或高管圆桌）及相关执行安排。",
       "process3title": "交付价值",
       "process3desc": "演讲内容基于在数据存储、政务科技和精准医疗领域的真实业务成果。",
-      "cta": "申请演讲邀约"
+      "cta": "申请演讲邀约",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "案例研究",
@@ -3152,7 +4387,15 @@ const TRANSLATIONS = {
       "cs2action": "策略",
       "cs2actionText": "创立并推动 Digital Invest Inc. 从零发展到成功 IPO，主导完整上市流程，包括法律架构、财务合规、投资者路演及与 SEC 协调。同时负责美国和欧洲多个数据中心的设计、建设与运营。",
       "cs2result": "成果",
-      "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023），旗下包括 Human Digital Model 和 BioMath Life 等项目。"
+      "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023），旗下包括 Human Digital Model 和 BioMath Life 等项目。",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "媒体与活动",
@@ -3171,7 +4414,17 @@ const TRANSLATIONS = {
       "photosLead": "如需高清肖像照，请发送邮件至 mkofman@mkofman.com。",
       "contactEyebrow": "媒体联系人",
       "contactTitle": "媒体咨询",
-      "contactLead": "用于采访、演讲邀请及媒体合作请求。"
+      "contactLead": "用于采访、演讲邀请及媒体合作请求。",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← 返回 Insights",
@@ -3187,6 +4440,169 @@ const TRANSLATIONS = {
       "article2p2": "在我的领导下，乌克兰、俄罗斯和波罗的海国家启动了多个成功的基因检测项目。与 Harvard Medical School 和 Stanford Biomath 的合作中，我在为医生和患者开发易于理解的基因报告方面发挥了关键作用。",
       "article2p3": "我们于 2021 年创立 Digital Invest Inc.，专注生物数学领域，借助科学、DNA 技术、AI 与 ML 改变传统医疗方式。公司从创立发展至成功 IPO，并在 2023 年被评为美国精准医疗与数字健康领域十佳公司之一。",
       "article2p4": "Digital Invest 通过 Human Digital Model 和 BioMath Life 等项目推进生物数学医学。2026 年，Michael Kofman 创立 AGRON Inc.，领导 Aerial-Ground Robotics Operations Network——无人机能力、地理空间系统与海事情报，见 agron1.com。"
+    },
+    "privacy": {
+      "eyebrow": "法律信息",
+      "title": "隐私政策",
+      "lead": "说明 mkofman.com 在您访问网站或发送消息时如何处理信息。",
+      "updated": "更新：2026年7月",
+      "s1title": "我们收集的信息",
+      "s1text": "提交表单时，我们接收您填写的字段。若启用分析，可能收集匿名使用数据。",
+      "s2title": "信息用途",
+      "s2text": "用于回复咨询并改进网站。我们不出售个人数据。",
+      "s3title": "第三方服务",
+      "s3text": "表单可能由 Formspree 处理。分析可使用 Plausible 或 Google Analytics（如已配置）。",
+      "s4title": "您的权利",
+      "s4text": "访问、更正或删除数据请联系 mkofman@mkofman.com。",
+      "s5title": "联系",
+      "s5text": "政策相关问题：mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "高管简报"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "高管简报"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "高管简报"
     }
   },
   "ar": {
@@ -3213,7 +4629,16 @@ const TRANSLATIONS = {
       "mediaKit": "الحقيبة الإعلامية",
       "groupMain": "الرئيسية",
       "groupServices": "الخدمات",
-      "groupWork": "الأعمال"
+      "groupWork": "الأعمال",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "التنقل",
@@ -3226,7 +4651,8 @@ const TRANSLATIONS = {
       "writeMessage": "رسالتك",
       "writeSend": "إرسال",
       "writeSuccess": "شكراً — تم إرسال رسالتك.",
-      "more": "المزيد"
+      "more": "المزيد",
+      "privacy": "الخصوصية"
     },
     "meta": {
       "home": {
@@ -3280,6 +4706,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "الطب الدقيق والتكنولوجيا — Michael Kofman",
         "description": "Michael Kofman حول دمج علوم الحياة مع AI وML وتقنيات الحمض النووي في الطب الحديث."
+      },
+      "privacy": {
+        "title": "سياسة الخصوصية — Michael Kofman",
+        "description": "سياسة خصوصية mkofman.com — النماذج والتحليلات."
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -3290,9 +4752,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "من بين الشركات الأمريكية الرائدة في الطب الدقيق والصحة الرقمية.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "رائد الأعمال للعام — تقديراً للقيادة والإنجازات في ابتكار المنصات والبنية التحتية.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. ضمن أفضل 10 شركات أمريكية في الطب الدقيق والصحة الرقمية.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "دقة هندسية مع استراتيجية أعمال — من أنظمة الأقمار الصناعية إلى بنية تحتية بقيمة 19.5 مليار دولار والطب الدقيق.",
       "quote4author": "Executive Profile",
@@ -3341,7 +4803,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "بنى واحدة من أكبر شركات تخزين البيانات في العالم، وتم الاستحواذ عليها عند قيمة سوقية قصوى بلغت 19.5 مليار دولار.",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "تأسست وتوسعت من البداية حتى طرح عام أولي ناجح - ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة لعام 2023."
+      "cs2desc": "تأسست وتوسعت من البداية حتى طرح عام أولي ناجح - ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة لعام 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "نبذة عن Michael Kofman",
@@ -3358,12 +4832,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "اللغات",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "اتصل"
+      "contactLabel": "اتصل",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "محفظة المشاريع",
       "title": "شركات أسستها وقادها",
-      "lead": "من الطب الدقيق والروبوتات إلى البنية التحتية العالمية للبيانات — تأسيس وتوسيع وقيادة في الولايات المتحدة وأوروبا."
+      "lead": "من الطب الدقيق والروبوتات إلى البنية التحتية العالمية للبيانات — تأسيس وتوسيع وقيادة في الولايات المتحدة وأوروبا.",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "الدرس: نمو البنية التحتية يُبنى بالتميز التشغيلي قبل الخروج بكثير."
     },
     "career": {
       "eyebrow": "المسيرة المهنية",
@@ -3372,7 +4873,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "الجدول الزمني",
       "timelineTitle": "محطات رئيسية",
       "strengthsEyebrow": "نقاط القوة",
-      "strengthsTitle": "مجالات الخبرة"
+      "strengthsTitle": "مجالات الخبرة",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "الجوائز",
@@ -3412,7 +4918,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "خدمات استشارية",
@@ -3435,7 +4946,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "في الإعلام",
       "quotesTitle": "تقدير صناعي واقتباسات",
       "articlesEyebrow": "رؤى",
-      "articlesTitle": "رؤى تنفيذية"
+      "articlesTitle": "رؤى تنفيذية",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "لنعمل معًا",
@@ -3458,7 +4997,34 @@ const TRANSLATIONS = {
       "process2desc": "تحديد الصيغة (كلمة رئيسية، أو جلسة نقاش، أو جلسة مجلس إدارة، أو مائدة مستديرة تنفيذية) واللوجستيات.",
       "process3title": "تحقيق قيمة عملية",
       "process3desc": "ترتكز العروض على نتائج فعلية من مشاريع في تخزين البيانات وgovtech والطب الدقيق.",
-      "cta": "طلب مشاركة خطابية"
+      "cta": "طلب مشاركة خطابية",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "دراسات الحالة",
@@ -3479,7 +5045,15 @@ const TRANSLATIONS = {
       "cs2action": "النهج",
       "cs2actionText": "أسس Michael Kofman شركة Digital Invest Inc. وقاد توسعها من البداية حتى طرح عام أولي ناجح. كما قاد كامل عملية الطرح: الهيكلة القانونية، والامتثال المالي، وجولات المستثمرين، والتنسيق مع SEC. وأشرف على تصميم وبناء وتشغيل عدة مراكز بيانات في الولايات المتحدة وأوروبا.",
       "cs2result": "النتيجة",
-      "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023)، مع مشاريع مثل Human Digital Model وBioMath Life."
+      "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023)، مع مشاريع مثل Human Digital Model وBioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "الصحافة والفعاليات",
@@ -3498,7 +5072,17 @@ const TRANSLATIONS = {
       "photosLead": "تتوفر صور شخصية عالية الدقة عند الطلب عبر mkofman@mkofman.com.",
       "contactEyebrow": "تواصل إعلامي",
       "contactTitle": "استفسارات الصحافة",
-      "contactLead": "للمقابلات والدعوات الخطابية والطلبات الإعلامية."
+      "contactLead": "للمقابلات والدعوات الخطابية والطلبات الإعلامية.",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← العودة إلى Insights",
@@ -3514,6 +5098,169 @@ const TRANSLATIONS = {
       "article2p2": "تحت قيادتي، انطلقت مشاريع ناجحة للاختبارات الجينية في أوكرانيا وروسيا ودول البلطيق. وبالتعاون مع Harvard Medical School وStanford Biomath، لعبت دورًا محوريًا في تطوير تقارير جينية واضحة وسهلة الفهم للأطباء والمرضى.",
       "article2p3": "مع Digital Invest Inc. التي تأسست عام 2021، نعمل في المجال البيولوجي الرياضي لتحويل الأساليب القديمة في الطب عبر العلوم وتقنيات الحمض النووي وAI وML. وقد توسعت الشركة من بدايتها حتى طرح عام أولي ناجح، وتم تصنيفها ضمن أفضل 10 شركات أمريكية في الطب الدقيق والصحة الرقمية عام 2023.",
       "article2p4": "تطوّر Digital Invest الطب البيو-رياضي عبر مشاريع مثل Human Digital Model وBioMath Life. في 2026 أسس Michael Kofman شركة AGRON Inc. لقيادة Aerial-Ground Robotics Operations Network — قدرات الطائرات بدون طيار والأنظمة الجغرافية المكانية والاستخبارات البحرية على agron1.com."
+    },
+    "privacy": {
+      "eyebrow": "قانوني",
+      "title": "سياسة الخصوصية",
+      "lead": "كيف يتعامل mkofman.com مع المعلومات عند زيارة الموقع أو إرسال رسالة.",
+      "updated": "آخر تحديث: يوليو 2026",
+      "s1title": "المعلومات التي نجمعها",
+      "s1text": "عند إرسال نموذج، نتلقى الحقول التي تقدمها. إذا كانت التحليلات مفعّلة، قد نجمع بيانات استخدام مجهولة.",
+      "s2title": "كيف نستخدم المعلومات",
+      "s2text": "للرد على الاستفسارات وتحسين الموقع. لا نبيع البيانات الشخصية.",
+      "s3title": "خدمات طرف ثالث",
+      "s3text": "قد تُعالَج النماذج عبر Formspree. التحليلات عبر Plausible أو Google Analytics عند التفعيل.",
+      "s4title": "حقوقك",
+      "s4text": "طلب الوصول أو التصحيح أو الحذف: mkofman@mkofman.com.",
+      "s5title": "اتصل بنا",
+      "s5text": "أسئلة حول هذه السياسة: mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "ملخص تنفيذي"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "ملخص تنفيذي"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "ملخص تنفيذي"
     }
   },
   "he": {
@@ -3540,7 +5287,16 @@ const TRANSLATIONS = {
       "mediaKit": "ערכת מדיה",
       "groupMain": "ראשי",
       "groupServices": "שירותים",
-      "groupWork": "עבודה"
+      "groupWork": "עבודה",
+      "briefIpo": "Brief: IPO",
+      "briefGenetic": "Brief: Genetic Data",
+      "briefAi": "Brief: AI Strategy",
+      "articleInfra": "Data Infrastructure",
+      "articleHealth": "Precision Medicine",
+      "board": "Board Advisory",
+      "thesis": "Leadership Thesis",
+      "press": "Press",
+      "ip": "Intellectual Property"
     },
     "footer": {
       "navigation": "ניווט",
@@ -3553,7 +5309,8 @@ const TRANSLATIONS = {
       "writeMessage": "ההודעה שלך",
       "writeSend": "שלח",
       "writeSuccess": "תודה — ההודעה נשלחה.",
-      "more": "עוד"
+      "more": "עוד",
+      "privacy": "פרטיות"
     },
     "meta": {
       "home": {
@@ -3607,6 +5364,42 @@ const TRANSLATIONS = {
       "article2": {
         "title": "רפואה מדויקת וטכנולוגיה — Michael Kofman",
         "description": "Michael Kofman על שילוב מדעי החיים עם AI, ML וטכנולוגיות DNA ברפואה המודרנית."
+      },
+      "privacy": {
+        "title": "מדיניות פרטיות — Michael Kofman",
+        "description": "מדיניות פרטיות של mkofman.com — טפסים ואנליטיקה."
+      },
+      "board": {
+        "title": "Board Advisory — Michael Kofman",
+        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      },
+      "thesis": {
+        "title": "Leadership Thesis — Michael Kofman",
+        "description": "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change."
+      },
+      "press": {
+        "title": "Press Archive — Michael Kofman",
+        "description": "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship."
+      },
+      "ip": {
+        "title": "Intellectual Property — Michael Kofman",
+        "description": "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health."
+      },
+      "briefIpo": {
+        "title": "What an IPO Changes — Michael Kofman",
+        "description": "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering."
+      },
+      "briefGenetic": {
+        "title": "From Genetic Data to Clinical Decisions — Michael Kofman",
+        "description": "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence."
+      },
+      "briefAi": {
+        "title": "AI Strategy Beyond the Pilot — Michael Kofman",
+        "description": "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability."
+      },
+      "deck": {
+        "title": "Executive Overview — Michael Kofman",
+        "description": "Private executive overview for qualified introductions."
       }
     },
     "home": {
@@ -3617,9 +5410,9 @@ const TRANSLATIONS = {
       "heroAlt": "Michael Kofman — CEO and Strategic Technologist",
       "quote1text": "מוזכר בין החברות המובילות בארה\"ב ברפואת דיוק ובריאות דיגיטלית.",
       "quote1author": "Healthcare Tech Outlook",
-      "quote2text": "Entrepreneur of the Year — recognized for leadership and breakthrough achievements in platform innovation and infrastructure.",
+      "quote2text": "יזם השנה — הכרה למנהיגות ולהישגים פורצי דרך בחדשנות פלטפורמות ותשתיות.",
       "quote2author": "Entrepreneur Magazine, 1999 — 2001",
-      "quote3text": "Digital Invest Inc. named among America's Top 10 Best Companies in Precision Medicine and Digital Health.",
+      "quote3text": "Digital Invest Inc. בין 10 החברות המובילות בארה\"ב ברפואת דיוק ובריאות דיגיטלית.",
       "quote3author": "Healthcare Tech Outlook, 2023",
       "quote4text": "דיוק הנדסי עם אסטרטגיה עסקית — ממערכות לוויין לתשתית של 19.5 מיליארד דולר ורפואת דיוק.",
       "quote4author": "Executive Profile",
@@ -3668,7 +5461,19 @@ const TRANSLATIONS = {
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "נבנתה כאחת מחברות ה-Data Storage הגדולות בעולם ונרכשה בשווי שוק שיא של 19.5 מיליארד דולר.",
       "cs2title": "Digital Invest Inc.",
-      "cs2desc": "הוקמה והורחבה מההתחלה ועד IPO מוצלח - בין 10 החברות המובילות בארה״ב ברפואה מדויקת, 2023."
+      "cs2desc": "הוקמה והורחבה מההתחלה ועד IPO מוצלח - בין 10 החברות המובילות בארה״ב ברפואה מדויקת, 2023.",
+      "cs3title": "AGRON Inc.",
+      "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
+      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
+      "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
+      "boardCtaBtn": "Explore Board Advisory",
+      "testimonialsEyebrow": "Trusted Perspective",
+      "testimonialsTitle": "What Colleagues Value",
+      "videoEyebrow": "Executive Perspective",
+      "videoTitle": "Leadership at the Intersection of Technology and Enterprise",
+      "videoLead": "A concise introduction to the principles, experience, and long-term perspective behind Michael Kofman's work.",
+      "videoCta": "Read Leadership Thesis →"
     },
     "about": {
       "eyebrow": "אודות Michael Kofman",
@@ -3685,12 +5490,39 @@ const TRANSLATIONS = {
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "שפות",
       "languagesVal": "English, Russian, Ukrainian",
-      "contactLabel": "קשר"
+      "contactLabel": "קשר",
+      "principlesEyebrow": "Operating Principles",
+      "principlesTitle": "How I Lead",
+      "p1title": "Understand the System",
+      "p1text": "Before changing an organization, understand its incentives, architecture, constraints, and sources of trust.",
+      "p2title": "Make Accountability Explicit",
+      "p2text": "Clear ownership and measurable outcomes turn strategy from presentation material into operating reality.",
+      "p3title": "Leave Stronger Institutions",
+      "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
+      "archiveEyebrow": "From the Archive",
+      "archiveTitle": "Moments Across the Journey",
+      "archiveLead": "Selected photographs from company building, infrastructure, and leadership — from the 9 Net Avenue years to today.",
+      "photo9netTitle": "9 Net Avenue",
+      "photo9netCaption": "Founder & CEO — one of the world’s largest hosting companies, later acquired at a peak market value of $19.5 billion.",
+      "photoServerTitle": "Data Infrastructure",
+      "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
+      "photoTodayTitle": "Today",
+      "photoTodayCaption": "Board advisory, strategic technology leadership, and building the next generation of digital health and infrastructure companies."
     },
     "ventures": {
       "eyebrow": "תיק חברות",
       "title": "חברות שהקים והוביל",
-      "lead": "מרפואת דיוק ורובוטיקה ועד תשתיות נתונים גלובליות — הקמה, צמיחה והובלה בארה\"ב ובאירופה."
+      "lead": "מרפואת דיוק ורובוטיקה ועד תשתיות נתונים גלובליות — הקמה, צמיחה והובלה בארה\"ב ובאירופה.",
+      "ecosystemEyebrow": "Venture Ecosystem",
+      "ecosystemTitle": "Companies Across Technology Frontiers",
+      "ecosystemLead": "A portfolio shaped by recurring themes: trusted data, intelligent infrastructure, human health, and systems built for scale.",
+      "statusActive": "Active",
+      "statusExited": "Exited",
+      "statusLegacy": "Legacy",
+      "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
+      "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
+      "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+      "v5lesson": "לקח: קנה מידה בתשתיות נבנה במצוינות תפעולית הרבה לפני יציאה."
     },
     "career": {
       "eyebrow": "מסלול מקצועי",
@@ -3699,7 +5531,12 @@ const TRANSLATIONS = {
       "timelineEyebrow": "ציר זמן",
       "timelineTitle": "אבני דרך",
       "strengthsEyebrow": "חוזקות",
-      "strengthsTitle": "תחומי מומחיות"
+      "strengthsTitle": "תחומי מומחיות",
+      "filterAll": "All",
+      "filterHealthcare": "Healthcare",
+      "filterInfrastructure": "Infrastructure",
+      "filterDefense": "Defense",
+      "filterTelecom": "Telecommunications"
     },
     "recognition": {
       "eyebrow": "פרסים",
@@ -3739,7 +5576,12 @@ const TRANSLATIONS = {
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
-      "inquiryOther": "Other"
+      "inquiryOther": "Other",
+      "calendlyEyebrow": "Schedule a Conversation",
+      "calendlyTitle": "Choose a Convenient Time",
+      "calendlyLead": "For qualified board, advisory, speaking, and strategic partnership inquiries.",
+      "calendlyPlaceholder": "Scheduling calendar will appear here.",
+      "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
       "eyebrow": "שירותי ייעוץ",
@@ -3762,7 +5604,35 @@ const TRANSLATIONS = {
       "quotesEyebrow": "בתקשורת",
       "quotesTitle": "הכרה בתעשייה וציטוטים",
       "articlesEyebrow": "תובנות",
-      "articlesTitle": "נקודות מבט ניהוליות"
+      "articlesTitle": "נקודות מבט ניהוליות",
+      "briefsEyebrow": "Executive Briefs",
+      "briefsTitle": "Ideas for Leaders",
+      "briefsLead": "Short, practical perspectives on governance, technology, healthcare, and company building.",
+      "brief1title": "What an IPO Changes",
+      "brief1desc": "The operating and governance disciplines that public-market readiness demands.",
+      "brief1tag": "Capital Markets",
+      "brief2title": "From Genetic Data to Clinical Decisions",
+      "brief2desc": "How to build useful health intelligence without outrunning evidence or trust.",
+      "brief2tag": "Precision Medicine",
+      "brief3title": "AI Strategy Beyond the Pilot",
+      "brief3desc": "A framework for turning experiments into governed enterprise capability.",
+      "brief3tag": "Artificial Intelligence",
+      "readingEyebrow": "Reading List",
+      "readingTitle": "Books That Shape Strategic Thinking",
+      "r1title": "The Innovator's Dilemma",
+      "r1author": "Clayton M. Christensen",
+      "r2title": "Thinking, Fast and Slow",
+      "r2author": "Daniel Kahneman",
+      "r3title": "The Beginning of Infinity",
+      "r3author": "David Deutsch",
+      "r4title": "Good Strategy/Bad Strategy",
+      "r4author": "Richard Rumelt",
+      "r5title": "The Structure of Scientific Revolutions",
+      "r5author": "Thomas S. Kuhn",
+      "newsletterEyebrow": "Occasional Notes",
+      "newsletterTitle": "Executive Perspective, Without the Noise",
+      "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
+      "newsletterCta": "Subscribe for Updates"
     },
     "cta": {
       "eyebrow": "בואו נעבוד יחד",
@@ -3785,7 +5655,34 @@ const TRANSLATIONS = {
       "process2desc": "מתאמים את הפורמט (הרצאת מפתח, פאנל, ישיבת דירקטוריון או שולחן עגול להנהלה) ואת הלוגיסטיקה.",
       "process3title": "יצירת ערך",
       "process3desc": "המצגות מבוססות על תוצאות אמיתיות ממיזמים בתחומי אחסון נתונים, govtech ורפואה מדויקת.",
-      "cta": "בקשת הזמנת הרצאה"
+      "cta": "בקשת הזמנת הרצאה",
+      "catalogEyebrow": "Speaking Topics",
+      "catalogTitle": "Executive Conversations for Consequential Change",
+      "catalogLead": "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.",
+      "t1title": "Governing AI Before It Governs the Enterprise",
+      "t1audience": "Boards, audit and risk committees",
+      "t1format": "Board briefing or keynote",
+      "t2title": "From Technology Trend to Enterprise Strategy",
+      "t2audience": "CEOs, executive teams, investors",
+      "t2format": "Keynote or executive workshop",
+      "t3title": "Building Companies Through Market Cycles",
+      "t3audience": "Founders, growth leaders, private equity",
+      "t3format": "Fireside chat or keynote",
+      "t4title": "Precision Medicine: Promise, Proof, and Responsibility",
+      "t4audience": "Healthcare leaders, clinicians, innovators",
+      "t4format": "Industry keynote or panel",
+      "t5title": "The Board's Role in Cyber and Technology Risk",
+      "t5audience": "Directors, general counsel, risk leaders",
+      "t5format": "Board education session",
+      "t6title": "Engineering Trust into Digital Infrastructure",
+      "t6audience": "Technology and infrastructure organizations",
+      "t6format": "Technical-executive keynote",
+      "t7title": "Leading Across Borders and Disciplines",
+      "t7audience": "Global leadership teams and universities",
+      "t7format": "Keynote or moderated conversation",
+      "t8title": "From Founder to Institution Builder",
+      "t8audience": "Entrepreneurs and next-generation executives",
+      "t8format": "Workshop or fireside chat"
     },
     "caseStudies": {
       "eyebrow": "מקרי בוחן",
@@ -3806,7 +5703,15 @@ const TRANSLATIONS = {
       "cs2action": "גישה",
       "cs2actionText": "Michael Kofman ייסד והרחיב את Digital Invest Inc. מהקמה ועד IPO מוצלח. הוא הוביל את כל תהליך ההנפקה: מבנה משפטי, ציות פיננסי, סבבי משקיעים ותיאום מול SEC. בנוסף הוביל תכנון, הקמה ותפעול של מספר מרכזי נתונים בארצות הברית ובאירופה.",
       "cs2result": "תוצאה",
-      "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023), עם פרויקטים כמו Human Digital Model ו-BioMath Life."
+      "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023), עם פרויקטים כמו Human Digital Model ו-BioMath Life.",
+      "cs3eyebrow": "Robotics & UAV · 2026 — Present",
+      "cs3title": "AGRON Inc.",
+      "cs3challenge": "Challenge",
+      "cs3challengeText": "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.",
+      "cs3action": "Approach",
+      "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
+      "cs3result": "Outcome",
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
     },
     "mediaKit": {
       "eyebrow": "עיתונות ואירועים",
@@ -3825,7 +5730,17 @@ const TRANSLATIONS = {
       "photosLead": "דיוקנאות באיכות גבוהה זמינים לפי בקשה בכתובת mkofman@mkofman.com.",
       "contactEyebrow": "קשרי עיתונות",
       "contactTitle": "פניות מדיה",
-      "contactLead": "לראיונות, הזמנות להרצאות ופניות תקשורת."
+      "contactLead": "לראיונות, הזמנות להרצאות ופניות תקשורת.",
+      "downloadEyebrow": "Download",
+      "downloadTitle": "One-Page Media Kit",
+      "downloadLead": "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.",
+      "downloadCta": "Download PDF",
+      "brandEyebrow": "Brand Assets",
+      "brandTitle": "Identity & Usage",
+      "brandLead": "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.",
+      "brandColors": "Official Color Palette",
+      "brandLogo": "Primary Logo",
+      "brandDownload": "Download Brand Assets"
     },
     "articles": {
       "backLink": "← חזרה ל-Insights",
@@ -3841,6 +5756,169 @@ const TRANSLATIONS = {
       "article2p2": "תחת הנהגתי, הושקו פרויקטים מוצלחים של בדיקות גנטיות באוקראינה, רוסיה ומדינות הבלטיות. בשיתוף עם Harvard Medical School ו-Stanford Biomath מילאתי תפקיד מרכזי בפיתוח דוחות גנטיים מובנים לרופאים ולמטופלים.",
       "article2p3": "עם Digital Invest Inc., שנוסדה ב-2021, אנו מתמקדים בתחום הביו-מתמטי ומשנים גישות מיושנות ברפואה באמצעות מדע, טכנולוגיות DNA, AI ו-ML. החברה הורחבה מהקמה ועד IPO מוצלח והוכרה בין 10 החברות הטובות בארצות הברית ברפואה מדויקת ובריאות דיגיטלית בשנת 2023.",
       "article2p4": "Digital Invest מקדמת רפואה ביו-מתמטית באמצעות פרויקטים כמו Human Digital Model ו-BioMath Life. ב-2026 ייסד Michael Kofman את AGRON Inc. כדי להוביל את Aerial-Ground Robotics Operations Network — יכולות כטב\"מ, מערכות גיאו-מרחביות ומודיעין ימי ב-agron1.com."
+    },
+    "privacy": {
+      "eyebrow": "משפטי",
+      "title": "מדיניות פרטיות",
+      "lead": "כיצד mkofman.com מטפל במידע בעת ביקור באתר או שליחת הודעה.",
+      "updated": "עודכן: יולי 2026",
+      "s1title": "מידע שאנו אוספים",
+      "s1text": "בשליחת טופס אנו מקבלים את השדות שמילאת. אם אנליטיקה מופעלת — נתוני שימוש אנונימיים.",
+      "s2title": "שימוש במידע",
+      "s2text": "למענה לפניות ושיפור האתר. איננו מוכרים מידע אישי.",
+      "s3title": "שירותי צד שלישי",
+      "s3text": "טפסים עשויים להיות מעובדים ב-Formspree. אנליטיקה — Plausible או Google Analytics.",
+      "s4title": "זכויותיך",
+      "s4text": "בקשת גישה, תיקון או מחיקה: mkofman@mkofman.com.",
+      "s5title": "יצירת קשר",
+      "s5text": "שאלות על מדיניות זו: mkofman@mkofman.com"
+    },
+    "board": {
+      "eyebrow": "Board & Strategic Advisory",
+      "title": "Independent Judgment for Consequential Decisions",
+      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "rolesEyebrow": "Ways to Engage",
+      "rolesTitle": "Board-Level Partnership",
+      "role1title": "Independent Director",
+      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
+      "role2title": "Advisory Board Member",
+      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
+      "role3title": "CEO & Founder Advisor",
+      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
+      "role4title": "Special Committee Advisor",
+      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
+      "valueEyebrow": "Perspective",
+      "valueTitle": "What I Bring to the Table",
+      "value1title": "Operator's Discipline",
+      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
+      "value2title": "Technical Fluency",
+      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
+      "value3title": "Cross-Market Judgment",
+      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
+      "value4title": "Governance Mindset",
+      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
+      "cta": "Discuss a Board Mandate",
+      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered."
+    },
+    "thesis": {
+      "eyebrow": "Leadership Thesis",
+      "title": "Build for the Long Term. Decide in the Present.",
+      "lead": "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.",
+      "intro": "These principles reflect more than three decades of founding companies, engineering critical systems, advising boards, and leading through market cycles.",
+      "believeEyebrow": "What I Believe",
+      "believeTitle": "Seven Principles for Enduring Organizations",
+      "b1title": "Strategy Must Produce Choices",
+      "b1text": "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.",
+      "b2title": "Technology Is a Governance Issue",
+      "b2text": "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.",
+      "b3title": "Evidence Should Outrank Enthusiasm",
+      "b3text": "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.",
+      "b4title": "Architecture Shapes the Enterprise",
+      "b4text": "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.",
+      "b5title": "Trust Is Operating Infrastructure",
+      "b5text": "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.",
+      "b6title": "Capital Must Follow Capability",
+      "b6text": "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.",
+      "b7title": "Leaders Design Their Successors",
+      "b7text": "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.",
+      "rejectEyebrow": "What I Reject",
+      "rejectTitle": "Three Expensive Illusions",
+      "r1title": "Innovation Theater",
+      "r1text": "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.",
+      "r2title": "Growth Without Governance",
+      "r2text": "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.",
+      "r3title": "False Certainty",
+      "r3text": "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.",
+      "horizonEyebrow": "The Horizon",
+      "horizonTitle": "The Next Advantage Is Responsible Integration",
+      "horizonText": "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust."
+    },
+    "press": {
+      "eyebrow": "Press & Media",
+      "title": "Selected Coverage",
+      "lead": "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.",
+      "archiveEyebrow": "Archive",
+      "y2023type": "Industry Recognition",
+      "y2023title": "Top 10 Precision Medicine Companies",
+      "y2023desc": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.",
+      "y2023link": "View feature",
+      "y2001type": "Executive Award",
+      "y2001title": "Entrepreneur of the Year",
+      "y2001desc": "Entrepreneur Magazine recognition for leadership, company building, and breakthrough achievement in technology infrastructure.",
+      "y2001link": "View archive",
+      "y1999type": "Biographical Recognition",
+      "y1999title": "Who's Who in America",
+      "y1999desc": "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.",
+      "clipEyebrow": "From the Archive",
+      "clipMeta": "Industry Feature · DataPeer Inc.",
+      "clipTitle": "State of the Storage Industry",
+      "clipLead": "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.",
+      "clipBody": "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (1999) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.",
+      "clipOpen": "Open full page scan →",
+      "y2000type": "Interview",
+      "y2000title": "State of the Storage Industry",
+      "y2000desc": "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity."
+    },
+    "ip": {
+      "eyebrow": "Intellectual Property",
+      "title": "Applied Ideas, Documented",
+      "lead": "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.",
+      "patentEyebrow": "Patents",
+      "patentTitle": "Protected Inventions",
+      "patentIntro": "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.",
+      "publicationsEyebrow": "Publications",
+      "publicationsTitle": "Technical & Executive Writing",
+      "publicationsIntro": "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.",
+      "researchEyebrow": "Research",
+      "researchTitle": "Interdisciplinary Programs",
+      "researchIntro": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems."
+    },
+    "testimonials": {
+      "t1quote": "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.",
+      "t1name": "Board Colleague",
+      "t1role": "Public Technology Company",
+      "t2quote": "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.",
+      "t2name": "Strategic Partner",
+      "t2role": "Digital Health Sector",
+      "t3quote": "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.",
+      "t3name": "Executive Collaborator",
+      "t3role": "Global Infrastructure"
+    },
+    "deck": {
+      "title": "Michael Kofman",
+      "subtitle": "Executive Leadership, Strategic Technology & Board Advisory",
+      "thesis": "Building durable enterprises at the intersection of technology, governance, and human progress.",
+      "stat1": "30+ years of executive leadership",
+      "stat2": "Multiple companies founded and scaled",
+      "stat3": "$19.5B peak market value",
+      "contact": "Confidential discussion: contact Michael Kofman through mkofman.com"
+    },
+    "briefIpo": {
+      "title": "What an IPO Changes",
+      "desc": "Public markets do not merely change a company's capital structure; they change its operating contract.",
+      "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
+      "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
+      "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
+      "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+      "eyebrow": "תקציר מנהלים"
+    },
+    "briefGenetic": {
+      "title": "From Genetic Data to Clinical Decisions",
+      "desc": "The value of genomic information depends on interpretation, evidence, and responsible integration into care.",
+      "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
+      "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
+      "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
+      "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+      "eyebrow": "תקציר מנהלים"
+    },
+    "briefAi": {
+      "title": "AI Strategy Beyond the Pilot",
+      "desc": "Enterprise AI creates value when ownership, data, workflow, and governance mature together.",
+      "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
+      "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
+      "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
+      "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+      "eyebrow": "תקציר מנהלים"
     }
   }
 };

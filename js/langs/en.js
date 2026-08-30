@@ -277,6 +277,7 @@ window.__LANG_en = {
     "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
     "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
     "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
+    "v5lesson": "Lesson: infrastructure scale is earned through operational excellence long before the exit.",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -781,7 +782,8 @@ window.__LANG_en = {
     "p1": "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.",
     "p2": "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.",
     "p3": "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.",
-    "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability."
+    "p4": "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.",
+    "eyebrow": "Executive Brief"
   },
   "briefGenetic": {
     "title": "From Genetic Data to Clinical Decisions",
@@ -789,7 +791,8 @@ window.__LANG_en = {
     "p1": "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.",
     "p2": "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.",
     "p3": "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.",
-    "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product."
+    "p4": "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.",
+    "eyebrow": "Executive Brief"
   },
   "briefAi": {
     "title": "AI Strategy Beyond the Pilot",
@@ -797,6 +800,7 @@ window.__LANG_en = {
     "p1": "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.",
     "p2": "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.",
     "p3": "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.",
-    "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy."
+    "p4": "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.",
+    "eyebrow": "Executive Brief"
   }
 };

@@ -9,7 +9,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "downloads"
 OUT_PDF = OUT_DIR / "michael-kofman-media-kit.pdf"
-PORTRAIT = ROOT / "images" / "portrait-hero-3.png"
+PORTRAIT = ROOT / "images" / "portrait-hero.jpg"
+if not PORTRAIT.exists():
+    PORTRAIT = ROOT / "images" / "portrait-hero.webp"
 
 
 def load_media_kit_copy() -> dict[str, str]:

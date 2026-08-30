@@ -51,6 +51,7 @@
     }
   ],
   "redirects": [
+    { "source": "/:path*", "has": [{ "type": "host", "value": "www.mkofman.com" }], "destination": "https://mkofman.com/:path*", "permanent": true },
     { "source": "/speaking.html", "destination": "/contact.html?topic=speaking", "permanent": true },
     { "source": "/media-kit.html", "destination": "/press.html", "permanent": true },
     { "source": "/ip.html", "destination": "/recognition.html", "permanent": true }

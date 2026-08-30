@@ -1,6 +1,4 @@
 # Tooling — not needed at runtime CDN edge
-js/seo.js
-js/og-meta.js
 .tools/
 .venv/
 __pycache__/

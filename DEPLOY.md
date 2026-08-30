@@ -25,6 +25,7 @@
 | `ANALYTICS_PROVIDER` | `plausible` or `ga4` | Enable analytics |
 | `PLAUSIBLE_DOMAIN` | `mkofman.com` | Plausible site id |
 | `GA4_ID` | `G-XXXXXXXXXX` | Google Analytics 4 |
+| `CALENDLY_URL` | `https://calendly.com/...` | Optional scheduling link in contact CTA |
 
 Copy `.env.example` to `.env` for the same values locally. `scripts/generate_config.py` writes `js/site-config.js` at build time.
 
@@ -50,4 +51,4 @@ Submit `https://mkofman.com/sitemap.xml`
 
 ## 6. Media Kit PDF
 
-Generated at `downloads/michael-kofman-media-kit.pdf` during build. Linked from the Media Kit page.
+Generated at `downloads/michael-kofman-media-kit.pdf` during build. Linked from `press.html`.
