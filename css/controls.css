@@ -345,22 +345,37 @@ h1, h2, h3, h4,
   filter: var(--portrait-shadow);
 }
 
-/* Desktop home: align portrait with quote dots; trim hero so press band sits flush */
+/* Desktop home: portrait flush on press band — no black gap under photo */
 @media (min-width: 1025px) {
-  .page-home .hero-premium,
+  .page-home .hero-premium {
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
   .page-home .hero-split {
-    min-height: calc(100dvh - clamp(7rem, 22vh, 13rem));
+    min-height: auto;
+    flex: 1 1 auto;
   }
 
   .page-home .hero-panel-right {
-    align-items: center;
+    align-items: flex-end;
     padding-bottom: 0;
   }
 
   .page-home .hero-portrait-wrap {
-    height: calc(100dvh - var(--header-height) - clamp(7rem, 22vh, 13rem));
-    max-height: none;
-    align-items: center;
+    height: auto;
+    max-height: min(78vh, 900px);
+    align-items: flex-end;
+  }
+
+  .page-home .hero-portrait-single {
+    align-items: flex-end;
+  }
+
+  .page-home .hero-premium .press-band {
+    margin-top: 0;
+    flex-shrink: 0;
   }
 }
 

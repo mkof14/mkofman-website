@@ -344,6 +344,14 @@ h4 { font-size: 1.25rem; }
   background: var(--hero-portrait-bg);
 }
 
+.page-home .hero-premium {
+  min-height: auto;
+}
+
+.hero-premium .press-band {
+  margin-top: 0;
+}
+
 .hero-split {
   display: grid;
   grid-template-columns: minmax(0, 1.08fr) 2px minmax(0, 0.92fr);
