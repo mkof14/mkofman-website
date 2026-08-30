@@ -38,7 +38,7 @@ window.__LANG_ru = {
     "ventures": "Компании",
     "connect": "Связь",
     "desc": "CEO, стратегический технолог и предприниматель, создающий будущее технологий, цифрового здравоохранения и инфраструктуры.",
-    "copyright": "© 2025–2026 Michael Kofman. Все права защищены.",
+    "copyright": "© {year} Michael Kofman. Все права защищены.",
     "writeTitle": "Напишите мне",
     "writeEmail": "Ваш email",
     "writeMessage": "Ваше сообщение",

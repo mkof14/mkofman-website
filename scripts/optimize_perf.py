@@ -72,7 +72,9 @@ def patch_html_assets(html: str) -> str:
         if 'rel="preload" as="image"' in html:
             html = html.replace(
                 'rel="preload" as="image" href="images/portrait-hero.webp" type="image/webp">',
-                'rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="/css/site.css">',
+                'rel="preload" as="image" href="/images/portrait-hero-480.webp" type="image/webp" media="(max-width: 768px)">\n'
+                '  <link rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp" media="(min-width: 769px)">\n'
+                '  <link rel="stylesheet" href="/css/site.css">',
                 1,
             )
         else:

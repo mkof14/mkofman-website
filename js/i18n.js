@@ -24,6 +24,11 @@ function t(key, lang) {
   return typeof node === 'string' ? node : null;
 }
 
+function withYear(str) {
+  if (typeof str !== 'string') return str;
+  return str.replace(/\{year\}/g, String(new Date().getFullYear()));
+}
+
 function getPageId() {
   return document.body.dataset.page || 'home';
 }
@@ -50,7 +55,7 @@ async function setLang(lang) {
 
 function applyTranslations(lang) {
   document.querySelectorAll('[data-i18n]').forEach(el => {
-    const val = t(el.dataset.i18n, lang);
+    const val = withYear(t(el.dataset.i18n, lang));
     if (val) {
       el.textContent = val;
       if (val.includes('\n')) el.style.whiteSpace = 'pre-line';
@@ -58,12 +63,12 @@ function applyTranslations(lang) {
   });
 
   document.querySelectorAll('[data-i18n-html]').forEach(el => {
-    const val = t(el.dataset.i18nHtml, lang);
+    const val = withYear(t(el.dataset.i18nHtml, lang));
     if (val) el.innerHTML = val;
   });
 
   document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
-    const val = t(el.dataset.i18nPlaceholder, lang);
+    const val = withYear(t(el.dataset.i18nPlaceholder, lang));
     if (val) el.placeholder = val;
   });
 

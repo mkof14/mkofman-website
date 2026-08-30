@@ -34,6 +34,93 @@ PAGES = [
 ]
 
 OG_IMAGE = f"{SITE_URL}/images/portrait-hero.webp"
+SITE_START_YEAR = 2026
+
+ARTICLE_PAGES = {
+    "article1": {"datePublished": "2024-06-01", "author": "Michael Kofman"},
+    "article2": {"datePublished": "2024-08-15", "author": "Michael Kofman"},
+    "briefIpo": {"datePublished": "2025-03-01", "author": "Michael Kofman"},
+    "briefGenetic": {"datePublished": "2025-04-01", "author": "Michael Kofman"},
+    "briefAi": {"datePublished": "2025-05-01", "author": "Michael Kofman"},
+}
+
+BREADCRUMB_LABELS = {
+    "home": "Home",
+    "about": "About",
+    "ventures": "Ventures",
+    "career": "Career",
+    "recognition": "Recognition",
+    "contact": "Contact",
+    "consulting": "Consulting",
+    "insights": "Insights",
+    "caseStudies": "Case Studies",
+    "article1": "Data Infrastructure",
+    "article2": "Precision Medicine",
+    "privacy": "Privacy",
+    "board": "Board Advisory",
+    "thesis": "Leadership Thesis",
+    "press": "Press",
+    "deck": "Executive Overview",
+    "briefIpo": "Brief: IPO",
+    "briefGenetic": "Brief: Genetic Data",
+    "briefAi": "Brief: AI Strategy",
+}
+
+
+def meta_basics_block() -> str:
+    return "\n".join([
+        '  <meta name="theme-color" content="#0c1829">',
+        '  <meta name="color-scheme" content="dark light">',
+        '  <meta name="format-detection" content="telephone=no">',
+        '  <meta name="author" content="Michael Kofman">',
+        '  <meta property="og:locale" content="en_US">',
+        '  <meta name="apple-mobile-web-app-capable" content="yes">',
+        '  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">',
+    ])
+
+
+def breadcrumb_ld(path: str, page_key: str) -> dict | None:
+    if page_key == "home" or not path:
+        return None
+    items = [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL},
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": BREADCRUMB_LABELS.get(page_key, page_key),
+            "item": page_url(path),
+        },
+    ]
+    return {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": items,
+    }
+
+
+def article_ld(page_key: str, path: str, meta_en: dict) -> dict | None:
+    info = ARTICLE_PAGES.get(page_key)
+    if not info:
+        return None
+    m = meta_en.get(page_key, {})
+    return {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": m.get("title", "Michael Kofman"),
+        "description": m.get("description", ""),
+        "url": page_url(path),
+        "datePublished": info["datePublished"],
+        "dateModified": info["datePublished"],
+        "author": {"@type": "Person", "name": info["author"], "url": SITE_URL},
+        "publisher": {
+            "@type": "Person",
+            "name": "Michael Kofman",
+            "url": SITE_URL,
+            "logo": {"@type": "ImageObject", "url": OG_IMAGE},
+        },
+        "image": OG_IMAGE,
+        "inLanguage": "en",
+    }
 
 
 def load_meta() -> dict:
@@ -103,6 +190,7 @@ def json_ld_block(page_key: str, path: str, meta_en: dict) -> str:
         "url": SITE_URL,
         "description": desc or "Official website of Michael Kofman",
         "inLanguage": LANGS,
+        "publisher": {"@type": "Person", "name": "Michael Kofman"},
     }
     webpage = {
         "@context": "https://schema.org",
@@ -112,7 +200,14 @@ def json_ld_block(page_key: str, path: str, meta_en: dict) -> str:
         "url": url,
         "isPartOf": {"@type": "WebSite", "url": SITE_URL, "name": "Michael Kofman"},
     }
-    payload = json.dumps([person, website, webpage], ensure_ascii=False)
+    blocks = [person, website, webpage]
+    crumb = breadcrumb_ld(path, page_key)
+    if crumb:
+        blocks.append(crumb)
+    article = article_ld(page_key, path, meta_en)
+    if article:
+        blocks.append(article)
+    payload = json.dumps(blocks, ensure_ascii=False)
     return f'  <script type="application/ld+json">{payload}</script>'
 
 
@@ -130,7 +225,10 @@ def font_links() -> str:
 
 
 def head_extras(page_key: str, path: str, meta_en: dict) -> str:
-    return "\n".join([font_links(), seo_block(page_key, path, meta_en), json_ld_block(page_key, path, meta_en)])
+    basics = meta_basics_block()
+    if page_key == "deck":
+        return "\n".join([basics, font_links()])
+    return "\n".join([basics, font_links(), seo_block(page_key, path, meta_en), json_ld_block(page_key, path, meta_en)])
 
 
 def strip_seo_blocks(html: str) -> str:
@@ -154,6 +252,21 @@ def strip_seo_blocks(html: str) -> str:
         "",
         html,
         flags=re.S,
+    )
+    html = re.sub(
+        r"(?:\n\s*)?<meta name=\"theme-color\"[^>]*>",
+        "",
+        html,
+    )
+    html = re.sub(
+        r"(?:\n\s*)?<meta name=\"(?:color-scheme|format-detection|author|apple-mobile-web-app-capable|apple-mobile-web-app-status-bar-style)\"[^>]*>",
+        "",
+        html,
+    )
+    html = re.sub(
+        r"(?:\n\s*)?<meta property=\"og:locale\"[^>]*>",
+        "",
+        html,
     )
     # RSS alternate may be injected repeatedly by expansion patches
     html = re.sub(
@@ -206,10 +319,27 @@ def patch_footer_privacy(html: str) -> str:
     )
 
 
+def patch_footer_copyright(html: str) -> str:
+    from datetime import datetime
+
+    year = datetime.now().year
+    html = re.sub(
+        r'(<span data-i18n="footer\.copyright">)[^<]*(</span>)',
+        rf"\1&copy; {year} Michael Kofman. All Rights Reserved.\2",
+        html,
+    )
+    return html
+
+
 def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
+    sizes = '(max-width: 768px) 85vw, 380px'
     picture = (
-        '<picture><source srcset="/images/portrait-hero.webp" type="image/webp">'
-        f'<img src="/images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
+        '<picture>'
+        '<source srcset="/images/portrait-hero-480.webp 480w, /images/portrait-hero.webp 720w" '
+        f'type="image/webp" sizes="{sizes}">'
+        f'<img src="/images/portrait-hero.jpg" '
+        f'srcset="/images/portrait-hero-480.jpg 480w, /images/portrait-hero.jpg 720w" '
+        f'sizes="{sizes}" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
         f'width="{hero_w}" height="{hero_h}" fetchpriority="high" decoding="async"></picture>'
     )
     if "portrait-hero.webp" in html or "portrait-hero.jpg" in html or "portrait-hero.png" in html:
@@ -227,13 +357,19 @@ def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
         )
     html = html.replace("images/portrait-hero.png", "/images/portrait-hero.jpg")
     html = html.replace('src="images/portrait-hero.jpg"', 'src="/images/portrait-hero.jpg"')
-    if 'rel="preload" as="image"' not in html:
-        html = re.sub(
-            r'<link rel="stylesheet" href="(?:/)?css/(?:styles|site)\.css">',
-            '  <link rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp">\n  <link rel="stylesheet" href="/css/site.css">',
-            html,
-            count=1,
-        )
+    html = re.sub(
+        r'\s*<link rel="preload" as="image" href="/images/portrait-hero(?:-480)?\.webp"[^>]*>\n?',
+        "\n",
+        html,
+    )
+    html = re.sub(
+        r'(<link rel="stylesheet" href="/css/site\.css">)',
+        '  <link rel="preload" as="image" href="/images/portrait-hero-480.webp" type="image/webp" media="(max-width: 768px)">\n'
+        '  <link rel="preload" as="image" href="/images/portrait-hero.webp" type="image/webp" media="(min-width: 769px)">\n'
+        r"\1",
+        html,
+        count=1,
+    )
     return html
 
 
@@ -268,6 +404,20 @@ def optimize_hero_images() -> tuple[int, int]:
     composed = Image.alpha_composite(Image.new("RGBA", img.size, navy), img).convert("RGB")
     composed.save(jpg, "JPEG", quality=82, optimize=True, progressive=True)
 
+    # Mobile variant (~480px wide)
+    mobile_w = 480
+    if img.width > mobile_w:
+        ratio = mobile_w / img.width
+        resample = getattr(Image, "Resampling", Image).LANCZOS
+        mobile = img.resize((mobile_w, int(img.height * ratio)), resample)
+    else:
+        mobile = img
+    mobile_webp = ROOT / "images" / "portrait-hero-480.webp"
+    mobile_jpg = ROOT / "images" / "portrait-hero-480.jpg"
+    mobile.save(mobile_webp, "WEBP", quality=76, method=6)
+    mobile_composed = Image.alpha_composite(Image.new("RGBA", mobile.size, navy), mobile).convert("RGB")
+    mobile_composed.save(mobile_jpg, "JPEG", quality=80, optimize=True, progressive=True)
+
     # Drop legacy PNG from deploy tree if present
     legacy_png = ROOT / "images" / "portrait-hero.png"
     if legacy_png.exists():
@@ -275,13 +425,53 @@ def optimize_hero_images() -> tuple[int, int]:
 
     print(
         f"hero assets: webp {webp.stat().st_size // 1024} KB, "
-        f"jpg {jpg.stat().st_size // 1024} KB ({img.width}x{img.height})"
+        f"jpg {jpg.stat().st_size // 1024} KB, "
+        f"mobile webp {mobile_webp.stat().st_size // 1024} KB "
+        f"({img.width}x{img.height})"
     )
     return img.width, img.height
 
 
+def optimize_archive_images() -> None:
+    """Recompress archive WebP/JPEG pairs for faster mobile loads."""
+    archive = ROOT / "images" / "archive"
+    if not archive.is_dir():
+        return
+    try:
+        from PIL import Image
+    except ImportError:
+        print("PIL not available — skipping archive optimization")
+        return
+
+    resample = getattr(Image, "Resampling", Image).LANCZOS
+    max_display_w = 960
+    for path in sorted(archive.glob("*.jpg")) + sorted(archive.glob("*.jpeg")):
+        max_w_file = 520 if path.stem.endswith("-sm") else max_display_w
+        jpg_quality = 72 if path.stem.endswith("-sm") else 80
+        webp_quality = 68 if path.stem.endswith("-sm") else 74
+        try:
+            img = Image.open(path)
+            if img.mode not in ("RGB", "L"):
+                img = img.convert("RGB")
+            if img.width > max_w_file:
+                ratio = max_w_file / img.width
+                img = img.resize((max_w_file, int(img.height * ratio)), resample)
+            webp_path = path.with_suffix(".webp")
+            img.save(webp_path, "WEBP", quality=webp_quality, method=6)
+            img.save(path, "JPEG", quality=jpg_quality, optimize=True, progressive=True)
+            print(
+                f"archive {path.name}: jpg {path.stat().st_size // 1024} KB, "
+                f"webp {webp_path.stat().st_size // 1024} KB"
+            )
+        except OSError as err:
+            print(f"skip archive {path.name}: {err}")
+
+
 def update_sitemap():
+    from datetime import datetime, timezone
+
     path = ROOT / "sitemap.xml"
+    lastmod = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     entries = [
         ("", "monthly", "1.0"),
         ("about.html", "monthly", "0.9"),
@@ -305,7 +495,14 @@ def update_sitemap():
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for page, freq, pri in entries:
         loc = SITE_URL if not page else f"{SITE_URL}/{page}"
-        lines.append(f"  <url><loc>{loc}</loc><changefreq>{freq}</changefreq><priority>{pri}</priority></url>")
+        mtime = lastmod
+        fpath = ROOT / page if page else ROOT / "index.html"
+        if fpath.exists():
+            mtime = datetime.fromtimestamp(fpath.stat().st_mtime, timezone.utc).strftime("%Y-%m-%d")
+        lines.append(
+            f"  <url><loc>{loc}</loc><lastmod>{mtime}</lastmod>"
+            f"<changefreq>{freq}</changefreq><priority>{pri}</priority></url>"
+        )
     lines.append("</urlset>")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("updated sitemap.xml")
@@ -475,6 +672,7 @@ def patch_all_html(hero_dims: tuple[int, int] = (1131, 1608)):
         html = fpath.read_text(encoding="utf-8")
         html = patch_html_head(html, page_key, path, meta_en)
         html = patch_footer_privacy(html)
+        html = patch_footer_copyright(html)
         if filename == "index.html":
             html = patch_index_hero(html, hero_w, hero_h)
         # Update script tags for lazy i18n
@@ -505,6 +703,7 @@ def strip_font_import_from_css():
 
 def main():
     hero_dims = optimize_hero_images()
+    optimize_archive_images()
     split_i18n()
     strip_font_import_from_css()
     patch_all_html(hero_dims)

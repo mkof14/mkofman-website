@@ -30,7 +30,7 @@ window.__LANG_zh = {
     "ventures": "企业",
     "connect": "联系",
     "desc": "首席执行官、战略技术专家和获奖企业家。",
-    "copyright": "© 2025–2026 Michael Kofman. 版权所有。",
+    "copyright": "© {year} Michael Kofman. 版权所有。",
     "writeTitle": "给我留言",
     "writeEmail": "您的邮箱",
     "writeMessage": "您的留言",

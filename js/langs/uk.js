@@ -38,7 +38,7 @@ window.__LANG_uk = {
     "ventures": "Компанії",
     "connect": "Зв'язок",
     "desc": "CEO, стратегічний технолог і підприємець, що будує майбутнє технологій, цифрового здоров'я та інфраструктури.",
-    "copyright": "© 2025–2026 Michael Kofman. Усі права захищені.",
+    "copyright": "© {year} Michael Kofman. Усі права захищені.",
     "writeTitle": "Напишіть мені",
     "writeEmail": "Ваш email",
     "writeMessage": "Ваше повідомлення",

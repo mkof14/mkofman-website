@@ -30,7 +30,7 @@ window.__LANG_es = {
     "ventures": "Empresas",
     "connect": "Contacto",
     "desc": "CEO, tecnólogo estratégico y emprendedor galardonado.",
-    "copyright": "© 2025–2026 Michael Kofman. Todos los derechos reservados.",
+    "copyright": "© {year} Michael Kofman. Todos los derechos reservados.",
     "writeTitle": "Escríbame",
     "writeEmail": "Su email",
     "writeMessage": "Su mensaje",

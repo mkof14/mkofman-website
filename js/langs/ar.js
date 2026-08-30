@@ -30,7 +30,7 @@ window.__LANG_ar = {
     "ventures": "المشاريع",
     "connect": "تواصل",
     "desc": "الرئيس التنفيذي وخبير التكنولوجيا الاستراتيجي ورائد الأعمال الحائز على جوائز.",
-    "copyright": "© 2025–2026 Michael Kofman. جميع الحقوق محفوظة.",
+    "copyright": "© {year} Michael Kofman. جميع الحقوق محفوظة.",
     "writeTitle": "اكتب لي",
     "writeEmail": "بريدك الإلكتروني",
     "writeMessage": "رسالتك",

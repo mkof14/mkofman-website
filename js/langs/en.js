@@ -39,7 +39,7 @@ window.__LANG_en = {
     "ventures": "Ventures",
     "connect": "Connect",
     "desc": "CEO, strategic technologist, and award-winning entrepreneur building the future of technology, digital health, and infrastructure.",
-    "copyright": "© 2025–2026 Michael Kofman. All Rights Reserved.",
+    "copyright": "© {year} Michael Kofman. All Rights Reserved.",
     "writeTitle": "Write to Me",
     "writeEmail": "Your email",
     "writeMessage": "Your message",

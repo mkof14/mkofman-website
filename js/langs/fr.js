@@ -30,7 +30,7 @@ window.__LANG_fr = {
     "ventures": "Entreprises",
     "connect": "Contact",
     "desc": "PDG, technologue stratégique et entrepreneur primé.",
-    "copyright": "© 2025–2026 Michael Kofman. Tous droits réservés.",
+    "copyright": "© {year} Michael Kofman. Tous droits réservés.",
     "writeTitle": "Écrivez-moi",
     "writeEmail": "Votre email",
     "writeMessage": "Votre message",

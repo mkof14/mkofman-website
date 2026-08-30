@@ -30,7 +30,7 @@ window.__LANG_he = {
     "ventures": "חברות",
     "connect": "קשר",
     "desc": "מנכ\"ל, טכנולוג אסטרטגי ויזם עטור פרסים.",
-    "copyright": "© 2025–2026 Michael Kofman. כל הזכויות שמורות.",
+    "copyright": "© {year} Michael Kofman. כל הזכויות שמורות.",
     "writeTitle": "כתבו לי",
     "writeEmail": "האימייל שלך",
     "writeMessage": "ההודעה שלך",

@@ -30,7 +30,7 @@ window.__LANG_de = {
     "ventures": "Unternehmen",
     "connect": "Kontakt",
     "desc": "CEO, strategischer Technologe und preisgekrönter Unternehmer.",
-    "copyright": "© 2025–2026 Michael Kofman. Alle Rechte vorbehalten.",
+    "copyright": "© {year} Michael Kofman. Alle Rechte vorbehalten.",
     "writeTitle": "Schreiben Sie mir",
     "writeEmail": "Ihre E-Mail",
     "writeMessage": "Ihre Nachricht",
