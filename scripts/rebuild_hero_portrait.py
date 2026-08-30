@@ -31,6 +31,33 @@ def _remove_background(img):
     return Image.open(io.BytesIO(out)).convert("RGBA")
 
 
+def _sharpen_railing(rgb, rail_mask):
+    """Upscale-sharpen-downscale on railing bbox for clearer stone detail."""
+    import cv2
+    import numpy as np
+
+    if not rail_mask.any():
+        return rgb.copy()
+
+    out = rgb.copy()
+    ys, xs = np.where(rail_mask)
+    pad = 12
+    y1, y2 = max(0, ys.min() - pad), min(rgb.shape[0], ys.max() + pad)
+    x1, x2 = max(0, xs.min() - pad), min(rgb.shape[1], xs.max() + pad)
+    crop = rgb[y1:y2, x1:x2]
+    ch, cw = crop.shape[:2]
+    scale = 2
+    big = cv2.resize(crop, (cw * scale, ch * scale), interpolation=cv2.INTER_CUBIC)
+    blur = cv2.GaussianBlur(big, (0, 0), 1.1)
+    sharp = cv2.addWeighted(big, 1.75, blur, -0.75, 0)
+    blur2 = cv2.GaussianBlur(sharp, (0, 0), 2.2)
+    sharp = cv2.addWeighted(sharp, 1.45, blur2, -0.45, 0)
+    restored = cv2.resize(sharp, (cw, ch), interpolation=cv2.INTER_AREA)
+    restored = np.clip(restored, 0, 255).astype(np.uint8)
+    out[y1:y2, x1:x2][rail_mask[y1:y2, x1:x2]] = restored[rail_mask[y1:y2, x1:x2]]
+    return out
+
+
 def _repair_railing(original, cutout):
     """Restore railing from original pixels with a clean alpha mask."""
     import cv2
@@ -72,20 +99,7 @@ def _repair_railing(original, cutout):
     cleaned = cv2.dilate(cleaned, np.ones((3, 3), np.uint8), 1)
 
     rail = cleaned > 0
-    rgb_out = rgb.copy()
-
-    # Light local sharpen on railing only (original is soft there).
-    blur = cv2.GaussianBlur(rgb, (0, 0), 1.0)
-    sharp = cv2.addWeighted(rgb, 1.35, blur, -0.35, 0)
-    rgb_out[rail] = sharp[rail]
-
-    # Fill small pits on top rail surface.
-    top_rail = rail & (np.arange(h)[:, None] < y0 + 90)
-    pits = top_rail & (lum < 165)
-    pit_mask = (pits.astype(np.uint8) * 255)
-    if pit_mask.max():
-        pit_mask = cv2.erode(pit_mask, np.ones((2, 2), np.uint8), 1)
-        rgb_out = cv2.inpaint(rgb_out, pit_mask, 1, cv2.INPAINT_TELEA)
+    rgb_out = _sharpen_railing(rgb, rail)
 
     alpha = np.zeros_like(person_a)
     alpha[person_a > 8] = person_a[person_a > 8]
@@ -125,7 +139,7 @@ def main() -> None:
 
     fixed = _repair_railing(src, cutout)
     fixed = _defringe_railing_edges(fixed)
-    print("railing: original pixels, clean mask, local sharpen")
+    print("railing: sharpened (2x upscale + unsharp)")
 
     OUT_SOURCE.parent.mkdir(parents=True, exist_ok=True)
     fixed.save(OUT_SOURCE, "PNG")
