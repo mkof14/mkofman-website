@@ -1,5 +1,5 @@
 {
-  "buildCommand": ".venv/bin/python scripts/build_site.py && .venv/bin/python scripts/generate_media_kit_pdf.py",
+  "buildCommand": "bash scripts/vercel_build.sh",
   "installCommand": "python3 -m venv .venv && .venv/bin/pip install fpdf2 pillow -q",
   "outputDirectory": ".",
   "headers": [
