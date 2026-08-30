@@ -353,13 +353,14 @@ h1, h2, h3, h4,
   }
 
   .page-home .hero-panel-right {
-    align-items: flex-end;
+    align-items: center;
     padding-bottom: 0;
   }
 
   .page-home .hero-portrait-wrap {
     height: calc(100dvh - var(--header-height) - clamp(7rem, 22vh, 13rem));
     max-height: none;
+    align-items: center;
   }
 }
 
