@@ -50,11 +50,9 @@ FOOTER_MORE = [
 SKIP_HTML = {"speaking.html", "ip.html", "media-kit.html"}
 
 
-def nav_links(active_file, desktop_only=False):
+def nav_links(active_file):
     lines = []
     for href, key, label in NAV_LINKS:
-        if desktop_only and href == "index.html":
-            continue
         cls = ' class="active"' if href == active_file else ""
         lines.append(f'        <a href="{href}"{cls} data-i18n="{key}">{label}</a>')
     return "\n".join(lines)
@@ -80,7 +78,7 @@ def inner_header(active_file):
       </a>
       <div class="header-right">
         <nav class="main-nav" aria-label="Primary">
-{nav_links(active_file, desktop_only=True)}
+{nav_links(active_file)}
         </nav>
 {CONTROLS}
       </div>
