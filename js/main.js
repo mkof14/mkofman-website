@@ -1,18 +1,14 @@
 document.documentElement.classList.add('js');
 
-document.addEventListener('DOMContentLoaded', async () => {
+document.addEventListener('DOMContentLoaded', () => {
   initTheme();
-  try {
-    await initLanguageSwitcher();
-  } catch (err) {
-    console.warn('Language init failed:', err);
-  }
   initCtaBand();
   initHeader();
   initMobileNav();
   initQuoteCarousel();
   initScrollAnimations();
   initSiteForms();
+  initLanguageSwitcher().catch(err => console.warn('Language init failed:', err));
 });
 
 function initHeader() {

@@ -39,6 +39,20 @@ def bundle_js() -> None:
     print(f"bundled {out.relative_to(ROOT)} ({out.stat().st_size // 1024} KB)")
 
 
+def normalize_image_paths(html: str) -> str:
+    """Root-absolute image URLs — reliable on www/apex and all pages."""
+    html = re.sub(r'\bsrc="images/', 'src="/images/', html)
+    html = re.sub(r"\bsrc='images/", "src='/images/", html)
+    html = re.sub(r'srcset="images/', 'srcset="/images/', html)
+    html = re.sub(
+        r'href="images/([^"]+\.(?:jpg|jpeg|webp|png|gif))"',
+        r'href="/images/\1"',
+        html,
+    )
+    html = html.replace('href="images/', 'href="/images/')
+    return html
+
+
 def patch_html_assets(html: str) -> str:
     # Slim Google Fonts
     html = re.sub(
@@ -123,7 +137,7 @@ def patch_html_assets(html: str) -> str:
     html = html.replace('src="js/i18n.js', 'src="/js/i18n.js')
     html = html.replace('src="js/theme.js"', 'src="/js/theme.js"')
 
-    return html
+    return normalize_image_paths(html)
 
 
 def patch_all_html() -> None:

@@ -208,8 +208,8 @@ def patch_footer_privacy(html: str) -> str:
 
 def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
     picture = (
-        '<picture><source srcset="images/portrait-hero.webp" type="image/webp">'
-        f'<img src="images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
+        '<picture><source srcset="/images/portrait-hero.webp" type="image/webp">'
+        f'<img src="/images/portrait-hero.jpg" alt="Michael Kofman" data-i18n-alt="home.heroAlt" '
         f'width="{hero_w}" height="{hero_h}" fetchpriority="high" decoding="async"></picture>'
     )
     if "portrait-hero.webp" in html or "portrait-hero.jpg" in html or "portrait-hero.png" in html:
@@ -225,7 +225,8 @@ def patch_index_hero(html: str, hero_w: int = 720, hero_h: int = 1022) -> str:
             '<img src="images/portrait-hero.png" alt="Michael Kofman" data-i18n-alt="home.heroAlt">',
             picture,
         )
-    html = html.replace("images/portrait-hero.png", "images/portrait-hero.jpg")
+    html = html.replace("images/portrait-hero.png", "/images/portrait-hero.jpg")
+    html = html.replace('src="images/portrait-hero.jpg"', 'src="/images/portrait-hero.jpg"')
     if 'rel="preload" as="image"' not in html:
         html = re.sub(
             r'<link rel="stylesheet" href="(?:/)?css/(?:styles|site)\.css">',
@@ -432,7 +433,7 @@ function loadLangFile(lang) {
   if (langLoadPromises[lang]) return langLoadPromises[lang];
   langLoadPromises[lang] = new Promise((resolve, reject) => {
     const script = document.createElement('script');
-    script.src = new URL(`js/langs/${lang}.js?v=2`, document.baseURI).href;
+    script.src = `/js/langs/${lang}.js?v=2`;
     script.onload = () => {
       const data = window[`__LANG_${lang}`];
       if (data) TRANSLATIONS[lang] = data;

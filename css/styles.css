@@ -1836,6 +1836,17 @@ h4 { font-size: 1.25rem; }
   color: var(--gold);
 }
 
+/* Photos must stay visible even before scroll-reveal JS runs */
+html.js .bio-sidebar.fade-in,
+html.js .photo-archive.fade-in,
+html.js .about-preview-image,
+html.js .press-clipping.fade-in,
+html.js .video-hero-slot,
+html.js .hero-portrait-wrap {
+  opacity: 1;
+  transform: none;
+}
+
 /* ---- Animations ---- */
 html.js .fade-in {
   opacity: 0;

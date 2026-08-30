@@ -22,7 +22,7 @@ function loadLangFile(lang) {
   if (langLoadPromises[lang]) return langLoadPromises[lang];
   langLoadPromises[lang] = new Promise((resolve, reject) => {
     const script = document.createElement('script');
-    script.src = new URL(`js/langs/${lang}.js?v=2`, document.baseURI).href;
+    script.src = `/js/langs/${lang}.js?v=2`;
     script.onload = () => {
       const data = window[`__LANG_${lang}`];
       if (data) TRANSLATIONS[lang] = data;
