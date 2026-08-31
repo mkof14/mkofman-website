@@ -204,6 +204,11 @@ h4 { font-size: 1.25rem; }
   white-space: nowrap;
 }
 
+/* Home hero already states the name — hide header logo until scroll */
+.page-home .site-header--split:not(.scrolled) .logo--hero {
+  display: none;
+}
+
 .site-header--split .main-nav-left,
 .site-header--split .main-nav-right {
   display: flex;

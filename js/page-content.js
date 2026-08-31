@@ -8,7 +8,7 @@ const PAGE_CONTENT = {
       "secTechP1": "Engineering background includes satellite transceiver systems at the Nikolaev Shipbuilding Plant and digital communications work at Astra Corp, one of Europe's manufacturers of digital transceiver satellite systems.",
       "secBusinessP1": "Founded and led multiple technology companies including 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc., and Elitan United Inc. Full chronology is documented in The Record.",
       "secCurrentP1": "CEO of Digital Invest Inc., focused on bio-mathematical medicine and genomic intelligence. Founder of AGRON Inc., building autonomous aerial-ground operations, UAV capability development, and geospatial systems.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) and Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
+      "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
       "secResearchTitle": "Research & Patents",
       "secResearchP1": "Technical papers on satellite and optical data transmission systems. Patent in digital satellite high-definition television (HDTV), subsequently acquired by Sony."
     },
@@ -131,9 +131,7 @@ const PAGE_CONTENT = {
       "ip3role": "U.S. & Europe",
       "ip3desc": "Engaged in international research collaborations and knowledge transfer initiatives. Developed embedded engineering systems for data acquisition, predictive diagnostics, and cloud-based orchestration across multiple industries.",
       "edu1title": "Doctor of Technical Sciences",
-      "edu1desc": "2009 — Ukrainian State Marine Technical University",
       "edu2title": "Ph.D. in Information Technology",
-      "edu2desc": "2004 — Ukrainian State Marine Technical University",
       "edu3title": "Master's Degrees",
       "edu3desc": "Electronics, Digital Satellite Systems, and Economics",
       "press1title": "Healthcare Tech Outlook",
@@ -175,7 +173,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "Fundó y dirigió múltiples empresas tecnológicas, incluidas 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. y Elitan United Inc. La cronología completa está en The Record.",
       "secCurrentP1": "CEO de Digital Invest Inc., enfocado en medicina biomatemática e inteligencia genómica. Fundador de AGRON Inc., en operaciones autónomas aéreo-terrestres y sistemas geoespaciales.",
-      "secBackgroundP1": "Doctor en Ciencias Técnicas (2009) y Ph.D. en Tecnologías de la Información (2004), Ukrainian State Marine Technical University. Autor de trabajos técnicos; patente en HDTV satelital digital adquirida por Sony."
+      "secBackgroundP1": "Doctor en Ciencias Técnicas y Ph.D. en Tecnologías de la Información. Autor de trabajos técnicos; patente en HDTV satelital digital adquirida por Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -296,9 +294,7 @@ const PAGE_CONTENT = {
       "ip3role": "EE. UU. y Europa",
       "ip3desc": "Participó en colaboraciones de investigación internacional e iniciativas de transferencia de conocimiento. Desarrolló sistemas de ingeniería embebidos para adquisición de datos, diagnósticos predictivos y orquestación en la nube en múltiples industrias.",
       "edu1title": "Doctor en Ciencias Técnicas",
-      "edu1desc": "2009 — Universidad Estatal Técnica Marina de Ucrania",
       "edu2title": "Doctorado en Tecnologías de la Información",
-      "edu2desc": "2004 — Universidad Estatal Técnica Marina de Ucrania",
       "edu3title": "Maestrías",
       "edu3desc": "Electrónica, sistemas satelitales digitales y economía",
       "press1title": "Healthcare Tech Outlook",
@@ -340,7 +336,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "أسس وقاد عدة شركات تقنية. السجل الكامل في The Record.",
       "secCurrentP1": "CEO لـ Digital Invest Inc. في الطب الرياضي الحيوي والذكاء الجينومي. مؤسس AGRON Inc. في العمليات المستقلة جواً-أرضاً.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) و Ph.D. in Information Technology (2004). مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences و Ph.D. in Information Technology. مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -461,9 +457,7 @@ const PAGE_CONTENT = {
       "ip3role": "الولايات المتحدة وأوروبا",
       "ip3desc": "شارك في تعاون بحثي دولي ومبادرات نقل المعرفة. طوّر أنظمة هندسية مدمجة لجمع البيانات والتشخيص التنبؤي والتنسيق السحابي عبر صناعات متعددة.",
       "edu1title": "دكتوراه في العلوم التقنية",
-      "edu1desc": "2009 — Ukrainian State Marine Technical University",
       "edu2title": "دكتوراه في تكنولوجيا المعلومات",
-      "edu2desc": "2004 — Ukrainian State Marine Technical University",
       "edu3title": "درجات الماجستير",
       "edu3desc": "الإلكترونيات وأنظمة الأقمار الصناعية الرقمية والاقتصاد",
       "press1title": "Healthcare Tech Outlook",
@@ -505,7 +499,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "Gründete und leitete mehrere Technologieunternehmen, darunter 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. und Elitan United Inc. Vollständige Chronologie in The Record.",
       "secCurrentP1": "CEO von Digital Invest Inc. in biomathematischer Medizin und genomischer Intelligenz. Gründer von AGRON Inc. in autonomen Luft-Boden-Operationen und geospatialen Systemen.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) und Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Autor technischer Arbeiten; Patent in digitalem Satelliten-HDTV, übernommen von Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences und Ph.D. in Information Technology. Autor technischer Arbeiten; Patent in digitalem Satelliten-HDTV, übernommen von Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -626,9 +620,7 @@ const PAGE_CONTENT = {
       "ip3role": "USA & Europa",
       "ip3desc": "Engagement in internationalen Forschungskooperationen und Wissenstransferinitiativen. Entwicklung eingebetteter Ingenieursysteme für Datenerfassung, prädiktive Diagnostik und cloudbasierte Orchestrierung in mehreren Branchen.",
       "edu1title": "Doktor der technischen Wissenschaften",
-      "edu1desc": "2009 — Ukrainische Staatliche Marine-Technische Universität",
       "edu2title": "Promotion in Informationstechnologie",
-      "edu2desc": "2004 — Ukrainische Staatliche Marine-Technische Universität",
       "edu3title": "Masterabschlüsse",
       "edu3desc": "Elektronik, digitale Satellitensysteme und Wirtschaftswissenschaften",
       "press1title": "Healthcare Tech Outlook",
@@ -670,7 +662,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "A fondé et dirigé plusieurs entreprises technologiques, dont 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. et Elitan United Inc. Chronologie complète dans The Record.",
       "secCurrentP1": "CEO de Digital Invest Inc. en médecine biomathématique et intelligence génomique. Fondateur d'AGRON Inc. en opérations autonomes aéro-terrestres et systèmes géospatiaux.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) et Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Auteur de travaux techniques; brevet HDTV satellitaire acquis par Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences et Ph.D. in Information Technology. Auteur de travaux techniques; brevet HDTV satellitaire acquis par Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -791,9 +783,7 @@ const PAGE_CONTENT = {
       "ip3role": "États-Unis & Europe",
       "ip3desc": "Participation à des collaborations de recherche internationales et à des initiatives de transfert de connaissances. Développement de systèmes d'ingénierie embarqués pour l'acquisition de données, le diagnostic prédictif et l'orchestration cloud dans de multiples industries.",
       "edu1title": "Docteur en sciences techniques",
-      "edu1desc": "2009 — Université d'État technique marine d'Ukraine",
       "edu2title": "Doctorat en technologies de l'information",
-      "edu2desc": "2004 — Université d'État technique marine d'Ukraine",
       "edu3title": "Masters",
       "edu3desc": "Électronique, systèmes satellitaires numériques et économie",
       "press1title": "Healthcare Tech Outlook",
@@ -835,7 +825,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "ייסד והנהיג חברות טכנולוגיה רבות. כרונולוגיה מלאה ב-The Record.",
       "secCurrentP1": "CEO של Digital Invest Inc. ברפואה ביו-מתמטית ואינטליגנציה גénomית. מייסד AGRON Inc. בפעילות אווירית-קרקעית אוטונומית.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) ו-Ph.D. in Information Technology (2004). מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -956,9 +946,7 @@ const PAGE_CONTENT = {
       "ip3role": "ארה\"ב ואירופה",
       "ip3desc": "השתתף בשיתופי מחקר בינלאומיים וביוזמות להעברת ידע. פיתח מערכות הנדסה משובצות לאיסוף נתונים, אבחון חיזוי ותזמור מבוסס ענן במגזרים שונים.",
       "edu1title": "דוקטור לתואר במדעי הטכניקה",
-      "edu1desc": "2009 — Ukrainian State Marine Technical University",
       "edu2title": "Ph.D. בטכנולוגיות מידע",
-      "edu2desc": "2004 — Ukrainian State Marine Technical University",
       "edu3title": "תארי מוסמא",
       "edu3desc": "אלקטרוניקה, מערכות לוויין דיגיטליות וכלכלה",
       "press1title": "Healthcare Tech Outlook",
@@ -1000,7 +988,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "В 2026 году г-н Kofman основал AGRON Inc. для построения экосистемы AGRON — корпоративной архитектуры воздушной и наземной робототехники, управляемого выполнения миссий и сетевой инфраструктуры. Экосистема включает консалтинг, оценку, развитие компетенций и обучение для организаций БПЛА и Counter-UAS, а также морскую разведку и безопасность на agron1.com.",
       "secBusinessP1": "Основал и возглавлял технологические компании, включая 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. и Elitan United Inc. Полная хронология — в The Record.",
       "secCurrentP1": "CEO Digital Invest Inc. в биоматематической медицине и геномной аналитике. Основатель AGRON Inc. в автономных воздушно-наземных операциях и геопространственных системах.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) и Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Автор технических работ; патент в digital satellite HDTV, приобретённый Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences и Ph.D. in Information Technology. Автор технических работ; патент в digital satellite HDTV, приобретённый Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -1121,9 +1109,7 @@ const PAGE_CONTENT = {
       "ip3role": "США и Европа",
       "ip3desc": "Участвовал в международных исследовательских коллаборациях и инициативах по трансферу знаний. Разработал встраиваемые инженерные системы для сбора данных, предиктивной диагностики и облачной оркестрации в различных отраслях.",
       "edu1title": "Доктор технических наук",
-      "edu1desc": "2009 — Украинский государственный морской технический университет",
       "edu2title": "Ph.D. в области информационных технологий",
-      "edu2desc": "2004 — Украинский государственный морской технический университет",
       "edu3title": "Степени магистра",
       "edu3desc": "Электроника, цифровые спутниковые системы и экономика",
       "press1title": "Healthcare Tech Outlook",
@@ -1165,7 +1151,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "У 2026 році пан Kofman заснув AGRON Inc. для побудови екосистеми AGRON — корпоративної архітектури повітряної та наземної робототехніки, керованого виконання місій і мережевої інфраструктури. Екосистема включає консалтинг, оцінку, розвиток компетенцій і навчання для організацій БПЛА та Counter-UAS, а також морську розвідку та безпеку на agron1.com.",
       "secBusinessP1": "Заснував і очолював технологічні компанії, зокрема 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. і Elitan United Inc. Повна хронологія — у The Record.",
       "secCurrentP1": "CEO Digital Invest Inc. у біоматематичній медицині та геномній аналітиці. Засновник AGRON Inc. в автономних повітряно-наземних операціях і геопросторових системах.",
-      "secBackgroundP1": "Doctor of Technical Sciences (2009) і Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Автор технічних робіт; патент у digital satellite HDTV, придбаний Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences і Ph.D. in Information Technology. Автор технічних робіт; патент у digital satellite HDTV, придбаний Sony."
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -1286,9 +1272,7 @@ const PAGE_CONTENT = {
       "ip3role": "США та Європа",
       "ip3desc": "Брав участь у міжнародних дослідницьких колабораціях та ініціативах із трансферу знань. Розробив вбудовані інженерні системи для збору даних, предиктивної діагностики та хмарної оркестрації в різних галузях.",
       "edu1title": "Доктор технічних наук",
-      "edu1desc": "2009 — Український державний морський технічний університет",
       "edu2title": "Ph.D. у галузі інформаційних технологій",
-      "edu2desc": "2004 — Український державний морський технічний університет",
       "edu3title": "Ступені магістра",
       "edu3desc": "Електроніка, цифрові супутникові системи та економіка",
       "press1title": "Healthcare Tech Outlook",
@@ -1330,7 +1314,7 @@ const PAGE_CONTENT = {
       "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
       "secBusinessP1": "创立并领导多家科技公司，包括 9 Net Avenue Inc.、DataPeer Inc.、XIBI Group Inc. 和 Elitan United Inc。完整年表见 The Record。",
       "secCurrentP1": "Digital Invest Inc. CEO，专注生物数学医学和基因组智能。AGRON Inc. 创始人，从事自主空地作业和地理空间系统。",
-      "secBackgroundP1": "技术科学博士（2009）和信息技术博士（2004），乌克兰国立海洋技术大学。著有技术论文；数字卫星 HDTV 专利被 Sony 收购。"
+      "secBackgroundP1": "技术科学博士和信息技术博士。著有技术论文；数字卫星 HDTV 专利被 Sony 收购。"
     },
     "ventures": {
       "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
@@ -1451,9 +1435,7 @@ const PAGE_CONTENT = {
       "ip3role": "美国与欧洲",
       "ip3desc": "参与国际研究合作与知识转移倡议。为多个行业开发用于数据采集、预测性诊断和云端编排的嵌入式工程系统。",
       "edu1title": "技术科学博士",
-      "edu1desc": "2009 — Ukrainian State Marine Technical University",
       "edu2title": "信息技术哲学博士",
-      "edu2desc": "2004 — Ukrainian State Marine Technical University",
       "edu3title": "硕士学位",
       "edu3desc": "电子学、数字卫星系统与经济学",
       "press1title": "Healthcare Tech Outlook",

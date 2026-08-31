@@ -251,7 +251,7 @@ window.__LANG_ru = {
     "location": "Местоположение",
     "locationVal": "Шарлотт, Северная Каролина",
     "education": "Образование",
-    "educationVal": "Доктор технических наук (2009)\nPh.D. в IT (2004)\nМагистр электронной инженерии",
+    "educationVal": "Доктор технических наук\nPh.D. в IT\nМагистр электронной инженерии",
     "university": "Университет",
     "universityVal": "Украинский государственный морской технический университет",
     "languages": "Языки",
@@ -300,7 +300,7 @@ window.__LANG_ru = {
     "secAgronP1": "В 2026 году г-н Kofman основал AGRON Inc. для построения экосистемы AGRON — корпоративной архитектуры воздушной и наземной робототехники, управляемого выполнения миссий и сетевой инфраструктуры. Экосистема включает консалтинг, оценку, развитие компетенций и обучение для организаций БПЛА и Counter-UAS, а также морскую разведку и безопасность на agron1.com.",
     "secBusinessP1": "Основал и возглавлял технологические компании, включая 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. и Elitan United Inc. Полная хронология — в The Record.",
     "secCurrentP1": "CEO Digital Invest Inc. в биоматематической медицине и геномной аналитике. Основатель AGRON Inc. в автономных воздушно-наземных операциях и геопространственных системах.",
-    "secBackgroundP1": "Doctor of Technical Sciences (2009) и Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Автор технических работ; патент в digital satellite HDTV, приобретённый Sony."
+    "secBackgroundP1": "Doctor of Technical Sciences и Ph.D. in Information Technology. Автор технических работ; патент в digital satellite HDTV, приобретённый Sony."
   },
   "ventures": {
     "eyebrow": "Портфель компаний",
@@ -472,9 +472,7 @@ window.__LANG_ru = {
     "ip3role": "США и Европа",
     "ip3desc": "Участвовал в международных исследовательских коллаборациях и инициативах по трансферу знаний. Разработал встраиваемые инженерные системы для сбора данных, предиктивной диагностики и облачной оркестрации в различных отраслях.",
     "edu1title": "Доктор технических наук",
-    "edu1desc": "2009 — Украинский государственный морской технический университет",
     "edu2title": "Ph.D. в области информационных технологий",
-    "edu2desc": "2004 — Украинский государственный морской технический университет",
     "edu3title": "Степени магистра",
     "edu3desc": "Электроника, цифровые спутниковые системы и экономика",
     "press1title": "Healthcare Tech Outlook",
@@ -666,7 +664,7 @@ window.__LANG_ru = {
     "bioMediumLabel": "150 слов",
     "bioMedium": "Michael Kofman — CEO Digital Invest Inc. и член совета директоров. Предприниматель, член советов и советник; основал компании в США и Европе в data infrastructure, digital health и робототехнике. Работа охватывает технологическую стратегию, безопасность, исследования и инвестиции.",
     "bioLongLabel": "500 слов",
-    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences (2009), Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University.",
+    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
     "photosEyebrow": "Фотографии",
     "photosTitle": "Одобренные изображения",
     "photosLead": "Портреты высокого разрешения — по запросу на mkofman@mkofman.com.",

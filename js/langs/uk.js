@@ -251,7 +251,7 @@ window.__LANG_uk = {
     "location": "Локація",
     "locationVal": "Шарлотт, Північна Кароліна",
     "education": "Освіта",
-    "educationVal": "Doctor of Technical Sciences (2009)\nPh.D. in Information Technology (2004)\nMaster's in Electronic Engineering",
+    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
     "university": "Університет",
     "universityVal": "Ukrainian State Marine Technical University",
     "languages": "Мови",
@@ -300,7 +300,7 @@ window.__LANG_uk = {
     "secAgronP1": "У 2026 році пан Kofman заснув AGRON Inc. для побудови екосистеми AGRON — корпоративної архітектури повітряної та наземної робототехніки, керованого виконання місій і мережевої інфраструктури. Екосистема включає консалтинг, оцінку, розвиток компетенцій і навчання для організацій БПЛА та Counter-UAS, а також морську розвідку та безпеку на agron1.com.",
     "secBusinessP1": "Заснував і очолював технологічні компанії, зокрема 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. і Elitan United Inc. Повна хронологія — у The Record.",
     "secCurrentP1": "CEO Digital Invest Inc. у біоматематичній медицині та геномній аналітиці. Засновник AGRON Inc. в автономних повітряно-наземних операціях і геопросторових системах.",
-    "secBackgroundP1": "Doctor of Technical Sciences (2009) і Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Автор технічних робіт; патент у digital satellite HDTV, придбаний Sony."
+    "secBackgroundP1": "Doctor of Technical Sciences і Ph.D. in Information Technology. Автор технічних робіт; патент у digital satellite HDTV, придбаний Sony."
   },
   "ventures": {
     "eyebrow": "Портфель компаній",
@@ -472,9 +472,7 @@ window.__LANG_uk = {
     "ip3role": "США та Європа",
     "ip3desc": "Брав участь у міжнародних дослідницьких колабораціях та ініціативах із трансферу знань. Розробив вбудовані інженерні системи для збору даних, предиктивної діагностики та хмарної оркестрації в різних галузях.",
     "edu1title": "Доктор технічних наук",
-    "edu1desc": "2009 — Український державний морський технічний університет",
     "edu2title": "Ph.D. у галузі інформаційних технологій",
-    "edu2desc": "2004 — Український державний морський технічний університет",
     "edu3title": "Ступені магістра",
     "edu3desc": "Електроніка, цифрові супутникові системи та економіка",
     "press1title": "Healthcare Tech Outlook",
@@ -666,7 +664,7 @@ window.__LANG_uk = {
     "bioMediumLabel": "150 слів",
     "bioMedium": "Michael Kofman — CEO Digital Invest Inc. і член ради директорів. Підприємець, член рад і радник; заснував компанії в США та Європі в data infrastructure, digital health і робототехніці. Робота охоплює технологічну стратегію, безпеку, дослідження та інвестиції.",
     "bioLongLabel": "500 слів",
-    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences (2009), Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University.",
+    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
     "photosEyebrow": "Фотографії",
     "photosTitle": "Погоджені зображення",
     "photosLead": "Портрети високої роздільної здатності доступні за запитом на mkofman@mkofman.com.",

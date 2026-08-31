@@ -251,7 +251,7 @@ window.__LANG_he = {
     "location": "מיקום",
     "locationVal": "Charlotte, North Carolina",
     "education": "השכלה",
-    "educationVal": "Doctor of Technical Sciences (2009)\nPh.D. in Information Technology (2004)\nMaster's in Electronic Engineering",
+    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
     "university": "אוניברסיטה",
     "universityVal": "Ukrainian State Marine Technical University",
     "languages": "שפות",
@@ -300,7 +300,7 @@ window.__LANG_he = {
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "ייסד והנהיג חברות טכנולוגיה רבות. כרונולוגיה מלאה ב-The Record.",
     "secCurrentP1": "CEO של Digital Invest Inc. ברפואה ביו-מתמטית ואינטליגנציה גénomית. מייסד AGRON Inc. בפעילות אווירית-קרקעית אוטונומית.",
-    "secBackgroundP1": "Doctor of Technical Sciences (2009) ו-Ph.D. in Information Technology (2004). מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
+    "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
   },
   "ventures": {
     "eyebrow": "תיק חברות",
@@ -472,9 +472,7 @@ window.__LANG_he = {
     "ip3role": "ארה\"ב ואירופה",
     "ip3desc": "השתתף בשיתופי מחקר בינלאומיים וביוזמות להעברת ידע. פיתח מערכות הנדסה משובצות לאיסוף נתונים, אבחון חיזוי ותזמור מבוסס ענן במגזרים שונים.",
     "edu1title": "דוקטור לתואר במדעי הטכניקה",
-    "edu1desc": "2009 — Ukrainian State Marine Technical University",
     "edu2title": "Ph.D. בטכנולוגיות מידע",
-    "edu2desc": "2004 — Ukrainian State Marine Technical University",
     "edu3title": "תארי מוסמא",
     "edu3desc": "אלקטרוניקה, מערכות לוויין דיגיטליות וכלכלה",
     "press1title": "Healthcare Tech Outlook",
@@ -666,7 +664,7 @@ window.__LANG_he = {
     "bioMediumLabel": "150 מילים",
     "bioMedium": "Michael Kofman הוא CEO של Digital Invest Inc. ומשמש כחבר ב-Board of Directors שלה. כאיש חזון טכנולוגי, הוא מוכר בגישתו הדינמית להבנת הצרכים המשתנים של שוק מורכב. כיזם, חבר דירקטוריון ויועץ לחברות ציבוריות ופרטיות, הוא הקים בהצלחה מספר חברות בארצות הברית ובאירופה. תחומי המומחיות שלו כוללים הנהלה בכירה, ניתוח אסטרטגי של טכנולוגיות ושווקים מתפתחים, אבטחת מידע ופרטיות, מחקר, מדע ופיתוח, ניהול והשקעות.",
     "bioLongLabel": "500 מילים",
-    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences (2009), Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University.",
+    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
     "photosEyebrow": "צילום",
     "photosTitle": "תמונות מאושרות",
     "photosLead": "דיוקנאות באיכות גבוהה זמינים לפי בקשה בכתובת mkofman@mkofman.com.",

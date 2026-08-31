@@ -251,7 +251,7 @@ window.__LANG_de = {
     "location": "Standort",
     "locationVal": "Charlotte, North Carolina",
     "education": "Ausbildung",
-    "educationVal": "Doctor of Technical Sciences (2009)\nPh.D. in Information Technology (2004)\nMaster's in Electronic Engineering",
+    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
     "university": "Universität",
     "universityVal": "Ukrainian State Marine Technical University",
     "languages": "Sprachen",
@@ -300,7 +300,7 @@ window.__LANG_de = {
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "Gründete und leitete mehrere Technologieunternehmen, darunter 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. und Elitan United Inc. Vollständige Chronologie in The Record.",
     "secCurrentP1": "CEO von Digital Invest Inc. in biomathematischer Medizin und genomischer Intelligenz. Gründer von AGRON Inc. in autonomen Luft-Boden-Operationen und geospatialen Systemen.",
-    "secBackgroundP1": "Doctor of Technical Sciences (2009) und Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University. Autor technischer Arbeiten; Patent in digitalem Satelliten-HDTV, übernommen von Sony."
+    "secBackgroundP1": "Doctor of Technical Sciences und Ph.D. in Information Technology. Autor technischer Arbeiten; Patent in digitalem Satelliten-HDTV, übernommen von Sony."
   },
   "ventures": {
     "eyebrow": "Unternehmensportfolio",
@@ -472,9 +472,7 @@ window.__LANG_de = {
     "ip3role": "USA & Europa",
     "ip3desc": "Engagement in internationalen Forschungskooperationen und Wissenstransferinitiativen. Entwicklung eingebetteter Ingenieursysteme für Datenerfassung, prädiktive Diagnostik und cloudbasierte Orchestrierung in mehreren Branchen.",
     "edu1title": "Doktor der technischen Wissenschaften",
-    "edu1desc": "2009 — Ukrainische Staatliche Marine-Technische Universität",
     "edu2title": "Promotion in Informationstechnologie",
-    "edu2desc": "2004 — Ukrainische Staatliche Marine-Technische Universität",
     "edu3title": "Masterabschlüsse",
     "edu3desc": "Elektronik, digitale Satellitensysteme und Wirtschaftswissenschaften",
     "press1title": "Healthcare Tech Outlook",
@@ -666,7 +664,7 @@ window.__LANG_de = {
     "bioMediumLabel": "150 Wörter",
     "bioMedium": "Michael Kofman ist CEO von Digital Invest Inc. und Vorstandsmitglied. Als Unternehmer, Board-Mitglied und Berater hat er Unternehmen in den USA und Europa in Dateninfrastruktur, Digital Health und Robotik gegründet. Seine Arbeit umfasst Technologiestrategie, Sicherheit, Forschung und Investment.",
     "bioLongLabel": "500 Wörter",
-    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences (2009), Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University.",
+    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
     "photosEyebrow": "Fotografie",
     "photosTitle": "Freigegebene Bilder",
     "photosLead": "Hochauflösende Porträts sind auf Anfrage unter mkofman@mkofman.com erhältlich.",

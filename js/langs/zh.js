@@ -251,7 +251,7 @@ window.__LANG_zh = {
     "location": "地点",
     "locationVal": "Charlotte, North Carolina",
     "education": "教育",
-    "educationVal": "Doctor of Technical Sciences (2009)\nPh.D. in Information Technology (2004)\nMaster's in Electronic Engineering",
+    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
     "university": "大学",
     "universityVal": "Ukrainian State Marine Technical University",
     "languages": "语言",
@@ -300,7 +300,7 @@ window.__LANG_zh = {
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "创立并领导多家科技公司，包括 9 Net Avenue Inc.、DataPeer Inc.、XIBI Group Inc. 和 Elitan United Inc。完整年表见 The Record。",
     "secCurrentP1": "Digital Invest Inc. CEO，专注生物数学医学和基因组智能。AGRON Inc. 创始人，从事自主空地作业和地理空间系统。",
-    "secBackgroundP1": "技术科学博士（2009）和信息技术博士（2004），乌克兰国立海洋技术大学。著有技术论文；数字卫星 HDTV 专利被 Sony 收购。"
+    "secBackgroundP1": "技术科学博士和信息技术博士。著有技术论文；数字卫星 HDTV 专利被 Sony 收购。"
   },
   "ventures": {
     "eyebrow": "企业组合",
@@ -472,9 +472,7 @@ window.__LANG_zh = {
     "ip3role": "美国与欧洲",
     "ip3desc": "参与国际研究合作与知识转移倡议。为多个行业开发用于数据采集、预测性诊断和云端编排的嵌入式工程系统。",
     "edu1title": "技术科学博士",
-    "edu1desc": "2009 — Ukrainian State Marine Technical University",
     "edu2title": "信息技术哲学博士",
-    "edu2desc": "2004 — Ukrainian State Marine Technical University",
     "edu3title": "硕士学位",
     "edu3desc": "电子学、数字卫星系统与经济学",
     "press1title": "Healthcare Tech Outlook",
@@ -666,7 +664,7 @@ window.__LANG_zh = {
     "bioMediumLabel": "150 词",
     "bioMedium": "Michael Kofman 是 Digital Invest Inc. 的 CEO，并担任其董事会成员。作为技术远见者，他以动态方式洞察当今复杂市场不断变化的需求。作为企业家、董事会成员以及公私营企业顾问，他已在美国和欧洲成功创办多家公司。其专长覆盖高管领导力、新兴技术与市场战略分析、信息安全与隐私、科研与开发、管理及投资。",
     "bioLongLabel": "500 词",
-    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences (2009), Ph.D. in Information Technology (2004), Ukrainian State Marine Technical University.",
+    "bioLong": "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
     "photosEyebrow": "摄影素材",
     "photosTitle": "授权图片",
     "photosLead": "如需高清肖像照，请发送邮件至 mkofman@mkofman.com。",
