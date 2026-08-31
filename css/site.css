@@ -2556,6 +2556,136 @@ html.js .fade-in.visible {
   margin: 0;
 }
 
+/* ---- The Record — vertical timeline ---- */
+.page-record .record-timeline {
+  position: relative;
+  padding-left: 2.25rem;
+}
+
+.page-record .record-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0.40625rem;
+  top: 0.35rem;
+  bottom: 0.35rem;
+  width: 2px;
+  background: linear-gradient(180deg, var(--gold) 0%, var(--border) 100%);
+  border-radius: 1px;
+}
+
+.page-record .record-timeline .record-period-title,
+.page-record .record-timeline .record-period-lead {
+  margin-left: -2.25rem;
+}
+
+.page-record .record-timeline .record-entry {
+  position: relative;
+  border-top: none;
+  padding-top: 0;
+  padding-bottom: 2.25rem;
+}
+
+.page-record .record-timeline .record-period .record-entry:last-child {
+  padding-bottom: 0.5rem;
+}
+
+.page-record .record-timeline .record-entry::before {
+  content: '';
+  position: absolute;
+  left: -1.84375rem;
+  top: 0.2rem;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--gold);
+  box-shadow: 0 0 0 3px var(--surface-bg);
+  z-index: 1;
+}
+
+.page-record .record-timeline .record-period--current .record-entry::before {
+  background: var(--gold-light);
+  box-shadow: 0 0 0 3px var(--surface-bg), 0 0 0 5px rgba(196, 162, 101, 0.22);
+}
+
+html.js .page-record .record-entry.fade-in {
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+@media (max-width: 640px) {
+  .page-record .record-timeline {
+    padding-left: 1.5rem;
+  }
+
+  .page-record .record-timeline::before {
+    left: 0.3125rem;
+  }
+
+  .page-record .record-timeline .record-period-title,
+  .page-record .record-timeline .record-period-lead {
+    margin-left: -1.5rem;
+  }
+
+  .page-record .record-timeline .record-entry::before {
+    left: -1.1875rem;
+    width: 9px;
+    height: 9px;
+    box-shadow: 0 0 0 2px var(--surface-bg);
+  }
+
+  .page-record .record-timeline .record-period--current .record-entry::before {
+    box-shadow: 0 0 0 2px var(--surface-bg), 0 0 0 4px rgba(196, 162, 101, 0.22);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.js .page-record .record-entry.fade-in {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+html[dir="rtl"] .page-record .record-timeline {
+  padding-left: 0;
+  padding-right: 2.25rem;
+}
+
+html[dir="rtl"] .page-record .record-timeline::before {
+  left: auto;
+  right: 0.40625rem;
+}
+
+html[dir="rtl"] .page-record .record-timeline .record-period-title,
+html[dir="rtl"] .page-record .record-timeline .record-period-lead {
+  margin-left: 0;
+  margin-right: -2.25rem;
+}
+
+html[dir="rtl"] .page-record .record-timeline .record-entry::before {
+  left: auto;
+  right: -1.84375rem;
+}
+
+@media (max-width: 640px) {
+  html[dir="rtl"] .page-record .record-timeline {
+    padding-right: 1.5rem;
+  }
+
+  html[dir="rtl"] .page-record .record-timeline::before {
+    right: 0.3125rem;
+  }
+
+  html[dir="rtl"] .page-record .record-timeline .record-period-title,
+  html[dir="rtl"] .page-record .record-timeline .record-period-lead {
+    margin-right: -1.5rem;
+  }
+
+  html[dir="rtl"] .page-record .record-timeline .record-entry::before {
+    right: -1.1875rem;
+  }
+}
+
 .record-document-layout {
   display: grid;
   grid-template-columns: 1fr min(280px, 32%);

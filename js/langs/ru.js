@@ -24,7 +24,7 @@ window.__LANG_ru = {
     "groupMain": "Основное",
     "groupServices": "Услуги",
     "groupWork": "Работа",
-    "board": "Работа в советах директоров",
+    "board": "Advisory",
     "thesis": "Принципы лидерства",
     "press": "Пресса",
     "briefIpo": "Бриф: IPO",
@@ -102,8 +102,8 @@ window.__LANG_ru = {
       "description": "Объединение life sciences с ИИ, ML и ДНК-технологиями в современной медицине."
     },
     "board": {
-      "title": "Работа в советах директоров — Майкл Кофман",
-      "description": "Участие Майкла Кофмана в советах директоров и стратегическое консультирование технологических, медицинских, инфраструктурных и растущих компаний."
+      "title": "Advisory — Michael Kofman",
+      "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
     },
     "thesis": {
       "title": "Принципы лидерства — Майкл Кофман",
@@ -354,7 +354,11 @@ window.__LANG_ru = {
     "v8highlight": "Инженерия военных спутниковых систем",
     "v8p1": "Разработка и создание спутниковых трансиверных систем для передачи секретной информации на военные корабли. Признан инженером-электронщиком высшего уровня на заводе с 93 000 сотрудников.",
     "v8role": "Инженер-электронщик · Высшая категория (6-я)",
-    "v8year": "1984 — 1989"
+    "v8year": "1984 — 1989",
+    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+    "v1brole": "CEO",
+    "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "v1byear": "2014 — 2020"
   },
   "career": {
     "eyebrow": "Профессиональный record",
@@ -424,7 +428,10 @@ window.__LANG_ru = {
     "t9desc": "Основал одного из крупнейших в Европе производителей цифровых спутниковых трансиверных систем. Руководил исследованиями, разработкой операционных систем, сетевыми программными приложениями и общей технической стратегией, получив международное признание.",
     "t9role": "Основатель и CEO",
     "t9title": "Astra Corp",
-    "t9year": "1989 — 1994"
+    "t9year": "1989 — 1994",
+    "t1bdesc": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "t1brole": "CEO",
+    "t1byear": "2014 — 2020"
   },
   "recognition": {
     "eyebrow": "Награды",
@@ -496,7 +503,7 @@ window.__LANG_ru = {
     "subject": "Тема",
     "message": "Сообщение",
     "inquiryType": "Тип запроса",
-    "inquiryAdvisory": "Advisory / совет директоров",
+    "inquiryAdvisory": "Advisory",
     "inquirySpeaking": "Выступление",
     "inquiryPress": "Пресса / медиа",
     "inquiryPartnership": "Стратегическое партнёрство",
@@ -524,7 +531,9 @@ window.__LANG_ru = {
     "area2title": "CEO & Founder Advisory",
     "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
     "area3title": "Technology Due Diligence",
-    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+    "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+    "redirectLink": "Advisory →"
   },
   "insights": {
     "eyebrow": "Перспективы",
@@ -694,37 +703,10 @@ window.__LANG_ru = {
     "article2p4": "Digital Invest развивает биоматематическую медицину через проекты Human Digital Model и BioMath Life. В 2026 году Michael Kofman основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network — БПЛА, геопространственные системы и морская разведка на agron1.com."
   },
   "board": {
-    "eyebrow": "Советы директоров и стратегическое консультирование",
-    "title": "Board & Advisory",
-    "lead": "Board & Advisory",
-    "rolesEyebrow": "Форматы сотрудничества",
-    "rolesTitle": "Партнёрство на уровне совета директоров",
-    "role1title": "Независимый директор",
-    "role1desc": "Конструктивный надзор, содержательная дискуссия и долгосрочный взгляд для советов публичных и частных компаний.",
-    "role2title": "Член консультативного совета",
-    "role2desc": "Практические рекомендации по новым технологиям, продуктовой стратегии, рыночному позиционированию и готовности организации.",
-    "role3title": "Советник генерального директора и основателя",
-    "role3desc": "Конфиденциальная поддержка лидеров в переломные моменты масштабирования, управления, преемственности, финансирования или трансформации.",
-    "role4title": "Советник специального комитета",
-    "role4desc": "Целевая поддержка сделок, технологической проверки, оценки киберрисков и других ответственных задач.",
-    "valueEyebrow": "Подход",
-    "valueTitle": "Мой вклад в работу совета",
-    "value1title": "Дисциплина практика",
-    "value1desc": "Опыт создания организаций с нуля, их глобального масштабирования, продажи и работы в условиях ответственности перед публичным рынком.",
-    "value2title": "Технологическая компетентность",
-    "value2desc": "Способность переводить сложные системы, научные утверждения и технологические риски на язык ясных решений совета.",
-    "value3title": "Межотраслевая оценка",
-    "value3desc": "Взгляд, сформированный опытом в технологиях, телекоммуникациях, обороне, инфраструктуре данных и точной медицине.",
-    "value4title": "Культура корпоративного управления",
-    "value4desc": "Приверженность фидуциарной ответственности, открытому диалогу, этичным инновациям и устойчивой ценности для заинтересованных сторон.",
-    "cta": "Обсудить задачу для совета",
-    "availability": "Рассматриваются отдельные предложения о работе независимым директором, членом консультативного совета и стратегическим советником.",
-    "area1title": "Board Service",
-    "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-    "area2title": "CEO & Founder Advisory",
-    "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-    "area3title": "Technology Due Diligence",
-    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+    "eyebrow": "Advisory",
+    "title": "Advisory",
+    "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+    "contactLink": "For contact / advisory inquiries"
   },
   "thesis": {
     "eyebrow": "Принципы лидерства",

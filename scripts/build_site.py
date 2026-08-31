@@ -57,7 +57,7 @@ BREADCRUMB_LABELS = {
     "article1": "Data Infrastructure",
     "article2": "Precision Medicine",
     "privacy": "Privacy",
-    "board": "Board Advisory",
+    "board": "Advisory",
     "thesis": "Leadership Thesis",
     "press": "Press",
     "deck": "Executive Overview",

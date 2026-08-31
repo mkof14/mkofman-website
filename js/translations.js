@@ -29,7 +29,7 @@ const TRANSLATIONS = {
       "groupMain": "Main",
       "groupServices": "Services",
       "groupWork": "Work",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -38,7 +38,7 @@ const TRANSLATIONS = {
       "navigation": "Navigation",
       "ventures": "Ventures",
       "connect": "Connect",
-      "desc": "Technology executive, founder, and board advisor.",
+      "desc": "Technology executive, founder, and advisor.",
       "copyright": "© {year} Michael Kofman. All Rights Reserved.",
       "writeTitle": "Write to Me",
       "writeEmail": "Your email",
@@ -51,7 +51,7 @@ const TRANSLATIONS = {
     "meta": {
       "home": {
         "title": "Michael Kofman — Technology Executive",
-        "description": "Technology executive, founder, and board advisor — infrastructure, life sciences, and autonomous systems."
+        "description": "Technology executive, founder, and advisor — infrastructure, life sciences, and autonomous systems."
       },
       "about": {
         "title": "About — Michael Kofman",
@@ -106,8 +106,8 @@ const TRANSLATIONS = {
         "description": "Privacy policy for mkofman.com — how we handle contact form data and site analytics."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -140,11 +140,11 @@ const TRANSLATIONS = {
     },
     "home": {
       "heroName": "Michael Kofman",
-      "heroRole": "Technology Executive · Founder · Board Advisor",
+      "heroRole": "Technology Executive · Founder · Advisor",
       "heroSub": "Technology, business, and investment across infrastructure, life sciences, and autonomous systems.",
       "heroAlt": "Michael Kofman",
       "featuredEyebrow": "As Featured In",
-      "introText": "Michael Kofman is a technology executive and company founder. His work spans satellite engineering, internet infrastructure, public technology companies, and life sciences. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000. He is CEO of Digital Invest Inc., in bio-mathematical medicine and genomic intelligence, and founder of AGRON Inc., in autonomous aerial-ground operations and geospatial systems. He serves on boards and advises in technology, health, and infrastructure.",
+      "introText": "Michael Kofman is a technology executive and company founder whose career began in satellite engineering before Ukraine's transition to independence, and has spanned internet infrastructure, public technology companies, and life sciences since relocating to the United States. He holds an early patent in digital satellite HDTV technology, later acquired by Sony. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000. He is CEO of Digital Invest Inc., in bio-mathematical medicine and genomic intelligence, and founder of AGRON Inc., in autonomous aerial-ground operations and geospatial systems. He advises technology, health, and infrastructure organizations on strategy and growth.",
       "introLink": "Full biography →",
       "currentEyebrow": "Current Work",
       "currentTitle": "Where Focus Is Now",
@@ -181,7 +181,7 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "Technology executive, founder, and board advisor.",
+      "footerHomeDesc": "Technology executive, founder, and advisor.",
       "exp1desc": "Founded and led multiple technology companies in the United States and Europe.",
       "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
     },
@@ -216,7 +216,7 @@ const TRANSLATIONS = {
       "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
       "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
-      "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony."
+      "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems."
     },
     "ventures": {
       "eyebrow": "Ventures",
@@ -286,7 +286,7 @@ const TRANSLATIONS = {
       "message": "Message",
       "inquiryType": "Inquiry Type",
       "inquiryBusiness": "Business",
-      "inquiryAdvisory": "Board & Advisory",
+      "inquiryAdvisory": "Advisory",
       "inquiryPress": "Media",
       "inquiryOther": "Other professional inquiry",
       "calendlyEyebrow": "Schedule a Conversation",
@@ -296,8 +296,10 @@ const TRANSLATIONS = {
       "calendlyCta": "Open Scheduling Calendar"
     },
     "consulting": {
-      "eyebrow": "Board & Advisory",
-      "title": "Board & Advisory",
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →",
       "heroEyebrow": "Selective Engagement",
       "heroTitle": "Board & Strategic Advisory",
       "heroLead": "Selected board and strategic advisory engagements for technology, health, infrastructure, and growth-stage organizations.",
@@ -496,16 +498,10 @@ const TRANSLATIONS = {
       "s5text": "Questions about this policy: mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Advisory",
-      "title": "Board & Advisory",
-      "lead": "Selected board and strategic advisory engagements.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
-      "cta": "For board and advisory inquiries"
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -654,7 +650,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -731,8 +727,8 @@ const TRANSLATIONS = {
         "description": "Política de privacidad de mkofman.com: formularios de contacto y analítica."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -986,7 +982,7 @@ const TRANSLATIONS = {
       "subject": "Asunto",
       "message": "Mensaje",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -1013,7 +1009,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Perspectivas",
@@ -1199,37 +1197,10 @@ const TRANSLATIONS = {
       "s5text": "Preguntas sobre esta política: mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -1378,7 +1349,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -1455,8 +1426,8 @@ const TRANSLATIONS = {
         "description": "Datenschutzerklärung für mkofman.com — Kontaktformulare und Analyse."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -1710,7 +1681,7 @@ const TRANSLATIONS = {
       "subject": "Betreff",
       "message": "Nachricht",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -1737,7 +1708,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Perspektiven",
@@ -1923,37 +1896,10 @@ const TRANSLATIONS = {
       "s5text": "Fragen zu dieser Richtlinie: mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -2102,7 +2048,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -2179,8 +2125,8 @@ const TRANSLATIONS = {
         "description": "Politique de confidentialité de mkofman.com — formulaires et analytique."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -2434,7 +2380,7 @@ const TRANSLATIONS = {
       "subject": "Objet",
       "message": "Message",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -2461,7 +2407,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Perspectives",
@@ -2647,37 +2595,10 @@ const TRANSLATIONS = {
       "s5text": "Questions sur cette politique : mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -2821,7 +2742,7 @@ const TRANSLATIONS = {
       "groupMain": "Основное",
       "groupServices": "Услуги",
       "groupWork": "Работа",
-      "board": "Работа в советах директоров",
+      "board": "Advisory",
       "thesis": "Принципы лидерства",
       "press": "Пресса",
       "briefIpo": "Бриф: IPO",
@@ -2899,8 +2820,8 @@ const TRANSLATIONS = {
         "description": "Объединение life sciences с ИИ, ML и ДНК-технологиями в современной медицине."
       },
       "board": {
-        "title": "Работа в советах директоров — Майкл Кофман",
-        "description": "Участие Майкла Кофмана в советах директоров и стратегическое консультирование технологических, медицинских, инфраструктурных и растущих компаний."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Принципы лидерства — Майкл Кофман",
@@ -3158,7 +3079,7 @@ const TRANSLATIONS = {
       "subject": "Тема",
       "message": "Сообщение",
       "inquiryType": "Тип запроса",
-      "inquiryAdvisory": "Advisory / совет директоров",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Выступление",
       "inquiryPress": "Пресса / медиа",
       "inquiryPartnership": "Стратегическое партнёрство",
@@ -3185,7 +3106,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Перспективы",
@@ -3355,37 +3278,10 @@ const TRANSLATIONS = {
       "article2p4": "Digital Invest развивает биоматематическую медицину через проекты Human Digital Model и BioMath Life. В 2026 году Michael Kofman основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network — БПЛА, геопространственные системы и морская разведка на agron1.com."
     },
     "board": {
-      "eyebrow": "Советы директоров и стратегическое консультирование",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Форматы сотрудничества",
-      "rolesTitle": "Партнёрство на уровне совета директоров",
-      "role1title": "Независимый директор",
-      "role1desc": "Конструктивный надзор, содержательная дискуссия и долгосрочный взгляд для советов публичных и частных компаний.",
-      "role2title": "Член консультативного совета",
-      "role2desc": "Практические рекомендации по новым технологиям, продуктовой стратегии, рыночному позиционированию и готовности организации.",
-      "role3title": "Советник генерального директора и основателя",
-      "role3desc": "Конфиденциальная поддержка лидеров в переломные моменты масштабирования, управления, преемственности, финансирования или трансформации.",
-      "role4title": "Советник специального комитета",
-      "role4desc": "Целевая поддержка сделок, технологической проверки, оценки киберрисков и других ответственных задач.",
-      "valueEyebrow": "Подход",
-      "valueTitle": "Мой вклад в работу совета",
-      "value1title": "Дисциплина практика",
-      "value1desc": "Опыт создания организаций с нуля, их глобального масштабирования, продажи и работы в условиях ответственности перед публичным рынком.",
-      "value2title": "Технологическая компетентность",
-      "value2desc": "Способность переводить сложные системы, научные утверждения и технологические риски на язык ясных решений совета.",
-      "value3title": "Межотраслевая оценка",
-      "value3desc": "Взгляд, сформированный опытом в технологиях, телекоммуникациях, обороне, инфраструктуре данных и точной медицине.",
-      "value4title": "Культура корпоративного управления",
-      "value4desc": "Приверженность фидуциарной ответственности, открытому диалогу, этичным инновациям и устойчивой ценности для заинтересованных сторон.",
-      "cta": "Обсудить задачу для совета",
-      "availability": "Рассматриваются отдельные предложения о работе независимым директором, членом консультативного совета и стратегическим советником.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Принципы лидерства",
@@ -3545,7 +3441,7 @@ const TRANSLATIONS = {
       "groupMain": "Основне",
       "groupServices": "Послуги",
       "groupWork": "Робота",
-      "board": "Робота в радах директорів",
+      "board": "Advisory",
       "thesis": "Принципи лідерства",
       "press": "Преса",
       "briefIpo": "Бриф: IPO",
@@ -3623,8 +3519,8 @@ const TRANSLATIONS = {
         "description": "Michael Kofman про поєднання наук про життя з AI, ML і ДНК-технологіями в сучасній медицині."
       },
       "board": {
-        "title": "Робота в радах директорів — Майкл Кофман",
-        "description": "Участь Майкла Кофмана в радах директорів і стратегічне консультування технологічних, медичних, інфраструктурних компаній та організацій на етапі зростання."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Принципи лідерства — Майкл Кофман",
@@ -3882,7 +3778,7 @@ const TRANSLATIONS = {
       "subject": "Тема",
       "message": "Повідомлення",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -3909,7 +3805,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Перспективи",
@@ -4079,37 +3977,10 @@ const TRANSLATIONS = {
       "article2p4": "Digital Invest розвиває біоматематичну медицину через проєкти Human Digital Model і BioMath Life. У 2026 році Michael Kofman заснув AGRON Inc. для розвитку Aerial-Ground Robotics Operations Network — БПЛА, геопросторові системи та морська розвідка на agron1.com."
     },
     "board": {
-      "eyebrow": "Ради директорів і стратегічне консультування",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Формати співпраці",
-      "rolesTitle": "Партнерство на рівні ради директорів",
-      "role1title": "Незалежний директор",
-      "role1desc": "Конструктивний нагляд, змістовна дискусія та довгостроковий погляд для рад публічних і приватних компаній.",
-      "role2title": "Член консультативної ради",
-      "role2desc": "Практичні рекомендації щодо нових технологій, продуктової стратегії, ринкового позиціонування та готовності організації.",
-      "role3title": "Радник генерального директора та засновника",
-      "role3desc": "Конфіденційна підтримка лідерів у переломні моменти масштабування, управління, наступництва, фінансування чи трансформації.",
-      "role4title": "Радник спеціального комітету",
-      "role4desc": "Цільова підтримка угод, технологічної перевірки, оцінювання кіберризиків та інших відповідальних завдань.",
-      "valueEyebrow": "Підхід",
-      "valueTitle": "Мій внесок у роботу ради",
-      "value1title": "Дисципліна практика",
-      "value1desc": "Досвід створення організацій із нуля, їх глобального масштабування, продажу та роботи в умовах відповідальності перед публічним ринком.",
-      "value2title": "Технологічна компетентність",
-      "value2desc": "Здатність перекладати складні системи, наукові твердження й технологічні ризики мовою чітких рішень ради.",
-      "value3title": "Міжгалузева оцінка",
-      "value3desc": "Погляд, сформований досвідом у технологіях, телекомунікаціях, обороні, інфраструктурі даних і точній медицині.",
-      "value4title": "Культура корпоративного управління",
-      "value4desc": "Відданість фідуціарній відповідальності, відвертому діалогу, етичним інноваціям і стійкій цінності для зацікавлених сторін.",
-      "cta": "Обговорити завдання для ради",
-      "availability": "Розглядаються окремі пропозиції щодо роботи незалежним директором, членом консультативної ради та стратегічним радником.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Принципи лідерства",
@@ -4274,7 +4145,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -4351,8 +4222,8 @@ const TRANSLATIONS = {
         "description": "mkofman.com 隐私政策——联系表单与分析说明。"
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -4606,7 +4477,7 @@ const TRANSLATIONS = {
       "subject": "主题",
       "message": "消息",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -4633,7 +4504,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "观点",
@@ -4819,37 +4692,10 @@ const TRANSLATIONS = {
       "s5text": "政策相关问题：mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -4998,7 +4844,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -5075,8 +4921,8 @@ const TRANSLATIONS = {
         "description": "سياسة خصوصية mkofman.com — النماذج والتحليلات."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -5330,7 +5176,7 @@ const TRANSLATIONS = {
       "subject": "الموضوع",
       "message": "الرسالة",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -5357,7 +5203,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Perspectives",
@@ -5543,37 +5391,10 @@ const TRANSLATIONS = {
       "s5text": "أسئلة حول هذه السياسة: mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -5722,7 +5543,7 @@ const TRANSLATIONS = {
       "briefAi": "Brief: AI Strategy",
       "articleInfra": "Data Infrastructure",
       "articleHealth": "Precision Medicine",
-      "board": "Board & Advisory",
+      "board": "Advisory",
       "thesis": "Leadership Thesis",
       "press": "Press",
       "ip": "Intellectual Property"
@@ -5799,8 +5620,8 @@ const TRANSLATIONS = {
         "description": "מדיניות פרטיות של mkofman.com — טפסים ואנליטיקה."
       },
       "board": {
-        "title": "Board Advisory — Michael Kofman",
-        "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+        "title": "Advisory — Michael Kofman",
+        "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
       },
       "thesis": {
         "title": "Leadership Thesis — Michael Kofman",
@@ -6054,7 +5875,7 @@ const TRANSLATIONS = {
       "subject": "נושא",
       "message": "הודעה",
       "inquiryType": "Inquiry Type",
-      "inquiryAdvisory": "Advisory / Board Role",
+      "inquiryAdvisory": "Advisory",
       "inquirySpeaking": "Speaking Engagement",
       "inquiryPress": "Press / Media",
       "inquiryPartnership": "Strategic Partnership",
@@ -6081,7 +5902,9 @@ const TRANSLATIONS = {
       "area2title": "CEO & Founder Advisory",
       "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
       "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+      "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+      "redirectLink": "Advisory →"
     },
     "insights": {
       "eyebrow": "Perspectives",
@@ -6267,37 +6090,10 @@ const TRANSLATIONS = {
       "s5text": "שאלות על מדיניות זו: mkofman@mkofman.com"
     },
     "board": {
-      "eyebrow": "Board & Strategic Advisory",
-      "title": "Board & Advisory",
-      "lead": "Board & Advisory",
-      "rolesEyebrow": "Ways to Engage",
-      "rolesTitle": "Board-Level Partnership",
-      "role1title": "Independent Director",
-      "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-      "role2title": "Advisory Board Member",
-      "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-      "role3title": "CEO & Founder Advisor",
-      "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-      "role4title": "Special Committee Advisor",
-      "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-      "valueEyebrow": "Perspective",
-      "valueTitle": "What I Bring to the Table",
-      "value1title": "Operator's Discipline",
-      "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-      "value2title": "Technical Fluency",
-      "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-      "value3title": "Cross-Market Judgment",
-      "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-      "value4title": "Governance Mindset",
-      "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-      "cta": "Discuss a Board Mandate",
-      "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-      "area1title": "Board Service",
-      "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-      "area2title": "CEO & Founder Advisory",
-      "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-      "area3title": "Technology Due Diligence",
-      "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+      "eyebrow": "Advisory",
+      "title": "Advisory",
+      "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+      "contactLink": "For contact / advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",

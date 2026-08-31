@@ -29,7 +29,7 @@ window.__LANG_ar = {
     "briefAi": "Brief: AI Strategy",
     "articleInfra": "Data Infrastructure",
     "articleHealth": "Precision Medicine",
-    "board": "Board & Advisory",
+    "board": "Advisory",
     "thesis": "Leadership Thesis",
     "press": "Press",
     "ip": "Intellectual Property"
@@ -106,8 +106,8 @@ window.__LANG_ar = {
       "description": "سياسة خصوصية mkofman.com — النماذج والتحليلات."
     },
     "board": {
-      "title": "Board Advisory — Michael Kofman",
-      "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      "title": "Advisory — Michael Kofman",
+      "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
     },
     "thesis": {
       "title": "Leadership Thesis — Michael Kofman",
@@ -354,7 +354,11 @@ window.__LANG_ar = {
     "v8highlight": "هندسة أنظمة أقمار صناعية عسكرية",
     "v8p1": "تطوير وإنشاء أنظمة أقمار صناعية للإرسال والاستقبال لنقل المعلومات المصنفة إلى السفن العسكرية. اُعترف به كمهندس إلكترونيات من أعلى المستويات في مصنع يضم 93,000 موظف.",
     "v8role": "مهندس إلكترونيات · أعلى فئة (السادسة)",
-    "v8year": "1984 — 1989"
+    "v8year": "1984 — 1989",
+    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+    "v1brole": "CEO",
+    "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "v1byear": "2014 — 2020"
   },
   "career": {
     "eyebrow": "المسيرة المهنية",
@@ -424,7 +428,10 @@ window.__LANG_ar = {
     "t9desc": "أسس إحدى أكبر الشركات المصنعة لأنظمة أقمار صناعية رقمية للإرسال والاستقبال في أوروبا. قاد البحث وتطوير أنظمة التشغيل وتطبيقات برمجيات الشبكات والاستراتيجية التقنية الشاملة، حاصلاً على اعتراف دولي.",
     "t9role": "المؤسس والرئيس التنفيذي",
     "t9title": "Astra Corp",
-    "t9year": "1989 — 1994"
+    "t9year": "1989 — 1994",
+    "t1bdesc": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "t1brole": "CEO",
+    "t1byear": "2014 — 2020"
   },
   "recognition": {
     "eyebrow": "الجوائز",
@@ -496,7 +503,7 @@ window.__LANG_ar = {
     "subject": "الموضوع",
     "message": "الرسالة",
     "inquiryType": "Inquiry Type",
-    "inquiryAdvisory": "Advisory / Board Role",
+    "inquiryAdvisory": "Advisory",
     "inquirySpeaking": "Speaking Engagement",
     "inquiryPress": "Press / Media",
     "inquiryPartnership": "Strategic Partnership",
@@ -524,7 +531,9 @@ window.__LANG_ar = {
     "area2title": "CEO & Founder Advisory",
     "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
     "area3title": "Technology Due Diligence",
-    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
+    "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+    "redirectLink": "Advisory →"
   },
   "insights": {
     "eyebrow": "Perspectives",
@@ -710,37 +719,10 @@ window.__LANG_ar = {
     "s5text": "أسئلة حول هذه السياسة: mkofman@mkofman.com"
   },
   "board": {
-    "eyebrow": "Board & Strategic Advisory",
-    "title": "Board & Advisory",
-    "lead": "Board & Advisory",
-    "rolesEyebrow": "Ways to Engage",
-    "rolesTitle": "Board-Level Partnership",
-    "role1title": "Independent Director",
-    "role1desc": "Constructive oversight, informed challenge, and long-range perspective for public and private company boards.",
-    "role2title": "Advisory Board Member",
-    "role2desc": "Practical guidance on emerging technologies, product strategy, market positioning, and institutional readiness.",
-    "role3title": "CEO & Founder Advisor",
-    "role3desc": "Confidential counsel for leaders facing inflection points in scale, governance, succession, financing, or transformation.",
-    "role4title": "Special Committee Advisor",
-    "role4desc": "Focused support for transactions, technology diligence, cybersecurity exposure, and other high-stakes mandates.",
-    "valueEyebrow": "Perspective",
-    "valueTitle": "What I Bring to the Table",
-    "value1title": "Operator's Discipline",
-    "value1desc": "Experience building organizations from inception through global scale, acquisition, and public-market accountability.",
-    "value2title": "Technical Fluency",
-    "value2desc": "The ability to translate complex systems, scientific claims, and technology risk into clear board decisions.",
-    "value3title": "Cross-Market Judgment",
-    "value3desc": "A perspective shaped by technology, telecommunications, defense, data infrastructure, and precision medicine.",
-    "value4title": "Governance Mindset",
-    "value4desc": "A commitment to fiduciary responsibility, candid dialogue, ethical innovation, and durable stakeholder value.",
-    "cta": "Discuss a Board Mandate",
-    "availability": "Select independent director, advisory board, and strategic counsel engagements are considered.",
-    "area1title": "Board Service",
-    "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-    "area2title": "CEO & Founder Advisory",
-    "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-    "area3title": "Technology Due Diligence",
-    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
+    "eyebrow": "Advisory",
+    "title": "Advisory",
+    "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+    "contactLink": "For contact / advisory inquiries"
   },
   "thesis": {
     "eyebrow": "Leadership Thesis",

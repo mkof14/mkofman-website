@@ -29,7 +29,7 @@ window.__LANG_en = {
     "groupMain": "Main",
     "groupServices": "Services",
     "groupWork": "Work",
-    "board": "Board & Advisory",
+    "board": "Advisory",
     "thesis": "Leadership Thesis",
     "press": "Press",
     "ip": "Intellectual Property"
@@ -38,7 +38,7 @@ window.__LANG_en = {
     "navigation": "Navigation",
     "ventures": "Ventures",
     "connect": "Connect",
-    "desc": "Technology executive, founder, and board advisor.",
+    "desc": "Technology executive, founder, and advisor.",
     "copyright": "© {year} Michael Kofman. All Rights Reserved.",
     "writeTitle": "Write to Me",
     "writeEmail": "Your email",
@@ -51,7 +51,7 @@ window.__LANG_en = {
   "meta": {
     "home": {
       "title": "Michael Kofman — Technology Executive",
-      "description": "Technology executive, founder, and board advisor — infrastructure, life sciences, and autonomous systems."
+      "description": "Technology executive, founder, and advisor — infrastructure, life sciences, and autonomous systems."
     },
     "about": {
       "title": "About — Michael Kofman",
@@ -106,8 +106,8 @@ window.__LANG_en = {
       "description": "Privacy policy for mkofman.com — how we handle contact form data and site analytics."
     },
     "board": {
-      "title": "Board Advisory — Michael Kofman",
-      "description": "Board service and strategic advisory from Michael Kofman for technology, healthcare, infrastructure, and growth-stage organizations."
+      "title": "Advisory — Michael Kofman",
+      "description": "Strategic advisory conversations with technology, healthcare, and infrastructure organizations."
     },
     "thesis": {
       "title": "Leadership Thesis — Michael Kofman",
@@ -140,11 +140,11 @@ window.__LANG_en = {
   },
   "home": {
     "heroName": "Michael Kofman",
-    "heroRole": "Technology Executive · Founder · Board Advisor",
+    "heroRole": "Technology Executive · Founder · Advisor",
     "heroSub": "Technology, business, and investment across infrastructure, life sciences, and autonomous systems.",
     "heroAlt": "Michael Kofman",
     "featuredEyebrow": "As Featured In",
-    "introText": "Michael Kofman is a technology executive and company founder. His work spans satellite engineering, internet infrastructure, public technology companies, and life sciences. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000. He is CEO of Digital Invest Inc., in bio-mathematical medicine and genomic intelligence, and founder of AGRON Inc., in autonomous aerial-ground operations and geospatial systems. He serves on boards and advises in technology, health, and infrastructure.",
+    "introText": "Michael Kofman is a technology executive and company founder whose career began in satellite engineering before Ukraine's transition to independence, and has spanned internet infrastructure, public technology companies, and life sciences since relocating to the United States. He holds an early patent in digital satellite HDTV technology, later acquired by Sony. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000. He is CEO of Digital Invest Inc., in bio-mathematical medicine and genomic intelligence, and founder of AGRON Inc., in autonomous aerial-ground operations and geospatial systems. He advises technology, health, and infrastructure organizations on strategy and growth.",
     "introLink": "Full biography →",
     "currentEyebrow": "Current Work",
     "currentTitle": "Where Focus Is Now",
@@ -181,7 +181,7 @@ window.__LANG_en = {
     "perspectivesEyebrow": "Perspectives",
     "perspectivesTitle": "Selected Writing",
     "perspectivesLink": "All insights →",
-    "footerHomeDesc": "Technology executive, founder, and board advisor.",
+    "footerHomeDesc": "Technology executive, founder, and advisor.",
     "exp1desc": "Founded and led multiple technology companies in the United States and Europe.",
     "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
   },
@@ -216,11 +216,12 @@ window.__LANG_en = {
     "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
     "photoTodayTitle": "Today",
     "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
-    "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
+    "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems.",
     "bioP1": "Michael Kofman is a technology executive, founder, and board advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
     "secTechP1": "Engineering background includes satellite transceiver systems at the Nikolaev Shipbuilding Plant and digital communications work at Astra Corp, one of Europe's manufacturers of digital transceiver satellite systems.",
     "secBusinessP1": "Founded and led multiple technology companies including 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc., and Elitan United Inc. Full chronology is documented in The Record.",
     "secCurrentP1": "CEO of Digital Invest Inc., focused on bio-mathematical medicine and genomic intelligence. Founder of AGRON Inc., building autonomous aerial-ground operations, UAV capability development, and geospatial systems.",
+    "secTechP2": "Career began in the final years of the USSR, during Ukraine's transition to independence. Following early satellite transceiver work at Nikolaev Shipbuilding Plant and Astra Corp, contributed to satellite information transmission systems at RTL in Germany. Holds an early patent in digital satellite HDTV technology, later acquired by Sony — developed prior to relocating to the United States.",
     "secResearchTitle": "Research & Patents",
     "secResearchP1": "Technical papers on satellite and optical data transmission systems. Patent in digital satellite high-definition television (HDTV), subsequently acquired by Sony."
   },
@@ -244,8 +245,12 @@ window.__LANG_en = {
     "v0year": "2026 — Present",
     "v1highlight": "Healthcare Tech Outlook feature — 2023",
     "v1p1": "Bio-mathematical medicine, genomic data, and clinical intelligence — AI, machine learning, and DNA technologies applied to clinical and research workflows.",
+    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
     "v1role": "Founder & CEO · Board Member",
     "v1year": "2021 — Present",
+    "v1brole": "CEO",
+    "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "v1byear": "2014 — 2020",
     "v2p1": "DNA testing and analysis, automation of genetic profiling, and comprehensive human genetic research. Initiated genetic testing projects in Ukraine, Russia, and the Baltic countries.",
     "v2p2": "Collaborated with Harvard Medical School and Stanford Biomath on genetic reporting formats used in laboratory workflows.",
     "v2role": "CEO & CTO",
@@ -303,7 +308,10 @@ window.__LANG_en = {
     "t1role": "Founder & CEO",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — Present",
-    "t2desc": "Directed technology strategy and delivery for government, defense, and state-owned enterprise programs — including secure infrastructure, data integration, and high-throughput data centers in the U.S. and Europe.",
+    "t1bdesc": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
+    "t1brole": "CEO",
+    "t1byear": "2014 — 2020",
+    "t2desc": "Directed technology strategy and delivery for classified and high-sensitivity programs involving U.S. government agencies, allied defense systems, and state-owned enterprises. Headed complex technical projects for government-owned companies across multiple sectors. Following September 11, 2001, led large-scale government initiatives centered on big data, secure communications, predictive analytics, and national-level data integration — including the design, construction, and operation of high-throughput data centers across the United States and Europe. Interfaced with military program officers, technology vendors, and regulatory entities.",
     "t2role": "Chief Technology Advisor / Program Architect",
     "t2title": "GovTech, Defense & State Programs",
     "t2year": "2001 — 2019",
@@ -407,7 +415,7 @@ window.__LANG_en = {
     "message": "Message",
     "inquiryType": "Inquiry Type",
     "inquiryBusiness": "Business",
-    "inquiryAdvisory": "Board & Advisory",
+    "inquiryAdvisory": "Advisory",
     "inquiryPress": "Media",
     "inquiryOther": "Other professional inquiry",
     "calendlyEyebrow": "Schedule a Conversation",
@@ -418,8 +426,10 @@ window.__LANG_en = {
     "infoEyebrow": "Contact Information"
   },
   "consulting": {
-    "eyebrow": "Board & Advisory",
-    "title": "Board & Advisory",
+    "eyebrow": "Advisory",
+    "title": "Advisory",
+    "redirectLead": "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.",
+    "redirectLink": "Advisory →",
     "heroEyebrow": "Selective Engagement",
     "heroTitle": "Board & Strategic Advisory",
     "heroLead": "Selected board and strategic advisory engagements for technology, health, infrastructure, and growth-stage organizations.",
@@ -618,16 +628,10 @@ window.__LANG_en = {
     "s5text": "Questions about this policy: mkofman@mkofman.com"
   },
   "board": {
-    "eyebrow": "Board & Advisory",
-    "title": "Board & Advisory",
-    "lead": "Selected board and strategic advisory engagements.",
-    "area1title": "Board Service",
-    "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
-    "area2title": "CEO & Founder Advisory",
-    "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
-    "area3title": "Technology Due Diligence",
-    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.",
-    "cta": "For board and advisory inquiries"
+    "eyebrow": "Advisory",
+    "title": "Advisory",
+    "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
+    "contactLink": "For contact / advisory inquiries"
   },
   "thesis": {
     "eyebrow": "Leadership Thesis",
