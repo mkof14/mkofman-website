@@ -1,0 +1,380 @@
+{
+  "es": {
+    "footer": { "desc": "Ejecutivo tecnológico, fundador y asesor de consejos." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — Ejecutivo tecnológico",
+        "description": "Ejecutivo tecnológico, fundador y asesor de consejos — infraestructura, ciencias de la vida y sistemas autónomos."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "Registro profesional en ingeniería, infraestructura, mercados públicos, ciencias de la vida y sistemas autónomos."
+      },
+      "about": {
+        "description": "Biografía de Michael Kofman — CEO de Digital Invest Inc., fundador de AGRON Inc."
+      },
+      "ventures": {
+        "description": "Empresas fundadas y dirigidas por Michael Kofman."
+      }
+    },
+    "home": {
+      "heroRole": "Ejecutivo tecnológico · Fundador · Asesor de consejos",
+      "heroSub": "Tecnología, negocios e inversión en infraestructura, ciencias de la vida y sistemas autónomos.",
+      "featuredEyebrow": "Como aparece en",
+      "introText": "Michael Kofman es ejecutivo tecnológico y fundador de empresas. Su trabajo abarca ingeniería satelital, infraestructura de internet, empresas tecnológicas públicas y ciencias de la vida. Fundó 9 Net Avenue Inc., adquirida por Concentric Networks en 2000. Es CEO de Digital Invest Inc., en medicina biomatemática e inteligencia genómica, y fundador de AGRON Inc., en operaciones autónomas aéreo-terrestres y sistemas geoespaciales. Participa en consejos y asesora en tecnología, salud e infraestructura.",
+      "introLink": "Biografía completa →",
+      "currentEyebrow": "Trabajo actual",
+      "currentTitle": "Dónde está el foco ahora",
+      "currentDiDesc": "Medicina biomatemática, datos genómicos e inteligencia clínica — aplicación de IA, aprendizaje automático y tecnologías de ADN a resultados de salud responsables.",
+      "currentDiLink": "Empresas →",
+      "currentAgDesc": "Operaciones autónomas aéreo-terrestres, desarrollo de capacidades UAV, sistemas geoespaciales e infraestructura de inteligencia marítima.",
+      "careerEyebrow": "Registro seleccionado",
+      "careerTitle": "Continuidad entre periodos tecnológicos",
+      "careerLead": "Hitos seleccionados desde la ingeniería hasta el trabajo actual en sistemas autónomos.",
+      "career1title": "Ingeniería y comunicaciones",
+      "career1desc": "Sistemas transceptores satelitales, comunicaciones digitales y primeros liderazgos de ingeniería.",
+      "career2title": "Internet e infraestructura",
+      "career2desc": "Infraestructura de internet, centros de datos, almacenamiento y telecomunicaciones a escala.",
+      "career3title": "Empresas tecnológicas y mercados públicos",
+      "career3desc": "Creación de empresas, adquisiciones y experiencia en compañías cotizadas, incluida 9 Net Avenue Inc.",
+      "career4title": "Ciencias de la vida y datos humanos",
+      "career4desc": "Biotecnología, datos genéticos, medicina de precisión y plataformas de inteligencia sanitaria.",
+      "career5title": "Sistemas autónomos",
+      "career5desc": "Robótica aéreo-terrestre, operaciones UAV e infraestructura geoespacial.",
+      "careerLink": "The Record →",
+      "recEyebrow": "Reconocimientos",
+      "recTitle": "Reconocimientos seleccionados",
+      "recLead": "Honores documentados y referencias del sector en archivos existentes.",
+      "award1title": "Empresario del año",
+      "award2title": "Reconocimiento en medicina de precisión",
+      "award2desc": "Healthcare Tech Outlook · Digital Invest Inc. · 2023",
+      "award3desc": "Ediciones América · Mundo · Ciencia e ingeniería",
+      "recLink": "Reconocimientos y prensa →",
+      "perspectivesEyebrow": "Perspectivas",
+      "perspectivesTitle": "Textos seleccionados",
+      "perspectivesLink": "Todas las perspectivas →",
+      "footerHomeDesc": "Ejecutivo tecnológico, fundador y asesor de consejos."
+    },
+    "about": {
+      "lead": "Ejecutivo tecnológico, fundador y asesor de consejos.",
+      "recordLink": "The Record →",
+      "photo9netCaption": "Fundador y CEO — empresa de hosting e infraestructura de internet, adquirida por Concentric Networks en 2000."
+    },
+    "career": {
+      "eyebrow": "Registro profesional",
+      "title": "The Record",
+      "lead": "Actividad documentada en ingeniería, infraestructura, mercados públicos, ciencias de la vida y sistemas autónomos."
+    },
+    "recognition": {
+      "eyebrow": "Registro documentado",
+      "industryEyebrow": "Honores y referencias",
+      "industryTitle": "Entradas seleccionadas"
+    },
+    "deck": {
+      "subtitle": "Ejecutivo tecnológico · Fundador · Asesor de consejos",
+      "thesis": "Tecnología, negocios e inversión en infraestructura, ciencias de la vida y sistemas autónomos."
+    }
+  },
+  "de": {
+    "footer": { "desc": "Technologie-Executive, Gründer und Board-Berater." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — Technologie-Executive",
+        "description": "Technologie-Executive, Gründer und Board-Berater — Infrastruktur, Life Sciences und autonome Systeme."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "Beruflicher Werdegang in Ingenieurwesen, Infrastruktur, öffentlichen Märkten, Life Sciences und autonomen Systemen."
+      }
+    },
+    "home": {
+      "heroRole": "Technologie-Executive · Gründer · Board-Berater",
+      "heroSub": "Technologie, Business und Investment in Infrastruktur, Life Sciences und autonomen Systemen.",
+      "featuredEyebrow": "Bekannt aus",
+      "introText": "Michael Kofman ist Technologie-Executive und Unternehmensgründer. Seine Arbeit umfasst Satelliteningenieurwesen, Internetinfrastruktur, börsennotierte Technologieunternehmen und Life Sciences. Er gründete 9 Net Avenue Inc., übernommen von Concentric Networks im Jahr 2000. Er ist CEO von Digital Invest Inc. in biomathematischer Medizin und genomischer Intelligenz sowie Gründer von AGRON Inc. in autonomen Luft-Boden-Operationen und geospatialen Systemen. Er ist in Boards tätig und berät in Technologie, Gesundheit und Infrastruktur.",
+      "introLink": "Vollständige Biografie →",
+      "currentEyebrow": "Aktuelle Arbeit",
+      "currentTitle": "Aktueller Schwerpunkt",
+      "currentDiDesc": "Biomathematische Medizin, Genomdaten und klinische Intelligenz — Anwendung von KI, Machine Learning und DNA-Technologien für verantwortungsvolle Gesundheitsergebnisse.",
+      "currentDiLink": "Unternehmen →",
+      "currentAgDesc": "Autonome Luft-Boden-Operationen, UAV-Fähigkeitsentwicklung, geospatiale Systeme und maritime Intelligence-Infrastruktur.",
+      "careerEyebrow": "Ausgewähltes Register",
+      "careerTitle": "Kontinuität über Technologieperioden",
+      "careerLead": "Ausgewählte Meilensteine vom Ingenieurwesen bis zur aktuellen Arbeit in autonomen Systemen.",
+      "career1title": "Ingenieurwesen & Kommunikation",
+      "career1desc": "Satellitentransceiver-Systeme, digitale Kommunikation und frühe Engineering-Führung.",
+      "career2title": "Internet & Infrastruktur",
+      "career2desc": "Internetinfrastruktur, Rechenzentren, Storage und Telekommunikation im großen Maßstab.",
+      "career3title": "Technologieunternehmen & öffentliche Märkte",
+      "career3desc": "Unternehmensaufbau, Transaktionen und Erfahrung mit börsennotierten Unternehmen einschließlich 9 Net Avenue Inc.",
+      "career4title": "Life Sciences & Humandaten",
+      "career4desc": "Biotechnologie, Genetikdaten, Präzisionsmedizin und Gesundheitsintelligenz-Plattformen.",
+      "career5title": "Autonome Systeme",
+      "career5desc": "Luft-Boden-Robotik, UAV-Operationen und geospatiale Infrastruktur.",
+      "careerLink": "The Record →",
+      "recEyebrow": "Anerkennung",
+      "recTitle": "Ausgewählte Anerkennungen",
+      "recLead": "Dokumentierte Ehrungen und Branchenreferenzen aus bestehenden Archiven.",
+      "award1title": "Unternehmer des Jahres",
+      "award2title": "Anerkennung Präzisionsmedizin",
+      "award2desc": "Healthcare Tech Outlook · Digital Invest Inc. · 2023",
+      "award3desc": "America · World · Science & Engineering Ausgaben",
+      "recLink": "Anerkennung & Presse →",
+      "perspectivesEyebrow": "Perspektiven",
+      "perspectivesTitle": "Ausgewählte Texte",
+      "perspectivesLink": "Alle Perspektiven →",
+      "footerHomeDesc": "Technologie-Executive, Gründer und Board-Berater."
+    },
+    "about": { "lead": "Technologie-Executive, Gründer und Board-Berater.", "recordLink": "The Record →" },
+    "career": { "eyebrow": "Beruflicher Werdegang", "title": "The Record", "lead": "Dokumentierte Tätigkeit in Ingenieurwesen, Infrastruktur, öffentlichen Märkten, Life Sciences und autonomen Systemen." },
+    "deck": { "subtitle": "Technologie-Executive · Gründer · Board-Berater", "thesis": "Technologie, Business und Investment in Infrastruktur, Life Sciences und autonomen Systemen." }
+  },
+  "fr": {
+    "footer": { "desc": "Dirigeant technologique, fondateur et conseiller de conseils d'administration." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — Dirigeant technologique",
+        "description": "Dirigeant technologique, fondateur et conseiller — infrastructure, sciences de la vie et systèmes autonomes."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "Parcours professionnel en ingénierie, infrastructure, marchés publics, sciences de la vie et systèmes autonomes."
+      }
+    },
+    "home": {
+      "heroRole": "Dirigeant technologique · Fondateur · Conseiller",
+      "heroSub": "Technologie, business et investissement dans l'infrastructure, les sciences de la vie et les systèmes autonomes.",
+      "featuredEyebrow": "Vu dans",
+      "introText": "Michael Kofman est dirigeant technologique et fondateur d'entreprises. Son parcours couvre l'ingénierie satellitaire, l'infrastructure internet, les sociétés technologiques cotées et les sciences de la vie. Il a fondé 9 Net Avenue Inc., acquise par Concentric Networks en 2000. Il est CEO de Digital Invest Inc., en médecine biomathématique et intelligence génomique, et fondateur d'AGRON Inc., en opérations autonomes aéro-terrestres et systèmes géospatiaux. Il siège à des conseils et conseille dans la technologie, la santé et l'infrastructure.",
+      "introLink": "Biographie complète →",
+      "currentEyebrow": "Travail actuel",
+      "currentTitle": "Priorités actuelles",
+      "currentDiDesc": "Médecine biomathématique, données génomiques et intelligence clinique — IA, machine learning et technologies ADN au service de la santé.",
+      "currentDiLink": "Entreprises →",
+      "currentAgDesc": "Opérations autonomes aéro-terrestres, développement de capacités UAV, systèmes géospatiaux et infrastructure de renseignement maritime.",
+      "careerEyebrow": "Dossier sélectionné",
+      "careerTitle": "Continuité à travers les périodes technologiques",
+      "careerLead": "Jalons sélectionnés de l'ingénierie aux systèmes autonomes actuels.",
+      "career1title": "Ingénierie et communications",
+      "career1desc": "Systèmes émetteurs-récepteurs satellitaires, communications numériques et premiers rôles d'ingénierie.",
+      "career2title": "Internet et infrastructure",
+      "career2desc": "Infrastructure internet, centres de données, stockage et télécommunications à grande échelle.",
+      "career3title": "Entreprises technologiques et marchés publics",
+      "career3desc": "Création d'entreprises, acquisitions et expérience de sociétés cotées, dont 9 Net Avenue Inc.",
+      "career4title": "Sciences de la vie et données humaines",
+      "career4desc": "Biotechnologie, données génétiques, médecine de précision et plateformes d'intelligence santé.",
+      "career5title": "Systèmes autonomes",
+      "career5desc": "Robotique aéro-terrestre, opérations UAV et infrastructure géospatiale.",
+      "careerLink": "The Record →",
+      "recEyebrow": "Distinctions",
+      "recTitle": "Distinctions sélectionnées",
+      "recLead": "Honneurs documentés et références sectorielles issues des archives.",
+      "award1title": "Entrepreneur de l'année",
+      "award2title": "Reconnaissance en médecine de précision",
+      "award2desc": "Healthcare Tech Outlook · Digital Invest Inc. · 2023",
+      "recLink": "Distinctions et presse →",
+      "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller."
+    },
+    "about": { "lead": "Dirigeant technologique, fondateur et conseiller.", "recordLink": "The Record →" },
+    "career": { "title": "The Record", "lead": "Activité documentée en ingénierie, infrastructure, marchés publics, sciences de la vie et systèmes autonomes." },
+    "deck": { "subtitle": "Dirigeant technologique · Fondateur · Conseiller", "thesis": "Technologie, business et investissement dans l'infrastructure, les sciences de la vie et les systèmes autonomes." }
+  },
+  "ru": {
+    "footer": { "desc": "Технологический executive, основатель и советник советов директоров." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — Технологический executive",
+        "description": "Технологический executive, основатель и советник — инфраструктура, life sciences и автономные системы."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "Профессиональный record: инженерия, инфраструктура, публичные рынки, life sciences и автономные системы."
+      }
+    },
+    "home": {
+      "heroRole": "Технологический executive · Основатель · Советник",
+      "heroSub": "Технологии, бизнес и инвестиции в инфраструктуру, life sciences и автономные системы.",
+      "featuredEyebrow": "Упоминания в СМИ",
+      "introText": "Michael Kofman — технологический executive и основатель компаний. Его работа охватывает спутниковую инженерию, интернет-инфраструктуру, публичные технологические компании и life sciences. Он основал 9 Net Avenue Inc., приобретённую Concentric Networks в 2000 году. CEO Digital Invest Inc. в области биоматематической медицины и геномной аналитики; основатель AGRON Inc. в автономных воздушно-наземных операциях и геопространственных системах. Участвует в советах директоров и консультирует в технологиях, здравоохранении и инфраструктуре.",
+      "introLink": "Полная биография →",
+      "currentEyebrow": "Текущая работа",
+      "currentTitle": "Текущий фокус",
+      "currentDiDesc": "Биоматематическая медицина, геномные данные и клиническая аналитика — применение AI, ML и DNA-технологий для ответственных медицинских результатов.",
+      "currentDiLink": "Компании →",
+      "currentAgDesc": "Автономные воздушно-наземные операции, разработка UAV, геопространственные системы и морская intelligence-инфраструктура.",
+      "careerEyebrow": "Избранный record",
+      "careerTitle": "Преемственность технологических периодов",
+      "careerLead": "Избранные вехи от инженерии до текущей работы в автономных системах.",
+      "career1title": "Инженерия и коммуникации",
+      "career1desc": "Спутниковые трансиверы, цифровые коммуникации и раннее инженерное лидерство.",
+      "career2title": "Интернет и инфраструктура",
+      "career2desc": "Интернет-инфраструктура, дата-центры, хранение данных и телекоммуникации.",
+      "career3title": "Технологические компании и публичные рынки",
+      "career3desc": "Построение компаний, сделки и опыт публичных компаний, включая 9 Net Avenue Inc.",
+      "career4title": "Life sciences и данные о человеке",
+      "career4desc": "Биотехнологии, генетические данные, precision medicine и health intelligence.",
+      "career5title": "Автономные системы",
+      "career5desc": "Воздушно-наземная робототехника, UAV и геопространственная инфраструктура.",
+      "careerLink": "The Record →",
+      "recEyebrow": "Признание",
+      "recTitle": "Избранные награды",
+      "recLead": "Документированные honors и отраслевые ссылки из архивов.",
+      "award1title": "Предприниматель года",
+      "award2title": "Признание в precision medicine",
+      "award2desc": "Healthcare Tech Outlook · Digital Invest Inc. · 2023",
+      "recLink": "Признание и пресса →",
+      "footerHomeDesc": "Технологический executive, основатель и советник."
+    },
+    "about": { "lead": "Технологический executive, основатель и советник.", "recordLink": "The Record →" },
+    "career": { "eyebrow": "Профессиональный record", "title": "The Record", "lead": "Документированная деятельность в инженерии, инфраструктуре, публичных рынках, life sciences и автономных системах." },
+    "deck": { "subtitle": "Технологический executive · Основатель · Советник", "thesis": "Технологии, бизнес и инвестиции в инфраструктуру, life sciences и автономные системы." }
+  },
+  "uk": {
+    "footer": { "desc": "Технологічний executive, засновник і радник рад директорів." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — Технологічний executive",
+        "description": "Технологічний executive, засновник і радник — інфраструктура, life sciences та автономні системи."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "Професійний record: інженерія, інфраструктура, публічні ринки, life sciences та автономні системи."
+      }
+    },
+    "home": {
+      "heroRole": "Технологічний executive · Засновник · Радник",
+      "heroSub": "Технології, бізнес і інвестиції в інфраструктуру, life sciences та автономні системи.",
+      "featuredEyebrow": "Згадки в медіа",
+      "introText": "Michael Kofman — технологічний executive і засновник компаній. Його робота охоплює супутникову інженерію, інтернет-інфраструктуру, публічні технологічні компанії та life sciences. Він заснував 9 Net Avenue Inc., придбану Concentric Networks у 2000 році. CEO Digital Invest Inc. у біоматематичній медицині та геномній аналітиці; засновник AGRON Inc. в автономних повітряно-наземних операціях і геопросторових системах. Бере участь у радах директорів і консультує в технологіях, охороні здоров'я та інфраструктурі.",
+      "introLink": "Повна біографія →",
+      "currentEyebrow": "Поточна робота",
+      "currentTitle": "Поточний фокус",
+      "currentDiDesc": "Біоматематична медицина, геномні дані та клінічна аналітика — застосування AI, ML і DNA-технологій для відповідальних медичних результатів.",
+      "currentAgDesc": "Автономні повітряно-наземні операції, розробка UAV, геопросторові системи та морська intelligence-інфраструктура.",
+      "careerEyebrow": "Вибраний record",
+      "careerTitle": "Преемственність технологічних періодів",
+      "careerLead": "Вибрані віхи від інженерії до поточної роботи в автономних системах.",
+      "career1title": "Інженерія та комунікації",
+      "career2title": "Інтернет та інфраструктура",
+      "career3title": "Технологічні компанії та публічні ринки",
+      "career4title": "Life sciences та дані про людину",
+      "career5title": "Автономні системи",
+      "careerLink": "The Record →",
+      "recEyebrow": "Визнання",
+      "recTitle": "Вибрані нагороди",
+      "recLink": "Визнання та преса →",
+      "footerHomeDesc": "Технологічний executive, засновник і радник."
+    },
+    "about": { "lead": "Технологічний executive, засновник і радник.", "recordLink": "The Record →" },
+    "career": { "title": "The Record", "lead": "Задокументована діяльність в інженерії, інфраструктурі, публічних ринках, life sciences та автономних системах." },
+    "deck": { "subtitle": "Технологічний executive · Засновник · Радник", "thesis": "Технології, бізнес і інвестиції в інфраструктуру, life sciences та автономні системи." }
+  },
+  "zh": {
+    "footer": { "desc": "技术高管、创始人和董事会顾问。" },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — 技术高管",
+        "description": "技术高管、创始人和董事会顾问 — 基础设施、生命科学和自主系统。"
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "涵盖工程、基础设施、公开市场、生命科学和自主系统的专业记录。"
+      }
+    },
+    "home": {
+      "heroRole": "技术高管 · 创始人 · 董事会顾问",
+      "heroSub": "技术、商业与投资 — 涵盖基础设施、生命科学和自主系统。",
+      "featuredEyebrow": "媒体报道",
+      "introText": "Michael Kofman 是技术高管和公司创始人。其工作涵盖卫星工程、互联网基础设施、公开科技公司和生命科学。他创立了 9 Net Avenue Inc.，于 2000 年被 Concentric Networks 收购。现任 Digital Invest Inc. CEO，从事生物数学医学和基因组智能；AGRON Inc. 创始人，专注自主空地作业和地理空间系统。他担任董事会成员，并在技术、医疗和基础设施领域提供顾问服务。",
+      "introLink": "完整传记 →",
+      "currentEyebrow": "当前工作",
+      "currentTitle": "当前重点",
+      "currentDiDesc": "生物数学医学、基因组数据和临床智能 — 将 AI、机器学习和 DNA 技术应用于负责任的医疗成果。",
+      "currentAgDesc": "自主空地作业、无人机能力开发、地理空间系统和海事情报基础设施。",
+      "careerEyebrow": "精选记录",
+      "careerTitle": "跨技术时期的延续",
+      "careerLead": "从工程到当前自主系统工作的精选里程碑。",
+      "career1title": "工程与通信",
+      "career2title": "互联网与基础设施",
+      "career3title": "科技公司与公开市场",
+      "career4title": "生命科学与人类数据",
+      "career5title": "自主系统",
+      "careerLink": "The Record →",
+      "recEyebrow": "荣誉",
+      "recTitle": "精选荣誉",
+      "recLink": "荣誉与媒体 →",
+      "footerHomeDesc": "技术高管、创始人和董事会顾问。"
+    },
+    "about": { "lead": "技术高管、创始人和董事会顾问。", "recordLink": "The Record →" },
+    "career": { "title": "The Record", "lead": "涵盖工程、基础设施、公开市场、生命科学和自主系统的 documented 工作记录。" },
+    "deck": { "subtitle": "技术高管 · 创始人 · 董事会顾问", "thesis": "技术、商业与投资 — 基础设施、生命科学和自主系统。" }
+  },
+  "ar": {
+    "footer": { "desc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — تنفيذي تقني",
+        "description": "تنفيذي تقني ومؤسس ومستشار — البنية التحتية وعلوم الحياة والأنظمة المستقلة."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "سجل مهني في الهندسة والبنية التحتية والأسواق العامة وعلوم الحياة والأنظمة المستقلة."
+      }
+    },
+    "home": {
+      "heroRole": "تنفيذي تقني · مؤسس · مستشار",
+      "heroSub": "التكنولوجيا والأعمال والاستثمار في البنية التحتية وعلوم الحياة والأنظمة المستقلة.",
+      "featuredEyebrow": "ظهر في",
+      "introText": "Michael Kofman تنفيذي تقني ومؤسس شركات. يشمل عمله هندسة الأقمار الصناعية وبنية الإنترنت والشركات التقنية العامة وعلوم الحياة. أسس 9 Net Avenue Inc.، التي استحوذت عليها Concentric Networks عام 2000. CEO لـ Digital Invest Inc. في الطب الرياضي الحيوي والذكاء الجينومي؛ ومؤسس AGRON Inc. في العمليات المستقلة جواً-أرضاً والأنظمة الجيospatiale. يشارك في مجالس الإدارة ويقدم الاستشارات في التكنولوجيا والصحة والبنية التحتية.",
+      "introLink": "السيرة الكاملة →",
+      "currentEyebrow": "العمل الحالي",
+      "currentTitle": "التركيز الحالي",
+      "currentDiDesc": "الطب الرياضي الحيوي والبيانات الجينومية والذكاء السريري — تطبيق AI وML وتقنيات DNA لنتائج صحية مسؤولة.",
+      "currentAgDesc": "عمليات مستقلة جواً-أرضاً وتطوير قدرات UAV والأنظمة الجيospatiale والبنية التحتية للاستخبارات البحرية.",
+      "careerEyebrow": "سجل مختار",
+      "careerTitle": "استمرارية عبر الفترات التقنية",
+      "careerLink": "The Record →",
+      "recEyebrow": "التكريم",
+      "recTitle": "تكريمات مختارة",
+      "recLink": "التكريم والصحافة →",
+      "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة."
+    },
+    "about": { "lead": "تنفيذي تقني ومؤسس ومستشار.", "recordLink": "The Record →" },
+    "career": { "title": "The Record", "lead": "نشاط موثق في الهندسة والبنية التحتية والأسواق العامة وعلوم الحياة والأنظمة المستقلة." },
+    "deck": { "subtitle": "تنفيذي تقني · مؤسس · مستشار", "thesis": "التكنولوجيا والأعمال والاستثمار في البنية التحتية وعلوم الحياة والأنظمة المستقلة." }
+  },
+  "he": {
+    "footer": { "desc": "מנהיג טכנולוגי, מייסד ויועץ דירקטוריון." },
+    "meta": {
+      "home": {
+        "title": "Michael Kofman — מנהיג טכנולוגי",
+        "description": "מנהיג טכנולוגי, מייסד ויועץ — תשתיות, מדעי החיים ומערכות אוטונומיות."
+      },
+      "career": {
+        "title": "The Record — Michael Kofman",
+        "description": "רשומה מקצועית בהנדסה, תשתיות, שווקים ציבוריים, מדעי החיים ומערכות אוטונומיות."
+      }
+    },
+    "home": {
+      "heroRole": "מנהיג טכנולוגי · מייסד · יועץ",
+      "heroSub": "טכנולוגיה, עסקים והשקעות בתשתיות, מדעי החיים ומערכות אוטונומיות.",
+      "featuredEyebrow": "כפי שפורסם ב",
+      "introText": "Michael Kofman הוא מנהיג טכנולוגי ומייסד חברות. עבודתו משתרעת על הנדסת לוויינים, תשתיות אינטרנט, חברות טכנולוגיה ציבוריות ומדעי החיים. ייסד את 9 Net Avenue Inc., שנרכשה על ידי Concentric Networks ב-2000. CEO של Digital Invest Inc. ברפואה ביו-מתמטית ואינטליגנציה גנומית; מייסד AGRON Inc. בפעילות אווירית-קרקעית אוטונומית ומערכות גאו-מרחביות. מכהן בדירקטוריונים ומייעץ בתחומי טכנולוגיה, בריאות ותשתיות.",
+      "introLink": "ביוגרפיה מלאה →",
+      "currentEyebrow": "עבודה נוכחית",
+      "currentTitle": "מוקד נוכחי",
+      "currentDiDesc": "רפואה ביו-מתמטית, נתונים גénomיים ואינטליגנציה קlinית — AI, ML וטכנולוגיות DNA לתוצאות בריאותיות אחראיות.",
+      "currentAgDesc": "פעילות אווירית-קרקעית אוטונומית, פיתוח יכולות UAV, מערכות גאו-מרחביות ותשתית מודיעין ימי.",
+      "careerEyebrow": "רשומה נבחרת",
+      "careerTitle": "רציפות בין תקופות טכנולוגיות",
+      "careerLink": "The Record →",
+      "recEyebrow": "הכרה",
+      "recTitle": "הכרה נבחרת",
+      "recLink": "הכרה ועיתונות →",
+      "footerHomeDesc": "מנהיג טכנולוגי, מייסד ויועץ."
+    },
+    "about": { "lead": "מנהיג טכנולוגי, מייסד ויועץ.", "recordLink": "The Record →" },
+    "career": { "title": "The Record", "lead": "פעילות מתועדת בהנדסה, תשתיות, שווקים ציבוריים, מדעי החיים ומערכות אוטונומיות." },
+    "deck": { "subtitle": "מנהיג טכנולוגי · מייסד · יועץ", "thesis": "טכנולוגיה, עסקים והשקעות בתשתיות, מדעי החיים ומערכות אוטונומיות." }
+  }
+}

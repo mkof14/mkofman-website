@@ -2209,14 +2209,18 @@ html.js .fade-in.visible {
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--gold);
-  margin-bottom: 1.5rem;
+  margin-bottom: 0;
 }
 
 .page-home .hero-sub {
-  margin: 0;
-  max-width: 480px;
-  font-size: clamp(1rem, 1.6vw, 1.125rem);
-  line-height: 1.65;
+  margin: 0.65rem 0 0;
+  max-width: 400px;
+  font-family: var(--font-sans);
+  font-size: clamp(0.8125rem, 1.25vw, 0.9375rem);
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--text-muted);
+  letter-spacing: 0.01em;
 }
 
 .page-home .home-intro {
