@@ -79,7 +79,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Insights — Michael Kofman",
-        "description": "Publications, press features, patents, and industry recognition from Michael Kofman."
+        "description": "Original writing and executive briefs from Michael Kofman."
       },
       "speaking": {
         "title": "Speaking — Michael Kofman",
@@ -181,7 +181,9 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "Technology executive, founder, and board advisor."
+      "footerHomeDesc": "Technology executive, founder, and board advisor.",
+      "exp1desc": "Founded and led multiple technology companies in the United States and Europe.",
+      "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
     },
     "about": {
       "eyebrow": "About Michael Kofman",
@@ -206,14 +208,15 @@ const TRANSLATIONS = {
       "secBackgroundTitle": "Background",
       "recordLink": "The Record →",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "From the Archive",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work."
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony."
     },
     "ventures": {
       "eyebrow": "Ventures",
@@ -227,7 +230,8 @@ const TRANSLATIONS = {
       "v1lesson": "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.",
       "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
-      "v5lesson": "Lesson: infrastructure scale is earned through operational excellence long before the exit."
+      "v5lesson": "Lesson: infrastructure scale is earned through operational excellence long before the exit.",
+      "v2highlight": "Harvard Medical School & Stanford Biomath — genetic reporting collaboration"
     },
     "career": {
       "eyebrow": "The Record",
@@ -244,7 +248,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms. Featured in Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Documented Record",
@@ -347,7 +352,8 @@ const TRANSLATIONS = {
       "newsletterEyebrow": "Occasional Notes",
       "newsletterTitle": "Executive Perspective, Without the Noise",
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
-      "newsletterCta": "Subscribe for Updates"
+      "newsletterCta": "Subscribe for Updates",
+      "topicsLead": "Topics draw on documented operating experience across technology, health, and infrastructure."
     },
     "cta": {
       "eyebrow": "Work Together",
@@ -426,7 +432,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning consulting, capability development, training infrastructure, geospatial systems, and maritime intelligence through AGRON, ISDRI, and related companies."
+      "cs3resultText": "A connected professional services ecosystem spanning consulting, capability development, training infrastructure, geospatial systems, and maritime intelligence through AGRON, ISDRI, and related companies.",
+      "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
     },
     "mediaKit": {
       "eyebrow": "Press & Events",
@@ -697,7 +704,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Perspectivas — Michael Kofman",
-        "description": "Publicaciones, prensa, patentes y reconocimiento del sector de Michael Kofman."
+        "description": "Escritos originales y briefs ejecutivos de Michael Kofman."
       },
       "speaking": {
         "title": "Conferencias — Michael Kofman",
@@ -779,7 +786,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "Liderazgo ejecutivo en múltiples industrias",
       "expertiseLead": "Cuatro décadas construyendo, asesorando e invirtiendo en infraestructura, salud y robótica.",
       "exp1title": "CEO y fundador",
-      "exp1desc": "Fundó y escaló múltiples empresas desde su inicio hasta la salida a bolsa, logrando un crecimiento financiero constante y presencia global en los sectores de tecnología y salud.",
+      "exp1desc": "Fundó y dirigió múltiples empresas tecnológicas en Estados Unidos y Europa.",
       "exp1link": "Ver empresas →",
       "exp2title": "Arquitecto tecnológico",
       "exp2desc": "Diseñó comunicaciones seguras, motores de analítica predictiva y plataformas de integración de datos a nivel nacional para los sectores gubernamental, militar y de telecomunicaciones.",
@@ -810,7 +817,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "Como aparece en",
       "caseStudiesEyebrow": "Resultados comprobados",
       "caseStudiesTitle": "Casos de estudio",
-      "caseStudiesLead": "Fundación, escalamiento y liderazgo de empresas desde su inicio hasta adquisiciones y salidas a bolsa.",
+      "caseStudiesLead": "Fundación, escalamiento y liderazgo de empresas desde etapas tempranas hasta adquisición.",
       "caseStudiesLink": "Ver todos los casos de estudio →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -884,7 +891,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "Del archivo",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Fundador y CEO — empresa de hosting e infraestructura de internet, adquirida por Concentric Networks en 2000.",
@@ -897,7 +904,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor en Ciencias Técnicas y Ph.D. en Tecnologías de la Información. Autor de trabajos técnicos; patente HDTV satelital adquirida por Sony."
     },
     "ventures": {
       "eyebrow": "Portafolio de empresas",
@@ -914,12 +922,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "Lección: la escala en infraestructura se gana con excelencia operativa mucho antes de la salida.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School y Stanford Biomath — colaboración en informes genéticos"
     },
     "career": {
       "eyebrow": "Registro profesional",
       "title": "The Record",
-      "lead": "Actividad documentada en ingeniería, infraestructura, mercados públicos, ciencias de la vida y sistemas autónomos.",
+      "lead": "Tecnología, empresas y experiencia operativa a través de periodos sucesivos de cambio tecnológico.",
       "timelineEyebrow": "Línea de tiempo",
       "timelineTitle": "Hitos clave",
       "strengthsEyebrow": "Fortalezas",
@@ -940,7 +949,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Fundó Digital Invest Inc. en 2021. Dirige medicina biomatemática, inteligencia genómica y plataformas de datos clínicos. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Registro documentado",
@@ -1045,7 +1055,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "Los temas se basan en experiencia operativa documentada en tecnología, salud e infraestructura."
     },
     "cta": {
       "eyebrow": "Trabajemos juntos",
@@ -1114,9 +1125,9 @@ const TRANSLATIONS = {
       "cs2challenge": "Desafío",
       "cs2challengeText": "Transformar enfoques médicos obsoletos mediante ciencia, tecnologías de ADN, IA y ML a través de una nueva plataforma bio-matemática.",
       "cs2action": "Enfoque",
-      "cs2actionText": "Fundé y escalé Digital Invest Inc. desde su inicio hasta una salida a bolsa exitosa. Dirigí todo el proceso de oferta pública: estructuración legal, cumplimiento financiero, roadshows con inversores y coordinación con la SEC. También dirigí el diseño, la construcción y la operación de múltiples centros de datos en EE. UU. y Europa.",
+      "cs2actionText": "Fundé Digital Invest Inc. en 2021. Dirijo medicina biomatemática, inteligencia genómica y plataformas de datos clínicos.",
       "cs2result": "Resultado",
-      "cs2resultText": "Logramos un crecimiento financiero sostenido y posicionamos a la empresa entre las 10 principales compañías de medicina de precisión de EE. UU. (2023), con proyectos como Human Digital Model y BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). Proyectos: Human Digital Model y BioMath Life.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -1124,7 +1135,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "Fundación, escalamiento y liderazgo de empresas desde etapas tempranas hasta adquisición."
     },
     "mediaKit": {
       "eyebrow": "Prensa y eventos",
@@ -1167,7 +1179,7 @@ const TRANSLATIONS = {
       "article2title": "Medicina de precisión y convergencia entre ciencia y tecnología",
       "article2p1": "Creo firmemente en el potencial de combinar las ciencias de la vida con los últimos avances tecnológicos. En Biotechnology Group Inc. (2008-2014), nos enfocamos en pruebas y análisis de ADN, automatización de procesos para crear perfiles genéticos e investigación genética humana integral.",
       "article2p2": "Bajo mi liderazgo, se iniciaron proyectos exitosos de pruebas genéticas en Ucrania, Rusia y los países bálticos. En colaboración con Harvard Medical School y Stanford Biomath, desempeñé un papel clave en el desarrollo de reportes genéticos fáciles de comprender para médicos y pacientes.",
-      "article2p3": "Con Digital Invest Inc., fundada en 2021, nos dedicamos al ámbito bio-matemático, transformando enfoques médicos obsoletos mediante ciencia, tecnologías de ADN, IA y ML. La empresa se escaló desde su inicio hasta una salida a bolsa exitosa y fue reconocida entre las 10 mejores compañías de EE. UU. en medicina de precisión y salud digital en 2023.",
+      "article2p3": "Con Digital Invest Inc., fundada en 2021, trabajamos en medicina biomatemática — ciencia, tecnologías de ADN, IA y ML aplicadas a inteligencia clínica. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest impulsa la medicina biomatemática con proyectos como Human Digital Model y BioMath Life. En 2026, Michael Kofman fundó AGRON Inc. para liderar la Aerial-Ground Robotics Operations Network — desarrollo de capacidades UAV, sistemas geoespaciales e inteligencia marítima en agron1.com."
     },
     "privacy": {
@@ -1188,8 +1200,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",
@@ -1396,7 +1408,7 @@ const TRANSLATIONS = {
       },
       "ventures": {
         "title": "Unternehmen — Michael Kofman",
-        "description": "Von Michael Kofman gegründete und geführte Unternehmen — von Digital Invest Inc. bis 9 Net Avenue Inc. — transformative Geschäfte in Technologie und Gesundheitswesen."
+        "description": "Von Michael Kofman gegründete und geführte Unternehmen — von Digital Invest Inc. bis 9 Net Avenue Inc. — Unternehmen in Technologie und Gesundheitswesen."
       },
       "career": {
         "title": "The Record — Michael Kofman",
@@ -1416,7 +1428,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Einblicke — Michael Kofman",
-        "description": "Publikationen, Presseberichte, Patente und Branchenanerkennung von Michael Kofman."
+        "description": "Originelle Texte und Executive Briefs von Michael Kofman."
       },
       "speaking": {
         "title": "Vorträge — Michael Kofman",
@@ -1498,7 +1510,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "Führung in verschiedenen Branchen",
       "expertiseLead": "Vier Jahrzehnte Aufbau, Beratung und Investment in Infrastruktur, Gesundheit und Robotik.",
       "exp1title": "CEO & Gründer",
-      "exp1desc": "Gründete und skalierte mehrere Unternehmen vom Start bis zum Börsengang und erzielte kontinuierliches Finanzwachstum sowie globale Präsenz in Technologie und Gesundheitswesen.",
+      "exp1desc": "Gründete und führte mehrere Technologieunternehmen in den USA und Europa.",
       "exp1link": "Unternehmen →",
       "exp2title": "Technologiearchitekt",
       "exp2desc": "Entwarf sichere Kommunikationssysteme, prädiktive Analyse-Engines und Datenintegrationsplattformen auf nationaler Ebene für Regierung, Militär und Telekommunikation.",
@@ -1529,7 +1541,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "Bekannt aus",
       "caseStudiesEyebrow": "Nachweisbare Ergebnisse",
       "caseStudiesTitle": "Fallstudien",
-      "caseStudiesLead": "Unternehmen gründen, skalieren und führen - vom Start bis zu Übernahme und IPO.",
+      "caseStudiesLead": "Gründung, Skalierung und Führung von Unternehmen von der Frühphase bis zur Übernahme.",
       "caseStudiesLink": "Alle Fallstudien anzeigen →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -1603,7 +1615,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "Aus dem Archiv",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -1616,7 +1628,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences und Ph.D. in Information Technology. Autor technischer Arbeiten; Patent digitales Satelliten-HDTV, übernommen von Sony."
     },
     "ventures": {
       "eyebrow": "Unternehmensportfolio",
@@ -1633,12 +1646,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "Lehre: Infrastruktur-Skalierung entsteht durch operative Exzellenz lange vor dem Exit.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School & Stanford Biomath — Zusammenarbeit zu genetischen Berichten"
     },
     "career": {
       "eyebrow": "Beruflicher Werdegang",
       "title": "The Record",
-      "lead": "Dokumentierte Tätigkeit in Ingenieurwesen, Infrastruktur, öffentlichen Märkten, Life Sciences und autonomen Systemen.",
+      "lead": "Technologie, Unternehmen und operative Erfahrung über aufeinanderfolgende Technologieperioden.",
       "timelineEyebrow": "Zeitleiste",
       "timelineTitle": "Meilensteine",
       "strengthsEyebrow": "Kernkompetenzen",
@@ -1659,7 +1673,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc. 2021 gegründet. Biomathematische Medizin, Genom-Intelligenz und klinische Datenplattformen. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Auszeichnungen",
@@ -1764,7 +1779,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "Themen basieren auf dokumentierter operativer Erfahrung in Technologie, Gesundheit und Infrastruktur."
     },
     "cta": {
       "eyebrow": "Zusammenarbeiten",
@@ -1833,9 +1849,9 @@ const TRANSLATIONS = {
       "cs2challenge": "Herausforderung",
       "cs2challengeText": "Veraltete medizinische Ansätze durch Wissenschaft, DNA-Technologien, KI und ML auf einer neuen bio-mathematischen Plattform transformieren.",
       "cs2action": "Ansatz",
-      "cs2actionText": "Digital Invest Inc. wurde 2021 gegründet. Schwerpunkt: bio-mathematische Medizin, Genom-Intelligenz und klinische Datenplattformen.",
+      "cs2actionText": "Digital Invest Inc. 2021 gegründet. Schwerpunkt: biomathematische Medizin, Genom-Intelligenz und klinische Datenplattformen.",
       "cs2result": "Ergebnis",
-      "cs2resultText": "Stetiges finanzielles Wachstum positionierte das Unternehmen unter den Top 10 Präzisionsmedizin-Unternehmen in den USA (2023), mit Projekten wie Human Digital Model und BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). Projekte: Human Digital Model und BioMath Life.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -1843,7 +1859,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "Gründung, Skalierung und Führung von Unternehmen von der Frühphase bis zur Übernahme."
     },
     "mediaKit": {
       "eyebrow": "Presse und Events",
@@ -1886,7 +1903,7 @@ const TRANSLATIONS = {
       "article2title": "Präzisionsmedizin und die Konvergenz von Wissenschaft und Technologie",
       "article2p1": "Ich bin fest davon überzeugt, dass die Kombination von Life Sciences mit den neuesten technologischen Fortschritten enormes Potenzial bietet. Bei Biotechnology Group Inc. (2008-2014) konzentrierten wir uns auf DNA-Tests und -Analysen, Prozessautomatisierung zur Erstellung genetischer Profile und umfassende humangenetische Forschung.",
       "article2p2": "Unter meiner Leitung wurden erfolgreiche genetische Testprojekte in der Ukraine, in Russland und in den baltischen Staaten initiiert. In Zusammenarbeit mit Harvard Medical School und Stanford Biomath spielte ich eine entscheidende Rolle bei der Entwicklung leicht verständlicher genetischer Berichte für Ärzte und Patienten.",
-      "article2p3": "Digital Invest Inc., gegründet 2021, konzentriert sich auf bio-mathematische Medizin — Wissenschaft, DNA-Technologien, KI und ML in klinischen und Forschungs-Workflows. Healthcare Tech Outlook (2023).",
+      "article2p3": "Mit Digital Invest Inc., gegründet 2021, arbeiten wir in biomathematischer Medizin — Wissenschaft, DNA-Technologien, KI und ML in klinischer Intelligenz. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest treibt biomathematische Medizin mit Projekten wie Human Digital Model und BioMath Life voran. 2026 gründete Michael Kofman AGRON Inc., um das Aerial-Ground Robotics Operations Network aufzubauen — UAV-Fähigkeiten, Geodaten und maritime Intelligence auf agron1.com."
     },
     "privacy": {
@@ -1907,8 +1924,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",
@@ -2135,7 +2152,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Perspectives — Michael Kofman",
-        "description": "Publications, articles de presse, brevets et reconnaissance sectorielle de Michael Kofman."
+        "description": "Écrits originaux et briefs exécutifs de Michael Kofman."
       },
       "speaking": {
         "title": "Interventions — Michael Kofman",
@@ -2217,7 +2234,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "Leadership exécutif",
       "expertiseLead": "Quatre décennies de création, de conseil et d'investissement dans l'infrastructure, la santé et la robotique.",
       "exp1title": "PDG & fondateur",
-      "exp1desc": "A fondé et développé plusieurs entreprises de la création à l'introduction en bourse, assurant une croissance financière constante et une présence mondiale dans la technologie et la santé.",
+      "exp1desc": "A fondé et dirigé plusieurs entreprises technologiques aux États-Unis et en Europe.",
       "exp1link": "Entreprises →",
       "exp2title": "Architecte technologique",
       "exp2desc": "A conçu des communications sécurisées, des moteurs d'analyse prédictive et des plateformes d'intégration de données à l'échelle nationale pour les secteurs gouvernemental, militaire et télécom.",
@@ -2248,7 +2265,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "Vu dans",
       "caseStudiesEyebrow": "Résultats prouvés",
       "caseStudiesTitle": "Études de cas",
-      "caseStudiesLead": "Créer, développer et diriger des entreprises de leur lancement jusqu'à l'acquisition et l'IPO.",
+      "caseStudiesLead": "Création, développement et direction d'entreprises de leur lancement jusqu'à l'acquisition.",
       "caseStudiesLink": "Voir toutes les études de cas →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -2322,7 +2339,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "De l'archive",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -2335,7 +2352,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences et Ph.D. in Information Technology. Auteur de travaux techniques; brevet HDTV satellitaire acquis par Sony."
     },
     "ventures": {
       "eyebrow": "Portefeuille",
@@ -2352,12 +2370,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "Leçon : l'échelle en infrastructure se gagne par l'excellence opérationnelle bien avant la sortie.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School et Stanford Biomath — collaboration sur les rapports génétiques"
     },
     "career": {
       "eyebrow": "Parcours professionnel",
       "title": "The Record",
-      "lead": "Activité documentée en ingénierie, infrastructure, marchés publics, sciences de la vie et systèmes autonomes.",
+      "lead": "Technologie, entreprises et expérience opérationnelle à travers des périodes de changement technologique.",
       "timelineEyebrow": "Chronologie",
       "timelineTitle": "Jalons clés",
       "strengthsEyebrow": "Forces",
@@ -2378,7 +2397,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc., fondée en 2021. Médecine biomathématique, intelligence génomique et plateformes de données cliniques. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Distinctions",
@@ -2483,7 +2503,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "Les thèmes s'appuient sur une expérience opérationnelle documentée en technologie, santé et infrastructure."
     },
     "cta": {
       "eyebrow": "Collaborons",
@@ -2552,9 +2573,9 @@ const TRANSLATIONS = {
       "cs2challenge": "Défi",
       "cs2challengeText": "Transformer des approches médicales obsolètes grâce à la science, aux technologies ADN, à l'IA et au ML via une nouvelle plateforme bio-mathématique.",
       "cs2action": "Approche",
-      "cs2actionText": "J'ai fondé et développé Digital Invest Inc. de sa création à une ",
+      "cs2actionText": "Digital Invest Inc. fondée en 2021. Médecine biomathématique, intelligence génomique et plateformes de données cliniques.",
       "cs2result": "Résultat",
-      "cs2resultText": "Nous avons atteint une croissance financière soutenue, positionnant l'entreprise parmi les 10 meilleures sociétés de médecine de précision aux États-Unis (2023), avec des projets comme Human Digital Model et BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). Projets : Human Digital Model et BioMath Life.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -2562,7 +2583,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "Création, développement et direction d'entreprises de leur lancement jusqu'à l'acquisition."
     },
     "mediaKit": {
       "eyebrow": "Presse et événements",
@@ -2605,7 +2627,7 @@ const TRANSLATIONS = {
       "article2title": "Médecine de précision et convergence de la science et de la technologie",
       "article2p1": "Je crois fermement au potentiel de la combinaison des sciences de la vie avec les dernières avancées technologiques. Chez Biotechnology Group Inc. (2008-2014), nous nous sommes concentrés sur les tests et analyses ADN, l'automatisation des processus de création de profils génétiques et la recherche génétique humaine complète.",
       "article2p2": "Sous ma direction, des projets réussis de tests génétiques ont été lancés en Ukraine, en Russie et dans les pays baltes. En collaboration avec Harvard Medical School et Stanford Biomath, j'ai joué un rôle clé dans le développement de rapports génétiques faciles à comprendre pour les médecins comme pour les patients.",
-      "article2p3": "Avec Digital Invest Inc., fondée en 2021, nous nous consacrons au domaine bio-mathématique, transformant les approches médicales obsolètes grâce à la science, aux technologies ADN, à l'IA et au ML. L'entreprise a été développée de sa création jusqu'à une ",
+      "article2p3": "Avec Digital Invest Inc., fondée en 2021, nous travaillons en médecine biomathématique — science, technologies ADN, IA et ML appliquées à l'intelligence clinique. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest fait progresser la médecine bio-mathématique via des projets comme Human Digital Model et BioMath Life. En 2026, Michael Kofman a fondé AGRON Inc. pour diriger l'Aerial-Ground Robotics Operations Network — capacités UAV, systèmes géospatiaux et renseignement maritime sur agron1.com."
     },
     "privacy": {
@@ -2626,8 +2648,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",
@@ -2854,7 +2876,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Insights — Michael Kofman",
-        "description": "Публикации, пресс-материалы, патенты и отраслевое признание Michael Kofman."
+        "description": "Оригинальные тексты и executive briefs Michael Kofman."
       },
       "speaking": {
         "title": "Выступления — Michael Kofman",
@@ -2936,7 +2958,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "Executive-лидерство в разных отраслях",
       "expertiseLead": "Четыре десятилетия создания компаний, консультирования и инвестиций в инфраструктуру, здравоохранение и робототехнику.",
       "exp1title": "CEO и основатель",
-      "exp1desc": "Основал и масштабировал несколько компаний — от старта до IPO, обеспечив устойчивый финансовый рост и глобальное присутствие в сферах технологий и здравоохранения.",
+      "exp1desc": "Основал и руководил несколькими технологическими компаниями в США и Европе.",
       "exp1link": "Компании →",
       "exp2title": "Технологический архитектор",
       "exp2desc": "Разрабатывал защищённые коммуникации, системы предиктивной аналитики и платформы интеграции данных национального уровня для государственного, военного и телекоммуникационного секторов.",
@@ -2967,7 +2989,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "Упоминания в СМИ",
       "caseStudiesEyebrow": "Результаты",
       "caseStudiesTitle": "Кейсы",
-      "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от старта до M&A и IPO.",
+      "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от ранней стадии до сделок M&A.",
       "caseStudiesLink": "Все кейсы →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -3041,7 +3063,7 @@ const TRANSLATIONS = {
       "p3title": "Оставлять после себя более сильные институты",
       "p3text": "Лидерство должно приумножать возможности, развивая людей, повышая качество решений и создавая устойчивые системы.",
       "archiveEyebrow": "Из архива",
-      "archiveTitle": "Моменты пути",
+      "archiveTitle": "Из архива",
       "archiveLead": "Избранные фотографии из истории создания компаний, инфраструктуры и лидерства — от эпохи 9 Net Avenue до сегодняшнего дня.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -3054,7 +3076,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Доктор технических наук и Ph.D. в IT. Автор технических работ; патент digital satellite HDTV, приобретённый Sony."
     },
     "ventures": {
       "eyebrow": "Портфель компаний",
@@ -3071,12 +3094,13 @@ const TRANSLATIONS = {
       "v3lesson": "Урок: автономность создаёт ценность только тогда, когда сенсоры, связь и контроль человека образуют единую устойчивую систему.",
       "v5lesson": "Урок: масштаб в инфраструктуре создаётся операционным совершенством задолго до exit.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School и Stanford Biomath — сотрудничество по генетическим отчётам"
     },
     "career": {
       "eyebrow": "Профессиональный record",
       "title": "The Record",
-      "lead": "Документированная деятельность в инженерии, инфраструктуре, публичных рынках, life sciences и автономных системах.",
+      "lead": "Технологии, компании и операционный опыт в последовательные периоды технологических изменений.",
       "timelineEyebrow": "Хронология",
       "timelineTitle": "Ключевые этапы",
       "strengthsEyebrow": "Сильные стороны",
@@ -3097,7 +3121,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc. основана в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Награды",
@@ -3202,7 +3227,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Периодические эссе и краткие наблюдения о технологиях, управлении и создании устойчивых компаний.",
       "newsletterCta": "Подписаться на обновления",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "Темы основаны на задокументированном операционном опыте в технологиях, здравоохранении и инфраструктуре."
     },
     "cta": {
       "eyebrow": "Сотрудничество",
@@ -3271,9 +3297,9 @@ const TRANSLATIONS = {
       "cs2challenge": "Задача",
       "cs2challengeText": "Трансформировать устаревшие подходы в медицине с помощью науки, ДНК-технологий, ИИ и ML.",
       "cs2action": "Подход",
-      "cs2actionText": "Основана и масштабирована Digital Invest Inc. ",
+      "cs2actionText": "Основана Digital Invest Inc. в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы данных.",
       "cs2result": "Результат",
-      "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты Human Digital Model и BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). Проекты: Human Digital Model и BioMath Life.",
       "cs3eyebrow": "Робототехника и БПЛА · 2026 — настоящее время",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Задача",
@@ -3281,7 +3307,8 @@ const TRANSLATIONS = {
       "cs3action": "Подход",
       "cs3actionText": "AGRON Ecosystem объединяет Global Drone Academy, AGRON, ISDRI и GUARD.",
       "cs3result": "Результат",
-      "cs3resultText": "Программы в 10+ странах, более 10 000 операторов и специалистов БПЛА."
+      "cs3resultText": "Программы в 10+ странах, более 10 000 операторов и специалистов БПЛА.",
+      "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от ранней стадии до сделок M&A."
     },
     "mediaKit": {
       "eyebrow": "Пресса и мероприятия",
@@ -3324,13 +3351,13 @@ const TRANSLATIONS = {
       "article2title": "Precision medicine и конвергенция науки и технологий",
       "article2p1": "Biotechnology Group Inc. (2008–2014): ДНК-тестирование, автоматизация генетических профилей, исследования человеческой генетики.",
       "article2p2": "Проекты в Украине, России и Балтии. Сотрудничество с Harvard Medical School и Stanford Biomath над генетическими отчётами.",
-      "article2p3": "Digital Invest Inc. (2021): биоматематическая медицина, геномная аналитика и клинические данные. Healthcare Tech Outlook (2023).",
+      "article2p3": "С Digital Invest Inc., основанной в 2021, работаем в биоматематической медицине — наука, ДНК-технологии, ИИ и ML в клинической аналитике. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest развивает биоматематическую медицину через проекты Human Digital Model и BioMath Life. В 2026 году Michael Kofman основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network — БПЛА, геопространственные системы и морская разведка на agron1.com."
     },
     "board": {
       "eyebrow": "Советы директоров и стратегическое консультирование",
-      "title": "Независимое суждение для решений высокой значимости",
-      "lead": "Я работаю с советами директоров, основателями и руководящими командами, которые управляют технологическими рисками, рыночными переходами, распределением капитала и ответственным ростом.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Форматы сотрудничества",
       "rolesTitle": "Партнёрство на уровне совета директоров",
       "role1title": "Независимый директор",
@@ -3573,7 +3600,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "Insights — Michael Kofman",
-        "description": "Публікації, прес-матеріали, патенти та галузеве визнання Michael Kofman."
+        "description": "Оригінальні тексти та executive briefs Michael Kofman."
       },
       "speaking": {
         "title": "Виступи — Michael Kofman",
@@ -3655,7 +3682,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "Executive-лідерство в різних галузях",
       "expertiseLead": "Чотири десятиліття створення компаній, консультування та інвестицій в інфраструктуру, охорону здоров'я та робототехніку.",
       "exp1title": "CEO і засновник",
-      "exp1desc": "Заснував і масштабував кілька компаній — від старту до IPO, забезпечивши стійке фінансове зростання та глобальну присутність у сферах технологій і охорони здоров'я.",
+      "exp1desc": "Заснував і керував кількома технологічними компаніями в США та Європі.",
       "exp1link": "Компанії →",
       "exp2title": "Технологічний архітектор",
       "exp2desc": "Проєктував захищені комунікації, системи предиктивної аналітики та платформи інтеграції даних національного рівня для державного, військового та телекомунікаційного секторів.",
@@ -3686,7 +3713,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "Згадки в медіа",
       "caseStudiesEyebrow": "Підтверджені результати",
       "caseStudiesTitle": "Кейси",
-      "caseStudiesLead": "Заснування, масштабування та керівництво компаніями від старту до угод M&A та IPO.",
+      "caseStudiesLead": "Заснування, масштабування та керівництво компаніями — від ранньої стадії до угод M&A.",
       "caseStudiesLink": "Переглянути всі кейси →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -3760,7 +3787,7 @@ const TRANSLATIONS = {
       "p3title": "Залишати сильніші інституції",
       "p3text": "Лідерство має примножувати спроможності, розвиваючи людей, підвищуючи якість рішень і створюючи стійкі системи.",
       "archiveEyebrow": "З архіву",
-      "archiveTitle": "Моменти шляху",
+      "archiveTitle": "З архіву",
       "archiveLead": "Вибрані фотографії з історії створення компаній, інфраструктури та лідерства — від епохи 9 Net Avenue до сьогодні.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -3773,7 +3800,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Доктор технічних наук і Ph.D. в IT. Автор технічних робіт; патент digital satellite HDTV, придбаний Sony."
     },
     "ventures": {
       "eyebrow": "Портфель компаній",
@@ -3790,12 +3818,13 @@ const TRANSLATIONS = {
       "v3lesson": "Урок: автономність створює цінність лише тоді, коли сенсори, зв'язок і контроль людини утворюють єдину стійку систему.",
       "v5lesson": "Урок: масштаб у інфраструктурі досягається операційною досконалістю задовго до exit.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School і Stanford Biomath — співпраця з генетичними звітами"
     },
     "career": {
       "eyebrow": "Професійний шлях",
       "title": "The Record",
-      "lead": "Задокументована діяльність в інженерії, інфраструктурі, публічних ринках, life sciences та автономних системах.",
+      "lead": "Технології, компанії та операційний досвід у послідовні періоди технологічних змін.",
       "timelineEyebrow": "Хронологія",
       "timelineTitle": "Ключові етапи",
       "strengthsEyebrow": "Сильні сторони",
@@ -3816,7 +3845,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc. заснована у 2021. Біоматематична медицина, геномна аналітика та клінічні платформи. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Нагороди",
@@ -3921,7 +3951,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Періодичні есе та короткі спостереження про технології, управління й побудову стійких компаній.",
       "newsletterCta": "Підписатися на оновлення",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "Теми базуються на задокументованому операційному досвіді в технологіях, охороні здоров'я та інфраструктурі."
     },
     "cta": {
       "eyebrow": "Співпраця",
@@ -3990,9 +4021,9 @@ const TRANSLATIONS = {
       "cs2challenge": "Виклик",
       "cs2challengeText": "Трансформувати застарілі підходи в медицині за допомогою науки, ДНК-технологій, AI і ML через нову біо-математичну платформу.",
       "cs2action": "Підхід",
-      "cs2actionText": "Digital Invest Inc. заснована у 2021 році. Керує біоматематичною медициною, геномною аналітикою та клінічними платформами даних.",
+      "cs2actionText": "Засновано Digital Invest Inc. у 2021. Біоматематична медицина, геномна аналітика та клінічні платформи даних.",
       "cs2result": "Результат",
-      "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023), з проєктами Human Digital Model і BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). Проєкти: Human Digital Model і BioMath Life.",
       "cs3eyebrow": "Робототехніка та БПЛА · 2026 — сьогодні",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Завдання",
@@ -4000,7 +4031,8 @@ const TRANSLATIONS = {
       "cs3action": "Підхід",
       "cs3actionText": "AGRON Ecosystem об'єднує Global Drone Academy, AGRON, ISDRI та GUARD.",
       "cs3result": "Результат",
-      "cs3resultText": "Програми у 10+ країнах, понад 10 000 операторів і фахівців БПЛА."
+      "cs3resultText": "Програми у 10+ країнах, понад 10 000 операторів і фахівців БПЛА.",
+      "caseStudiesLead": "Заснування, масштабування та керівництво компаніями — від ранньої стадії до угод M&A."
     },
     "mediaKit": {
       "eyebrow": "Преса та події",
@@ -4043,13 +4075,13 @@ const TRANSLATIONS = {
       "article2title": "Прецизійна медицина та конвергенція науки й технологій",
       "article2p1": "Я переконаний у потенціалі поєднання наук про життя з найновішими технологічними досягненнями. У Biotechnology Group Inc. (2008-2014) ми зосереджувалися на ДНК-тестуванні та аналізі, автоматизації процесів створення генетичних профілів і комплексних дослідженнях генетики людини.",
       "article2p2": "Під моїм керівництвом було започатковано успішні проєкти генетичного тестування в Україні, Росії та країнах Балтії. У співпраці з Harvard Medical School і Stanford Biomath я відіграв ключову роль у створенні зрозумілих генетичних звітів як для лікарів, так і для пацієнтів.",
-      "article2p3": "Digital Invest Inc., заснована у 2021 році, працює в біоматематичній медицині — наука, ДНК-технології, AI та ML у клінічних процесах. Healthcare Tech Outlook (2023).",
+      "article2p3": "З Digital Invest Inc., заснованою у 2021, працюємо в біоматематичній медицині — наука, ДНК-технології, ШІ та ML у кlinічній аналітиці. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest розвиває біоматематичну медицину через проєкти Human Digital Model і BioMath Life. У 2026 році Michael Kofman заснув AGRON Inc. для розвитку Aerial-Ground Robotics Operations Network — БПЛА, геопросторові системи та морська розвідка на agron1.com."
     },
     "board": {
       "eyebrow": "Ради директорів і стратегічне консультування",
-      "title": "Незалежне судження для рішень високої значущості",
-      "lead": "Я працюю з радами директорів, засновниками та керівними командами, які управляють технологічними ризиками, ринковими переходами, розподілом капіталу й відповідальним зростанням.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Формати співпраці",
       "rolesTitle": "Партнерство на рівні ради директорів",
       "role1title": "Незалежний директор",
@@ -4292,7 +4324,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "洞见 — Michael Kofman",
-        "description": "Michael Kofman的出版物、媒体报道、专利和行业认可。"
+        "description": "Michael Kofman 的原创文章与 executive briefs。"
       },
       "speaking": {
         "title": "演讲邀约 — Michael Kofman",
@@ -4374,7 +4406,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "跨行业高管领导力",
       "expertiseLead": "四十年在基础设施、医疗和机器人领域的创业、咨询与投资。",
       "exp1title": "CEO与创始人",
-      "exp1desc": "从创立到成功上市，创办并扩展了多家公司，在科技与医疗领域实现了持续财务增长和全球布局。",
+      "exp1desc": "在美国和欧洲创办并领导多家科技公司。",
       "exp1link": "查看企业 →",
       "exp2title": "技术架构师",
       "exp2desc": "为政府、军事和电信领域设计安全通信、预测分析引擎和国家级数据集成平台。",
@@ -4405,7 +4437,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "媒体报道",
       "caseStudiesEyebrow": "可验证成果",
       "caseStudiesTitle": "案例研究",
-      "caseStudiesLead": "从创立到并购和 IPO，持续推动企业创建、扩张与领导。",
+      "caseStudiesLead": "从早期阶段到被收购，持续创办、扩张并领导企业。",
       "caseStudiesLink": "查看全部案例研究 →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -4479,7 +4511,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "来自档案",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -4492,7 +4524,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "技术科学博士和信息技术博士。技术论文作者；数字卫星 HDTV 专利被 Sony 收购。"
     },
     "ventures": {
       "eyebrow": "企业组合",
@@ -4509,12 +4542,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "经验：基础设施的规模来自长期运营卓越，而非退出前的冲刺。",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School 与 Stanford Biomath — 遗传报告合作"
     },
     "career": {
       "eyebrow": "职业历程",
       "title": "The Record",
-      "lead": "涵盖工程、基础设施、公开市场、生命科学和自主系统的 documented 工作记录。",
+      "lead": "技术、公司与 successive 技术变革时期的运营经验。",
       "timelineEyebrow": "时间线",
       "timelineTitle": "关键里程碑",
       "strengthsEyebrow": "核心优势",
@@ -4535,7 +4569,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc. 创立于 2021 年，专注生物数学医学、基因组智能和临床数据平台。Healthcare Tech Outlook（2023）。"
     },
     "recognition": {
       "eyebrow": "奖项",
@@ -4640,7 +4675,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "主题基于在科技、医疗和基础设施领域的 documented 运营经验。"
     },
     "cta": {
       "eyebrow": "合作共赢",
@@ -4709,9 +4745,9 @@ const TRANSLATIONS = {
       "cs2challenge": "挑战",
       "cs2challengeText": "通过全新的生物数学平台，结合科学、DNA 技术、AI 与 ML，革新医学中的过时方法。",
       "cs2action": "策略",
-      "cs2actionText": "Digital Invest Inc. 创立于 2021 年，专注生物数学医学、基因组智能和临床数据平台。",
+      "cs2actionText": "2021 年创立 Digital Invest Inc.，领导生物数学医学、基因组智能和临床数据平台。",
       "cs2result": "成果",
-      "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023），旗下包括 Human Digital Model 和 BioMath Life 等项目。",
+      "cs2resultText": "Healthcare Tech Outlook（2023）。项目包括 Human Digital Model 和 BioMath Life。",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -4719,7 +4755,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "从早期阶段到被收购，持续创办、扩张并领导企业。"
     },
     "mediaKit": {
       "eyebrow": "媒体与活动",
@@ -4762,7 +4799,7 @@ const TRANSLATIONS = {
       "article2title": "精准医疗与科学技术融合",
       "article2p1": "我始终坚信生命科学与前沿技术结合所蕴含的巨大潜力。在 Biotechnology Group Inc.（2008-2014）期间，我们重点推进 DNA 检测与分析、遗传画像流程自动化以及全面的人类遗传学研究。",
       "article2p2": "在我的领导下，乌克兰、俄罗斯和波罗的海国家启动了多个成功的基因检测项目。与 Harvard Medical School 和 Stanford Biomath 的合作中，我在为医生和患者开发易于理解的基因报告方面发挥了关键作用。",
-      "article2p3": "Digital Invest Inc.（2021）专注生物数学医学，将科学、DNA 技术、AI 与 ML 应用于临床与研究。Healthcare Tech Outlook（2023）。",
+      "article2p3": "Digital Invest Inc. 创立于 2021 年，从事生物数学医学 — 将科学、DNA 技术、AI 和 ML 应用于临床智能。Healthcare Tech Outlook（2023）。",
       "article2p4": "Digital Invest 通过 Human Digital Model 和 BioMath Life 等项目推进生物数学医学。2026 年，Michael Kofman 创立 AGRON Inc.，领导 Aerial-Ground Robotics Operations Network——无人机能力、地理空间系统与海事情报，见 agron1.com。"
     },
     "privacy": {
@@ -4783,8 +4820,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",
@@ -5011,7 +5048,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "رؤى — Michael Kofman",
-        "description": "منشورات وتغطيات صحفية وبراءات اختراع وتقدير صناعي من Michael Kofman."
+        "description": "كتابات أصلية وbriefs تنفيذية من Michael Kofman."
       },
       "speaking": {
         "title": "المحاضرات — Michael Kofman",
@@ -5093,7 +5130,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "قيادة تنفيذية عبر الصناعات",
       "expertiseLead": "أربعة عقود في بناء الشركات والاستشارة والاستثمار في البنية التحتية والصحة والروبوتات.",
       "exp1title": "الرئيس التنفيذي والمؤسس",
-      "exp1desc": "أسس وطوّر عدة شركات من البداية حتى الاكتتاب العام، محققاً نمواً مالياً مستداماً وحضوراً عالمياً في قطاعي التكنولوجيا والرعاية الصحية.",
+      "exp1desc": "أسس وقاد عدة شركات تقنية في الولايات المتحدة وأوروبا.",
       "exp1link": "المشاريع ←",
       "exp2title": "مهندس تقني",
       "exp2desc": "صمم اتصالات آمنة ومحركات تحليلات تنبؤية ومنصات تكامل بيانات على المستوى الوطني للقطاعات الحكومية والعسكرية والاتصالات.",
@@ -5124,7 +5161,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "ظهر في",
       "caseStudiesEyebrow": "نتائج مثبتة",
       "caseStudiesTitle": "دراسات الحالة",
-      "caseStudiesLead": "تأسيس الشركات وتوسيعها وقيادتها من البداية حتى الاستحواذ والطرح العام.",
+      "caseStudiesLead": "تأسيس وتوسيع وقيادة شركات من المراحل المبكرة حتى الاستحواذ.",
       "caseStudiesLink": "عرض جميع دراسات الحالة →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -5198,7 +5235,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "من الأرشيف",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -5211,7 +5248,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences و Ph.D. in Information Technology. مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony."
     },
     "ventures": {
       "eyebrow": "محفظة المشاريع",
@@ -5228,12 +5266,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "الدرس: نمو البنية التحتية يُبنى بالتميز التشغيلي قبل الخروج بكثير.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية"
     },
     "career": {
       "eyebrow": "المسيرة المهنية",
       "title": "The Record",
-      "lead": "نشاط موثق في الهندسة والبنية التحتية والأسواق العامة وعلوم الحياة والأنظمة المستقلة.",
+      "lead": "التكنولوجيا والشركات والخبرة التشغيلية عبر فترات متتالية من التغير التكنولوجي.",
       "timelineEyebrow": "الجدول الزمني",
       "timelineTitle": "محطات رئيسية",
       "strengthsEyebrow": "نقاط القوة",
@@ -5254,7 +5293,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc.، تأسست 2021. طب biomathematical وبيانات genomics ومنصات clínico. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "الجوائز",
@@ -5359,7 +5399,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "تعتمد الموضوعات على خبرة تشغيلية موثقة في التكنولوجيا والصحة والبنية التحتية."
     },
     "cta": {
       "eyebrow": "لنعمل معًا",
@@ -5428,9 +5469,9 @@ const TRANSLATIONS = {
       "cs2challenge": "التحدي",
       "cs2challengeText": "تحويل الأساليب الطبية القديمة عبر العلوم وتقنيات الحمض النووي وAI وML من خلال منصة بيولوجية رياضية جديدة.",
       "cs2action": "النهج",
-      "cs2actionText": "أسس Michael Kofman شركة Digital Invest Inc. وقاد توسعها من البداية حتى طرح عام أولي ناجح. كما قاد كامل عملية الطرح: الهيكلة القانونية، والامتثال المالي، وجولات المستثمرين، والتنسيق مع SEC. وأشرف على تصميم وبناء وتشغيل عدة مراكز بيانات في الولايات المتحدة وأوروبا.",
+      "cs2actionText": "تأسست Digital Invest Inc. عام 2021. الطب biomathematical والذكاء genomics ومنصات البيانات clínico.",
       "cs2result": "النتيجة",
-      "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023)، مع مشاريع مثل Human Digital Model وBioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). مشاريع: Human Digital Model و BioMath Life.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -5438,7 +5479,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "تأسيس وتوسيع وقيادة شركات من المراحل المبكرة حتى الاستحواذ."
     },
     "mediaKit": {
       "eyebrow": "الصحافة والفعاليات",
@@ -5481,7 +5523,7 @@ const TRANSLATIONS = {
       "article2title": "الطب الدقيق وتقاطع العلم مع التكنولوجيا",
       "article2p1": "أنا مؤمن بقوة بإمكانات الجمع بين علوم الحياة وأحدث التطورات التقنية. في Biotechnology Group Inc. (2008-2014)، ركزنا على اختبارات وتحليل الحمض النووي، وأتمتة عمليات إعداد الملفات الجينية، والبحث الجيني البشري الشامل.",
       "article2p2": "تحت قيادتي، انطلقت مشاريع ناجحة للاختبارات الجينية في أوكرانيا وروسيا ودول البلطيق. وبالتعاون مع Harvard Medical School وStanford Biomath، لعبت دورًا محوريًا في تطوير تقارير جينية واضحة وسهلة الفهم للأطباء والمرضى.",
-      "article2p3": "مع Digital Invest Inc. التي تأسست عام 2021، نعمل في المجال البيولوجي الرياضي لتحويل الأساليب القديمة في الطب عبر العلوم وتقنيات الحمض النووي وAI وML. وقد توسعت الشركة من بدايتها حتى طرح عام أولي ناجح، وتم تصنيفها ضمن أفضل 10 شركات أمريكية في الطب الدقيق والصحة الرقمية عام 2023.",
+      "article2p3": "مع Digital Invest Inc.، تأسست 2021، نعمل في الطب biomathematical — علم وتقنيات DNA وAI وML في الذكاء clínico. Healthcare Tech Outlook (2023).",
       "article2p4": "تطوّر Digital Invest الطب البيو-رياضي عبر مشاريع مثل Human Digital Model وBioMath Life. في 2026 أسس Michael Kofman شركة AGRON Inc. لقيادة Aerial-Ground Robotics Operations Network — قدرات الطائرات بدون طيار والأنظمة الجغرافية المكانية والاستخبارات البحرية على agron1.com."
     },
     "privacy": {
@@ -5502,8 +5544,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",
@@ -5730,7 +5772,7 @@ const TRANSLATIONS = {
       },
       "insights": {
         "title": "תובנות — Michael Kofman",
-        "description": "פרסומים, כתבות, פטנטים והכרה בתעשייה של Michael Kofman."
+        "description": "כתיבה מקורית ו-executive briefs מאת Michael Kofman."
       },
       "speaking": {
         "title": "הרצאות — Michael Kofman",
@@ -5812,7 +5854,7 @@ const TRANSLATIONS = {
       "expertiseTitle": "מנהיגות בכירה בין תעשיות",
       "expertiseLead": "ארבעה עשורים של בנייה, ייעוץ והשקעה בתשתית, בריאות ורובוטיקה.",
       "exp1title": "מנכ\"ל ומייסד",
-      "exp1desc": "ייסד והרחיב מספר חברות מהקמתן ועד הנפקה מוצלחת, תוך צמיחה פיננסית עקבית ונוכחות גלובלית בתחומי הטכנולוגיה והבריאות.",
+      "exp1desc": "ייסד והנהיג מספר חברות טכנולוגיה בארצות הברית ובאירופה.",
       "exp1link": "חברות ←",
       "exp2title": "ארכיטקט טכנולוגי",
       "exp2desc": "תכנן תקשורת מאובטחת, מנועי אנליטיקה חיזויית ופלטפורמות אינטגרציית נתונים ברמה לאומית למגזרים ממשלתיים, צבאיים וטלקום.",
@@ -5843,7 +5885,7 @@ const TRANSLATIONS = {
       "featuredEyebrow": "כפי שפורסם ב",
       "caseStudiesEyebrow": "תוצאות מוכחות",
       "caseStudiesTitle": "מקרי בוחן",
-      "caseStudiesLead": "הקמה, הרחבה והובלת חברות מהשלב הראשוני ועד רכישה ו-IPO.",
+      "caseStudiesLead": "הקמה, הרחבה והובלת חברות משלב מוקדם ועד רכישה.",
       "caseStudiesLink": "צפייה בכל מקרי הבוחן →",
       "cs1title": "9 Net Avenue Inc.",
       "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -5917,7 +5959,7 @@ const TRANSLATIONS = {
       "p3title": "Leave Stronger Institutions",
       "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
       "archiveEyebrow": "From the Archive",
-      "archiveTitle": "Selected Photographs",
+      "archiveTitle": "מהארכיון",
       "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
       "photo9netTitle": "9 Net Avenue",
       "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -5930,7 +5972,8 @@ const TRANSLATIONS = {
       "secBusinessTitle": "Business",
       "secCurrentTitle": "Current Work",
       "secBackgroundTitle": "Background",
-      "recordLink": "The Record →"
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
     },
     "ventures": {
       "eyebrow": "תיק חברות",
@@ -5947,12 +5990,13 @@ const TRANSLATIONS = {
       "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
       "v5lesson": "לקח: קנה מידה בתשתיות נבנה במצוינות תפעולית הרבה לפני יציאה.",
       "currentEyebrow": "Current",
-      "historyEyebrow": "Selected History"
+      "historyEyebrow": "Selected History",
+      "v2highlight": "Harvard Medical School ו-Stanford Biomath — שיתוף פעולה בדיווח genético"
     },
     "career": {
       "eyebrow": "מסלול מקצועי",
       "title": "The Record",
-      "lead": "פעילות מתועדת בהנדסה, תשתיות, שווקים ציבוריים, מדעי החיים ומערכות אוטונומיות.",
+      "lead": "טכנולוגיה, חברות וניסיון תפעולי לאורך תקופות של שינוי טכנולוגי.",
       "timelineEyebrow": "ציר זמן",
       "timelineTitle": "אבני דרך",
       "strengthsEyebrow": "חוזקות",
@@ -5973,7 +6017,8 @@ const TRANSLATIONS = {
       "period4title": "Life Sciences & Human Data",
       "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
       "period5title": "Government & Defense Programs",
-      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs."
+      "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+      "t1desc": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים קlinיים. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "פרסים",
@@ -6078,7 +6123,8 @@ const TRANSLATIONS = {
       "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
       "newsletterCta": "Subscribe for Updates",
       "lead": "Substantive writing and executive briefs.",
-      "relatedLead": "Recognition, press coverage, and patents are documented separately."
+      "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+      "topicsLead": "הנושאים מבוססים על ניסיון תפעולי מתועד בטכנולוגיה, בריאות ותשתיות."
     },
     "cta": {
       "eyebrow": "בואו נעבוד יחד",
@@ -6147,9 +6193,9 @@ const TRANSLATIONS = {
       "cs2challenge": "אתגר",
       "cs2challengeText": "להפוך גישות רפואיות מיושנות באמצעות מדע, טכנולוגיות DNA, AI ו-ML דרך פלטפורמה ביו-מתמטית חדשה.",
       "cs2action": "גישה",
-      "cs2actionText": "Digital Invest Inc. הוקמה ב-2021. מוביל רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים קlinיים.",
+      "cs2actionText": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים clínico.",
       "cs2result": "תוצאה",
-      "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023), עם פרויקטים כמו Human Digital Model ו-BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook (2023). פרויקטים: Human Digital Model ו-BioMath Life.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -6157,7 +6203,8 @@ const TRANSLATIONS = {
       "cs3action": "Approach",
       "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
       "cs3result": "Outcome",
-      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+      "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+      "caseStudiesLead": "הקמה, הרחבה והובלת חברות משלב מוקדם ועד רכישה."
     },
     "mediaKit": {
       "eyebrow": "עיתונות ואירועים",
@@ -6200,7 +6247,7 @@ const TRANSLATIONS = {
       "article2title": "רפואה מדויקת והמפגש בין מדע לטכנולוגיה",
       "article2p1": "אני מאמין עמוקות בפוטנציאל של שילוב מדעי החיים עם החידושים הטכנולוגיים המתקדמים ביותר. ב-Biotechnology Group Inc. ‏(2008-2014) התמקדנו בבדיקות וניתוחי DNA, אוטומציה של תהליכי יצירת פרופילים גנטיים, ומחקר גנטי מקיף של האדם.",
       "article2p2": "תחת הנהגתי, הושקו פרויקטים מוצלחים של בדיקות גנטיות באוקראינה, רוסיה ומדינות הבלטיות. בשיתוף עם Harvard Medical School ו-Stanford Biomath מילאתי תפקיד מרכזי בפיתוח דוחות גנטיים מובנים לרופאים ולמטופלים.",
-      "article2p3": "Digital Invest Inc., שנוסדה ב-2021, מתמקדת ברפואה ביו-מתמטית — מדע, טכנולוגיות DNA, AI ו-ML בקlinיקה ומחקר. Healthcare Tech Outlook (2023).",
+      "article2p3": "עם Digital Invest Inc., שהוקמה ב-2021, עובדים ברפואה ביו-מתמטית — מדע, טכנולוגיות DNA, AI ו-ML באינטליגנציה clínico. Healthcare Tech Outlook (2023).",
       "article2p4": "Digital Invest מקדמת רפואה ביו-מתמטית באמצעות פרויקטים כמו Human Digital Model ו-BioMath Life. ב-2026 ייסד Michael Kofman את AGRON Inc. כדי להוביל את Aerial-Ground Robotics Operations Network — יכולות כטב\"מ, מערכות גיאו-מרחביות ומודיעין ימי ב-agron1.com."
     },
     "privacy": {
@@ -6221,8 +6268,8 @@ const TRANSLATIONS = {
     },
     "board": {
       "eyebrow": "Board & Strategic Advisory",
-      "title": "Independent Judgment for Consequential Decisions",
-      "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory",
       "rolesEyebrow": "Ways to Engage",
       "rolesTitle": "Board-Level Partnership",
       "role1title": "Independent Director",

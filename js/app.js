@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', initAnalytics);
 
   document.addEventListener('DOMContentLoaded', () => {
     initCareerFilters();
-    initCalendly();
+    // initCalendly disabled
     initInquiryFromUrl();
   });
 })();

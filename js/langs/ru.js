@@ -79,7 +79,7 @@ window.__LANG_ru = {
     },
     "insights": {
       "title": "Insights — Michael Kofman",
-      "description": "Публикации, пресс-материалы, патенты и отраслевое признание Michael Kofman."
+      "description": "Оригинальные тексты и executive briefs Michael Kofman."
     },
     "speaking": {
       "title": "Выступления — Michael Kofman",
@@ -161,7 +161,7 @@ window.__LANG_ru = {
     "expertiseTitle": "Executive-лидерство в разных отраслях",
     "expertiseLead": "Четыре десятилетия создания компаний, консультирования и инвестиций в инфраструктуру, здравоохранение и робототехнику.",
     "exp1title": "CEO и основатель",
-    "exp1desc": "Основал и масштабировал несколько компаний — от старта до IPO, обеспечив устойчивый финансовый рост и глобальное присутствие в сферах технологий и здравоохранения.",
+    "exp1desc": "Основал и руководил несколькими технологическими компаниями в США и Европе.",
     "exp1link": "Компании →",
     "exp2title": "Технологический архитектор",
     "exp2desc": "Разрабатывал защищённые коммуникации, системы предиктивной аналитики и платформы интеграции данных национального уровня для государственного, военного и телекоммуникационного секторов.",
@@ -192,7 +192,7 @@ window.__LANG_ru = {
     "featuredEyebrow": "Упоминания в СМИ",
     "caseStudiesEyebrow": "Результаты",
     "caseStudiesTitle": "Кейсы",
-    "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от старта до M&A и IPO.",
+    "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от ранней стадии до сделок M&A.",
     "caseStudiesLink": "Все кейсы →",
     "cs1title": "9 Net Avenue Inc.",
     "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -266,7 +266,7 @@ window.__LANG_ru = {
     "p3title": "Оставлять после себя более сильные институты",
     "p3text": "Лидерство должно приумножать возможности, развивая людей, повышая качество решений и создавая устойчивые системы.",
     "archiveEyebrow": "Из архива",
-    "archiveTitle": "Моменты пути",
+    "archiveTitle": "Из архива",
     "archiveLead": "Избранные фотографии из истории создания компаний, инфраструктуры и лидерства — от эпохи 9 Net Avenue до сегодняшнего дня.",
     "photo9netTitle": "9 Net Avenue",
     "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -280,6 +280,7 @@ window.__LANG_ru = {
     "secCurrentTitle": "Current Work",
     "secBackgroundTitle": "Background",
     "recordLink": "The Record →",
+    "secBackgroundP1": "Doctor of Technical Sciences и Ph.D. in Information Technology. Автор технических работ; патент digital satellite HDTV, приобретённый Sony.",
     "bioP1": "Michael Kofman — технологический executive, основатель и советник. CEO Digital Invest Inc. и основатель AGRON Inc.; опыт в спутниковой инженерии, интернет-инфраструктуре, публичных технологических компаниях и life sciences в США и Европе.",
     "bioP2": "Как предприниматель, член советов директоров и советник публичных и частных компаний, Michael Kofman основал несколько компаний в США и Европе. В 2026 году он основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network. Также создал Digital Invest — компанию в биоматематической сфере, трансформирующую медицину с помощью науки, ДНК-технологий, ИИ и ML.",
     "secBioTitle": "Прецизионная медицина и биотехнологии",
@@ -299,8 +300,7 @@ window.__LANG_ru = {
     "secAgronTitle": "Робототехника, БПЛА и морская разведка",
     "secAgronP1": "В 2026 году г-н Kofman основал AGRON Inc. для построения экосистемы AGRON — корпоративной архитектуры воздушной и наземной робототехники, управляемого выполнения миссий и сетевой инфраструктуры. Экосистема включает консалтинг, оценку, развитие компетенций и обучение для организаций БПЛА и Counter-UAS, а также морскую разведку и безопасность на agron1.com.",
     "secBusinessP1": "Основал и возглавлял технологические компании, включая 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc. и Elitan United Inc. Полная хронология — в The Record.",
-    "secCurrentP1": "CEO Digital Invest Inc. в биоматематической медицине и геномной аналитике. Основатель AGRON Inc. в автономных воздушно-наземных операциях и геопространственных системах.",
-    "secBackgroundP1": "Doctor of Technical Sciences и Ph.D. in Information Technology. Автор технических работ; патент в digital satellite HDTV, приобретённый Sony."
+    "secCurrentP1": "CEO Digital Invest Inc. в биоматематической медицине и геномной аналитике. Основатель AGRON Inc. в автономных воздушно-наземных операциях и геопространственных системах."
   },
   "ventures": {
     "eyebrow": "Портфель компаний",
@@ -318,6 +318,7 @@ window.__LANG_ru = {
     "v5lesson": "Урок: масштаб в инфраструктуре создаётся операционным совершенством задолго до exit.",
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
+    "v2highlight": "Harvard Medical School и Stanford Biomath — сотрудничество по генетическим отчётам",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "В 2026 году основал AGRON Inc. для развития экосистемы AGRON — Aerial-Ground Robotics Operations Network: консалтинг и оценка БПЛА и Counter-UAS, развитие компетенций, обучающая инфраструктура, валидация продуктов, геопространственные системы (ISDRI) и AGRON Maritime Intelligence + Security для яхт, марин и частной морской инфраструктуры.",
     "v0role": "Основатель",
@@ -326,7 +327,6 @@ window.__LANG_ru = {
     "v1p1": "Биоматематическая медицина, геномные данные и клиническая аналитика — ИИ, ML и ДНК-технологии в кlinических и исследовательских процессах.",
     "v1role": "Основатель и CEO · Член совета директоров",
     "v1year": "2021 — настоящее время",
-    "v2highlight": "Партнёр Harvard Medical School и Stanford Biomath",
     "v2p1": "ДНК-тестирование и анализ, автоматизация генетического профилирования и комплексные исследования человеческой генетики. Инициировал проекты генетического тестирования в Украине, России и странах Балтии.",
     "v2p2": "Сотрудничал с Harvard Medical School и Stanford Biomath над генетическими отчётами, внедрёнными ведущими лабораториями по всему миру.",
     "v2role": "CEO и CTO",
@@ -359,7 +359,7 @@ window.__LANG_ru = {
   "career": {
     "eyebrow": "Профессиональный record",
     "title": "The Record",
-    "lead": "Документированная деятельность в инженерии, инфраструктуре, публичных рынках, life sciences и автономных системах.",
+    "lead": "Технологии, компании и операционный опыт в последовательные периоды технологических изменений.",
     "timelineEyebrow": "Хронология",
     "timelineTitle": "Ключевые этапы",
     "strengthsEyebrow": "Сильные стороны",
@@ -381,23 +381,15 @@ window.__LANG_ru = {
     "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
     "period5title": "Government & Defense Programs",
     "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+    "t1desc": "Digital Invest Inc. основана в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы. Healthcare Tech Outlook (2023).",
     "t0desc": "Основал AGRON Inc. для построения экосистемы AGRON — консалтинг, оценка, развитие компетенций, обучающая инфраструктура и поддержка продуктов для программ БПЛА и Counter-UAS, а также AGRON Maritime Intelligence + Security. Объединяет воздушную и наземную робототехнику, управляемое выполнение миссий и сетевую инфраструктуру, связывающую команды, активы и операционные данные.",
     "t0role": "Основатель",
     "t0title": "AGRON Inc.",
     "t0year": "2026 — настоящее время",
-    "s1desc": "Двойное управление CEO/CTO в публичных и частных компаниях — от стартапа до IPO и далее.",
-    "s1title": "Executive-лидерство",
-    "s2desc": "Полный цикл публичного размещения — юридическое структурирование, координация с SEC, roadshow для инвесторов и комплаенс.",
-    "s2title": "",
-    "s3desc": "Проектирование масштабируемых систем для корпоративной автоматизации, предиктивного мониторинга и централизованного управления данными.",
-    "s3title": "Архитектура платформ",
-    "s4desc": "Разработка и эксплуатация дата-центров для государственных, военных и высокозащищённых коммерческих платформ.",
-    "s4title": "Защищённая инфраструктура",
     "t10desc": "Разрабатывал и создавал спутниковые трансиверные системы для передачи секретной информации на военные корабли. Признан инженером-электронщиком высшего уровня на заводе с 93 000 сотрудников — начало выдающейся карьеры в технологиях и инновациях.",
     "t10role": "Инженер-электронщик — 6-я категория (высшая)",
     "t10title": "Николаевский судостроительный завод",
     "t10year": "1984 — 1989",
-    "t1desc": "Основал и масштабировал компанию с момента создания ",
     "t1role": "Основатель и CEO",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — настоящее время",
@@ -574,7 +566,8 @@ window.__LANG_ru = {
     "newsletterLead": "Периодические эссе и краткие наблюдения о технологиях, управлении и создании устойчивых компаний.",
     "newsletterCta": "Подписаться на обновления",
     "lead": "Substantive writing and executive briefs.",
-    "relatedLead": "Recognition, press coverage, and patents are documented separately."
+    "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+    "topicsLead": "Темы основаны на задокументированном операционном опыте в технологиях, здравоохранении и инфраструктуре."
   },
   "cta": {
     "eyebrow": "Сотрудничество",
@@ -643,9 +636,9 @@ window.__LANG_ru = {
     "cs2challenge": "Задача",
     "cs2challengeText": "Трансформировать устаревшие подходы в медицине с помощью науки, ДНК-технологий, ИИ и ML.",
     "cs2action": "Подход",
-    "cs2actionText": "Основана и масштабирована Digital Invest Inc. ",
+    "cs2actionText": "Основана Digital Invest Inc. в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы данных.",
     "cs2result": "Результат",
-    "cs2resultText": "Топ-10 precision medicine в США (2023). Проекты Human Digital Model и BioMath Life.",
+    "cs2resultText": "Healthcare Tech Outlook (2023). Проекты: Human Digital Model и BioMath Life.",
     "cs3eyebrow": "Робототехника и БПЛА · 2026 — настоящее время",
     "cs3title": "AGRON Inc.",
     "cs3challenge": "Задача",
@@ -653,7 +646,8 @@ window.__LANG_ru = {
     "cs3action": "Подход",
     "cs3actionText": "AGRON Ecosystem объединяет Global Drone Academy, AGRON, ISDRI и GUARD.",
     "cs3result": "Результат",
-    "cs3resultText": "Программы в 10+ странах, более 10 000 операторов и специалистов БПЛА."
+    "cs3resultText": "Программы в 10+ странах, более 10 000 операторов и специалистов БПЛА.",
+    "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от ранней стадии до сделок M&A."
   },
   "mediaKit": {
     "eyebrow": "Пресса и мероприятия",
@@ -696,13 +690,13 @@ window.__LANG_ru = {
     "article2title": "Precision medicine и конвергенция науки и технологий",
     "article2p1": "Biotechnology Group Inc. (2008–2014): ДНК-тестирование, автоматизация генетических профилей, исследования человеческой генетики.",
     "article2p2": "Проекты в Украине, России и Балтии. Сотрудничество с Harvard Medical School и Stanford Biomath над генетическими отчётами.",
-    "article2p3": "Digital Invest Inc. (2021): биоматематическая медицина, геномная аналитика и клинические данные. Healthcare Tech Outlook (2023).",
+    "article2p3": "С Digital Invest Inc., основанной в 2021, работаем в биоматематической медицине — наука, ДНК-технологии, ИИ и ML в клинической аналитике. Healthcare Tech Outlook (2023).",
     "article2p4": "Digital Invest развивает биоматематическую медицину через проекты Human Digital Model и BioMath Life. В 2026 году Michael Kofman основал AGRON Inc. для развития Aerial-Ground Robotics Operations Network — БПЛА, геопространственные системы и морская разведка на agron1.com."
   },
   "board": {
     "eyebrow": "Советы директоров и стратегическое консультирование",
-    "title": "Независимое суждение для решений высокой значимости",
-    "lead": "Я работаю с советами директоров, основателями и руководящими командами, которые управляют технологическими рисками, рыночными переходами, распределением капитала и ответственным ростом.",
+    "title": "Board & Advisory",
+    "lead": "Board & Advisory",
     "rolesEyebrow": "Форматы сотрудничества",
     "rolesTitle": "Партнёрство на уровне совета директоров",
     "role1title": "Независимый директор",

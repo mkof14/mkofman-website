@@ -79,7 +79,7 @@ window.__LANG_ar = {
     },
     "insights": {
       "title": "رؤى — Michael Kofman",
-      "description": "منشورات وتغطيات صحفية وبراءات اختراع وتقدير صناعي من Michael Kofman."
+      "description": "كتابات أصلية وbriefs تنفيذية من Michael Kofman."
     },
     "speaking": {
       "title": "المحاضرات — Michael Kofman",
@@ -161,7 +161,7 @@ window.__LANG_ar = {
     "expertiseTitle": "قيادة تنفيذية عبر الصناعات",
     "expertiseLead": "أربعة عقود في بناء الشركات والاستشارة والاستثمار في البنية التحتية والصحة والروبوتات.",
     "exp1title": "الرئيس التنفيذي والمؤسس",
-    "exp1desc": "أسس وطوّر عدة شركات من البداية حتى الاكتتاب العام، محققاً نمواً مالياً مستداماً وحضوراً عالمياً في قطاعي التكنولوجيا والرعاية الصحية.",
+    "exp1desc": "أسس وقاد عدة شركات تقنية في الولايات المتحدة وأوروبا.",
     "exp1link": "المشاريع ←",
     "exp2title": "مهندس تقني",
     "exp2desc": "صمم اتصالات آمنة ومحركات تحليلات تنبؤية ومنصات تكامل بيانات على المستوى الوطني للقطاعات الحكومية والعسكرية والاتصالات.",
@@ -192,7 +192,7 @@ window.__LANG_ar = {
     "featuredEyebrow": "ظهر في",
     "caseStudiesEyebrow": "نتائج مثبتة",
     "caseStudiesTitle": "دراسات الحالة",
-    "caseStudiesLead": "تأسيس الشركات وتوسيعها وقيادتها من البداية حتى الاستحواذ والطرح العام.",
+    "caseStudiesLead": "تأسيس وتوسيع وقيادة شركات من المراحل المبكرة حتى الاستحواذ.",
     "caseStudiesLink": "عرض جميع دراسات الحالة →",
     "cs1title": "9 Net Avenue Inc.",
     "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -266,7 +266,7 @@ window.__LANG_ar = {
     "p3title": "Leave Stronger Institutions",
     "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
     "archiveEyebrow": "From the Archive",
-    "archiveTitle": "Selected Photographs",
+    "archiveTitle": "من الأرشيف",
     "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
     "photo9netTitle": "9 Net Avenue",
     "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -280,6 +280,7 @@ window.__LANG_ar = {
     "secCurrentTitle": "Current Work",
     "secBackgroundTitle": "Background",
     "recordLink": "The Record →",
+    "secBackgroundP1": "Doctor of Technical Sciences و Ph.D. in Information Technology. مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony.",
     "bioP1": "Michael Kofman تنفيذي تقني ومؤسس ومستشار. CEO لـ Digital Invest Inc. ومؤسس AGRON Inc.، مع خبرة في هندسة الأقمار الصناعية وبنية الإنترنت والشركات التقنية العامة وعلوم الحياة.",
     "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
     "secBioTitle": "الطب الدقيق والتكنولوجيا الحيوية",
@@ -299,8 +300,7 @@ window.__LANG_ar = {
     "secAgronTitle": "Robotics, UAV & Maritime Intelligence",
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "أسس وقاد عدة شركات تقنية. السجل الكامل في The Record.",
-    "secCurrentP1": "CEO لـ Digital Invest Inc. في الطب الرياضي الحيوي والذكاء الجينومي. مؤسس AGRON Inc. في العمليات المستقلة جواً-أرضاً.",
-    "secBackgroundP1": "Doctor of Technical Sciences و Ph.D. in Information Technology. مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony."
+    "secCurrentP1": "CEO لـ Digital Invest Inc. في الطب الرياضي الحيوي والذكاء الجينومي. مؤسس AGRON Inc. في العمليات المستقلة جواً-أرضاً."
   },
   "ventures": {
     "eyebrow": "محفظة المشاريع",
@@ -318,6 +318,7 @@ window.__LANG_ar = {
     "v5lesson": "الدرس: نمو البنية التحتية يُبنى بالتميز التشغيلي قبل الخروج بكثير.",
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
+    "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -326,7 +327,6 @@ window.__LANG_ar = {
     "v1p1": "طب biomathematical وبيانات genomics وذكاء clínico — AI وML وتقنيات DNA في سير العمل clínico والبحثي.",
     "v1role": "المؤسس والرئيس التنفيذي · عضو مجلس الإدارة",
     "v1year": "2021 — حتى الآن",
-    "v2highlight": "شريك Harvard Medical School وStanford Biomath",
     "v2p1": "فحص وتحليل الحمض النووي، وأتمتة الملفات الجينية، والبحث الجيني البشري الشامل. أطلق مشاريع فحص جيني في أوكرانيا وروسيا ودول Baltic.",
     "v2p2": "تعاون مع Harvard Medical School وStanford Biomath في تقارير جينية اعتمدتها المختبرات الرائدة حول العالم.",
     "v2role": "الرئيس التنفيذي والمدير التقني",
@@ -359,7 +359,7 @@ window.__LANG_ar = {
   "career": {
     "eyebrow": "المسيرة المهنية",
     "title": "The Record",
-    "lead": "نشاط موثق في الهندسة والبنية التحتية والأسواق العامة وعلوم الحياة والأنظمة المستقلة.",
+    "lead": "التكنولوجيا والشركات والخبرة التشغيلية عبر فترات متتالية من التغير التكنولوجي.",
     "timelineEyebrow": "الجدول الزمني",
     "timelineTitle": "محطات رئيسية",
     "strengthsEyebrow": "نقاط القوة",
@@ -381,23 +381,15 @@ window.__LANG_ar = {
     "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
     "period5title": "Government & Defense Programs",
     "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+    "t1desc": "Digital Invest Inc.، تأسست 2021. طب biomathematical وبيانات genomics ومنصات clínico. Healthcare Tech Outlook (2023).",
     "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
     "t0role": "Founder",
     "t0title": "AGRON Inc.",
     "t0year": "2026 — Present",
-    "s1desc": "إدارة مزدوجة كرئيس تنفيذي/مدير تقني في شركات عامة وخاصة، من الشركات الناشئة إلى الطرح العام وما بعده.",
-    "s1title": "القيادة التنفيذية",
-    "s2desc": "تنفيذ كامل للطرح العام — الهيكلة القانونية، التنسيق مع SEC، جولات المستثمرين، والامتثال.",
-    "s2title": "الطرح العام والتوسع المالي",
-    "s3desc": "تصميم أنظمة قابلة للتوسع للأتمتة المؤسسية والمراقبة التنبؤية والتحكم المركزي في البيانات.",
-    "s3title": "هندسة المنصات",
-    "s4desc": "تطوير وتشغيل مراكز البيانات للمنصات الحكومية والعسكرية والتجارية عالية الأمان.",
-    "s4title": "البنية التحتية الآمنة",
     "t10desc": "طوّر وأنشأ أنظمة أقمار صناعية للإرسال والاستقبال لنقل المعلومات المصنفة إلى السفن العسكرية. اُعترف به كمهندس إلكترونيات من أعلى المستويات في مصنع يضم 93,000 موظف — بداية مسيرة متميزة في التكنولوجيا والابتكار.",
     "t10role": "مهندس إلكترونيات — الفئة السادسة (الأعلى)",
     "t10title": "Nikolaev Shipbuilding Plant",
     "t10year": "1984 — 1989",
-    "t1desc": "أسس الشركة ووسّع نطاقها من البداية حتى طرح عام ناجح. قاد عملية الطرح العام الكاملة — الهيكلة القانونية، الامتثال المالي، جولات المستثمرين، والتنسيق مع SEC. وجّه تصميم وبناء وتشغيل مراكز بيانات متعددة في الولايات المتحدة وأوروبا. بنى أنظمة برمجيات مؤسسية للأتمتة والمراقبة التنبؤية والتحكم المركزي في البيانات. حقق نمواً مالياً مستمراً، مما وضع الشركة بين أفضل 10 شركات في الطب الدقيق في الولايات المتحدة (2023).",
     "t1role": "المؤسس والرئيس التنفيذي",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — حتى الآن",
@@ -574,7 +566,8 @@ window.__LANG_ar = {
     "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
     "newsletterCta": "Subscribe for Updates",
     "lead": "Substantive writing and executive briefs.",
-    "relatedLead": "Recognition, press coverage, and patents are documented separately."
+    "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+    "topicsLead": "تعتمد الموضوعات على خبرة تشغيلية موثقة في التكنولوجيا والصحة والبنية التحتية."
   },
   "cta": {
     "eyebrow": "لنعمل معًا",
@@ -643,9 +636,9 @@ window.__LANG_ar = {
     "cs2challenge": "التحدي",
     "cs2challengeText": "تحويل الأساليب الطبية القديمة عبر العلوم وتقنيات الحمض النووي وAI وML من خلال منصة بيولوجية رياضية جديدة.",
     "cs2action": "النهج",
-    "cs2actionText": "أسس Michael Kofman شركة Digital Invest Inc. وقاد توسعها من البداية حتى طرح عام أولي ناجح. كما قاد كامل عملية الطرح: الهيكلة القانونية، والامتثال المالي، وجولات المستثمرين، والتنسيق مع SEC. وأشرف على تصميم وبناء وتشغيل عدة مراكز بيانات في الولايات المتحدة وأوروبا.",
+    "cs2actionText": "تأسست Digital Invest Inc. عام 2021. الطب biomathematical والذكاء genomics ومنصات البيانات clínico.",
     "cs2result": "النتيجة",
-    "cs2resultText": "تحقق نمو مالي متسق، ما وضع الشركة ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة (2023)، مع مشاريع مثل Human Digital Model وBioMath Life.",
+    "cs2resultText": "Healthcare Tech Outlook (2023). مشاريع: Human Digital Model و BioMath Life.",
     "cs3eyebrow": "Robotics & UAV · 2026 — Present",
     "cs3title": "AGRON Inc.",
     "cs3challenge": "Challenge",
@@ -653,7 +646,8 @@ window.__LANG_ar = {
     "cs3action": "Approach",
     "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "cs3result": "Outcome",
-    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+    "caseStudiesLead": "تأسيس وتوسيع وقيادة شركات من المراحل المبكرة حتى الاستحواذ."
   },
   "mediaKit": {
     "eyebrow": "الصحافة والفعاليات",
@@ -696,7 +690,7 @@ window.__LANG_ar = {
     "article2title": "الطب الدقيق وتقاطع العلم مع التكنولوجيا",
     "article2p1": "أنا مؤمن بقوة بإمكانات الجمع بين علوم الحياة وأحدث التطورات التقنية. في Biotechnology Group Inc. (2008-2014)، ركزنا على اختبارات وتحليل الحمض النووي، وأتمتة عمليات إعداد الملفات الجينية، والبحث الجيني البشري الشامل.",
     "article2p2": "تحت قيادتي، انطلقت مشاريع ناجحة للاختبارات الجينية في أوكرانيا وروسيا ودول البلطيق. وبالتعاون مع Harvard Medical School وStanford Biomath، لعبت دورًا محوريًا في تطوير تقارير جينية واضحة وسهلة الفهم للأطباء والمرضى.",
-    "article2p3": "مع Digital Invest Inc. التي تأسست عام 2021، نعمل في المجال البيولوجي الرياضي لتحويل الأساليب القديمة في الطب عبر العلوم وتقنيات الحمض النووي وAI وML. وقد توسعت الشركة من بدايتها حتى طرح عام أولي ناجح، وتم تصنيفها ضمن أفضل 10 شركات أمريكية في الطب الدقيق والصحة الرقمية عام 2023.",
+    "article2p3": "مع Digital Invest Inc.، تأسست 2021، نعمل في الطب biomathematical — علم وتقنيات DNA وAI وML في الذكاء clínico. Healthcare Tech Outlook (2023).",
     "article2p4": "تطوّر Digital Invest الطب البيو-رياضي عبر مشاريع مثل Human Digital Model وBioMath Life. في 2026 أسس Michael Kofman شركة AGRON Inc. لقيادة Aerial-Ground Robotics Operations Network — قدرات الطائرات بدون طيار والأنظمة الجغرافية المكانية والاستخبارات البحرية على agron1.com."
   },
   "privacy": {
@@ -717,8 +711,8 @@ window.__LANG_ar = {
   },
   "board": {
     "eyebrow": "Board & Strategic Advisory",
-    "title": "Independent Judgment for Consequential Decisions",
-    "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+    "title": "Board & Advisory",
+    "lead": "Board & Advisory",
     "rolesEyebrow": "Ways to Engage",
     "rolesTitle": "Board-Level Partnership",
     "role1title": "Independent Director",

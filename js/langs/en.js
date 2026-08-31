@@ -79,7 +79,7 @@ window.__LANG_en = {
     },
     "insights": {
       "title": "Insights — Michael Kofman",
-      "description": "Publications, press features, patents, and industry recognition from Michael Kofman."
+      "description": "Original writing and executive briefs from Michael Kofman."
     },
     "speaking": {
       "title": "Speaking — Michael Kofman",
@@ -181,7 +181,9 @@ window.__LANG_en = {
     "perspectivesEyebrow": "Perspectives",
     "perspectivesTitle": "Selected Writing",
     "perspectivesLink": "All insights →",
-    "footerHomeDesc": "Technology executive, founder, and board advisor."
+    "footerHomeDesc": "Technology executive, founder, and board advisor.",
+    "exp1desc": "Founded and led multiple technology companies in the United States and Europe.",
+    "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
   },
   "about": {
     "eyebrow": "About Michael Kofman",
@@ -206,7 +208,7 @@ window.__LANG_en = {
     "secBackgroundTitle": "Background",
     "recordLink": "The Record →",
     "archiveEyebrow": "From the Archive",
-    "archiveTitle": "Selected Photographs",
+    "archiveTitle": "From the Archive",
     "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
     "photo9netTitle": "9 Net Avenue",
     "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -214,11 +216,11 @@ window.__LANG_en = {
     "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
     "photoTodayTitle": "Today",
     "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+    "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
     "bioP1": "Michael Kofman is a technology executive, founder, and board advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
     "secTechP1": "Engineering background includes satellite transceiver systems at the Nikolaev Shipbuilding Plant and digital communications work at Astra Corp, one of Europe's manufacturers of digital transceiver satellite systems.",
     "secBusinessP1": "Founded and led multiple technology companies including 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc., and Elitan United Inc. Full chronology is documented in The Record.",
     "secCurrentP1": "CEO of Digital Invest Inc., focused on bio-mathematical medicine and genomic intelligence. Founder of AGRON Inc., building autonomous aerial-ground operations, UAV capability development, and geospatial systems.",
-    "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
     "secResearchTitle": "Research & Patents",
     "secResearchP1": "Technical papers on satellite and optical data transmission systems. Patent in digital satellite high-definition television (HDTV), subsequently acquired by Sony."
   },
@@ -235,6 +237,7 @@ window.__LANG_en = {
     "v2lesson": "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.",
     "v3lesson": "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.",
     "v5lesson": "Lesson: infrastructure scale is earned through operational excellence long before the exit.",
+    "v2highlight": "Harvard Medical School & Stanford Biomath — genetic reporting collaboration",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -243,7 +246,6 @@ window.__LANG_en = {
     "v1p1": "Bio-mathematical medicine, genomic data, and clinical intelligence — AI, machine learning, and DNA technologies applied to clinical and research workflows.",
     "v1role": "Founder & CEO · Board Member",
     "v1year": "2021 — Present",
-    "v2highlight": "Harvard Medical School & Stanford Biomath Partner",
     "v2p1": "DNA testing and analysis, automation of genetic profiling, and comprehensive human genetic research. Initiated genetic testing projects in Ukraine, Russia, and the Baltic countries.",
     "v2p2": "Collaborated with Harvard Medical School and Stanford Biomath on genetic reporting formats used in laboratory workflows.",
     "v2role": "CEO & CTO",
@@ -289,23 +291,15 @@ window.__LANG_en = {
     "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
     "period5title": "Government & Defense Programs",
     "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+    "t1desc": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms. Featured in Healthcare Tech Outlook (2023).",
     "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
     "t0role": "Founder",
     "t0title": "AGRON Inc.",
     "t0year": "2026 — Present",
-    "s1desc": "CEO/CTO leadership across public and private companies, from early stage through scale.",
-    "s1title": "Executive Leadership",
-    "s2desc": "Full public offering execution — legal structuring, SEC coordination, investor roadshows, and compliance.",
-    "s2title": "",
-    "s3desc": "Scalable systems design for enterprise automation, predictive monitoring, and centralized data control.",
-    "s3title": "Platform Architecture",
-    "s4desc": "Data center development and operations for government, military, and high-security commercial platforms.",
-    "s4title": "Secure Infrastructure",
     "t10desc": "Developed satellite transceiver systems for military communications. Electronics engineer, 6th category — highest level at the Nikolaev Shipbuilding Plant (93,000 employees).",
     "t10role": "Electronics Engineer — 6th Category (Highest)",
     "t10title": "Nikolaev Shipbuilding Plant",
     "t10year": "1984 — 1989",
-    "t1desc": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms. Featured in Healthcare Tech Outlook (2023).",
     "t1role": "Founder & CEO",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — Present",
@@ -480,7 +474,8 @@ window.__LANG_en = {
     "newsletterEyebrow": "Occasional Notes",
     "newsletterTitle": "Executive Perspective, Without the Noise",
     "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
-    "newsletterCta": "Subscribe for Updates"
+    "newsletterCta": "Subscribe for Updates",
+    "topicsLead": "Topics draw on documented operating experience across technology, health, and infrastructure."
   },
   "cta": {
     "eyebrow": "Work Together",
@@ -559,7 +554,8 @@ window.__LANG_en = {
     "cs3action": "Approach",
     "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "cs3result": "Outcome",
-    "cs3resultText": "A connected professional services ecosystem spanning consulting, capability development, training infrastructure, geospatial systems, and maritime intelligence through AGRON, ISDRI, and related companies."
+    "cs3resultText": "A connected professional services ecosystem spanning consulting, capability development, training infrastructure, geospatial systems, and maritime intelligence through AGRON, ISDRI, and related companies.",
+    "caseStudiesLead": "Founding, scaling, and leading companies from early stage through acquisition."
   },
   "mediaKit": {
     "eyebrow": "Press & Events",

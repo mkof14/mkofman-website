@@ -1,6 +1,8 @@
 {
   "es": {
-    "footer": { "desc": "Ejecutivo tecnológico, fundador y asesor de consejos." },
+    "footer": {
+      "desc": "Ejecutivo tecnológico, fundador y asesor de consejos."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — Ejecutivo tecnológico",
@@ -58,12 +60,15 @@
     "about": {
       "lead": "Ejecutivo tecnológico, fundador y asesor de consejos.",
       "recordLink": "The Record →",
-      "photo9netCaption": "Fundador y CEO — empresa de hosting e infraestructura de internet, adquirida por Concentric Networks en 2000."
+      "photo9netCaption": "Fundador y CEO — empresa de hosting e infraestructura de internet, adquirida por Concentric Networks en 2000.",
+      "secBackgroundP1": "Doctor en Ciencias Técnicas y Ph.D. en Tecnologías de la Información. Autor de trabajos técnicos; patente HDTV satelital adquirida por Sony.",
+      "archiveTitle": "Del archivo"
     },
     "career": {
       "eyebrow": "Registro profesional",
       "title": "The Record",
-      "lead": "Actividad documentada en ingeniería, infraestructura, mercados públicos, ciencias de la vida y sistemas autónomos."
+      "lead": "Tecnología, empresas y experiencia operativa a través de periodos sucesivos de cambio tecnológico.",
+      "t1desc": "Fundó Digital Invest Inc. en 2021. Dirige medicina biomatemática, inteligencia genómica y plataformas de datos clínicos. Healthcare Tech Outlook (2023)."
     },
     "recognition": {
       "eyebrow": "Registro documentado",
@@ -73,10 +78,25 @@
     "deck": {
       "subtitle": "Ejecutivo tecnológico · Fundador · Asesor de consejos",
       "thesis": "Tecnología, negocios e inversión en infraestructura, ciencias de la vida y sistemas autónomos."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School y Stanford Biomath — colaboración en informes genéticos"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Fundé Digital Invest Inc. en 2021. Dirijo medicina biomatemática, inteligencia genómica y plataformas de datos clínicos."
+    },
+    "articles": {
+      "article2p3": "Con Digital Invest Inc., fundada en 2021, trabajamos en medicina biomatemática — ciencia, tecnologías de ADN, IA y ML aplicadas a inteligencia clínica. Healthcare Tech Outlook (2023)."
     }
   },
   "de": {
-    "footer": { "desc": "Technologie-Executive, Gründer und Board-Berater." },
+    "footer": {
+      "desc": "Technologie-Executive, Gründer und Board-Berater."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — Technologie-Executive",
@@ -125,12 +145,40 @@
       "perspectivesLink": "Alle Perspektiven →",
       "footerHomeDesc": "Technologie-Executive, Gründer und Board-Berater."
     },
-    "about": { "lead": "Technologie-Executive, Gründer und Board-Berater.", "recordLink": "The Record →" },
-    "career": { "eyebrow": "Beruflicher Werdegang", "title": "The Record", "lead": "Dokumentierte Tätigkeit in Ingenieurwesen, Infrastruktur, öffentlichen Märkten, Life Sciences und autonomen Systemen." },
-    "deck": { "subtitle": "Technologie-Executive · Gründer · Board-Berater", "thesis": "Technologie, Business und Investment in Infrastruktur, Life Sciences und autonomen Systemen." }
+    "about": {
+      "lead": "Technologie-Executive, Gründer und Board-Berater.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences und Ph.D. in Information Technology. Autor technischer Arbeiten; Patent digitales Satelliten-HDTV, übernommen von Sony.",
+      "archiveTitle": "Aus dem Archiv"
+    },
+    "career": {
+      "eyebrow": "Beruflicher Werdegang",
+      "title": "The Record",
+      "lead": "Technologie, Unternehmen und operative Erfahrung über aufeinanderfolgende Technologieperioden.",
+      "t1desc": "Digital Invest Inc. 2021 gegründet. Biomathematische Medizin, Genom-Intelligenz und klinische Datenplattformen. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "Technologie-Executive · Gründer · Board-Berater",
+      "thesis": "Technologie, Business und Investment in Infrastruktur, Life Sciences und autonomen Systemen."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School & Stanford Biomath — Zusammenarbeit zu genetischen Berichten"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Digital Invest Inc. 2021 gegründet. Schwerpunkt: biomathematische Medizin, Genom-Intelligenz und klinische Datenplattformen."
+    },
+    "articles": {
+      "article2p3": "Mit Digital Invest Inc., gegründet 2021, arbeiten wir in biomathematischer Medizin — Wissenschaft, DNA-Technologien, KI und ML in klinischer Intelligenz. Healthcare Tech Outlook (2023)."
+    }
   },
   "fr": {
-    "footer": { "desc": "Dirigeant technologique, fondateur et conseiller de conseils d'administration." },
+    "footer": {
+      "desc": "Dirigeant technologique, fondateur et conseiller de conseils d'administration."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — Dirigeant technologique",
@@ -175,12 +223,39 @@
       "recLink": "Distinctions et presse →",
       "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller."
     },
-    "about": { "lead": "Dirigeant technologique, fondateur et conseiller.", "recordLink": "The Record →" },
-    "career": { "title": "The Record", "lead": "Activité documentée en ingénierie, infrastructure, marchés publics, sciences de la vie et systèmes autonomes." },
-    "deck": { "subtitle": "Dirigeant technologique · Fondateur · Conseiller", "thesis": "Technologie, business et investissement dans l'infrastructure, les sciences de la vie et les systèmes autonomes." }
+    "about": {
+      "lead": "Dirigeant technologique, fondateur et conseiller.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences et Ph.D. in Information Technology. Auteur de travaux techniques; brevet HDTV satellitaire acquis par Sony.",
+      "archiveTitle": "De l'archive"
+    },
+    "career": {
+      "title": "The Record",
+      "lead": "Technologie, entreprises et expérience opérationnelle à travers des périodes de changement technologique.",
+      "t1desc": "Digital Invest Inc., fondée en 2021. Médecine biomathématique, intelligence génomique et plateformes de données cliniques. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "Dirigeant technologique · Fondateur · Conseiller",
+      "thesis": "Technologie, business et investissement dans l'infrastructure, les sciences de la vie et les systèmes autonomes."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School et Stanford Biomath — collaboration sur les rapports génétiques"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Digital Invest Inc. fondée en 2021. Médecine biomathématique, intelligence génomique et plateformes de données cliniques."
+    },
+    "articles": {
+      "article2p3": "Avec Digital Invest Inc., fondée en 2021, nous travaillons en médecine biomathématique — science, technologies ADN, IA et ML appliquées à l'intelligence clinique. Healthcare Tech Outlook (2023)."
+    }
   },
   "ru": {
-    "footer": { "desc": "Технологический executive, основатель и советник советов директоров." },
+    "footer": {
+      "desc": "Технологический executive, основатель и советник советов директоров."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — Технологический executive",
@@ -225,12 +300,40 @@
       "recLink": "Признание и пресса →",
       "footerHomeDesc": "Технологический executive, основатель и советник."
     },
-    "about": { "lead": "Технологический executive, основатель и советник.", "recordLink": "The Record →" },
-    "career": { "eyebrow": "Профессиональный record", "title": "The Record", "lead": "Документированная деятельность в инженерии, инфраструктуре, публичных рынках, life sciences и автономных системах." },
-    "deck": { "subtitle": "Технологический executive · Основатель · Советник", "thesis": "Технологии, бизнес и инвестиции в инфраструктуру, life sciences и автономные системы." }
+    "about": {
+      "lead": "Технологический executive, основатель и советник.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Доктор технических наук и Ph.D. в IT. Автор технических работ; патент digital satellite HDTV, приобретённый Sony.",
+      "archiveTitle": "Из архива"
+    },
+    "career": {
+      "eyebrow": "Профессиональный record",
+      "title": "The Record",
+      "lead": "Технологии, компании и операционный опыт в последовательные периоды технологических изменений.",
+      "t1desc": "Digital Invest Inc. основана в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "Технологический executive · Основатель · Советник",
+      "thesis": "Технологии, бизнес и инвестиции в инфраструктуру, life sciences и автономные системы."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School и Stanford Biomath — сотрудничество по генетическим отчётам"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Основана Digital Invest Inc. в 2021. Биоматематическая медицина, геномная аналитика и клинические платформы данных."
+    },
+    "articles": {
+      "article2p3": "С Digital Invest Inc., основанной в 2021, работаем в биоматематической медицине — наука, ДНК-технологии, ИИ и ML в клинической аналитике. Healthcare Tech Outlook (2023)."
+    }
   },
   "uk": {
-    "footer": { "desc": "Технологічний executive, засновник і радник рад директорів." },
+    "footer": {
+      "desc": "Технологічний executive, засновник і радник рад директорів."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — Технологічний executive",
@@ -265,12 +368,39 @@
       "recLink": "Визнання та преса →",
       "footerHomeDesc": "Технологічний executive, засновник і радник."
     },
-    "about": { "lead": "Технологічний executive, засновник і радник.", "recordLink": "The Record →" },
-    "career": { "title": "The Record", "lead": "Задокументована діяльність в інженерії, інфраструктурі, публічних ринках, life sciences та автономних системах." },
-    "deck": { "subtitle": "Технологічний executive · Засновник · Радник", "thesis": "Технології, бізнес і інвестиції в інфраструктуру, life sciences та автономні системи." }
+    "about": {
+      "lead": "Технологічний executive, засновник і радник.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Доктор технічних наук і Ph.D. в IT. Автор технічних робіт; патент digital satellite HDTV, придбаний Sony.",
+      "archiveTitle": "З архіву"
+    },
+    "career": {
+      "title": "The Record",
+      "lead": "Технології, компанії та операційний досвід у послідовні періоди технологічних змін.",
+      "t1desc": "Digital Invest Inc. заснована у 2021. Біоматематична медицина, геномна аналітика та клінічні платформи. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "Технологічний executive · Засновник · Радник",
+      "thesis": "Технології, бізнес і інвестиції в інфраструктуру, life sciences та автономні системи."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School і Stanford Biomath — співпраця з генетичними звітами"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Засновано Digital Invest Inc. у 2021. Біоматематична медицина, геномна аналітика та клінічні платформи даних."
+    },
+    "articles": {
+      "article2p3": "З Digital Invest Inc., заснованою у 2021, працюємо в біоматематичній медицині — наука, ДНК-технології, ШІ та ML у кlinічній аналітиці. Healthcare Tech Outlook (2023)."
+    }
   },
   "zh": {
-    "footer": { "desc": "技术高管、创始人和董事会顾问。" },
+    "footer": {
+      "desc": "技术高管、创始人和董事会顾问。"
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — 技术高管",
@@ -305,12 +435,39 @@
       "recLink": "荣誉与媒体 →",
       "footerHomeDesc": "技术高管、创始人和董事会顾问。"
     },
-    "about": { "lead": "技术高管、创始人和董事会顾问。", "recordLink": "The Record →" },
-    "career": { "title": "The Record", "lead": "涵盖工程、基础设施、公开市场、生命科学和自主系统的 documented 工作记录。" },
-    "deck": { "subtitle": "技术高管 · 创始人 · 董事会顾问", "thesis": "技术、商业与投资 — 基础设施、生命科学和自主系统。" }
+    "about": {
+      "lead": "技术高管、创始人和董事会顾问。",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "技术科学博士和信息技术博士。技术论文作者；数字卫星 HDTV 专利被 Sony 收购。",
+      "archiveTitle": "来自档案"
+    },
+    "career": {
+      "title": "The Record",
+      "lead": "技术、公司与 successive 技术变革时期的运营经验。",
+      "t1desc": "Digital Invest Inc. 创立于 2021 年，专注生物数学医学、基因组智能和临床数据平台。Healthcare Tech Outlook（2023）。"
+    },
+    "deck": {
+      "subtitle": "技术高管 · 创始人 · 董事会顾问",
+      "thesis": "技术、商业与投资 — 基础设施、生命科学和自主系统。"
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School 与 Stanford Biomath — 遗传报告合作"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "2021 年创立 Digital Invest Inc.，领导生物数学医学、基因组智能和临床数据平台。"
+    },
+    "articles": {
+      "article2p3": "Digital Invest Inc. 创立于 2021 年，从事生物数学医学 — 将科学、DNA 技术、AI 和 ML 应用于临床智能。Healthcare Tech Outlook（2023）。"
+    }
   },
   "ar": {
-    "footer": { "desc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة." },
+    "footer": {
+      "desc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — تنفيذي تقني",
@@ -339,12 +496,39 @@
       "recLink": "التكريم والصحافة →",
       "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة."
     },
-    "about": { "lead": "تنفيذي تقني ومؤسس ومستشار.", "recordLink": "The Record →" },
-    "career": { "title": "The Record", "lead": "نشاط موثق في الهندسة والبنية التحتية والأسواق العامة وعلوم الحياة والأنظمة المستقلة." },
-    "deck": { "subtitle": "تنفيذي تقني · مؤسس · مستشار", "thesis": "التكنولوجيا والأعمال والاستثمار في البنية التحتية وعلوم الحياة والأنظمة المستقلة." }
+    "about": {
+      "lead": "تنفيذي تقني ومؤسس ومستشار.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences و Ph.D. in Information Technology. مؤلف أوراق تقنية؛ براءة HDTV فضائية acquired by Sony.",
+      "archiveTitle": "من الأرشيف"
+    },
+    "career": {
+      "title": "The Record",
+      "lead": "التكنولوجيا والشركات والخبرة التشغيلية عبر فترات متتالية من التغير التكنولوجي.",
+      "t1desc": "Digital Invest Inc.، تأسست 2021. طب biomathematical وبيانات genomics ومنصات clínico. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "تنفيذي تقني · مؤسس · مستشار",
+      "thesis": "التكنولوجيا والأعمال والاستثمار في البنية التحتية وعلوم الحياة والأنظمة المستقلة."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "تأسست Digital Invest Inc. عام 2021. الطب biomathematical والذكاء genomics ومنصات البيانات clínico."
+    },
+    "articles": {
+      "article2p3": "مع Digital Invest Inc.، تأسست 2021، نعمل في الطب biomathematical — علم وتقنيات DNA وAI وML في الذكاء clínico. Healthcare Tech Outlook (2023)."
+    }
   },
   "he": {
-    "footer": { "desc": "מנהיג טכנולוגי, מייסד ויועץ דירקטוריון." },
+    "footer": {
+      "desc": "מנהיג טכנולוגי, מייסד ויועץ דירקטוריון."
+    },
     "meta": {
       "home": {
         "title": "Michael Kofman — מנהיג טכנולוגי",
@@ -373,8 +557,56 @@
       "recLink": "הכרה ועיתונות →",
       "footerHomeDesc": "מנהיג טכנולוגי, מייסד ויועץ."
     },
-    "about": { "lead": "מנהיג טכנולוגי, מייסד ויועץ.", "recordLink": "The Record →" },
-    "career": { "title": "The Record", "lead": "פעילות מתועדת בהנדסה, תשתיות, שווקים ציבוריים, מדעי החיים ומערכות אוטונומיות." },
-    "deck": { "subtitle": "מנהיג טכנולוגי · מייסד · יועץ", "thesis": "טכנולוגיה, עסקים והשקעות בתשתיות, מדעי החיים ומערכות אוטונומיות." }
+    "about": {
+      "lead": "מנהיג טכנולוגי, מייסד ויועץ.",
+      "recordLink": "The Record →",
+      "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony.",
+      "archiveTitle": "מהארכיון"
+    },
+    "career": {
+      "title": "The Record",
+      "lead": "טכנולוגיה, חברות וניסיון תפעולי לאורך תקופות של שינוי טכנולוגי.",
+      "t1desc": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים קlinיים. Healthcare Tech Outlook (2023)."
+    },
+    "deck": {
+      "subtitle": "מנהיג טכנולוגי · מייסד · יועץ",
+      "thesis": "טכנולוגיה, עסקים והשקעות בתשתיות, מדעי החיים ומערכות אוטונומיות."
+    },
+    "ventures": {
+      "v2highlight": "Harvard Medical School ו-Stanford Biomath — שיתוף פעולה בדיווח genético"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Board & Advisory"
+    },
+    "caseStudies": {
+      "cs2actionText": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים clínico."
+    },
+    "articles": {
+      "article2p3": "עם Digital Invest Inc., שהוקמה ב-2021, עובדים ברפואה ביו-מתמטית — מדע, טכנולוגיות DNA, AI ו-ML באינטליגנציה clínico. Healthcare Tech Outlook (2023)."
+    }
+  },
+  "en": {
+    "ventures": {
+      "v2highlight": "Harvard Medical School & Stanford Biomath — genetic reporting collaboration"
+    },
+    "career": {
+      "t1desc": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms. Featured in Healthcare Tech Outlook (2023).",
+      "lead": "Technology, companies, and operating experience across successive periods of technological change."
+    },
+    "about": {
+      "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV subsequently acquired by Sony.",
+      "archiveTitle": "From the Archive"
+    },
+    "board": {
+      "title": "Board & Advisory",
+      "lead": "Selected board and strategic advisory engagements."
+    },
+    "caseStudies": {
+      "cs2actionText": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms."
+    },
+    "articles": {
+      "article2p3": "With Digital Invest Inc., founded in 2021, we work in bio-mathematical medicine — applying science, DNA technologies, AI, and ML to clinical intelligence. Healthcare Tech Outlook featured the company in 2023."
+    }
   }
 }

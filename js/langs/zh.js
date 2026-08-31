@@ -79,7 +79,7 @@ window.__LANG_zh = {
     },
     "insights": {
       "title": "洞见 — Michael Kofman",
-      "description": "Michael Kofman的出版物、媒体报道、专利和行业认可。"
+      "description": "Michael Kofman 的原创文章与 executive briefs。"
     },
     "speaking": {
       "title": "演讲邀约 — Michael Kofman",
@@ -161,7 +161,7 @@ window.__LANG_zh = {
     "expertiseTitle": "跨行业高管领导力",
     "expertiseLead": "四十年在基础设施、医疗和机器人领域的创业、咨询与投资。",
     "exp1title": "CEO与创始人",
-    "exp1desc": "从创立到成功上市，创办并扩展了多家公司，在科技与医疗领域实现了持续财务增长和全球布局。",
+    "exp1desc": "在美国和欧洲创办并领导多家科技公司。",
     "exp1link": "查看企业 →",
     "exp2title": "技术架构师",
     "exp2desc": "为政府、军事和电信领域设计安全通信、预测分析引擎和国家级数据集成平台。",
@@ -192,7 +192,7 @@ window.__LANG_zh = {
     "featuredEyebrow": "媒体报道",
     "caseStudiesEyebrow": "可验证成果",
     "caseStudiesTitle": "案例研究",
-    "caseStudiesLead": "从创立到并购和 IPO，持续推动企业创建、扩张与领导。",
+    "caseStudiesLead": "从早期阶段到被收购，持续创办、扩张并领导企业。",
     "caseStudiesLink": "查看全部案例研究 →",
     "cs1title": "9 Net Avenue Inc.",
     "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -266,7 +266,7 @@ window.__LANG_zh = {
     "p3title": "Leave Stronger Institutions",
     "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
     "archiveEyebrow": "From the Archive",
-    "archiveTitle": "Selected Photographs",
+    "archiveTitle": "来自档案",
     "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
     "photo9netTitle": "9 Net Avenue",
     "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -280,6 +280,7 @@ window.__LANG_zh = {
     "secCurrentTitle": "Current Work",
     "secBackgroundTitle": "Background",
     "recordLink": "The Record →",
+    "secBackgroundP1": "技术科学博士和信息技术博士。技术论文作者；数字卫星 HDTV 专利被 Sony 收购。",
     "bioP1": "Michael Kofman 是技术高管、创始人和董事会顾问。现任 Digital Invest Inc. CEO 和 AGRON Inc. 创始人，此前工作涵盖卫星工程、互联网基础设施、公开科技公司和生命科学。",
     "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
     "secBioTitle": "精准医疗与生物技术",
@@ -299,8 +300,7 @@ window.__LANG_zh = {
     "secAgronTitle": "Robotics, UAV & Maritime Intelligence",
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "创立并领导多家科技公司，包括 9 Net Avenue Inc.、DataPeer Inc.、XIBI Group Inc. 和 Elitan United Inc。完整年表见 The Record。",
-    "secCurrentP1": "Digital Invest Inc. CEO，专注生物数学医学和基因组智能。AGRON Inc. 创始人，从事自主空地作业和地理空间系统。",
-    "secBackgroundP1": "技术科学博士和信息技术博士。著有技术论文；数字卫星 HDTV 专利被 Sony 收购。"
+    "secCurrentP1": "Digital Invest Inc. CEO，专注生物数学医学和基因组智能。AGRON Inc. 创始人，从事自主空地作业和地理空间系统。"
   },
   "ventures": {
     "eyebrow": "企业组合",
@@ -318,6 +318,7 @@ window.__LANG_zh = {
     "v5lesson": "经验：基础设施的规模来自长期运营卓越，而非退出前的冲刺。",
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
+    "v2highlight": "Harvard Medical School 与 Stanford Biomath — 遗传报告合作",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -326,7 +327,6 @@ window.__LANG_zh = {
     "v1p1": "生物数学医学、基因组数据与临床智能 — AI、ML 和 DNA 技术应用于临床与研究流程。",
     "v1role": "创始人兼首席执行官 · 董事会成员",
     "v1year": "2021 — 至今",
-    "v2highlight": "Harvard Medical School 与 Stanford Biomath 合作伙伴",
     "v2p1": "DNA 检测与分析、基因图谱自动化以及全面的人类遗传学研究。在乌克兰、俄罗斯和波罗的海国家发起基因检测项目。",
     "v2p2": "与 Harvard Medical School 和 Stanford Biomath 合作，开发被全球领先实验室采用的基因报告。",
     "v2role": "首席执行官兼首席技术官",
@@ -359,7 +359,7 @@ window.__LANG_zh = {
   "career": {
     "eyebrow": "职业历程",
     "title": "The Record",
-    "lead": "涵盖工程、基础设施、公开市场、生命科学和自主系统的 documented 工作记录。",
+    "lead": "技术、公司与 successive 技术变革时期的运营经验。",
     "timelineEyebrow": "时间线",
     "timelineTitle": "关键里程碑",
     "strengthsEyebrow": "核心优势",
@@ -381,23 +381,15 @@ window.__LANG_zh = {
     "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
     "period5title": "Government & Defense Programs",
     "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+    "t1desc": "Digital Invest Inc. 创立于 2021 年，专注生物数学医学、基因组智能和临床数据平台。Healthcare Tech Outlook（2023）。",
     "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
     "t0role": "Founder",
     "t0title": "AGRON Inc.",
     "t0year": "2026 — Present",
-    "s1desc": "在上市公司与私营企业中兼任 CEO/CTO 双重管理，从初创到 IPO 及之后全程引领。",
-    "s1title": "高管领导力",
-    "s2desc": "完整执行公开募股——法律架构、SEC 协调、投资者路演及合规管理。",
-    "s2title": "",
-    "s3desc": "为企业自动化、预测性监控和集中化数据管控设计可扩展系统。",
-    "s3title": "平台架构",
-    "s4desc": "为政府、军事及高安全商业平台提供数据中心开发与运营。",
-    "s4title": "安全基础设施",
     "t10desc": "研发用于向军舰传输机密信息的卫星收发系统。在拥有 93,000 名员工的工厂中，被认定为最高级别的电子工程师——这是其在技术与创新领域卓越职业生涯的起点。",
     "t10role": "电子工程师 — 第六类（最高级）",
     "t10title": "Nikolaev Shipbuilding Plant",
     "t10year": "1984 — 1989",
-    "t1desc": "从创立到成功 IPO，创办并规模化发展公司。领导完整的公开募股流程——法律架构、财务合规、投资者路演及 SEC 协调。指导美国与欧洲多个数据中心的设计、建设与运营。构建企业级软件系统，实现自动化、预测性监控和集中化数据管控。实现持续财务增长，使公司跻身 2023 年美国精准医疗十大公司之列。",
     "t1role": "创始人兼首席执行官",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — 至今",
@@ -574,7 +566,8 @@ window.__LANG_zh = {
     "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
     "newsletterCta": "Subscribe for Updates",
     "lead": "Substantive writing and executive briefs.",
-    "relatedLead": "Recognition, press coverage, and patents are documented separately."
+    "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+    "topicsLead": "主题基于在科技、医疗和基础设施领域的 documented 运营经验。"
   },
   "cta": {
     "eyebrow": "合作共赢",
@@ -643,9 +636,9 @@ window.__LANG_zh = {
     "cs2challenge": "挑战",
     "cs2challengeText": "通过全新的生物数学平台，结合科学、DNA 技术、AI 与 ML，革新医学中的过时方法。",
     "cs2action": "策略",
-    "cs2actionText": "Digital Invest Inc. 创立于 2021 年，专注生物数学医学、基因组智能和临床数据平台。",
+    "cs2actionText": "2021 年创立 Digital Invest Inc.，领导生物数学医学、基因组智能和临床数据平台。",
     "cs2result": "成果",
-    "cs2resultText": "实现持续财务增长，使公司跻身美国精准医疗企业前十（2023），旗下包括 Human Digital Model 和 BioMath Life 等项目。",
+    "cs2resultText": "Healthcare Tech Outlook（2023）。项目包括 Human Digital Model 和 BioMath Life。",
     "cs3eyebrow": "Robotics & UAV · 2026 — Present",
     "cs3title": "AGRON Inc.",
     "cs3challenge": "Challenge",
@@ -653,7 +646,8 @@ window.__LANG_zh = {
     "cs3action": "Approach",
     "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "cs3result": "Outcome",
-    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+    "caseStudiesLead": "从早期阶段到被收购，持续创办、扩张并领导企业。"
   },
   "mediaKit": {
     "eyebrow": "媒体与活动",
@@ -696,7 +690,7 @@ window.__LANG_zh = {
     "article2title": "精准医疗与科学技术融合",
     "article2p1": "我始终坚信生命科学与前沿技术结合所蕴含的巨大潜力。在 Biotechnology Group Inc.（2008-2014）期间，我们重点推进 DNA 检测与分析、遗传画像流程自动化以及全面的人类遗传学研究。",
     "article2p2": "在我的领导下，乌克兰、俄罗斯和波罗的海国家启动了多个成功的基因检测项目。与 Harvard Medical School 和 Stanford Biomath 的合作中，我在为医生和患者开发易于理解的基因报告方面发挥了关键作用。",
-    "article2p3": "Digital Invest Inc.（2021）专注生物数学医学，将科学、DNA 技术、AI 与 ML 应用于临床与研究。Healthcare Tech Outlook（2023）。",
+    "article2p3": "Digital Invest Inc. 创立于 2021 年，从事生物数学医学 — 将科学、DNA 技术、AI 和 ML 应用于临床智能。Healthcare Tech Outlook（2023）。",
     "article2p4": "Digital Invest 通过 Human Digital Model 和 BioMath Life 等项目推进生物数学医学。2026 年，Michael Kofman 创立 AGRON Inc.，领导 Aerial-Ground Robotics Operations Network——无人机能力、地理空间系统与海事情报，见 agron1.com。"
   },
   "privacy": {
@@ -717,8 +711,8 @@ window.__LANG_zh = {
   },
   "board": {
     "eyebrow": "Board & Strategic Advisory",
-    "title": "Independent Judgment for Consequential Decisions",
-    "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+    "title": "Board & Advisory",
+    "lead": "Board & Advisory",
     "rolesEyebrow": "Ways to Engage",
     "rolesTitle": "Board-Level Partnership",
     "role1title": "Independent Director",

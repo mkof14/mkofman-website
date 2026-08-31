@@ -79,7 +79,7 @@ window.__LANG_he = {
     },
     "insights": {
       "title": "תובנות — Michael Kofman",
-      "description": "פרסומים, כתבות, פטנטים והכרה בתעשייה של Michael Kofman."
+      "description": "כתיבה מקורית ו-executive briefs מאת Michael Kofman."
     },
     "speaking": {
       "title": "הרצאות — Michael Kofman",
@@ -161,7 +161,7 @@ window.__LANG_he = {
     "expertiseTitle": "מנהיגות בכירה בין תעשיות",
     "expertiseLead": "ארבעה עשורים של בנייה, ייעוץ והשקעה בתשתית, בריאות ורובוטיקה.",
     "exp1title": "מנכ\"ל ומייסד",
-    "exp1desc": "ייסד והרחיב מספר חברות מהקמתן ועד הנפקה מוצלחת, תוך צמיחה פיננסית עקבית ונוכחות גלובלית בתחומי הטכנולוגיה והבריאות.",
+    "exp1desc": "ייסד והנהיג מספר חברות טכנולוגיה בארצות הברית ובאירופה.",
     "exp1link": "חברות ←",
     "exp2title": "ארכיטקט טכנולוגי",
     "exp2desc": "תכנן תקשורת מאובטחת, מנועי אנליטיקה חיזויית ופלטפורמות אינטגרציית נתונים ברמה לאומית למגזרים ממשלתיים, צבאיים וטלקום.",
@@ -192,7 +192,7 @@ window.__LANG_he = {
     "featuredEyebrow": "כפי שפורסם ב",
     "caseStudiesEyebrow": "תוצאות מוכחות",
     "caseStudiesTitle": "מקרי בוחן",
-    "caseStudiesLead": "הקמה, הרחבה והובלת חברות מהשלב הראשוני ועד רכישה ו-IPO.",
+    "caseStudiesLead": "הקמה, הרחבה והובלת חברות משלב מוקדם ועד רכישה.",
     "caseStudiesLink": "צפייה בכל מקרי הבוחן →",
     "cs1title": "9 Net Avenue Inc.",
     "cs1desc": "Founded 9 Net Avenue Inc.; acquired by Concentric Networks in 2000.",
@@ -266,7 +266,7 @@ window.__LANG_he = {
     "p3title": "Leave Stronger Institutions",
     "p3text": "Leadership should compound capability by developing people, improving decisions, and building systems that endure.",
     "archiveEyebrow": "From the Archive",
-    "archiveTitle": "Selected Photographs",
+    "archiveTitle": "מהארכיון",
     "archiveLead": "Authentic material from company building, infrastructure, and leadership.",
     "photo9netTitle": "9 Net Avenue",
     "photo9netCaption": "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.",
@@ -280,6 +280,7 @@ window.__LANG_he = {
     "secCurrentTitle": "Current Work",
     "secBackgroundTitle": "Background",
     "recordLink": "The Record →",
+    "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony.",
     "bioP1": "Michael Kofman הוא מנהיג טכנולוגי, מייסד ויועץ. CEO של Digital Invest Inc. ומייסד AGRON Inc., עם ניסיון בהנדסת לוויינים, תשתיות אינטרנט, חברות ציבוריות ומדעי החיים.",
     "bioP2": "As an entrepreneur, board member, and advisor for both public and private companies, Michael Kofman has successfully established several companies in the United States and Europe. In 2026 he founded AGRON Inc. to lead the Aerial-Ground Robotics Operations Network. He also created Digital Invest, dedicated to the bio-mathematical sphere and transforming medicine through science, DNA technologies, AI, and ML.",
     "secBioTitle": "רפואה מדויקת וביוטכנולוגיה",
@@ -299,8 +300,7 @@ window.__LANG_he = {
     "secAgronTitle": "Robotics, UAV & Maritime Intelligence",
     "secAgronP1": "In 2026, Mr. Kofman founded AGRON Inc. to build the AGRON Ecosystem — a corporate operating architecture for aerial and ground robotics, governed mission execution, and network infrastructure connecting teams, assets, and operational data. The ecosystem delivers consulting, assessment, capability development, and training for UAV and Counter-UAS organizations, alongside maritime intelligence and security services at agron1.com.",
     "secBusinessP1": "ייסד והנהיג חברות טכנולוגיה רבות. כרונולוגיה מלאה ב-The Record.",
-    "secCurrentP1": "CEO של Digital Invest Inc. ברפואה ביו-מתמטית ואינטליגנציה גénomית. מייסד AGRON Inc. בפעילות אווירית-קרקעית אוטונומית.",
-    "secBackgroundP1": "Doctor of Technical Sciences ו-Ph.D. in Information Technology. מחבר מאמרים טכניים; פטנט HDTV לווייני נרכש על ידי Sony."
+    "secCurrentP1": "CEO של Digital Invest Inc. ברפואה ביו-מתמטית ואינטליגנציה גénomית. מייסד AGRON Inc. בפעילות אווירית-קרקעית אוטונומית."
   },
   "ventures": {
     "eyebrow": "תיק חברות",
@@ -318,6 +318,7 @@ window.__LANG_he = {
     "v5lesson": "לקח: קנה מידה בתשתיות נבנה במצוינות תפעולית הרבה לפני יציאה.",
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
+    "v2highlight": "Harvard Medical School ו-Stanford Biomath — שיתוף פעולה בדיווח genético",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -326,7 +327,6 @@ window.__LANG_he = {
     "v1p1": "רפואה ביו-מתמטית, נתונים גנומיים ואינטליגנציה קlinית — AI, ML וטכנולוגיות DNA בזרימות clínico ומחקר.",
     "v1role": "מייסד ומנכ\"ל · חבר דירקטוריון",
     "v1year": "2021 — עד היום",
-    "v2highlight": "שותף Harvard Medical School ו-Stanford Biomath",
     "v2p1": "בדיקות וניתוח DNA, אוטומציה של פרופילים גנטיים ומחקר גנטי אנושי מקיף. יזם פרויקטי בדיקות גנטיות באוקראינה, ברוסיה ובמדינות Baltic.",
     "v2p2": "שיתף פעולה עם Harvard Medical School ו-Stanford Biomath בדוחות גנטיים שאומצו על ידי מעבדות מובילות ברחבי העולם.",
     "v2role": "מנכ\"ל ו-CTO",
@@ -359,7 +359,7 @@ window.__LANG_he = {
   "career": {
     "eyebrow": "מסלול מקצועי",
     "title": "The Record",
-    "lead": "פעילות מתועדת בהנדסה, תשתיות, שווקים ציבוריים, מדעי החיים ומערכות אוטונומיות.",
+    "lead": "טכנולוגיה, חברות וניסיון תפעולי לאורך תקופות של שינוי טכנולוגי.",
     "timelineEyebrow": "ציר זמן",
     "timelineTitle": "אבני דרך",
     "strengthsEyebrow": "חוזקות",
@@ -381,23 +381,15 @@ window.__LANG_he = {
     "period4lead": "Biotechnology, health-related technology, data, and precision medicine.",
     "period5title": "Government & Defense Programs",
     "period5lead": "Technology strategy and delivery for government, defense, and state-owned enterprise programs.",
+    "t1desc": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים קlinיים. Healthcare Tech Outlook (2023).",
     "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
     "t0role": "Founder",
     "t0title": "AGRON Inc.",
     "t0year": "2026 — Present",
-    "s1desc": "ניהול דו-צדדי של מנכ\"ל/CTO בחברות ציבוריות ופרטיות, מסטארטאפ ועד IPO ומעבר לכך.",
-    "s1title": "מנהיגות מנהלית",
-    "s2desc": "ביצוע מלא של הנפקה ציבורית — מבנה משפטי, תיאום SEC, סיבובי משקיעים וציות.",
-    "s2title": "IPO והרחבה פיננסית",
-    "s3desc": "תכנון מערכות ניתנות להרחבה לאוטומציה ארגונית, ניטור חיזוי ושליטה מרכזית בנתונים.",
-    "s3title": "ארכיטקטורת פלטפורמות",
-    "s4desc": "פיתוח ותפעול של מרכזי נתונים לפלטפורמות ממשלתיות, צבאיות ומסחריות בעלות אבטחה גבוהה.",
-    "s4title": "תשתית מאובטחת",
     "t10desc": "פיתח ויצר מערכות לוויין לשידור וקליטה להעברת מידע סודי לספינות צבאיים. הוכר כמהנדס אלקטרוניקה ברמה הגבוהה ביותר במספנה של 93,000 עובדים — תחילתה של קריירה מצטיינת בטכנולוגיה וחדשנות.",
     "t10role": "מהנדס אלקטרוניקה — דרגה 6 (הגבוהה ביותר)",
     "t10title": "Nikolaev Shipbuilding Plant",
     "t10year": "1984 — 1989",
-    "t1desc": "הקים והרחיב את החברה מההקמה ועד IPO מוצלח. הוביל את תהליך ההנפקה הציבורית המלא — מבנה משפטי, ציות פיננסי, סיבובי משקיעים ותיאום עם SEC. הוביל את תכנון, בנייה ותפעול של מספר מרכזי נתונים בארה\"ב ובאירופה. בנה מערכות תוכנה ארגוניות לאוטומציה, ניטור חיזוי ושליטה מרכזית בנתונים. השיג צמיחה פיננסית עקבית, ומיקם את החברה בין 10 החברות המובילות ברפואה מדויקת בארה\"ב (2023).",
     "t1role": "מייסד ומנכ\"ל",
     "t1title": "Digital Invest Inc.",
     "t1year": "2021 — עד היום",
@@ -574,7 +566,8 @@ window.__LANG_he = {
     "newsletterLead": "Periodic essays and brief observations on technology, governance, and durable company building.",
     "newsletterCta": "Subscribe for Updates",
     "lead": "Substantive writing and executive briefs.",
-    "relatedLead": "Recognition, press coverage, and patents are documented separately."
+    "relatedLead": "Recognition, press coverage, and patents are documented separately.",
+    "topicsLead": "הנושאים מבוססים על ניסיון תפעולי מתועד בטכנולוגיה, בריאות ותשתיות."
   },
   "cta": {
     "eyebrow": "בואו נעבוד יחד",
@@ -643,9 +636,9 @@ window.__LANG_he = {
     "cs2challenge": "אתגר",
     "cs2challengeText": "להפוך גישות רפואיות מיושנות באמצעות מדע, טכנולוגיות DNA, AI ו-ML דרך פלטפורמה ביו-מתמטית חדשה.",
     "cs2action": "גישה",
-    "cs2actionText": "Digital Invest Inc. הוקמה ב-2021. מוביל רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים קlinיים.",
+    "cs2actionText": "Digital Invest Inc. הוקמה ב-2021. רפואה ביו-מתמטית, אינטליגנציה גנומית ופלטפורמות נתונים clínico.",
     "cs2result": "תוצאה",
-    "cs2resultText": "הושגה צמיחה פיננסית עקבית, שמיצבה את החברה בין 10 החברות המובילות בארה״ב ברפואה מדויקת (2023), עם פרויקטים כמו Human Digital Model ו-BioMath Life.",
+    "cs2resultText": "Healthcare Tech Outlook (2023). פרויקטים: Human Digital Model ו-BioMath Life.",
     "cs3eyebrow": "Robotics & UAV · 2026 — Present",
     "cs3title": "AGRON Inc.",
     "cs3challenge": "Challenge",
@@ -653,7 +646,8 @@ window.__LANG_he = {
     "cs3action": "Approach",
     "cs3actionText": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "cs3result": "Outcome",
-    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained."
+    "cs3resultText": "A connected professional services ecosystem spanning five service domains and multiple companies — Global Drone Academy, AGRON, ISDRI, and GUARD — with programmes delivered across 10+ countries and 10,000+ UAV operators, instructors, and specialists trained.",
+    "caseStudiesLead": "הקמה, הרחבה והובלת חברות משלב מוקדם ועד רכישה."
   },
   "mediaKit": {
     "eyebrow": "עיתונות ואירועים",
@@ -696,7 +690,7 @@ window.__LANG_he = {
     "article2title": "רפואה מדויקת והמפגש בין מדע לטכנולוגיה",
     "article2p1": "אני מאמין עמוקות בפוטנציאל של שילוב מדעי החיים עם החידושים הטכנולוגיים המתקדמים ביותר. ב-Biotechnology Group Inc. ‏(2008-2014) התמקדנו בבדיקות וניתוחי DNA, אוטומציה של תהליכי יצירת פרופילים גנטיים, ומחקר גנטי מקיף של האדם.",
     "article2p2": "תחת הנהגתי, הושקו פרויקטים מוצלחים של בדיקות גנטיות באוקראינה, רוסיה ומדינות הבלטיות. בשיתוף עם Harvard Medical School ו-Stanford Biomath מילאתי תפקיד מרכזי בפיתוח דוחות גנטיים מובנים לרופאים ולמטופלים.",
-    "article2p3": "Digital Invest Inc., שנוסדה ב-2021, מתמקדת ברפואה ביו-מתמטית — מדע, טכנולוגיות DNA, AI ו-ML בקlinיקה ומחקר. Healthcare Tech Outlook (2023).",
+    "article2p3": "עם Digital Invest Inc., שהוקמה ב-2021, עובדים ברפואה ביו-מתמטית — מדע, טכנולוגיות DNA, AI ו-ML באינטליגנציה clínico. Healthcare Tech Outlook (2023).",
     "article2p4": "Digital Invest מקדמת רפואה ביו-מתמטית באמצעות פרויקטים כמו Human Digital Model ו-BioMath Life. ב-2026 ייסד Michael Kofman את AGRON Inc. כדי להוביל את Aerial-Ground Robotics Operations Network — יכולות כטב\"מ, מערכות גיאו-מרחביות ומודיעין ימי ב-agron1.com."
   },
   "privacy": {
@@ -717,8 +711,8 @@ window.__LANG_he = {
   },
   "board": {
     "eyebrow": "Board & Strategic Advisory",
-    "title": "Independent Judgment for Consequential Decisions",
-    "lead": "I work with boards, founders, and executive teams navigating technology risk, market transitions, capital allocation, and responsible growth.",
+    "title": "Board & Advisory",
+    "lead": "Board & Advisory",
     "rolesEyebrow": "Ways to Engage",
     "rolesTitle": "Board-Level Partnership",
     "role1title": "Independent Director",
