@@ -323,7 +323,7 @@ window.__LANG_uk = {
     "v0role": "Засновник",
     "v0year": "2026 — дотепер",
     "v1highlight": "Топ-10 компаній precision medicine у США — 2023",
-    "v1p1": "Заснував і масштабував Digital Invest від моменту створення до успішного IPO. Компанія присвячена біоматематичній сфері та трансформує медицину за допомогою ШІ, ML і ДНК-технологій.",
+    "v1p1": "Біоматематична медицина, геномні дані та кlinічна аналітика — ШІ, ML і ДНК-технології в кlinічних та дослідницьких процесах.",
     "v1role": "Засновник і CEO · Член ради директорів",
     "v1year": "2021 — дотепер",
     "v2highlight": "Партнер Harvard Medical School і Stanford Biomath",
@@ -369,8 +369,8 @@ window.__LANG_uk = {
     "filterInfrastructure": "Інфраструктура",
     "filterDefense": "Оборона",
     "filterTelecom": "Телекомунікації",
-    "periodCurrent": "Current",
-    "periodCurrentLead": "Principal companies and projects in active development.",
+    "periodCurrent": "Autonomous Systems",
+    "periodCurrentLead": "AI, robotics, autonomous operations, geospatial systems, and related current infrastructure.",
     "period1title": "Engineering & Communications",
     "period1lead": "Early engineering, satellite systems, communications, and related technology work.",
     "period2title": "Internet & Infrastructure",
@@ -388,7 +388,7 @@ window.__LANG_uk = {
     "s1desc": "Подвійне керування CEO/CTO у публічних і приватних компаніях — від стартапу до IPO і далі.",
     "s1title": "Executive-лідерство",
     "s2desc": "Повний цикл публічного розміщення — юридичне структурування, координація з SEC, roadshow для інвесторів і комплаєнс.",
-    "s2title": "IPO та фінансове масштабування",
+    "s2title": "",
     "s3desc": "Проєктування масштабованих систем для корпоративної автоматизації, предиктивного моніторингу та централізованого керування даними.",
     "s3title": "Архітектура платформ",
     "s4desc": "Розробка та експлуатація дата-центрів для державних, військових і високозахищених комерційних платформ.",
@@ -572,7 +572,9 @@ window.__LANG_uk = {
     "newsletterEyebrow": "Нечасті нотатки",
     "newsletterTitle": "Погляд керівника без зайвого шуму",
     "newsletterLead": "Періодичні есе та короткі спостереження про технології, управління й побудову стійких компаній.",
-    "newsletterCta": "Підписатися на оновлення"
+    "newsletterCta": "Підписатися на оновлення",
+    "lead": "Substantive writing and executive briefs.",
+    "relatedLead": "Recognition, press coverage, and patents are documented separately."
   },
   "cta": {
     "eyebrow": "Співпраця",
@@ -641,7 +643,7 @@ window.__LANG_uk = {
     "cs2challenge": "Виклик",
     "cs2challengeText": "Трансформувати застарілі підходи в медицині за допомогою науки, ДНК-технологій, AI і ML через нову біо-математичну платформу.",
     "cs2action": "Підхід",
-    "cs2actionText": "Digital Invest Inc. була заснована та масштабована від старту до успішного IPO. Було очолено повний процес публічного розміщення: юридичне структурування, фінансовий комплаєнс, роудшоу для інвесторів і координацію із SEC. Також було організовано проєктування, будівництво та операційну діяльність кількох дата-центрів у США та Європі.",
+    "cs2actionText": "Digital Invest Inc. заснована у 2021 році. Керує біоматематичною медициною, геномною аналітикою та клінічними платформами даних.",
     "cs2result": "Результат",
     "cs2resultText": "Досягнуто стабільного фінансового зростання, що вивело компанію до Top 10 компаній прецизійної медицини у США (2023), з проєктами Human Digital Model і BioMath Life.",
     "cs3eyebrow": "Робототехніка та БПЛА · 2026 — сьогодні",
@@ -694,7 +696,7 @@ window.__LANG_uk = {
     "article2title": "Прецизійна медицина та конвергенція науки й технологій",
     "article2p1": "Я переконаний у потенціалі поєднання наук про життя з найновішими технологічними досягненнями. У Biotechnology Group Inc. (2008-2014) ми зосереджувалися на ДНК-тестуванні та аналізі, автоматизації процесів створення генетичних профілів і комплексних дослідженнях генетики людини.",
     "article2p2": "Під моїм керівництвом було започатковано успішні проєкти генетичного тестування в Україні, Росії та країнах Балтії. У співпраці з Harvard Medical School і Stanford Biomath я відіграв ключову роль у створенні зрозумілих генетичних звітів як для лікарів, так і для пацієнтів.",
-    "article2p3": "З Digital Invest Inc., заснованою у 2021 році, ми працюємо в біо-математичному напрямі, трансформуючи застарілі підходи в медицині за допомогою науки, ДНК-технологій, AI і ML. Компанію було масштабовано від старту до успішного IPO, а у 2023 році її визнано однією з Top 10 найкращих компаній США у сфері прецизійної медицини та digital health.",
+    "article2p3": "Digital Invest Inc., заснована у 2021 році, працює в біоматематичній медицині — наука, ДНК-технології, AI та ML у клінічних процесах. Healthcare Tech Outlook (2023).",
     "article2p4": "Digital Invest розвиває біоматематичну медицину через проєкти Human Digital Model і BioMath Life. У 2026 році Michael Kofman заснув AGRON Inc. для розвитку Aerial-Ground Robotics Operations Network — БПЛА, геопросторові системи та морська розвідка на agron1.com."
   },
   "board": {
@@ -722,13 +724,18 @@ window.__LANG_uk = {
     "value4title": "Культура корпоративного управління",
     "value4desc": "Відданість фідуціарній відповідальності, відвертому діалогу, етичним інноваціям і стійкій цінності для зацікавлених сторін.",
     "cta": "Обговорити завдання для ради",
-    "availability": "Розглядаються окремі пропозиції щодо роботи незалежним директором, членом консультативної ради та стратегічним радником."
+    "availability": "Розглядаються окремі пропозиції щодо роботи незалежним директором, членом консультативної ради та стратегічним радником.",
+    "area1title": "Board Service",
+    "area1desc": "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.",
+    "area2title": "CEO & Founder Advisory",
+    "area2desc": "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.",
+    "area3title": "Technology Due Diligence",
+    "area3desc": "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience."
   },
   "thesis": {
     "eyebrow": "Принципи лідерства",
     "title": "Будуйте на перспективу. Вирішуйте сьогодні.",
     "lead": "Технології змінюються швидко, обов'язки лідера — ні. Стійкі компанії поєднують амбіції з дисципліною, фактами й відповідальністю.",
-    "intro": "Ці принципи відображають понад тридцять років створення компаній, проєктування критично важливих систем, консультування рад директорів і лідерства в різні ринкові цикли.",
     "believeEyebrow": "У що я вірю",
     "believeTitle": "Сім принципів стійких організацій",
     "b1title": "Стратегія має визначати вибір",
