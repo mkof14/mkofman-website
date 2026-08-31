@@ -146,17 +146,59 @@ def css_cache_version() -> str:
     return str(int((ROOT / "css" / "site.css").stat().st_mtime))
 
 
+def site_cache_version() -> str:
+    paths: list[Path] = [
+        ROOT / "css" / "site.css",
+        ROOT / "js" / "app.js",
+        ROOT / "js" / "translations.js",
+        ROOT / "js" / "i18n.js",
+        ROOT / "js" / "i18n-bootstrap.js",
+    ]
+    paths.extend((ROOT / "js" / "langs").glob("*.js"))
+    mtimes = [p.stat().st_mtime for p in paths if p.exists()]
+    return str(int(max(mtimes))) if mtimes else css_cache_version()
+
+
 def stamp_css_href(html: str, version: str) -> str:
     href = f'/css/site.css?v={version}'
     html = re.sub(r'href="/css/site\.css(?:\?v=[^"]*)?"', f'href="{href}"', html)
     return html
 
 
+def stamp_asset_meta(html: str, version: str) -> str:
+    meta = f'<meta name="mk-asset-version" content="{version}">'
+    if 'name="mk-asset-version"' in html:
+        return re.sub(
+            r'<meta name="mk-asset-version" content="[^"]*">',
+            meta,
+            html,
+        )
+    return html.replace(
+        '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
+        f'<meta name="viewport" content="width=device-width, initial-scale=1.0">\n  {meta}',
+        1,
+    )
+
+
+def stamp_js_hrefs(html: str, version: str) -> str:
+    html = re.sub(
+        r'src="/js/i18n\.js(?:\?v=[^"]*)?"',
+        f'src="/js/i18n.js?v={version}"',
+        html,
+    )
+    html = re.sub(
+        r'src="/js/app\.js(?:\?v=[^"]*)?"',
+        f'src="/js/app.js?v={version}"',
+        html,
+    )
+    return html
+
+
 def patch_all_html(css_version: str | None = None) -> None:
-    version = css_version or css_cache_version()
+    version = css_version or site_cache_version()
     for path in sorted(ROOT.glob("*.html")):
         html = path.read_text(encoding="utf-8")
-        new = stamp_css_href(patch_html_assets(html), version)
+        new = stamp_js_hrefs(stamp_asset_meta(stamp_css_href(patch_html_assets(html), version), version), version)
         if new != html:
             path.write_text(new, encoding="utf-8")
             print(f"assets patched {path.name}")
@@ -164,9 +206,9 @@ def patch_all_html(css_version: str | None = None) -> None:
 
 def main() -> None:
     bundle_css()
-    css_version = css_cache_version()
     bundle_js()
-    patch_all_html(css_version)
+    version = site_cache_version()
+    patch_all_html(version)
     print("perf bundle complete")
 
 
