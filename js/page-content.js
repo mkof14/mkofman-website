@@ -20,7 +20,7 @@ const PAGE_CONTENT = {
       "v0year": "2026 — Present",
       "v1highlight": "Healthcare Tech Outlook feature — 2023",
       "v1p1": "Bio-mathematical medicine, genomic data, and clinical intelligence — AI, machine learning, and DNA technologies applied to clinical and research workflows.",
-      "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+      "v1p2": "Portfolio initiatives include <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a>, and <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — detailed case studies to follow.",
       "v1role": "Founder & CEO · Board Member",
       "v1year": "2021 — Present",
       "v1brole": "CEO",

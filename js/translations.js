@@ -150,10 +150,11 @@ const TRANSLATIONS = {
       "currentTitle": "Where Focus Is Now",
       "currentDiTitle": "Digital Invest Inc.",
       "currentDiDesc": "Bio-mathematical medicine, genomic data, and clinical intelligence — applying AI, machine learning, and DNA technologies to responsible health outcomes.",
-      "currentDiLink": "Ventures →",
+      "currentDiLink": "digitalinvest.com →",
       "currentAgTitle": "AGRON Inc.",
       "currentAgDesc": "Autonomous aerial-ground operations, UAV capability development, geospatial systems, and maritime intelligence infrastructure.",
       "currentAgLink": "agron1.com →",
+      "activeSitesLink": "All active sites →",
       "careerEyebrow": "Selected Record",
       "careerTitle": "Continuity Across Technology Periods",
       "careerLead": "Selected milestones from engineering through current work in autonomous systems.",
@@ -223,6 +224,10 @@ const TRANSLATIONS = {
       "title": "Companies & Ventures",
       "lead": "Current companies and selected history from Michael Kofman's professional record.",
       "currentEyebrow": "Current",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit",
       "historyEyebrow": "Selected History",
       "statusActive": "Active",
       "statusExited": "Exited",
@@ -426,7 +431,7 @@ const TRANSLATIONS = {
       "cs2action": "Approach",
       "cs2actionText": "Founded Digital Invest Inc. in 2021. Leads bio-mathematical medicine, genomic intelligence, and clinical data platforms.",
       "cs2result": "Outcome",
-      "cs2resultText": "Healthcare Tech Outlook feature (2023). Projects include Human Digital Model and BioMath Life.",
+      "cs2resultText": "Healthcare Tech Outlook feature (2023). Portfolio includes <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a>, and <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a>.",
       "cs3eyebrow": "Robotics & UAV · 2026 — Present",
       "cs3title": "AGRON Inc.",
       "cs3challenge": "Challenge",
@@ -860,7 +865,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectivas",
       "perspectivesTitle": "Textos seleccionados",
       "perspectivesLink": "Todas las perspectivas →",
-      "footerHomeDesc": "Ejecutivo tecnológico, fundador y asesor de consejos."
+      "footerHomeDesc": "Ejecutivo tecnológico, fundador y asesor de consejos.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "Sobre Michael Kofman",
@@ -919,7 +925,11 @@ const TRANSLATIONS = {
       "v5lesson": "Lección: la escala en infraestructura se gana con excelencia operativa mucho antes de la salida.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School y Stanford Biomath — colaboración en informes genéticos"
+      "v2highlight": "Harvard Medical School y Stanford Biomath — colaboración en informes genéticos",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "Registro profesional",
@@ -1559,7 +1569,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspektiven",
       "perspectivesTitle": "Ausgewählte Texte",
       "perspectivesLink": "Alle Perspektiven →",
-      "footerHomeDesc": "Technologie-Executive, Gründer und Board-Berater."
+      "footerHomeDesc": "Technologie-Executive, Gründer und Board-Berater.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "Über Michael Kofman",
@@ -1618,7 +1629,11 @@ const TRANSLATIONS = {
       "v5lesson": "Lehre: Infrastruktur-Skalierung entsteht durch operative Exzellenz lange vor dem Exit.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School & Stanford Biomath — Zusammenarbeit zu genetischen Berichten"
+      "v2highlight": "Harvard Medical School & Stanford Biomath — Zusammenarbeit zu genetischen Berichten",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "Beruflicher Werdegang",
@@ -2258,7 +2273,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller."
+      "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "À propos",
@@ -2317,7 +2333,11 @@ const TRANSLATIONS = {
       "v5lesson": "Leçon : l'échelle en infrastructure se gagne par l'excellence opérationnelle bien avant la sortie.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School et Stanford Biomath — collaboration sur les rapports génétiques"
+      "v2highlight": "Harvard Medical School et Stanford Biomath — collaboration sur les rapports génétiques",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "Parcours professionnel",
@@ -2957,7 +2977,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "Технологический executive, основатель и советник."
+      "footerHomeDesc": "Технологический executive, основатель и советник.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "О Michael Kofman",
@@ -3016,7 +3037,11 @@ const TRANSLATIONS = {
       "v5lesson": "Урок: масштаб в инфраструктуре создаётся операционным совершенством задолго до exit.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School и Stanford Biomath — сотрудничество по генетическим отчётам"
+      "v2highlight": "Harvard Medical School и Stanford Biomath — сотрудничество по генетическим отчётам",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "Профессиональный record",
@@ -3656,7 +3681,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "Технологічний executive, засновник і радник."
+      "footerHomeDesc": "Технологічний executive, засновник і радник.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "Про Michael Kofman",
@@ -3715,7 +3741,11 @@ const TRANSLATIONS = {
       "v5lesson": "Урок: масштаб у інфраструктурі досягається операційною досконалістю задовго до exit.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School і Stanford Biomath — співпраця з генетичними звітами"
+      "v2highlight": "Harvard Medical School і Stanford Biomath — співпраця з генетичними звітами",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "Професійний шлях",
@@ -4355,7 +4385,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "技术高管、创始人和董事会顾问。"
+      "footerHomeDesc": "技术高管、创始人和董事会顾问。",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "关于 Michael Kofman",
@@ -4414,7 +4445,11 @@ const TRANSLATIONS = {
       "v5lesson": "经验：基础设施的规模来自长期运营卓越，而非退出前的冲刺。",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School 与 Stanford Biomath — 遗传报告合作"
+      "v2highlight": "Harvard Medical School 与 Stanford Biomath — 遗传报告合作",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "职业历程",
@@ -5054,7 +5089,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة."
+      "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "نبذة عن Michael Kofman",
@@ -5113,7 +5149,11 @@ const TRANSLATIONS = {
       "v5lesson": "الدرس: نمو البنية التحتية يُبنى بالتميز التشغيلي قبل الخروج بكثير.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية"
+      "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "المسيرة المهنية",
@@ -5753,7 +5793,8 @@ const TRANSLATIONS = {
       "perspectivesEyebrow": "Perspectives",
       "perspectivesTitle": "Selected Writing",
       "perspectivesLink": "All insights →",
-      "footerHomeDesc": "מנהיג טכנולוגי, מייסד ויועץ."
+      "footerHomeDesc": "מנהיג טכנולוגי, מייסד ויועץ.",
+      "activeSitesLink": "All active sites →"
     },
     "about": {
       "eyebrow": "אודות Michael Kofman",
@@ -5812,7 +5853,11 @@ const TRANSLATIONS = {
       "v5lesson": "לקח: קנה מידה בתשתיות נבנה במצוינות תפעולית הרבה לפני יציאה.",
       "currentEyebrow": "Current",
       "historyEyebrow": "Selected History",
-      "v2highlight": "Harvard Medical School ו-Stanford Biomath — שיתוף פעולה בדיווח genético"
+      "v2highlight": "Harvard Medical School ו-Stanford Biomath — שיתוף פעולה בדיווח genético",
+      "activeSitesEyebrow": "Live Projects",
+      "activeSitesTitle": "Active Sites",
+      "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+      "activeSitesMeta": "10 live websites · click any card to visit"
     },
     "career": {
       "eyebrow": "מסלול מקצועי",

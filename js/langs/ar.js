@@ -239,7 +239,8 @@ window.__LANG_ar = {
     "perspectivesEyebrow": "Perspectives",
     "perspectivesTitle": "Selected Writing",
     "perspectivesLink": "All insights →",
-    "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة."
+    "footerHomeDesc": "تنفيذي تقني ومؤسس ومستشار مجالس إدارة.",
+    "activeSitesLink": "All active sites →"
   },
   "about": {
     "eyebrow": "نبذة عن Michael Kofman",
@@ -319,6 +320,10 @@ window.__LANG_ar = {
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
     "v2highlight": "Harvard Medical School و Stanford Biomath — تعاون في التقارير الجينية",
+    "activeSitesEyebrow": "Live Projects",
+    "activeSitesTitle": "Active Sites",
+    "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+    "activeSitesMeta": "10 live websites · click any card to visit",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -355,7 +360,7 @@ window.__LANG_ar = {
     "v8p1": "تطوير وإنشاء أنظمة أقمار صناعية للإرسال والاستقبال لنقل المعلومات المصنفة إلى السفن العسكرية. اُعترف به كمهندس إلكترونيات من أعلى المستويات في مصنع يضم 93,000 موظف.",
     "v8role": "مهندس إلكترونيات · أعلى فئة (السادسة)",
     "v8year": "1984 — 1989",
-    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+    "v1p2": "Portfolio initiatives include <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a>, and <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — detailed case studies to follow.",
     "v1brole": "CEO",
     "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
     "v1byear": "2014 — 2020"

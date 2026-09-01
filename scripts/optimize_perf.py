@@ -106,7 +106,13 @@ def patch_html_assets(html: str) -> str:
     for name in ("site-config.js", "forms.js", "cta.js", "analytics.js", "features.js", "main.js"):
         html = re.sub(rf'\s*<script src="(?:/)?js/{re.escape(name)}"[^>]*></script>', "", html)
 
-    if 'src="/js/app.js"' not in html and 'src="js/app.js"' not in html:
+    html = re.sub(
+        r'(\s*<script src="/js/app\.js[^"]*" defer></script>)(?:\s*<script src="/js/app\.js[^"]*" defer></script>)+',
+        r'\1',
+        html,
+    )
+
+    if not re.search(r'src="/js/app\.js(?:\?v=[^"]*)?"', html):
         # after i18n.js
         if "i18n.js" in html:
             html = re.sub(

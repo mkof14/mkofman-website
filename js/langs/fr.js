@@ -239,7 +239,8 @@ window.__LANG_fr = {
     "perspectivesEyebrow": "Perspectives",
     "perspectivesTitle": "Selected Writing",
     "perspectivesLink": "All insights →",
-    "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller."
+    "footerHomeDesc": "Dirigeant technologique, fondateur et conseiller.",
+    "activeSitesLink": "All active sites →"
   },
   "about": {
     "eyebrow": "À propos",
@@ -319,6 +320,10 @@ window.__LANG_fr = {
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
     "v2highlight": "Harvard Medical School et Stanford Biomath — collaboration sur les rapports génétiques",
+    "activeSitesEyebrow": "Live Projects",
+    "activeSitesTitle": "Active Sites",
+    "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+    "activeSitesMeta": "10 live websites · click any card to visit",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.",
     "v0role": "Founder",
@@ -355,7 +360,7 @@ window.__LANG_fr = {
     "v8p1": "Développement et création de systèmes de transception satellitaire pour transmettre des informations classifiées aux navires militaires. Reconnu comme ingénieur électronicien du plus haut niveau dans un chantier naval de 93 000 employés.",
     "v8role": "Ingénieur électronicien · Catégorie maximale (6e)",
     "v8year": "1984 — 1989",
-    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+    "v1p2": "Portfolio initiatives include <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a>, and <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — detailed case studies to follow.",
     "v1brole": "CEO",
     "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
     "v1byear": "2014 — 2020"

@@ -239,7 +239,8 @@ window.__LANG_uk = {
     "perspectivesEyebrow": "Perspectives",
     "perspectivesTitle": "Selected Writing",
     "perspectivesLink": "All insights →",
-    "footerHomeDesc": "Технологічний executive, засновник і радник."
+    "footerHomeDesc": "Технологічний executive, засновник і радник.",
+    "activeSitesLink": "All active sites →"
   },
   "about": {
     "eyebrow": "Про Michael Kofman",
@@ -319,6 +320,10 @@ window.__LANG_uk = {
     "currentEyebrow": "Current",
     "historyEyebrow": "Selected History",
     "v2highlight": "Harvard Medical School і Stanford Biomath — співпраця з генетичними звітами",
+    "activeSitesEyebrow": "Live Projects",
+    "activeSitesTitle": "Active Sites",
+    "activeSitesLead": "Live websites for current companies and portfolio initiatives.",
+    "activeSitesMeta": "10 live websites · click any card to visit",
     "v0highlight": "Aerial-Ground Robotics Operations Network · agron1.com",
     "v0p1": "У 2026 році заснув AGRON Inc. для розвитку екосистеми AGRON — Aerial-Ground Robotics Operations Network: консалтинг і оцінка БПЛА та Counter-UAS, розвиток компетенцій, навчальна інфраструктура, валідація продуктів, геопросторові системи (ISDRI) та AGRON Maritime Intelligence + Security для яхт, марин і приватної морської інфраструктури.",
     "v0role": "Засновник",
@@ -355,7 +360,7 @@ window.__LANG_uk = {
     "v8p1": "Розробка та створення супутникових трансиверних систем для передачі секретної інформації на військові кораблі. Визнаний інженером-електроніком найвищого рівня на заводі з 93 000 співробітників.",
     "v8role": "Інженер-електронік · Найвища категорія (6-та)",
     "v8year": "1984 — 1989",
-    "v1p2": "Portfolio initiatives include BioMath Life, BioMath Core, and SAVEN — detailed case studies to follow.",
+    "v1p2": "Portfolio initiatives include <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a>, and <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — detailed case studies to follow.",
     "v1brole": "CEO",
     "v1bp1": "Transitional period bridging biotechnology work into new technology development — building operational and R&D experience ahead of Digital Invest Inc.",
     "v1byear": "2014 — 2020"

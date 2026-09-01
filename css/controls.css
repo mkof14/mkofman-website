@@ -56,6 +56,36 @@
   --contact-icon-bg: #0c1829;
   --contact-icon-color: #c4a265;
   --portrait-shadow: drop-shadow(0 24px 48px rgba(12, 24, 41, 0.18));
+  --active-sites-bg:
+    linear-gradient(165deg, rgba(196, 162, 101, 0.12) 0%, transparent 38%),
+    linear-gradient(180deg, #edeae4 0%, #f8f6f2 100%);
+  --active-sites-heading: #0c1829;
+  --active-sites-text: #5a5a5a;
+  --active-sites-eyebrow: #a8864a;
+  --active-sites-panel-bg: #ffffff;
+  --active-sites-panel-border: rgba(196, 162, 101, 0.38);
+  --active-sites-panel-shadow: 0 24px 60px rgba(12, 24, 41, 0.08);
+  --active-sites-meta-bg: rgba(12, 24, 41, 0.04);
+  --active-sites-meta-text: #5a5a5a;
+  --active-sites-card-bg: #ffffff;
+  --active-sites-card-bg-hover: #fffdf8;
+  --active-sites-card-border: rgba(196, 162, 101, 0.28);
+  --active-sites-card-border-hover: #c4a265;
+  --active-sites-card-shadow: 0 8px 24px rgba(12, 24, 41, 0.06);
+  --active-sites-card-shadow-hover: 0 20px 44px rgba(12, 24, 41, 0.14);
+  --active-sites-name: #0c1829;
+  --active-sites-url: #a8864a;
+  --active-sites-url-hover: #0c1829;
+  --active-sites-mark-bg: rgba(196, 162, 101, 0.14);
+  --active-sites-mark-border: rgba(196, 162, 101, 0.42);
+  --active-sites-mark-color: #a8864a;
+  --active-sites-mark-glow: rgba(196, 162, 101, 0.18);
+  --active-sites-live-bg: rgba(12, 24, 41, 0.05);
+  --active-sites-live-text: #5a5a5a;
+  --active-sites-glow: rgba(196, 162, 101, 0.16);
+  --active-sites-arrow-border: rgba(196, 162, 101, 0.32);
+  --active-sites-arrow-color: #a8864a;
+  --active-sites-accent-bar: rgba(196, 162, 101, 0.55);
 }
 
 [data-theme="dark"] {
@@ -112,6 +142,36 @@
   --contact-icon-bg: #152238;
   --contact-icon-color: #c4a265;
   --portrait-shadow: drop-shadow(0 30px 60px rgba(0, 0, 0, 0.55));
+  --active-sites-bg:
+    linear-gradient(165deg, rgba(196, 162, 101, 0.1) 0%, transparent 40%),
+    linear-gradient(180deg, #060d17 0%, #0c1829 55%, #152238 100%);
+  --active-sites-heading: #ffffff;
+  --active-sites-text: rgba(255, 255, 255, 0.72);
+  --active-sites-eyebrow: #d4b87a;
+  --active-sites-panel-bg: rgba(255, 255, 255, 0.04);
+  --active-sites-panel-border: rgba(196, 162, 101, 0.28);
+  --active-sites-panel-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  --active-sites-meta-bg: rgba(255, 255, 255, 0.06);
+  --active-sites-meta-text: rgba(255, 255, 255, 0.68);
+  --active-sites-card-bg: rgba(255, 255, 255, 0.05);
+  --active-sites-card-bg-hover: rgba(255, 255, 255, 0.09);
+  --active-sites-card-border: rgba(196, 162, 101, 0.24);
+  --active-sites-card-border-hover: rgba(212, 184, 122, 0.62);
+  --active-sites-card-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  --active-sites-card-shadow-hover: 0 22px 48px rgba(0, 0, 0, 0.38);
+  --active-sites-name: #ffffff;
+  --active-sites-url: #d4b87a;
+  --active-sites-url-hover: #ffffff;
+  --active-sites-mark-bg: rgba(196, 162, 101, 0.12);
+  --active-sites-mark-border: rgba(196, 162, 101, 0.38);
+  --active-sites-mark-color: #d4b87a;
+  --active-sites-mark-glow: rgba(196, 162, 101, 0.2);
+  --active-sites-live-bg: rgba(255, 255, 255, 0.07);
+  --active-sites-live-text: rgba(255, 255, 255, 0.72);
+  --active-sites-glow: rgba(212, 184, 122, 0.2);
+  --active-sites-arrow-border: rgba(196, 162, 101, 0.28);
+  --active-sites-arrow-color: #d4b87a;
+  --active-sites-accent-bar: rgba(196, 162, 101, 0.65);
 }
 
 /* Smooth theme transitions */
@@ -129,6 +189,9 @@ body,
 .expertise-card,
 .venture-card,
 .award-card,
+.active-sites-section,
+.active-sites-panel,
+.active-site-link,
 .bio-facts,
 .contact-form,
 .main-nav,
