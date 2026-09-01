@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -146,7 +147,24 @@ def css_cache_version() -> str:
     return str(int((ROOT / "css" / "site.css").stat().st_mtime))
 
 
+def git_deploy_version() -> str | None:
+    try:
+        sha = subprocess.check_output(
+            ["git", "rev-parse", "--short=12", "HEAD"],
+            cwd=ROOT,
+            text=True,
+            stderr=subprocess.DEVNULL,
+        ).strip()
+        return sha or None
+    except (OSError, subprocess.CalledProcessError):
+        return None
+
+
 def site_cache_version() -> str:
+    sha = git_deploy_version()
+    if sha:
+        return sha
+
     paths: list[Path] = [
         ROOT / "css" / "site.css",
         ROOT / "js" / "app.js",
@@ -181,16 +199,12 @@ def stamp_asset_meta(html: str, version: str) -> str:
 
 
 def stamp_js_hrefs(html: str, version: str) -> str:
-    html = re.sub(
-        r'src="/js/i18n\.js(?:\?v=[^"]*)?"',
-        f'src="/js/i18n.js?v={version}"',
-        html,
-    )
-    html = re.sub(
-        r'src="/js/app\.js(?:\?v=[^"]*)?"',
-        f'src="/js/app.js?v={version}"',
-        html,
-    )
+    for name in ("theme", "i18n-bootstrap", "i18n", "app"):
+        html = re.sub(
+            rf'src="/js/{name}\.js(?:\?v=[^"]*)?"',
+            f'src="/js/{name}.js?v={version}"',
+            html,
+        )
     return html
 
 
