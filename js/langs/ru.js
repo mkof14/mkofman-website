@@ -706,7 +706,7 @@ window.__LANG_ru = {
     "eyebrow": "Advisory",
     "title": "Advisory",
     "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-    "contactLink": "For contact / advisory inquiries"
+    "contactLink": "For advisory inquiries"
   },
   "thesis": {
     "eyebrow": "Принципы лидерства",

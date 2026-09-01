@@ -4,7 +4,7 @@ const PAGE_CONTENT = {
       "present": "Present"
     },
     "about": {
-      "bioP1": "Michael Kofman is a technology executive, founder, and board advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
+      "bioP1": "Michael Kofman is a technology executive, founder, and advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
       "secTechP1": "Engineering background includes satellite transceiver systems at the Nikolaev Shipbuilding Plant and digital communications work at Astra Corp, one of Europe's manufacturers of digital transceiver satellite systems.",
       "secBusinessP1": "Founded and led multiple technology companies including 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc., and Elitan United Inc. Full chronology is documented in The Record.",
       "secCurrentP1": "CEO of Digital Invest Inc., focused on bio-mathematical medicine and genomic intelligence. Founder of AGRON Inc., building autonomous aerial-ground operations, UAV capability development, and geospatial systems.",

@@ -17,16 +17,12 @@ function deepMerge(target, source) {
 
 const langLoadPromises = {};
 
-function assetVersion() {
-  return document.querySelector('meta[name="mk-asset-version"]')?.content || '1';
-}
-
 function loadLangFile(lang) {
   if (TRANSLATIONS[lang]) return Promise.resolve(TRANSLATIONS[lang]);
   if (langLoadPromises[lang]) return langLoadPromises[lang];
   langLoadPromises[lang] = new Promise((resolve, reject) => {
     const script = document.createElement('script');
-    script.src = `/js/langs/${lang}.js?v=${assetVersion()}`;
+    script.src = `/js/langs/${lang}.js?v=2`;
     script.onload = () => {
       const data = window[`__LANG_${lang}`];
       if (data) TRANSLATIONS[lang] = data;

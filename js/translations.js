@@ -188,14 +188,14 @@ const TRANSLATIONS = {
     "about": {
       "eyebrow": "About Michael Kofman",
       "title": "Michael Kofman",
-      "lead": "Technology executive, founder, and board advisor.",
+      "lead": "Technology executive, founder, and advisor.",
       "glance": "At a Glance",
       "role": "Current Role",
       "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
       "location": "Location",
       "locationVal": "Charlotte, North Carolina",
       "education": "Education",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "University",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Languages",
@@ -215,7 +215,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems."
     },
     "ventures": {
@@ -501,7 +501,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -821,10 +821,10 @@ const TRANSLATIONS = {
       "cs2desc": "Healthcare Tech Outlook feature (2023).",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -872,7 +872,7 @@ const TRANSLATIONS = {
       "location": "Ubicación",
       "locationVal": "Charlotte, North Carolina",
       "education": "Educación",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "Universidad",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Idiomas",
@@ -894,7 +894,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -1200,7 +1200,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -1520,10 +1520,10 @@ const TRANSLATIONS = {
       "cs2desc": "Healthcare Tech Outlook feature (2023).",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -1571,7 +1571,7 @@ const TRANSLATIONS = {
       "location": "Standort",
       "locationVal": "Charlotte, North Carolina",
       "education": "Ausbildung",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "Universität",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Sprachen",
@@ -1593,7 +1593,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -1899,7 +1899,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -2219,10 +2219,10 @@ const TRANSLATIONS = {
       "cs2desc": "Healthcare Tech Outlook feature (2023).",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -2270,7 +2270,7 @@ const TRANSLATIONS = {
       "location": "Localisation",
       "locationVal": "Charlotte, North Carolina",
       "education": "Formation",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "Université",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Langues",
@@ -2292,7 +2292,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -2598,7 +2598,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -3281,7 +3281,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Принципы лидерства",
@@ -3668,7 +3668,7 @@ const TRANSLATIONS = {
       "location": "Локація",
       "locationVal": "Шарлотт, Північна Кароліна",
       "education": "Освіта",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "Університет",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "Мови",
@@ -3980,7 +3980,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Принципи лідерства",
@@ -4316,10 +4316,10 @@ const TRANSLATIONS = {
       "cs2desc": "Healthcare Tech Outlook feature (2023).",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -4367,7 +4367,7 @@ const TRANSLATIONS = {
       "location": "地点",
       "locationVal": "Charlotte, North Carolina",
       "education": "教育",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "大学",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "语言",
@@ -4389,7 +4389,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -4695,7 +4695,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -5015,10 +5015,10 @@ const TRANSLATIONS = {
       "cs2desc": "تأسست وتوسعت من البداية حتى طرح عام أولي ناجح - ضمن أفضل 10 شركات طب دقيق في الولايات المتحدة لعام 2023.",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -5066,7 +5066,7 @@ const TRANSLATIONS = {
       "location": "الموقع",
       "locationVal": "Charlotte, North Carolina",
       "education": "التعليم",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "الجامعة",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "اللغات",
@@ -5088,7 +5088,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -5394,7 +5394,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",
@@ -5714,10 +5714,10 @@ const TRANSLATIONS = {
       "cs2desc": "Healthcare Tech Outlook feature (2023).",
       "cs3title": "AGRON Inc.",
       "cs3desc": "Founded in 2026 — the AGRON Ecosystem for UAV capability development, geospatial systems, and maritime intelligence.",
-      "boardCtaEyebrow": "Board & Advisory",
+      "boardCtaEyebrow": "Advisory",
       "boardCtaTitle": "Experience for the Decisions That Define an Enterprise",
       "boardCtaLead": "Independent perspective for boards and leaders navigating technology, governance, transformation, and growth.",
-      "boardCtaBtn": "Explore Board Advisory",
+      "boardCtaBtn": "Explore Advisory",
       "testimonialsEyebrow": "Trusted Perspective",
       "testimonialsTitle": "What Colleagues Value",
       "videoEyebrow": "Executive Perspective",
@@ -5765,7 +5765,7 @@ const TRANSLATIONS = {
       "location": "מיקום",
       "locationVal": "Charlotte, North Carolina",
       "education": "השכלה",
-      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+      "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
       "university": "אוניברסיטה",
       "universityVal": "Ukrainian State Marine Technical University",
       "languages": "שפות",
@@ -5787,7 +5787,7 @@ const TRANSLATIONS = {
       "photoServerTitle": "Data Infrastructure",
       "photoServerCaption": "Hands-on years in storage, networking, and high-density server environments at DataPeer and related ventures.",
       "photoTodayTitle": "Today",
-      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+      "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
       "secIntroTitle": "Introduction",
       "secTechTitle": "Technology",
       "secBusinessTitle": "Business",
@@ -6093,7 +6093,7 @@ const TRANSLATIONS = {
       "eyebrow": "Advisory",
       "title": "Advisory",
       "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-      "contactLink": "For contact / advisory inquiries"
+      "contactLink": "For advisory inquiries"
     },
     "thesis": {
       "eyebrow": "Leadership Thesis",

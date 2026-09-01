@@ -188,14 +188,14 @@ window.__LANG_en = {
   "about": {
     "eyebrow": "About Michael Kofman",
     "title": "Michael Kofman",
-    "lead": "Technology executive, founder, and board advisor.",
+    "lead": "Technology executive, founder, and advisor.",
     "glance": "At a Glance",
     "role": "Current Role",
     "roleVal": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
     "location": "Location",
     "locationVal": "Charlotte, North Carolina",
     "education": "Education",
-    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's in Electronic Engineering",
+    "educationVal": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics",
     "university": "University",
     "universityVal": "Ukrainian State Marine Technical University",
     "languages": "Languages",
@@ -215,9 +215,9 @@ window.__LANG_en = {
     "photoServerTitle": "Data Infrastructure",
     "photoServerCaption": "Storage, networking, and server environments at DataPeer and related ventures.",
     "photoTodayTitle": "Today",
-    "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and board advisory work.",
+    "photoTodayCaption": "Digital Invest Inc., AGRON Inc., and advisory work.",
     "secBackgroundP1": "Doctor of Technical Sciences and Ph.D. in Information Technology. Author of technical papers on satellite and optical systems.",
-    "bioP1": "Michael Kofman is a technology executive, founder, and board advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
+    "bioP1": "Michael Kofman is a technology executive, founder, and advisor. He is CEO of Digital Invest Inc. and founder of AGRON Inc., with prior work spanning satellite engineering, internet infrastructure, public technology companies, and life sciences in the U.S. and Europe.",
     "secTechP1": "Engineering background includes satellite transceiver systems at the Nikolaev Shipbuilding Plant and digital communications work at Astra Corp, one of Europe's manufacturers of digital transceiver satellite systems.",
     "secBusinessP1": "Founded and led multiple technology companies including 9 Net Avenue Inc., DataPeer Inc., XIBI Group Inc., and Elitan United Inc. Full chronology is documented in The Record.",
     "secCurrentP1": "CEO of Digital Invest Inc., focused on bio-mathematical medicine and genomic intelligence. Founder of AGRON Inc., building autonomous aerial-ground operations, UAV capability development, and geospatial systems.",
@@ -631,7 +631,7 @@ window.__LANG_en = {
     "eyebrow": "Advisory",
     "title": "Advisory",
     "body": "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.",
-    "contactLink": "For contact / advisory inquiries"
+    "contactLink": "For advisory inquiries"
   },
   "thesis": {
     "eyebrow": "Leadership Thesis",
