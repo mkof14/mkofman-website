@@ -53,7 +53,7 @@ def main() -> None:
    * Example: https://calendly.com/your-name/intro
    */
   calendlyUrl: '{esc_js(calendly)}',
-  ogImage: '/images/portrait-hero.webp',
+  ogImage: '/images/portrait-hero-og.jpg',
   /**
    * Analytics — set ANALYTICS_PROVIDER=plausible|ga4 in Vercel or .env.
    */

@@ -12,7 +12,7 @@ const SITE_CONFIG = {
    * Example: https://calendly.com/your-name/intro
    */
   calendlyUrl: '',
-  ogImage: '/images/portrait-hero.webp',
+  ogImage: '/images/portrait-hero-og.jpg',
   /**
    * Analytics — set ANALYTICS_PROVIDER=plausible|ga4 in Vercel or .env.
    */

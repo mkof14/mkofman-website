@@ -33,7 +33,9 @@ PAGES = [
     ("brief-ai.html", "briefAi", "brief-ai.html"),
 ]
 
-OG_IMAGE = f"{SITE_URL}/images/portrait-hero.webp"
+OG_IMAGE = f"{SITE_URL}/images/portrait-hero-og.jpg"
+OG_IMAGE_WIDTH = 1200
+OG_IMAGE_HEIGHT = 630
 SITE_START_YEAR = 2026
 
 ARTICLE_PAGES = {
@@ -159,6 +161,9 @@ def seo_block(page_key: str, path: str, meta_en: dict) -> str:
         f'  <meta property="og:description" content="{desc}">',
         f'  <meta property="og:url" content="{canonical}">',
         f'  <meta property="og:image" content="{OG_IMAGE}">',
+        f'  <meta property="og:image:width" content="{OG_IMAGE_WIDTH}">',
+        f'  <meta property="og:image:height" content="{OG_IMAGE_HEIGHT}">',
+        f'  <meta property="og:image:alt" content="Michael Kofman">',
         f'  <meta name="twitter:card" content="summary_large_image">',
         f'  <meta name="twitter:title" content="{title}">',
         f'  <meta name="twitter:description" content="{desc}">',
@@ -419,6 +424,36 @@ def _bake_hero_on_bg(img, bg=HERO_PORTRAIT_BG):
     return Image.alpha_composite(base, img).convert("RGB")
 
 
+def _generate_og_portrait(prepared) -> None:
+    """1200x630 share card — portrait composited on solid black (no transparency)."""
+    from PIL import Image
+
+    canvas_w, canvas_h = OG_IMAGE_WIDTH, OG_IMAGE_HEIGHT
+    margin = 24
+    max_w = canvas_w - margin * 2
+    max_h = canvas_h - margin * 2
+    ratio = min(max_w / prepared.width, max_h / prepared.height)
+    new_w = int(prepared.width * ratio)
+    new_h = int(prepared.height * ratio)
+    resample = getattr(Image, "Resampling", Image).LANCZOS
+    scaled = prepared.resize((new_w, new_h), resample)
+    baked = _bake_hero_on_bg(scaled)
+
+    canvas = Image.new("RGB", (canvas_w, canvas_h), HERO_PORTRAIT_BG)
+    x = (canvas_w - new_w) // 2
+    y = (canvas_h - new_h) // 2
+    canvas.paste(baked, (x, y))
+
+    og_jpg = ROOT / "images" / "portrait-hero-og.jpg"
+    og_webp = ROOT / "images" / "portrait-hero-og.webp"
+    canvas.save(og_jpg, "JPEG", quality=90, optimize=True, progressive=True)
+    canvas.save(og_webp, "WEBP", quality=90, method=6)
+    print(
+        f"og portrait: jpg {og_jpg.stat().st_size // 1024} KB, "
+        f"webp {og_webp.stat().st_size // 1024} KB ({canvas_w}x{canvas_h})"
+    )
+
+
 def optimize_hero_images() -> tuple[int, int]:
     """Rebuild hero portrait from source: natural cutout, high-quality WebP + JPEG."""
     webp = ROOT / "images" / "portrait-hero.webp"
@@ -441,6 +476,7 @@ def optimize_hero_images() -> tuple[int, int]:
     prepared = _prepare_hero_cutout(img)
     prepared.save(webp, "WEBP", quality=92, method=6, lossless=False)
     _bake_hero_on_bg(prepared).save(jpg, "JPEG", quality=92, optimize=True, progressive=True)
+    _generate_og_portrait(prepared)
 
     mobile_w = 480
     if img.width > mobile_w:
