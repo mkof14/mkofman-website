@@ -1,0 +1,292 @@
+{
+  "about.secTechTitle": {
+    "es": "Tecnología e infraestructura",
+    "de": "Technologie & Infrastruktur",
+    "fr": "Technologie & infrastructure",
+    "ru": "Технологии и инфраструктура",
+    "uk": "Технології та інфраструктура",
+    "zh": "技术与基础设施",
+    "ar": "التكنولوجيا والبنية التحتية",
+    "he": "טכנולוגיה ותשתיות"
+  },
+  "about.principlesEyebrow": {
+    "es": "Principios operativos",
+    "de": "Operating Principles",
+    "fr": "Principes opérationnels",
+    "ru": "Операционные принципы",
+    "uk": "Операційні принципи",
+    "zh": "运营原则",
+    "ar": "مبادئ تشغيلية",
+    "he": "עקרונות תפעול"
+  },
+  "about.principlesTitle": {
+    "es": "Cómo lidero",
+    "de": "Wie ich führe",
+    "fr": "Comment je dirige",
+    "ru": "Как я руковожу",
+    "uk": "Як я керую",
+    "zh": "我如何领导",
+    "ar": "كيف أقود",
+    "he": "איך אני מנהיג"
+  },
+  "about.p1title": {
+    "es": "Comprender el sistema",
+    "de": "Das System verstehen",
+    "fr": "Comprendre le système",
+    "ru": "Понять систему",
+    "uk": "Зрозуміти систему",
+    "zh": "理解系统",
+    "ar": "فهم النظام",
+    "he": "להבין את המערכת"
+  },
+  "about.p1text": {
+    "es": "Antes de cambiar una organización, comprenda sus incentivos, arquitectura, restricciones y fuentes de confianza.",
+    "de": "Bevor man eine Organisation verändert, deren Anreize, Architektur, Einschränkungen und Vertrauensquellen verstehen.",
+    "fr": "Avant de changer une organisation, comprendre ses incitations, son architecture, ses contraintes et ses sources de confiance.",
+    "ru": "Прежде чем менять организацию, нужно понять её стимулы, архитектуру, ограничения и источники доверия.",
+    "uk": "Перш ніж змінювати організацію, потрібно зрозуміти її стимули, архітектуру, обмеження та джерела довіри.",
+    "zh": "在改变组织之前，理解其激励、架构、约束和信任来源。",
+    "ar": "قبل تغيير منظمة، افهم حوافزها وهندستها وقيودها ومصادر الثقة.",
+    "he": "לפני שינוי ארגון, להבין את התמריצים, הארכיטקטורה, האילוצים ומקורות האמון."
+  },
+  "about.p2title": {
+    "es": "Hacer explícita la responsabilidad",
+    "de": "Verantwortung explizit machen",
+    "fr": "Rendre la responsabilité explicite",
+    "ru": "Сделать ответственность явной",
+    "uk": "Зробити відповідальність явною",
+    "zh": "使问责明确",
+    "ar": "جعل المساءلة صريحة",
+    "he": "להפוך אחריות לברורה"
+  },
+  "about.p2text": {
+    "es": "La propiedad clara y los resultados medibles convierten la estrategia de material de presentación en realidad operativa.",
+    "de": "Klare Ownership und messbare Ergebnisse verwandeln Strategie von Präsentationsmaterial in Operating-Realität.",
+    "fr": "Une propriété claire et des résultats mesurables transforment la stratégie de support de présentation en réalité opérationnelle.",
+    "ru": "Ясная ответственность и измеримые результаты превращают стратегию из презентации в операционную реальность.",
+    "uk": "Чітка відповідальність і вимірювані результати перетворюють стратегію з презентації на операційну реальність.",
+    "zh": "明确的所有权和可衡量结果将战略从演示材料变为运营现实。",
+    "ar": "الملكية الواضحة والنتائج القابلة للقياس تحوّل الاستراتيجية من عرض إلى واقع تشغيلي.",
+    "he": "בעלות ברורה ותוצאות מדידות הופכות אסטרטגיה מחומר מצגת למציאות תפעולית."
+  },
+  "about.p3title": {
+    "es": "Dejar instituciones más fuertes",
+    "de": "Stärkere Institutionen hinterlassen",
+    "fr": "Laisser des institutions plus fortes",
+    "ru": "Оставлять более сильные institution",
+    "uk": "Залишати сильніші institution",
+    "zh": "留下更强的机构",
+    "ar": "ترك مؤسسات أقوى",
+    "he": "להשאיר מוסדות חזקים יותר"
+  },
+  "about.p3text": {
+    "es": "El liderazgo debe multiplicar la capacidad desarrollando personas, mejorando decisiones y construyendo sistemas que perduren.",
+    "de": "Führung soll Fähigkeit vervielfachen, indem Menschen entwickelt, Entscheidungen verbessert und Systeme gebaut werden, die Bestand haben.",
+    "fr": "Le leadership doit multiplier la capacité en développant les personnes, en améliorant les décisions et en construisant des systèmes durables.",
+    "ru": "Лидерство должно умножать способности, развивая людей, улучшая решения и строя системы, которые переживают смену лидеров.",
+    "uk": "Лідerstvo має примножувати spromожності, розвиваючи людей, покращуючи rішення та будуючи системи, які переживають зміну лідerів.",
+    "zh": "领导力应通过培养人才、改善决策和构建持久系统来增强能力。",
+    "ar": "يجب أن تضاعف القيادة القدرة بتطوير الأفراد وتحسين القرارات وبناء أنظمة تدوم.",
+    "he": "מנהיגות צריכה להכפיל יכולת על ידי פיתוח אנשים, שיפור החלטות ובניית מערכות שנשארות."
+  },
+  "about.photoServerCaption": {
+    "es": "Entornos de almacenamiento, redes y servidores en DataPeer y empresas relacionadas.",
+    "de": "Storage-, Netzwerk- und Serverumgebungen bei DataPeer und verwandten Unternehmen.",
+    "fr": "Environnements de stockage, réseaux et serveurs chez DataPeer et entreprises associées.",
+    "ru": "Среды хранения, сетей и серверов в DataPeer и связанных компаниях.",
+    "uk": "Середовища зберігання, мереж і серверів у DataPeer та пов’язаних компаніях.",
+    "zh": "DataPeer及相关企业的存储、网络和服务器环境。",
+    "ar": "بيئات التخزين والشبكات والخوادم في DataPeer والشركات ذات الصلة.",
+    "he": "סביבות אחסון, רשתות ושרתים ב-DataPeer ובחברות קשורות."
+  },
+  "caseStudies.cs3resultText": {
+    "es": "Un ecosistema conectado de servicios profesionales que abarca consultoría, desarrollo de capacidades, infraestructura de formación, sistemas geoespaciales e inteligencia marítima a través de AGRON, ISDRI y empresas relacionadas.",
+    "de": "Ein vernetztes Professional-Services-Ökosystem für Beratung, Capability Development, Trainingsinfrastruktur, Geospatial-Systeme und Maritime Intelligence über AGRON, ISDRI und verbundene Unternehmen.",
+    "fr": "Un écosystème de services professionnels couvrant conseil, développement de capacités, infrastructure de formation, systèmes géospatiaux et intelligence maritime via AGRON, ISDRI et entreprises associées.",
+    "ru": "Связанная экосистема профессиональных услуг: консалтинг, развитие возможностей, инфраструктура обучения, геопространственные системы и морская разведка через AGRON, ISDRI и связанные компании.",
+    "uk": "Пов’язана екосистема професійних послуг: консалтинг, розвиток можливостей, інфраструктура навчання, геопросторові системи та морська розвідка через AGRON, ISDRI та пов’язані компанії.",
+    "zh": "通过AGRON、ISDRI及相关公司，涵盖咨询、能力开发、培训基础设施、地理空间系统和海事情报的互联专业服务生态系统。",
+    "ar": "نظام بيئي متصل للخدمات المهنية يشمل الاستشارات وتطوير القدرات والبنية التدريبية والأنظمة الجغرافية المكانية والاستخبارات البحرية عبر AGRON وISDRI والشركات ذات الصلة.",
+    "he": "מערכת אקולוגית מקושרת של שירותים מקצועיים — ייעוץ, פיתוח יכולות, תשתית הכשרה, מערכות geospatial ומודיעין ימי דרך AGRON, ISDRI וחברות קשורות."
+  },
+  "press.clipBody": {
+    "es": "El artículo destaca el reconocimiento como Emprendedor del Año por Entrepreneur Magazine (2001) y analiza el enfoque de DataPeer en almacenamiento crítico, iSCSI y continuidad del negocio.",
+    "de": "Der Beitrag erwähnt die Auszeichnung als Unternehmer des Jahres durch Entrepreneur Magazine (2001) und DataPeers Ansatz zu geschäftskritischem Storage, iSCSI und Business Continuity.",
+    "fr": "L'article note la reconnaissance comme Entrepreneur de l'année par Entrepreneur Magazine (2001) et l'approche de DataPeer en stockage critique, iSCSI et continuité d'activité.",
+    "ru": "Материал отмечает звание «Предприниматель года» от Entrepreneur Magazine (2001) и подход DataPeer к критически важному хранению, iSCSI и непрерывности бизнеса.",
+    "uk": "Матеріал відзначає звання «Підприємець року» від Entrepreneur Magazine (2001) і підхід DataPeer до критично важливого зберігання, iSCSI і безперервності бізнесу.",
+    "zh": "该专题提到2001年获Entrepreneur Magazine年度企业家称号，并讨论DataPeer在关键任务存储、iSCSI和业务连续性方面的方法。",
+    "ar": "يُشير التقرير إلى تكريم «رائد أعمال العام» من Entrepreneur Magazine (2001)، ويناقش نهج DataPeer في التخزين الحيوي وiSCSI واستمرارية الأعمال.",
+    "he": "הכתבה מציינת הכרה כ«יזם השנה» מ-Entrepreneur Magazine (2001) ואת גישת DataPeer לאחסון קריטי, iSCSI והמשכיות עסקית."
+  },
+  "about.secIntroTitle": {
+    "es": "Introducción",
+    "de": "Einführung",
+    "fr": "Présentation",
+    "ru": "Введение",
+    "uk": "Вступ",
+    "zh": "简介",
+    "ar": "مقدمة",
+    "he": "הקדמה"
+  },
+  "about.contactLabel": {
+    "es": "Contacto",
+    "de": "Kontakt",
+    "fr": "Contacter",
+    "ru": "Контакты",
+    "uk": "Контакти",
+    "zh": "联系",
+    "ar": "تواصل",
+    "he": "יצירת קשר"
+  },
+  "contact.eyebrow": {
+    "es": "Contacto",
+    "de": "Kontakt",
+    "fr": "Contacter",
+    "ru": "Контакты",
+    "uk": "Контакти",
+    "zh": "联系",
+    "ar": "تواصل",
+    "he": "יצירת קשר"
+  },
+  "contact.message": {
+    "es": "Mensaje",
+    "de": "Nachricht",
+    "fr": "Votre message",
+    "ru": "Сообщение",
+    "uk": "Повідомлення",
+    "zh": "留言",
+    "ar": "رسالة",
+    "he": "הודעה"
+  },
+  "home.perspectivesEyebrow": {
+    "es": "Perspectivas",
+    "de": "Perspektiven",
+    "fr": "Points de vue",
+    "ru": "Перспективы",
+    "uk": "Перспективи",
+    "zh": "观点",
+    "ar": "وجهات نظر",
+    "he": "פרספקטיבות"
+  },
+  "insights.eyebrow": {
+    "es": "Perspectivas",
+    "de": "Perspektiven",
+    "fr": "Points de vue",
+    "ru": "Перспективы",
+    "uk": "Перспективи",
+    "zh": "观点",
+    "ar": "وجهات نظر",
+    "he": "פרספקטיבות"
+  },
+  "nav.groupServices": {
+    "es": "Servicios",
+    "de": "Leistungen",
+    "fr": "Prestations",
+    "ru": "Услуги",
+    "uk": "Послуги",
+    "zh": "服务",
+    "ar": "خدمات",
+    "he": "שירותים"
+  },
+  "nav.contact": {
+    "es": "Contacto",
+    "de": "Kontakt",
+    "fr": "Contacter",
+    "ru": "Контакты",
+    "uk": "Контакти",
+    "zh": "联系",
+    "ar": "تواصل",
+    "he": "יצירת קשר"
+  },
+  "privacy.s5title": {
+    "es": "Contacto",
+    "de": "Kontakt",
+    "fr": "Contacter",
+    "ru": "Контакты",
+    "uk": "Контакти",
+    "zh": "联系",
+    "ar": "تواصل",
+    "he": "יצירת קשר"
+  },
+  "mediaKit.bioEyebrow": {
+    "es": "Biografías",
+    "de": "Biografien",
+    "fr": "Biographies officielles",
+    "ru": "Биографии",
+    "uk": "Биографії",
+    "zh": "传记",
+    "ar": "سير ذاتية",
+    "he": "ביוגרפיות"
+  },
+  "ip.publicationsEyebrow": {
+    "es": "Publicaciones",
+    "de": "Publikationen",
+    "fr": "Ouvrages publiés",
+    "ru": "Публикации",
+    "uk": "Публікації",
+    "zh": "出版物",
+    "ar": "منشورات",
+    "he": "פרסומים"
+  },
+  "meta.contact.title": {
+    "es": "Contacto — Michael Kofman",
+    "de": "Kontakt — Michael Kofman",
+    "fr": "Contacter — Michael Kofman",
+    "ru": "Контакты — Michael Kofman",
+    "uk": "Контакти — Michael Kofman",
+    "zh": "联系 — Michael Kofman",
+    "ar": "تواصل — Michael Kofman",
+    "he": "יצירת קשר — Michael Kofman"
+  },
+  "meta.thesis.title": {
+    "es": "Tesis de liderazgo — Michael Kofman",
+    "de": "Führungsthese — Michael Kofman",
+    "fr": "Thèse de leadership — Michael Kofman",
+    "ru": "Тезис лидерства — Michael Kofman",
+    "uk": "Тезис лідерства — Michael Kofman",
+    "zh": "领导力论题 — Michael Kofman",
+    "ar": "أطروحة القيادة — Michael Kofman",
+    "he": "תזת מנהיגות — Michael Kofman"
+  },
+  "meta.deck.title": {
+    "es": "Resumen ejecutivo — Michael Kofman",
+    "de": "Führungskräfte-Übersicht — Michael Kofman",
+    "fr": "Aperçu exécutif — Michael Kofman",
+    "ru": "Исполнительный обзор — Michael Kofman",
+    "uk": "Виконавчий огляд — Michael Kofman",
+    "zh": "高管概览 — Michael Kofman",
+    "ar": "نظرة تنفيذية — Michael Kofman",
+    "he": "סקירה מנהלית — Michael Kofman"
+  },
+  "footer.navigation": {
+    "es": "Navegación",
+    "de": "Menü",
+    "fr": "Menu",
+    "ru": "Навигация",
+    "uk": "Навігація",
+    "zh": "导航",
+    "ar": "التنقل",
+    "he": "ניווט"
+  },
+  "nav.briefIpo": {
+    "es": "Informe: IPO",
+    "de": "Kurzbericht: IPO",
+    "fr": "Note : IPO",
+    "ru": "Бриф: IPO",
+    "uk": "Бриф: IPO",
+    "zh": "简报：IPO",
+    "ar": "ملخص: IPO",
+    "he": "תקציר: IPO"
+  },
+  "press.y2000type": {
+    "es": "Entrevista",
+    "de": "Gespräch",
+    "fr": "Entretien",
+    "ru": "Интервью",
+    "uk": "Інтерв'ю",
+    "zh": "采访",
+    "ar": "مقابلة",
+    "he": "ראיון"
+  }
+}

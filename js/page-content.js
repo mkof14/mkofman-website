@@ -212,7 +212,11 @@ const PAGE_CONTENT = {
       "v8highlight": "Ingeniería de sistemas satelitales militares",
       "v8p1": "Desarrollo y creación de sistemas satelitales de transcepción para transmitir información clasificada a buques militares. Reconocido como ingeniero electrónico del más alto nivel en un astillero de 93.000 empleados.",
       "v8role": "Ingeniero electrónico · Categoría máxima (6.ª)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "Iniciativas de cartera: <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> y <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — casos de estudio detallados próximamente.",
+      "v1brole": "CEO",
+      "v1bp1": "Período de transición entre biotecnología y nuevo desarrollo tecnológico — experiencia operativa y de I+D antes de Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -258,7 +262,10 @@ const PAGE_CONTENT = {
       "t9desc": "Fundó uno de los mayores fabricantes europeos de sistemas satelitales de transcepción digital. Lideró investigación, desarrollo de sistemas operativos, aplicaciones de software de red y estrategia técnica general, obteniendo reconocimiento internacional.",
       "t9role": "Fundador y CEO",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "Período de transición entre biotecnología y nuevo desarrollo tecnológico — experiencia operativa y de I+D antes de Digital Invest Inc.",
+      "t1brole": "CEO",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "Emprendedor del año",
@@ -367,7 +374,11 @@ const PAGE_CONTENT = {
       "v8highlight": "هندسة أنظمة أقمار صناعية عسكرية",
       "v8p1": "تطوير وإنشاء أنظمة أقمار صناعية للإرسال والاستقبال لنقل المعلومات المصنفة إلى السفن العسكرية. اُعترف به كمهندس إلكترونيات من أعلى المستويات في مصنع يضم 93,000 موظف.",
       "v8role": "مهندس إلكترونيات · أعلى فئة (السادسة)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "مبادرات المحفظة تشمل <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a> و<a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a> و<a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> و<a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — دراسات حالة مفصلة قريباً.",
+      "v1brole": "الرئيس التنفيذي",
+      "v1bp1": "فترة انتقالية بين العمل في التكنولوجيا الحيوية وتطوير تقنيات جديدة — بناء خبرة تشغيلية وبحث وتطوير قبل Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -413,7 +424,10 @@ const PAGE_CONTENT = {
       "t9desc": "أسس إحدى أكبر الشركات المصنعة لأنظمة أقمار صناعية رقمية للإرسال والاستقبال في أوروبا. قاد البحث وتطوير أنظمة التشغيل وتطبيقات برمجيات الشبكات والاستراتيجية التقنية الشاملة، حاصلاً على اعتراف دولي.",
       "t9role": "المؤسس والرئيس التنفيذي",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "فترة انتقالية بين العمل في التكنولوجيا الحيوية وتطوير تقنيات جديدة — بناء خبرة تشغيلية وبحث وتطوير قبل Digital Invest Inc.",
+      "t1brole": "الرئيس التنفيذي",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "رائد الأعمال للعام",
@@ -522,7 +536,11 @@ const PAGE_CONTENT = {
       "v8highlight": "Militärische Satellitensystemtechnik",
       "v8p1": "Entwicklung und Erstellung von Satelliten-Transceiver-Systemen zur Übertragung klassifizierter Informationen an Militärschiffe. Anerkennung als Elektronikingenieur höchster Stufe in einer Werft mit 93.000 Mitarbeitern.",
       "v8role": "Elektronikingenieur · Höchste Kategorie (6.)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "Portfolio-Initiativen: <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> und <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — ausführliche Fallstudien folgen.",
+      "v1brole": "CEO",
+      "v1bp1": "Übergangszeit zwischen Biotechnologie und neuer Technologieentwicklung — operative und F&E-Erfahrung vor Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -568,7 +586,10 @@ const PAGE_CONTENT = {
       "t9desc": "Gründung eines der größten europäischen Hersteller digitaler Transceiver-Satellitensysteme. Leitung von Forschung, Betriebssystementwicklung, Netzwerksoftwareanwendungen und der gesamten technischen Strategie mit internationaler Anerkennung.",
       "t9role": "Gründer & CEO",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "Übergangszeit zwischen Biotechnologie und neuer Technologieentwicklung — operative und F&E-Erfahrung vor Digital Invest Inc.",
+      "t1brole": "CEO",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "Unternehmer des Jahres",
@@ -677,7 +698,11 @@ const PAGE_CONTENT = {
       "v8highlight": "Ingénierie de systèmes satellitaires militaires",
       "v8p1": "Développement et création de systèmes de transception satellitaire pour transmettre des informations classifiées aux navires militaires. Reconnu comme ingénieur électronicien du plus haut niveau dans un chantier naval de 93 000 employés.",
       "v8role": "Ingénieur électronicien · Catégorie maximale (6e)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "Initiatives du portefeuille : <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> et <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — études de cas détaillées à venir.",
+      "v1brole": "PDG",
+      "v1bp1": "Période de transition entre biotechnologie et nouveau développement technologique — expérience opérationnelle et R&D avant Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -723,7 +748,10 @@ const PAGE_CONTENT = {
       "t9desc": "Fondation de l'un des plus grands fabricants européens de systèmes satellitaires de transception numérique. Direction de la recherche, du développement de systèmes d'exploitation, des applications logicielles réseau et de la stratégie technique globale, obtenant une reconnaissance internationale.",
       "t9role": "Fondateur & PDG",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "Période de transition entre biotechnologie et nouveau développement technologique — expérience opérationnelle et R&D avant Digital Invest Inc.",
+      "t1brole": "PDG",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "Entrepreneur de l'année",
@@ -832,7 +860,11 @@ const PAGE_CONTENT = {
       "v8highlight": "הנדסת מערכות לוויין צבאיות",
       "v8p1": "פיתוח ויצירת מערכות לוויין לשידור וקליטה להעברת מידע סודי לספינות צבאיים. הוכר כמהנדס אלקטרוניקה ברמה הגבוהה ביותר במספנה של 93,000 עובדים.",
       "v8role": "מהנדס אלקטרוניקה · דרגה עליונה (6)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "יוזמות בתיק כוללות <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> ו-<a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — מחקרי מקרה מפורטים יעלו בהמשך.",
+      "v1brole": "מנכ\"ל",
+      "v1bp1": "תקופת מעבר בין ביוטכנולוגיה לפיתוח טכנולוגי חדש — בניית ניסיון תפעולי ו-R&D לפני Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -878,7 +910,10 @@ const PAGE_CONTENT = {
       "t9desc": "הקים אחת היצרניות הגדולות באירופה של מערכות לוויין דיגיטליות לשידור וקליטה. הוביל מחקר, פיתוח מערכות הפעלה, יישומי תוכנת רשת ואסטרטגיה טכנית כוללת, וזכה להכרה בינלאומית.",
       "t9role": "מייסד ומנכ\"ל",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "תקופת מעבר בין ביוטכנולוגיה לפיתוח טכנולוגי חדש — בניית ניסיון תפעולי ו-R&D לפני Digital Invest Inc.",
+      "t1brole": "מנכ\"ל",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "יזם השנה",
@@ -987,7 +1022,11 @@ const PAGE_CONTENT = {
       "v8highlight": "Инженерия военных спутниковых систем",
       "v8p1": "Разработка и создание спутниковых трансиверных систем для передачи секретной информации на военные корабли. Признан инженером-электронщиком высшего уровня на заводе с 93 000 сотрудников.",
       "v8role": "Инженер-электронщик · Высшая категория (6-я)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "Портфельные инициативы: <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> и <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — подробные кейсы будут опубликованы позже.",
+      "v1brole": "CEO",
+      "v1bp1": "Переходный период между биотехнологией и новой технологической разработкой — операционный и R&D опыт перед Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Основал AGRON Inc. для построения экосистемы AGRON — консалтинг, оценка, развитие компетенций, обучающая инфраструктура и поддержка продуктов для программ БПЛА и Counter-UAS, а также AGRON Maritime Intelligence + Security. Объединяет воздушную и наземную робототехнику, управляемое выполнение миссий и сетевую инфраструктуру, связывающую команды, активы и операционные данные.",
@@ -1033,7 +1072,10 @@ const PAGE_CONTENT = {
       "t9desc": "Основал одного из крупнейших в Европе производителей цифровых спутниковых трансиверных систем. Руководил исследованиями, разработкой операционных систем, сетевыми программными приложениями и общей технической стратегией, получив международное признание.",
       "t9role": "Основатель и CEO",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "Переходный период между биотехнологией и новой технологической разработкой — операционный и R&D опыт перед Digital Invest Inc.",
+      "t1brole": "CEO",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "Предприниматель года",
@@ -1142,7 +1184,11 @@ const PAGE_CONTENT = {
       "v8highlight": "Інженерія військових супутникових систем",
       "v8p1": "Розробка та створення супутникових трансиверних систем для передачі секретної інформації на військові кораблі. Визнаний інженером-електроніком найвищого рівня на заводі з 93 000 співробітників.",
       "v8role": "Інженер-електронік · Найвища категорія (6-та)",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "Портфельні ініціативи: <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>, <a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>, <a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> та <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — детальні кейси будуть опубліковані пізніше.",
+      "v1brole": "CEO",
+      "v1bp1": "Перехідний період між біотехнологією та новою технологічною розробкою — операційний і R&D досвід перед Digital Invest Inc.",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Заснув AGRON Inc. для побудови екосистеми AGRON — консалтинг, оцінка, розвиток компетенцій, навчальна інфраструктура та підтримка продуктів для програм БПЛА і Counter-UAS, а також AGRON Maritime Intelligence + Security. Поєднує повітряну та наземну робототехніку, кероване виконання місій та мережеву інфраструктуру, що з'єднує команди, активи та операційні дані.",
@@ -1188,7 +1234,10 @@ const PAGE_CONTENT = {
       "t9desc": "Заснував одного з найбільших у Європі виробників цифрових супутникових трансиверних систем. Керував дослідженнями, розробкою операційних систем, мережевими програмними застосунками та загальною технічною стратегією, отримавши міжнародне визнання.",
       "t9role": "Засновник і CEO",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "Перехідний період між біотехнологією та новою технологічною розробкою — операційний і R&D досвід перед Digital Invest Inc.",
+      "t1brole": "CEO",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "Підприємець року",
@@ -1297,7 +1346,11 @@ const PAGE_CONTENT = {
       "v8highlight": "军用卫星系统工程",
       "v8p1": "研发用于向军舰传输机密信息的卫星收发系统。在拥有 93,000 名员工的工厂中，被认定为最高级别的电子工程师。",
       "v8role": "电子工程师 · 最高类别（第六类）",
-      "v8year": "1984 — 1989"
+      "v8year": "1984 — 1989",
+      "v1p2": "投资组合项目包括 <a href=\"https://biomathlife.com\" target=\"_blank\" rel=\"noopener\">BioMath Life</a>、<a href=\"https://www.biomathcore.com\" target=\"_blank\" rel=\"noopener\">BioMath Core</a>、<a href=\"https://www.type1and2.com\" target=\"_blank\" rel=\"noopener\">Type 1 &amp; 2</a> 和 <a href=\"https://www.luna29.com\" target=\"_blank\" rel=\"noopener\">Luna29</a> — 详细案例研究将陆续发布。",
+      "v1brole": "首席执行官",
+      "v1bp1": "生物技术工作向新技术开发过渡的时期 — 在 Digital Invest Inc. 之前积累运营和研发经验。",
+      "v1byear": "2014 — 2020"
     },
     "career": {
       "t0desc": "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.",
@@ -1343,7 +1396,10 @@ const PAGE_CONTENT = {
       "t9desc": "创立欧洲最大的数字收发卫星系统制造商之一。领导研究、操作系统开发、网络软件应用及整体技术战略，获得国际认可。",
       "t9role": "创始人兼首席执行官",
       "t9title": "Astra Corp",
-      "t9year": "1989 — 1994"
+      "t9year": "1989 — 1994",
+      "t1bdesc": "生物技术工作向新技术开发过渡的时期 — 在 Digital Invest Inc. 之前积累运营和研发经验。",
+      "t1brole": "首席执行官",
+      "t1byear": "2014 — 2020"
     },
     "recognition": {
       "a1title": "年度企业家",

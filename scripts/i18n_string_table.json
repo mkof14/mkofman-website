@@ -1,0 +1,3232 @@
+{
+  "From the Archive": {
+    "es": "Del archivo",
+    "de": "Aus dem Archiv",
+    "fr": "Des archives",
+    "ru": "Из архива",
+    "uk": "З архіву",
+    "zh": "档案精选",
+    "ar": "من الأرشيف",
+    "he": "מהארכיון"
+  },
+  "Authentic material from company building, infrastructure, and leadership.": {
+    "es": "Material auténtico sobre creación de empresas, infraestructura y liderazgo.",
+    "de": "Authentisches Material aus Unternehmensaufbau, Infrastruktur und Führung.",
+    "fr": "Documents authentiques sur la création d'entreprises, l'infrastructure et le leadership.",
+    "ru": "Подлинные материалы о создании компаний, инфраструктуре и лидерстве.",
+    "uk": "Автентичні матеріали про створення компаній, інфраструктуру та лідерство.",
+    "zh": "来自企业创建、基础设施和领导力的真实资料。",
+    "ar": "مواد أصيلة عن بناء الشركات والبنية التحتية والقيادة.",
+    "he": "חומר אותנטי מבניית חברות, תשתיות ומנהיגות."
+  },
+  "Contact": {
+    "es": "Contacto",
+    "de": "Kontakt",
+    "fr": "Contact",
+    "ru": "Контакты",
+    "uk": "Контакти",
+    "zh": "联系",
+    "ar": "تواصل",
+    "he": "יצירת קשר"
+  },
+  "Doctor of Technical Sciences\nPh.D. in Information Technology\nMaster's Degrees — Electronics, Digital Satellite Systems, and Economics": {
+    "es": "Doctor en Ciencias Técnicas\nPh.D. en Tecnologías de la Información\nMaestrías — Electrónica, Sistemas Satelitales Digitales y Economía",
+    "de": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMasterabschlüsse — Elektronik, Digitale Satellitensysteme und Wirtschaft",
+    "fr": "Doctor of Technical Sciences\nPh.D. in Information Technology\nMasters — Électronique, Systèmes satellitaires numériques et Économie",
+    "ru": "Доктор технических наук\nPh.D. в области информационных технологий\nМагистерские степени — электроника, цифровые спутниковые системы и экономика",
+    "uk": "Доктор технічних наук\nPh.D. з інформаційних технологій\nМагістерські ступені — електроніка, цифрові супутникові системи та економіка",
+    "zh": "技术科学博士\n信息技术博士\n硕士学位——电子学、数字卫星系统和经济学",
+    "ar": "دكتوراه في العلوم التقنية\nPh.D. في تكنولوجيا المعلومات\nدرجات ماجستير — إلكترونيات، أنظمة الأقمار الصناعية الرقمية والاقتصاد",
+    "he": "דוקטור למדעי הטכניקה\nPh.D. בטכנולוגיות מידע\nתארים שני — אלקטרוניקה, מערכות לוויין דיגיטליות וכלכלה"
+  },
+  "English, Russian, Ukrainian": {
+    "es": "Inglés, ruso, ucraniano",
+    "de": "Englisch, Russisch, Ukrainisch",
+    "fr": "Anglais, russe, ukrainien",
+    "ru": "Английский, русский, украинский",
+    "uk": "Англійська, російська, українська",
+    "zh": "英语、俄语、乌克兰语",
+    "ar": "الإنجليزية، الروسية، الأوكرانية",
+    "he": "אנגלית, רוסית, אוקראינית"
+  },
+  "Charlotte, North Carolina": {
+    "es": "Charlotte, North Carolina",
+    "de": "Charlotte, North Carolina",
+    "fr": "Charlotte, North Carolina",
+    "ru": "Charlotte, North Carolina",
+    "uk": "Charlotte, North Carolina",
+    "zh": "Charlotte, North Carolina",
+    "ar": "Charlotte, North Carolina",
+    "he": "Charlotte, North Carolina"
+  },
+  "Founder & CEO — hosting and internet infrastructure company, acquired by Concentric Networks in 2000.": {
+    "es": "Fundador y CEO — empresa de hosting e infraestructura de internet, adquirida por Concentric Networks en 2000.",
+    "de": "Gründer & CEO — Hosting- und Internet-Infrastrukturunternehmen, 2000 von Concentric Networks übernommen.",
+    "fr": "Fondateur et CEO — entreprise d'hébergement et d'infrastructure internet, acquise par Concentric Networks en 2000.",
+    "ru": "Основатель и CEO — компания хостинга и интернет-инфраструктуры, приобретённая Concentric Networks в 2000 году.",
+    "uk": "Засновник і CEO — компанія хостингу та інтернет-інфраструктури, придбана Concentric Networks у 2000 році.",
+    "zh": "创始人兼CEO——托管与互联网基础设施公司，2000年被Concentric Networks收购。",
+    "ar": "المؤسس والرئيس التنفيذي — شركة استضافة وبنية تحتية للإنترنت، استحوذت عليها Concentric Networks عام 2000.",
+    "he": "מייסד ו-CEO — חברת אירוח ותשתית אינטרנט, נרכשה על ידי Concentric Networks ב-2000."
+  },
+  "9 Net Avenue": {
+    "es": "9 Net Avenue",
+    "de": "9 Net Avenue",
+    "fr": "9 Net Avenue",
+    "ru": "9 Net Avenue",
+    "uk": "9 Net Avenue",
+    "zh": "9 Net Avenue",
+    "ar": "9 Net Avenue",
+    "he": "9 Net Avenue"
+  },
+  "Data Infrastructure": {
+    "es": "Infraestructura de datos",
+    "de": "Dateninfrastruktur",
+    "fr": "Infrastructure de données",
+    "ru": "Инфраструктура данных",
+    "uk": "Інфраструктура даних",
+    "zh": "数据基础设施",
+    "ar": "بنية البيانات التحتية",
+    "he": "תשתית נתונים"
+  },
+  "Digital Invest Inc., AGRON Inc., and advisory work.": {
+    "es": "Digital Invest Inc., AGRON Inc. y trabajo de asesoría.",
+    "de": "Digital Invest Inc., AGRON Inc. und Advisory-Arbeit.",
+    "fr": "Digital Invest Inc., AGRON Inc. et travail de conseil.",
+    "ru": "Digital Invest Inc., AGRON Inc. и advisory-работа.",
+    "uk": "Digital Invest Inc., AGRON Inc. та advisory-робота.",
+    "zh": "Digital Invest Inc.、AGRON Inc.及顾问工作。",
+    "ar": "Digital Invest Inc. وAGRON Inc. وعمل استشاري.",
+    "he": "Digital Invest Inc., AGRON Inc. ועבודת ייעוץ."
+  },
+  "Today": {
+    "es": "Hoy",
+    "de": "Heute",
+    "fr": "Aujourd'hui",
+    "ru": "Сегодня",
+    "uk": "Сьогодні",
+    "zh": "今日",
+    "ar": "اليوم",
+    "he": "היום"
+  },
+  "The Record →": {
+    "es": "El registro →",
+    "de": "Der Werdegang →",
+    "fr": "Le parcours →",
+    "ru": "Хроника →",
+    "uk": "Хроніка →",
+    "zh": "履历 →",
+    "ar": "السجل →",
+    "he": "הרישום →"
+  },
+  "CEO · Digital Invest Inc. · Founder · AGRON Inc.": {
+    "es": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "de": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "fr": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "ru": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "uk": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "zh": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "ar": "CEO · Digital Invest Inc. · Founder · AGRON Inc.",
+    "he": "CEO · Digital Invest Inc. · Founder · AGRON Inc."
+  },
+  "Background": {
+    "es": "Formación",
+    "de": "Hintergrund",
+    "fr": "Parcours",
+    "ru": "Образование и background",
+    "uk": "Освіта та background",
+    "zh": "背景",
+    "ar": "الخلفية",
+    "he": "רקע"
+  },
+  "Business": {
+    "es": "Negocios",
+    "de": "Unternehmen",
+    "fr": "Entreprise",
+    "ru": "Бизнес",
+    "uk": "Бізнес",
+    "zh": "商业",
+    "ar": "أعمال",
+    "he": "עסקים"
+  },
+  "Current Work": {
+    "es": "Trabajo actual",
+    "de": "Aktuelle Arbeit",
+    "fr": "Travail actuel",
+    "ru": "Текущая работа",
+    "uk": "Поточна робота",
+    "zh": "当前工作",
+    "ar": "العمل الحالي",
+    "he": "עבודה נוכחית"
+  },
+  "Introduction": {
+    "es": "Introducción",
+    "de": "Einführung",
+    "fr": "Introduction",
+    "ru": "Введение",
+    "uk": "Вступ",
+    "zh": "简介",
+    "ar": "مقدمة",
+    "he": "הקדמה"
+  },
+  "Ukrainian State Marine Technical University": {
+    "es": "Universidad Técnica Naval Estatal de Ucrania",
+    "de": "Staatliche Marine-Technische Universität der Ukraine",
+    "fr": "Université technique navale d'État d'Ukraine",
+    "ru": "Украинский государственный морской технический университет",
+    "uk": "Український державний морський технічний університет",
+    "zh": "乌克兰国立海洋技术大学",
+    "ar": "الجامعة التقنية البحرية الحكومية الأوكرانية",
+    "he": "האוניברסיטה הטכנית הימית הממלכתית של אוקראינה"
+  },
+  "Executive Perspective": {
+    "es": "Perspectiva ejecutiva",
+    "de": "Executive Perspective",
+    "fr": "Perspective exécutive",
+    "ru": "Исполнительная перспектива",
+    "uk": "Виконавча перспектива",
+    "zh": "高管视角",
+    "ar": "منظور تنفيذي",
+    "he": "פרספקטיבה מנהלית"
+  },
+  "In 1996, I founded 9 Net Avenue Inc., a hosting and internet infrastructure company. In 2000 it was acquired by Concentric Networks (NASDAQ: CNTX) and subsequently became part of XO Communications (NASDAQ: XOXO).": {
+    "es": "En 1996 fundé 9 Net Avenue Inc., empresa de hosting e infraestructura de internet. En 2000 fue adquirida por Concentric Networks (NASDAQ: CNTX) y posteriormente formó parte de XO Communications (NASDAQ: XOXO).",
+    "de": "1996 gründete ich 9 Net Avenue Inc., ein Hosting- und Internet-Infrastrukturunternehmen. 2000 wurde es von Concentric Networks (NASDAQ: CNTX) übernommen und später Teil von XO Communications (NASDAQ: XOXO).",
+    "fr": "En 1996, j'ai fondé 9 Net Avenue Inc., entreprise d'hébergement et d'infrastructure internet. En 2000, elle a été acquise par Concentric Networks (NASDAQ: CNTX), puis est devenue partie de XO Communications (NASDAQ: XOXO).",
+    "ru": "В 1996 году я основал 9 Net Avenue Inc. — компанию хостинга и интернет-инфраструктуры. В 2000 году она была приобретена Concentric Networks (NASDAQ: CNTX), а затем стала частью XO Communications (NASDAQ: XOXO).",
+    "uk": "У 1996 році я заснував 9 Net Avenue Inc. — компанію хостингу та інтернет-інфраструктури. У 2000 році її придбала Concentric Networks (NASDAQ: CNTX), а згодом вона стала частиною XO Communications (NASDAQ: XOXO).",
+    "zh": "1996年，我创立了9 Net Avenue Inc.，一家托管与互联网基础设施公司。2000年被Concentric Networks（NASDAQ: CNTX）收购，随后成为XO Communications（NASDAQ: XOXO）的一部分。",
+    "ar": "في عام 1996، أسست 9 Net Avenue Inc.، شركة استضافة وبنية تحتية للإنترنت. في عام 2000 استحوذت عليها Concentric Networks (NASDAQ: CNTX) وأصبحت لاحقاً جزءاً من XO Communications (NASDAQ: XOXO).",
+    "he": "ב-1996 ייסדתי את 9 Net Avenue Inc., חברת אירוח ותשתית אינטרנט. ב-2000 נרכשה על ידי Concentric Networks (NASDAQ: CNTX) והפכה לאחר מכן לחלק מ-XO Communications (NASDAQ: XOXO)."
+  },
+  "Digital Health": {
+    "es": "Salud digital",
+    "de": "Digital Health",
+    "fr": "Santé numérique",
+    "ru": "Цифровое здравоохранение",
+    "uk": "Цифрове охорону здоров'я",
+    "zh": "数字健康",
+    "ar": "الصحة الرقمية",
+    "he": "בריאות דיגיטלית"
+  },
+  "Open to strategic advisory conversations with technology, healthcare, and infrastructure organizations — drawing on direct operating experience across company building, technology strategy, and growth-stage execution.": {
+    "es": "Abierto a conversaciones de asesoría estratégica con organizaciones de tecnología, salud e infraestructura — basándome en experiencia operativa directa en creación de empresas, estrategia tecnológica y ejecución en etapas de crecimiento.",
+    "de": "Offen für strategische Advisory-Gespräche mit Technologie-, Gesundheits- und Infrastrukturorganisationen — auf Basis direkter Operating-Erfahrung in Unternehmensaufbau, Technologiestrategie und Wachstumsphasen.",
+    "fr": "Ouvert aux conversations de conseil stratégique avec des organisations technologiques, de santé et d'infrastructure — s'appuyant sur une expérience opérationnelle directe en création d'entreprises, stratégie technologique et exécution en phase de croissance.",
+    "ru": "Открыт к стратегическим advisory-диалогам с технологическими, медицинскими и инфраструктурными организациями — на основе прямого operating-опыта в создании компаний, технологической стратегии и росте.",
+    "uk": "Відкритий до стратегічних advisory-діалогів із технологічними, медичними та інфраструктурними організаціями — на основі прямого operating-досвіду у створенні компаній, технологічній стратегії та зростанні.",
+    "zh": "欢迎与科技、医疗和基础设施机构进行战略顾问对话——基于企业创建、技术战略和成长期执行的一手运营经验。",
+    "ar": "منفتح على محادثات استشارية استراتيجية مع منظمات التكنولوجيا والرعاية الصحية والبنية التحتية — استناداً إلى خبرة تشغيلية مباشرة في بناء الشركات واستراتيجية التكنولوجيا والتنفيذ في مراحل النمو.",
+    "he": "פתוח לשיחות ייעוץ אסטרטגי עם ארגוני טכנולוגיה, בריאות ותשתיות — על בסיס ניסיון תפעולי ישיר בבניית חברות, אסטרטגיה טכנולוגית וביצוע בשלבי צמיחה."
+  },
+  "For advisory inquiries": {
+    "es": "Para consultas de asesoría",
+    "de": "Für Advisory-Anfragen",
+    "fr": "Pour les demandes de conseil",
+    "ru": "По вопросам advisory",
+    "uk": "Щодо advisory-запитів",
+    "zh": "顾问咨询",
+    "ar": "للاستفسارات الاستشارية",
+    "he": "לפניות ייעוץ"
+  },
+  "Advisory": {
+    "es": "Asesoría",
+    "de": "Beratung",
+    "fr": "Conseil",
+    "ru": "Консалтинг",
+    "uk": "Консалтинг",
+    "zh": "顾问",
+    "ar": "استشارات",
+    "he": "ייעוץ"
+  },
+  "Enterprise AI creates value when ownership, data, workflow, and governance mature together.": {
+    "es": "La IA empresarial crea valor cuando la propiedad, los datos, el flujo de trabajo y la gobernanza maduran juntos.",
+    "de": "Unternehmens-KI schafft Wert, wenn Ownership, Daten, Workflow und Governance gemeinsam reifen.",
+    "fr": "L'IA d'entreprise crée de la valeur lorsque la propriété, les données, les workflows et la gouvernance mûrissent ensemble.",
+    "ru": "Корпоративный ИИ создаёт ценность, когда ownership, данные, workflow и governance созревают вместе.",
+    "uk": "Корпоративний ШІ створює цінність, коли ownership, дані, workflow і governance дозрівають разом.",
+    "zh": "企业AI在所有权、数据、工作流和治理共同成熟时才能创造价值。",
+    "ar": "يخلق الذكاء الاصطناعي المؤسسي قيمة عندما تنضج الملكية والبيانات وسير العمل والحوكمة معاً.",
+    "he": "בינה מלאכותית ארגונית יוצרת ערך כשבעלות, נתונים, תהליכי עבודה וממשל מתבגרים יחד."
+  },
+  "Executive Brief": {
+    "es": "Informe ejecutivo",
+    "de": "Executive Brief",
+    "fr": "Note exécutive",
+    "ru": "Исполнительный бриф",
+    "uk": "Виконавчий бриф",
+    "zh": "高管简报",
+    "ar": "ملخص تنفيذي",
+    "he": "תקציר מנהלים"
+  },
+  "Many AI initiatives begin with a compelling demonstration and stall before production. The missing element is rarely the model alone. Sustainable value requires a defined business outcome, accountable owner, dependable data, and a workflow people will actually use.": {
+    "es": "Muchas iniciativas de IA comienzan con una demostración convincente y se estancan antes de producción. Lo que falta rara vez es solo el modelo. El valor sostenible requiere un resultado de negocio definido, un responsable, datos fiables y un flujo de trabajo que la gente realmente use.",
+    "de": "Viele KI-Initiativen beginnen mit einer überzeugenden Demo und stocken vor dem Produktivbetrieb. Selten fehlt allein das Modell. Nachhaltiger Wert erfordert ein definiertes Geschäftsergebnis, klare Verantwortung, verlässliche Daten und einen Workflow, den Menschen tatsächlich nutzen.",
+    "fr": "Beaucoup d'initiatives IA commencent par une démonstration convaincante et s'arrêtent avant la production. Ce qui manque est rarement le modèle seul. Une valeur durable exige un résultat métier défini, un responsable, des données fiables et un workflow réellement adopté.",
+    "ru": "Многие AI-инициативы начинаются с убедительной демонстрации и останавливаются до production. Недостающим элементом редко бывает одна только модель. Устойчивая ценность требует определённого business outcome, ответственного владельца, надёжных данных и workflow, которым люди действительно пользуются.",
+    "uk": "Багато AI-ініціатив починаються з переконливої демонстрації й зупиняються до production. Бракує рідко лише моделі. Стійка цінність потребує визначеного business outcome, відповідального власника, надійних даних і workflow, яким люди справді користуються.",
+    "zh": "许多AI计划始于令人信服的演示，却在投产前停滞。缺失的很少只是模型本身。可持续价值需要明确的业务成果、负责人、可靠的数据以及人们真正会使用的工作流。",
+    "ar": "تبدأ كثير من مبادرات الذكاء الاصطناعي بعرض مقنع وتتوقف قبل الإنتاج. العنصر المفقود نادراً ما يكون النموذج وحده. القيمة المستدامة تتطلب نتيجة أعمال محددة ومالكاً مسؤولاً وبيانات موثوقة وسير عمل يستخدمه الناس فعلاً.",
+    "he": "הרבה יוזמות AI מתחילות בהדגמה משכנעת ונתקעות לפני production. החסר לעיתים רחוקות הוא המודל בלבד. ערך בר-קיימא דורש תוצאה עסקית מוגדרת, בעלים אחראי, נתונים אמינים ו-workflow שאנשים באמת משתמשים בו."
+  },
+  "Leaders should distinguish automation, prediction, and decision support. Each carries different requirements for accuracy, explainability, human review, and risk. A single governance template will not fit every use case.": {
+    "es": "Los líderes deben distinguir automatización, predicción y apoyo a decisiones. Cada una exige distintos requisitos de precisión, explicabilidad, revisión humana y riesgo. Una plantilla de gobernanza única no encaja en todos los casos.",
+    "de": "Führungskräfte sollten Automatisierung, Vorhersage und Entscheidungsunterstützung unterscheiden. Jede Kategorie hat unterschiedliche Anforderungen an Genauigkeit, Erklärbarkeit, menschliche Prüfung und Risiko. Eine Governance-Vorlage passt nicht für jeden Use Case.",
+    "fr": "Les dirigeants doivent distinguer automatisation, prédiction et aide à la décision. Chacune impose des exigences différentes en précision, explicabilité, revue humaine et risque. Un modèle de gouvernance unique ne convient pas à tous les cas.",
+    "ru": "Лидерам следует различать automation, prediction и decision support. У каждого — разные требования к точности, explainability, human review и риску. Единый governance-шаблон не подходит для всех use cases.",
+    "uk": "Лідерам варто розрізняти automation, prediction і decision support. Кожен має різні вимоги до точності, explainability, human review і ризику. Єдиний governance-шаблон не підходить для всіх use cases.",
+    "zh": "领导者应区分自动化、预测和决策支持。各自对准确性、可解释性、人工审查和风险有不同要求。单一治理模板无法适用于所有用例。",
+    "ar": "يجب على القادة التمييز بين الأتمتة والتنبؤ ودعم القرار. لكل منها متطلبات مختلفة للدقة والقابلية للتفسير والمراجعة البشرية والمخاطر. قالب حوكمة واحد لا يناسب كل حالة.",
+    "he": "מנהיגים צריכים להבחין בין automation, prediction ו-decision support. לכל אחד דרישות שונות לדיוק, explainability, ביקורת אנושית וסיכון. תבנית governance אחת לא מתאימה לכל use case."
+  },
+  "Measurement must include more than technical performance. Adoption, cycle time, error rates, customer impact, security exposure, and the cost of supervision determine whether an AI capability is economically and institutionally sound.": {
+    "es": "La medición debe incluir más que el rendimiento técnico. Adopción, tiempo de ciclo, tasas de error, impacto en clientes, exposición de seguridad y coste de supervisión determinan si una capacidad de IA es económicamente e institucionalmente sólida.",
+    "de": "Messung muss mehr als technische Leistung umfassen. Adoption, Durchlaufzeit, Fehlerraten, Kundeneffekt, Sicherheitsrisiko und Aufsichtskosten bestimmen, ob eine KI-Fähigkeit wirtschaftlich und institutionell tragfähig ist.",
+    "fr": "La mesure doit inclure plus que la performance technique. Adoption, délais, taux d'erreur, impact client, exposition sécurité et coût de supervision déterminent si une capacité IA est économiquement et institutionnellement solide.",
+    "ru": "Измерение должно включать больше, чем техническую производительность. Adoption, cycle time, error rates, customer impact, security exposure и cost of supervision определяют, является ли AI-capability экономически и institutionally sound.",
+    "uk": "Вимірювання має включати більше, ніж технічну продуктивність. Adoption, cycle time, error rates, customer impact, security exposure і cost of supervision визначають, чи є AI-capability економічно та institutionally sound.",
+    "zh": "衡量标准必须超越技术性能。采用率、周期时间、错误率、客户影响、安全暴露和监督成本决定AI能力是否在经济和制度上站得住脚。",
+    "ar": "يجب أن تشمل القياس أكثر من الأداء التقني. التبني ووقت الدورة ومعدلات الخطأ وتأثير العملاء والتعرض الأمني وتكلفة الإشراف تحدد ما إذا كانت قدرة الذكاء الاصطناعي سليمة اقتصادياً ومؤسسياً.",
+    "he": "מדידה חייבת לכלול יותר מביצועים טכניים. adoption, cycle time, error rates, customer impact, security exposure ו-cost of supervision קובעים אם יכולת AI sound כלכלית ומוסדית."
+  },
+  "The winning approach is a managed portfolio: scale proven use cases, stop weak ones early, and maintain explicit boundaries for high-consequence decisions. AI strategy is ultimately operating strategy.": {
+    "es": "El enfoque ganador es un portfolio gestionado: escalar casos probados, detener los débiles pronto y mantener límites explícitos para decisiones de alta consecuencia. La estrategia de IA es, en última instancia, estrategia operativa.",
+    "de": "Der erfolgreiche Ansatz ist ein gemanagtes Portfolio: bewährte Use Cases skalieren, schwache früh stoppen und explizite Grenzen für hochkonsequente Entscheidungen setzen. KI-Strategie ist letztlich Operating-Strategie.",
+    "fr": "L'approche gagnante est un portefeuille géré : scaler les cas prouvés, arrêter tôt les faibles et maintenir des limites explicites pour les décisions à haute conséquence. La stratégie IA est ultimement une stratégie opérationnelle.",
+    "ru": "Выигрышный подход — managed portfolio: масштабировать proven use cases, рано останавливать слабые и поддерживать explicit boundaries для high-consequence decisions. AI strategy — это ultimately operating strategy.",
+    "uk": "Переможний підхід — managed portfolio: масштабувати proven use cases, рано зупиняти слабкі та підтримувати explicit boundaries для high-consequence decisions. AI strategy — це ultimately operating strategy.",
+    "zh": "制胜方法是管理型组合：扩展已验证的用例，及早停止弱项，并为高后果决策设定明确边界。AI战略本质上是运营战略。",
+    "ar": "النهج الفائز هو محفظة مُدارة: توسيع حالات الاستخدام المثبتة وإيقاف الضعيفة مبكراً والحفاظ على حدود صريحة للقرارات عالية العواقب. استراتيجية الذكاء الاصطناعي هي في النهاية استرategia تشغيل.",
+    "he": "הגישה המנצחת היא managed portfolio: scale proven use cases, stop weak ones early, maintain explicit boundaries ל-high-consequence decisions. AI strategy היא ultimately operating strategy."
+  },
+  "AI Strategy Beyond the Pilot": {
+    "es": "Estrategia de IA más allá del piloto",
+    "de": "KI-Strategie jenseits des Pilots",
+    "fr": "Stratégie IA au-delà du pilote",
+    "ru": "Стратегия ИИ за пределами пилота",
+    "uk": "Стратегія ШІ за межами пілота",
+    "zh": "超越试点的AI战略",
+    "ar": "استراتيجية الذكاء الاصطناعي وساء التجريبي",
+    "he": "אסטרטגיית AI מעבר לפיילוט"
+  },
+  "The value of genomic information depends on interpretation, evidence, and responsible integration into care.": {
+    "es": "El valor de la información genómica depende de la interpretación, la evidencia y la integración responsable en la atención.",
+    "de": "Der Wert genomischer Information hängt von Interpretation, Evidenz und verantwortungsvoller Integration in die Versorgung ab.",
+    "fr": "La valeur de l'information génomique dépend de l'interprétation, des preuves et d'une intégration responsable dans les soins.",
+    "ru": "Ценность геномной информации зависит от интерпретации, доказательной базы и ответственной интеграции в клиническую практику.",
+    "uk": "Цінність геномної інформації залежить від інтерпретації, доказової бази та відповідальної інтеграції в клінічну практику.",
+    "zh": "基因组信息的价值取决于解读、证据和负责任地融入临床护理。",
+    "ar": "تعتمد قيمة المعلومات الجينومية على التفسير والأدلة والدمج المسؤول في الرعاية.",
+    "he": "ערך המידע הגénomi תלוי בפרשנות, ראיות ואינטגרציה אחראית לטיפול."
+  },
+  "Genetic data is abundant; clinically useful meaning is scarce. A result becomes valuable only when it is interpreted in context, connected to validated evidence, and presented in a form that supports a real decision.": {
+    "es": "Los datos genéticos son abundantes; el significado clínicamente útil es escaso. Un resultado se vuelve valioso solo cuando se interpreta en contexto, se conecta con evidencia validada y se presenta de forma que apoye una decisión real.",
+    "de": "Genetische Daten sind reichlich vorhanden; klinisch nützliche Bedeutung ist selten. Ein Ergebnis wird erst wertvoll, wenn es im Kontext interpretiert, mit validierter Evidenz verbunden und so aufbereitet wird, dass es eine echte Entscheidung unterstützt.",
+    "fr": "Les données génétiques sont abondantes ; la signification cliniquement utile est rare. Un résultat devient précieux seulement s'il est interprété en contexte, relié à des preuves validées et présenté de façon à soutenir une vraie décision.",
+    "ru": "Генетических данных много; clinically useful meaning — редкость. Результат становится ценным только когда интерпретирован в контексте, связан с validated evidence и представлен в форме, поддерживающей реальное решение.",
+    "uk": "Генетичних даних багато; clinically useful meaning — рідкість. Результат стає цінним лише коли інтерпретований у контексті, пов'язаний із validated evidence і поданий у формі, що підтримує реальне рішення.",
+    "zh": "遗传数据 abundant，临床有用的含义 scarce。结果只有在上下文中解读、与已验证证据关联并以支持真实决策的形式呈现时才有价值。",
+    "ar": "البيانات الجينية وفيرة؛ المعنى مفيد سريرياً نادر. تصبح النتيجة قيمة فقط عند تفسيرها في السياق وربطها بأدلة م validated وتقديمها بشكل يدعم قراراً حقيقياً.",
+    "he": "נתונים גenetיים abundant; clinically useful meaning scarce. תוצאה הופכת לערכית רק כשמinterpreted בהקשר, connected ל-validated evidence ו-presented בצורה שתומכת בהחלטה אמיתית."
+  },
+  "That translation requires collaboration across molecular biology, medicine, statistics, software engineering, and patient communication. Weakness in any layer can turn technical sophistication into clinical confusion.": {
+    "es": "Esa traducción requiere colaboración entre biología molecular, medicina, estadística, ingeniería de software y comunicación con pacientes. Una debilidad en cualquier capa puede convertir sofisticación técnica en confusión clínica.",
+    "de": "Diese Übersetzung erfordert Zusammenarbeit zwischen Molekularbiologie, Medizin, Statistik, Software Engineering und Patientenkommunikation. Schwäche in einer Schicht kann technische Raffinesse in klinische Verwirrung verwandeln.",
+    "fr": "Cette traduction exige une collaboration entre biologie moléculaire, médecine, statistiques, ingénierie logicielle et communication patient. Une faiblesse dans une couche peut transformer la sophistication technique en confusion clinique.",
+    "ru": "Такой перевод требует collaboration между molecular biology, medicine, statistics, software engineering и patient communication. Слабость на любом уровне превращает техническую sophistication в clinical confusion.",
+    "uk": "Такий переклад потребує collaboration між molecular biology, medicine, statistics, software engineering і patient communication. Слабкість на будь-якому рівні перетворює technical sophistication на clinical confusion.",
+    "zh": "这种转化需要分子生物学、医学、统计学、软件工程和患者沟通之间的协作。任何一层的薄弱都可能将技术 sophistication 变成临床 confusion。",
+    "ar": "يتطلب هذا الترجمة تعاوناً بين علم الأحياء الجزيئي والطب والإحصاء وهندسة البرمجيات وتواصل المرضى. ضعف في أي طبقة قد يحول الت sophistication التقنية إلى confusion سريري.",
+    "he": "translation זה דורש collaboration בין molecular biology, medicine, statistics, software engineering ו-patient communication. חולשה בשכבה כלשהי עלולה להפוך technical sophistication ל-clinical confusion."
+  },
+  "Privacy and consent are architectural requirements, not legal footnotes. Systems must limit unnecessary exposure, make data provenance visible, and preserve patient agency as information moves between laboratories, platforms, and care teams.": {
+    "es": "La privacidad y el consentimiento son requisitos arquitectónicos, no notas legales al pie. Los sistemas deben limitar la exposición innecesaria, hacer visible la procedencia de los datos y preservar la agencia del paciente cuando la información se mueve entre laboratorios, plataformas y equipos de atención.",
+    "de": "Datenschutz und Einwilligung sind architektonische Anforderungen, keine juristischen Fußnoten. Systeme müssen unnötige Exposition begrenzen, Datenherkunft sichtbar machen und Patientenagency wahren, wenn Informationen zwischen Laboren, Plattformen und Care Teams wandern.",
+    "fr": "Confidentialité et consentement sont des exigences architecturales, pas des notes juridiques. Les systèmes doivent limiter l'exposition inutile, rendre la provenance visible et préserver l'autonomie du patient lorsque l'information circule entre laboratoires, plateformes et équipes de soins.",
+    "ru": "Privacy и consent — architectural requirements, а не legal footnotes. Системы должны ограничивать unnecessary exposure, делать data provenance visible и сохранять patient agency при движении информации между laboratories, platforms и care teams.",
+    "uk": "Privacy і consent — architectural requirements, а не legal footnotes. Системи мають обмежувати unnecessary exposure, робити data provenance visible і зберігати patient agency під час руху інформації між laboratories, platforms і care teams.",
+    "zh": "隐私和同意是架构要求，而非法律脚注。系统必须限制不必要的暴露，使数据来源可见，并在信息在实验室、平台和护理团队之间流动时 preserve 患者自主权。",
+    "ar": "الخصوصية والموافقة متطلبات معمارية وليست حواشي قانونية. يجب أن تحد الأنظمة من التعرض غير الضروري وتجعل مصدر البيانات مرئياً وتحافظ على agency المريض.",
+    "he": "privacy ו-consent הם architectural requirements, לא legal footnotes. מערכות חייבות להגביל unnecessary exposure, להפוך data provenance visible ולשמר patient agency."
+  },
+  "Precision medicine will advance through measured integration: better evidence, transparent models, interoperable workflows, and outcomes that clinicians and patients can evaluate. Trust is part of the product.": {
+    "es": "La medicina de precisión avanzará mediante integración medida: mejor evidencia, modelos transparentes, flujos interoperables y resultados que clínicos y pacientes puedan evaluar. La confianza es parte del producto.",
+    "de": "Precision Medicine wird durch gemessene Integration voranschreiten: bessere Evidenz, transparente Modelle, interoperable Workflows und Ergebnisse, die Kliniker und Patienten bewerten können. Vertrauen ist Teil des Produkts.",
+    "fr": "La médecine de précision avancera par une intégration mesurée : meilleures preuves, modèles transparents, workflows interopérables et résultats que cliniciens et patients peuvent évaluer. La confiance fait partie du produit.",
+    "ru": "Прецизионная медицина будет развиваться через измеренную интеграцию: лучшие доказательства, прозрачные модели, interoperable workflows и результаты, которые могут оценить клиницисты и пациенты. Доверие — часть продукта.",
+    "uk": "Прецизійна медицина розвиватиметься через вимірювану інтеграцію: кращі докази, прозорі моделі, interoperable workflows і результати, які можуть оцінити клініцисти та пацієнти. Довіра — частина продукту.",
+    "zh": "精准医疗将通过有节制的整合推进：更好的证据、透明模型、互操作工作流以及临床医生和患者可评估的结果。信任是产品的一部分。",
+    "ar": "سيتقدم الطب الدقيق عبر تكامل مدروس: أدلة أفضل ونماذج شفافة وسير عمل متكاملة ونتائج يمكن للأطباء والمرضى تقييمها. الثقة جزء من المنتج.",
+    "he": "רפואת דיוק תתקדם דרך אינטגרציה מדודה: ראיות טובות יותר, מודלים שקופים, תהליכי עבודה מתואמים ותוצאות שרופאים ומטופלים יכולים להעריך. אמון הוא חלק מהמוצר."
+  },
+  "From Genetic Data to Clinical Decisions": {
+    "es": "De datos genéticos a decisiones clínicas",
+    "de": "Von genetischen Daten zu klinischen Entscheidungen",
+    "fr": "Des données génétiques aux décisions cliniques",
+    "ru": "От генетических данных к клиническим решениям",
+    "uk": "Від генетичних даних до клінічних рішень",
+    "zh": "从遗传数据到临床决策",
+    "ar": "من البيانات الجينية إلى القرارات السريرية",
+    "he": "מנתונים גenetיים להחלטות קlinיות"
+  },
+  "Public markets do not merely change a company's capital structure; they change its operating contract.": {
+    "es": "Los mercados públicos no solo cambian la estructura de capital; cambian el contrato operativo.",
+    "de": "Öffentliche Märkte verändern nicht nur die Kapitalstruktur; sie verändern den Operating-Vertrag.",
+    "fr": "Les marchés publics ne changent pas seulement la structure du capital ; ils changent le contrat opérationnel.",
+    "ru": "Публичные рынки меняют не только capital structure; они меняют operating contract.",
+    "uk": "Публічні ринки змінюють не лише capital structure; вони змінюють operating contract.",
+    "zh": "公开市场不仅改变资本结构，还改变运营契约。",
+    "ar": "الأسواق العامة لا تغير هيكل رأس المال فحسب؛ بل تغير العقد التشغيلي.",
+    "he": "שווקים ציבוריים לא רק משנים capital structure; הם משנים operating contract."
+  },
+  "An initial public offering is often described as a financing event. In practice, it is an institutional transition. Forecasting, controls, disclosure, governance, and executive communication must become repeatable before the listing, not improvised afterward.": {
+    "es": "Una oferta pública inicial suele describirse como un evento de financiación. En la práctica, es una transición institucional. Pronósticos, controles, divulgación, gobernanza y comunicación ejecutiva deben ser repetibles antes de la cotización, no improvisados después.",
+    "de": "Ein Börsengang wird oft als Finanzierungsereignis beschrieben. In der Praxis ist er ein institutioneller Übergang. Forecasting, Controls, Disclosure, Governance und Executive Communication müssen vor dem Listing wiederholbar sein, nicht danach improvisiert.",
+    "fr": "Une introduction en bourse est souvent décrite comme un événement de financement. En pratique, c'est une transition institutionnelle. Prévisions, contrôles, divulgation, gouvernance et communication exécutive doivent être reproductibles avant la cotation, pas improvisés après.",
+    "ru": "IPO часто описывают как financing event. На практике это institutional transition. Forecasting, controls, disclosure, governance и executive communication должны стать repeatable до listing, а не improvised после.",
+    "uk": "IPO часто описують як financing event. На практиці це institutional transition. Forecasting, controls, disclosure, governance і executive communication мають стати repeatable до listing, а не improvised після.",
+    "zh": "IPO常被描述为融资事件。实际上是制度转型。预测、控制、披露、治理和高管沟通必须在上市前可重复，而非事后即兴。",
+    "ar": "يُ described الاكتتاب العام غالباً كحدث تمويل. عملياً، هو transition مؤسسي. يجب أن تصبح forecasting وcontrols وdisclosure وgovernance وexecutive communication repeatable قبل listing.",
+    "he": "IPO מתואר לעיתים כ-financing event. בפועל, institutional transition. forecasting, controls, disclosure, governance ו-executive communication חייבים repeatable לפני listing."
+  },
+  "Readiness begins with decision quality. Management needs reliable metrics, clear ownership, and an operating cadence that can explain both performance and variance. A company that cannot reconcile its internal narrative will struggle to communicate a credible external one.": {
+    "es": "La preparación comienza con la calidad de las decisiones. La dirección necesita métricas fiables, propiedad clara y un ritmo operativo que explique rendimiento y variaciones. Una empresa que no reconcilia su narrativa interna luchará por comunicar una externa creíble.",
+    "de": "Readiness beginnt mit Entscheidungsqualität. Management braucht verlässliche Metriken, klare Ownership und einen Operating-Rhythmus, der Performance und Varianz erklären kann. Wer die interne Narrative nicht in Einklang bringt, wird extern keine glaubwürdige kommunizieren.",
+    "fr": "La préparation commence par la qualité des décisions. La direction a besoin de métriques fiables, d'une propriété claire et d'un rythme opérationnel capable d'expliquer performance et écarts. Une entreprise qui ne réconcilie pas son récit interne peinera à en communiquer un externe crédible.",
+    "ru": "Readiness начинается с decision quality. Management нужны reliable metrics, clear ownership и operating cadence, способный объяснить performance и variance. Компания, не reconciling internal narrative, будет struggle с credible external one.",
+    "uk": "Readiness починається з decision quality. Management потрібні reliable metrics, clear ownership і operating cadence, здатний пояснити performance і variance. Компанія, що не reconciling internal narrative, буде struggle з credible external one.",
+    "zh": "准备始于决策质量。管理层需要可靠指标、明确所有权和能解释绩效与偏差的运营节奏。无法调和内部叙事的公司将难以传达可信的外部叙事。",
+    "ar": "تبدأ readiness بجودة القرار. يحتاج management إلى reliable metrics وclear ownership وoperating cadence. شركة لا ت reconcili internal narrative ست struggle في external one.",
+    "he": "readiness מתחיל ב-decision quality. management צריך reliable metrics, clear ownership ו-operating cadence. חברה שלא reconciling internal narrative ת struggle עם external one."
+  },
+  "The board's role also changes. Directors must balance growth with oversight, understand material technology and market risks, and ensure that incentives support durable value rather than a single quarter.": {
+    "es": "El papel del consejo también cambia. Los directores deben equilibrar crecimiento y supervisión, comprender riesgos tecnológicos y de mercado materiales, y asegurar que los incentivos apoyen valor duradero, no un solo trimestre.",
+    "de": "Die Rolle des Boards verändert sich ebenfalls. Directors müssen Wachstum und Oversight balancieren, materielle Technologie- und Marktrisiken verstehen und sicherstellen, dass Anreize dauerhaften Wert statt eines einzelnen Quartals unterstützen.",
+    "fr": "Le rôle du conseil change aussi. Les administrateurs doivent équilibrer croissance et supervision, comprendre les risques technologiques et de marché matériels, et veiller à ce que les incitations soutiennent une valeur durable plutôt qu'un seul trimestre.",
+    "ru": "Роль board тоже меняется. Directors должны balance growth и oversight, понимать material technology и market risks и ensure, что incentives support durable value, а не single quarter.",
+    "uk": "Роль board теж змінюється. Directors мають balance growth і oversight, розуміти material technology і market risks і ensure, що incentives support durable value, а не single quarter.",
+    "zh": "董事会角色也改变。董事须平衡增长与监督，理解重大技术和市场风险，并确保激励支持持久价值而非单一季度。",
+    "ar": "يتغير دور board أيضاً. يجب على directors balance growth وoversight وفهم material risks وensure incentives support durable value.",
+    "he": "תפקיד board משתנה. directors חייבים balance growth ו-oversight, understand material risks, ensure incentives support durable value."
+  },
+  "The strongest public companies preserve entrepreneurial speed while adding institutional discipline. The objective is not bureaucracy; it is trustworthy execution at a higher level of accountability.": {
+    "es": "Las empresas públicas más sólidas preservan velocidad emprendedora mientras añaden disciplina institucional. El objetivo no es burocracia; es ejecución confiable a un nivel superior de responsabilidad.",
+    "de": "Die stärksten Public Companies bewahren unternehmerische Geschwindigkeit und fügen institutionelle Disziplin hinzu. Ziel ist nicht Bürokratie, sondern vertrauenswürdige Execution auf höherem Accountability-Niveau.",
+    "fr": "Les entreprises cotées les plus solides préservent la vitesse entrepreneuriale tout en ajoutant une discipline institutionnelle. L'objectif n'est pas la bureaucratie, mais une exécution fiable à un niveau supérieur de responsabilité.",
+    "ru": "Сильнейшие public companies сохраняют entrepreneurial speed, добавляя institutional discipline. Objective — не bureaucracy; это trustworthy execution на более высоком уровне accountability.",
+    "uk": "Найсильніші public companies зберігають entrepreneurial speed, додаючи institutional discipline. Objective — не bureaucracy; це trustworthy execution на вищому рівні accountability.",
+    "zh": "最强的上市公司在增加制度纪律的同时保持创业速度。目标不是官僚主义，而是在更高问责水平上的可信执行。",
+    "ar": "أ strongest public companies تحافظ على entrepreneurial speed مع institutional discipline. الهدف trustworthy execution على مستوى accountability أعلى.",
+    "he": "strongest public companies שומרות entrepreneurial speed עם institutional discipline. objective — trustworthy execution ברמת accountability גבוהה יותר."
+  },
+  "What an IPO Changes": {
+    "es": "Lo que cambia un IPO",
+    "de": "Was ein IPO verändert",
+    "fr": "Ce qu'un IPO change",
+    "ru": "Что меняет IPO",
+    "uk": "Що змінює IPO",
+    "zh": "IPO带来的变化",
+    "ar": "ما يغيره الاكتتاب العام",
+    "he": "מה IPO משנה"
+  },
+  "Early engineering, satellite systems, communications, and related technology work.": {
+    "es": "Ingeniería temprana, sistemas satelitales, comunicaciones y trabajo tecnológico relacionado.",
+    "de": "Frühe Ingenieurarbeit, Satellitensysteme, Kommunikation und verwandte Technologiearbeit.",
+    "fr": "Premiers travaux d'ingénierie, systèmes satellitaires, communications et technologies connexes.",
+    "ru": "Ранняя инженерия, спутниковые системы, коммуникации и смежные технологии.",
+    "uk": "Рання інженерія, супутникові системи, комунікації та суміжні технології.",
+    "zh": "早期工程、卫星系统、通信及相关技术工作。",
+    "ar": "الهندسة المبكرة وأنظمة الأقمار الصناعية والاتصالات والعمل التقني ذي الصلة.",
+    "he": "הנדסה מוקדמת, מערכות לוויין, תקשורת ועבודה טכנולוגית קשורה."
+  },
+  "Engineering & Communications": {
+    "es": "Ingeniería y comunicaciones",
+    "de": "Ingenieurwesen & Kommunikation",
+    "fr": "Ingénierie & communications",
+    "ru": "Инженерия и коммуникации",
+    "uk": "Інженерія та комунікації",
+    "zh": "工程与通信",
+    "ar": "الهندسة والاتصالات",
+    "he": "הנדסה ותקשורת"
+  },
+  "Internet infrastructure, telecommunications, data centers, storage, and related companies.": {
+    "es": "Infraestructura de internet, telecomunicaciones, centros de datos, almacenamiento y empresas relacionadas.",
+    "de": "Internet-Infrastruktur, Telekommunikation, Rechenzentren, Storage und verwandte Unternehmen.",
+    "fr": "Infrastructure internet, télécommunications, centres de données, stockage et entreprises connexes.",
+    "ru": "Интернет-инфраструктура, телекоммуникации, дата-центры, storage и смежные компании.",
+    "uk": "Інтернет-інфраструктура, телекомунікації, дата-центри, storage та суміжні компанії.",
+    "zh": "互联网基础设施、电信、数据中心、存储及相关公司。",
+    "ar": "بنية الإنترنت التحتية والاتصالات ومراكز البيانات والتخزين والشركات ذات الصلة.",
+    "he": "תשתית אינטרנט, טלקום, מרכזי נתונים, אחסון וחברות קשורות."
+  },
+  "Internet & Infrastructure": {
+    "es": "Internet e infraestructura",
+    "de": "Internet & Infrastruktur",
+    "fr": "Internet & infrastructure",
+    "ru": "Интернет и инфраструктура",
+    "uk": "Інтернет та інфраструктура",
+    "zh": "互联网与基础设施",
+    "ar": "الإنترنت والبنية التحتية",
+    "he": "אינטרנט ותשתית"
+  },
+  "Company building, transactions, public-company involvement, and executive roles.": {
+    "es": "Creación de empresas, transacciones, participación en compañías públicas y roles ejecutivos.",
+    "de": "Unternehmensaufbau, Transaktionen, Beteiligung an Public Companies und Executive-Rollen.",
+    "fr": "Création d'entreprises, transactions, implication dans des sociétés cotées et rôles exécutifs.",
+    "ru": "Создание компаний, сделки, участие в public companies и executive-роли.",
+    "uk": "Створення компаній, угоди, участь у public companies та executive-ролі.",
+    "zh": "企业创建、交易、上市公司参与和高管角色。",
+    "ar": "بناء الشركات والمعاملات والمشاركة في الشركات العامة والأدوار التنفيذية.",
+    "he": "בניית חברות, עסקאות, מעורבות בחברות ציבוריות ותפקידים executive."
+  },
+  "Companies & Public Markets": {
+    "es": "Empresas y mercados públicos",
+    "de": "Unternehmen & öffentliche Märkte",
+    "fr": "Entreprises & marchés publics",
+    "ru": "Компании и публичные рынки",
+    "uk": "Компанії та публічні ринки",
+    "zh": "公司与公开市场",
+    "ar": "الشركات والأسواق العامة",
+    "he": "חברות ושווקים ציבוריים"
+  },
+  "Biotechnology, health-related technology, data, and precision medicine.": {
+    "es": "Biotecnología, tecnología sanitaria, datos y medicina de precisión.",
+    "de": "Biotechnologie, Gesundheitstechnologie, Daten und Precision Medicine.",
+    "fr": "Biotechnologie, technologie de santé, données et médecine de précision.",
+    "ru": "Биотехнологии, health-related technology, data и precision medicine.",
+    "uk": "Біотехнології, health-related technology, data та precision medicine.",
+    "zh": "生物技术、健康相关技术、数据和精准医疗。",
+    "ar": "التكنولوجيا الحيوية وتكنولوجيا الصحة والبيانات والطب الدقيق.",
+    "he": "ביוטכנולוגיה, טכנולוגיית בריאות, נתונים ורפואת דיוק."
+  },
+  "Life Sciences & Human Data": {
+    "es": "Ciencias de la vida y datos humanos",
+    "de": "Life Sciences & Human Data",
+    "fr": "Sciences de la vie & données humaines",
+    "ru": "Науки о жизни и данные о человеке",
+    "uk": "Науки про життя та дані про людину",
+    "zh": "生命科学与人类数据",
+    "ar": "علوم الحياة وبيانات الإنسان",
+    "he": "מדעי החיים ונתוני אדם"
+  },
+  "Technology strategy and delivery for government, defense, and state-owned enterprise programs.": {
+    "es": "Estrategia y entrega tecnológica para programas gubernamentales, de defensa y empresas estatales.",
+    "de": "Technologiestrategie und -umsetzung für Regierungs-, Verteidigungs- und staatliche Unternehmensprogramme.",
+    "fr": "Stratégie et déploiement technologiques pour programmes gouvernementaux, de défense et d'entreprises publiques.",
+    "ru": "Технологическая стратегия и delivery для government, defense и state-owned enterprise programs.",
+    "uk": "Технологічна стратегія та delivery для government, defense і state-owned enterprise programs.",
+    "zh": "为政府、国防和国有企事业项目提供技术战略与交付。",
+    "ar": "استراتيجية وتقديم التكنولوجيا لبرامج الحكومة والدفاع والمؤسسات المملوكة للدولة.",
+    "he": "אסטרטגיה ומסירה טכנולוגית לתוכניות ממשלתיות, ביטחוניות ומ enterprises בבעלות מדינה."
+  },
+  "Government & Defense Programs": {
+    "es": "Programas gubernamentales y de defensa",
+    "de": "Regierungs- & Verteidigungsprogramme",
+    "fr": "Programmes gouvernementaux & défense",
+    "ru": "Государственные и оборонные программы",
+    "uk": "Державні та оборонні програми",
+    "zh": "政府与国防项目",
+    "ar": "برامج حكومية ودفاعية",
+    "he": "תוכניות ממשלה וביטחון"
+  },
+  "Autonomous Systems": {
+    "es": "Sistemas autónomos",
+    "de": "Autonome Systeme",
+    "fr": "Systèmes autonomes",
+    "ru": "Автономные системы",
+    "uk": "Автономні системи",
+    "zh": "自主系统",
+    "ar": "أنظمة مستقلة",
+    "he": "מערכות אוטונומיות"
+  },
+  "AI, robotics, autonomous operations, geospatial systems, and related current infrastructure.": {
+    "es": "IA, robótica, operaciones autónomas, sistemas geoespaciales e infraestructura actual relacionada.",
+    "de": "KI, Robotik, autonome Operationen, geospatiale Systeme und verwandte aktuelle Infrastruktur.",
+    "fr": "IA, robotique, opérations autonomes, systèmes géospatiaux et infrastructure actuelle connexe.",
+    "ru": "ИИ, робототехника, автономные операции, geospatial systems и related current infrastructure.",
+    "uk": "ШІ, робототехніка, автономні операції, geospatial systems та related current infrastructure.",
+    "zh": "AI、机器人、自主运营、地理空间系统及相关当前基础设施。",
+    "ar": "الذكاء الاصطناعي والروبotics والعمليات المستقلة والأنظمة الج geospatial والبنية التحتية الحالية ذات الصلة.",
+    "he": "AI, רובוטיקה, פעילות אוטונומית, מערכות geospatial ותשתית נוכחית קשורה."
+  },
+  "Founded AGRON Inc. to build the AGRON Ecosystem — consulting, assessment, capability development, training infrastructure, and product support for UAV and Counter-UAS programmes, plus AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure. Connects aerial and ground robotics, governed mission execution, and network infrastructure linking teams, assets, and operational data.": {
+    "es": "Fundó AGRON Inc. para construir el AGRON Ecosystem — consultoría, evaluación, desarrollo de capacidades, infraestructura de formación y soporte de productos para programas UAV y Counter-UAS, más AGRON Maritime Intelligence + Security para yates, marinas e infraestructura marítima privada. Conecta robótica aérea y terrestre, ejecución de misiones gobernada e infraestructura de red que vincula equipos, activos y datos operativos.",
+    "de": "Gründete AGRON Inc. zum Aufbau des AGRON Ecosystem — Beratung, Assessment, Capability Development, Trainingsinfrastruktur und Produktsupport für UAV- und Counter-UAS-Programme sowie AGRON Maritime Intelligence + Security für Yachten, Marinas und private maritime Infrastruktur. Verbindet Luft-Boden-Robotik, governed Mission Execution und Netzwerkinfrastruktur für Teams, Assets und operative Daten.",
+    "fr": "A fondé AGRON Inc. pour construire l'AGRON Ecosystem — conseil, évaluation, développement de capacités, infrastructure de formation et support produit pour programmes UAV et Counter-UAS, plus AGRON Maritime Intelligence + Security pour yachts, marinas et infrastructure maritime privée. Relie robotique aérienne et terrestre, exécution de mission gouvernée et infrastructure réseau liant équipes, actifs et données opérationnelles.",
+    "ru": "Основал AGRON Inc. для построения AGRON Ecosystem — consulting, assessment, capability development, training infrastructure и product support для UAV и Counter-UAS programmes, плюс AGRON Maritime Intelligence + Security для yachts, marinas и private maritime infrastructure. Связывает aerial и ground robotics, governed mission execution и network infrastructure, linking teams, assets и operational data.",
+    "uk": "Заснував AGRON Inc. для побудови AGRON Ecosystem — consulting, assessment, capability development, training infrastructure і product support для UAV і Counter-UAS programmes, плюс AGRON Maritime Intelligence + Security для yachts, marinas і private maritime infrastructure. Поєднує aerial і ground robotics, governed mission execution і network infrastructure, linking teams, assets і operational data.",
+    "zh": "创立AGRON Inc.以构建AGRON Ecosystem——为UAV和Counter-UAS项目提供咨询、评估、能力开发、培训基础设施和产品支持，以及面向游艇、 marina和私人海事基础设施的AGRON Maritime Intelligence + Security。连接空地机器人、受治理的任务执行以及联结团队、资产和运营数据的网络基础设施。",
+    "ar": "أسس AGRON Inc. لبناء AGRON Ecosystem — استشارات وتقييم وتطوير قدرات وبنية تدريب ودعم منتجات لبرامج UAV وCounter-UAS، بالإضافة إلى AGRON Maritime Intelligence + Security لليachts والmarinas والبنية التحتية البحرية الخاصة.",
+    "he": "ייסד AGRON Inc. לבניית AGRON Ecosystem — consulting, assessment, capability development, training infrastructure ו-product support ל-UAV ו-Counter-UAS programmes, plus AGRON Maritime Intelligence + Security ל-yachts, marinas ו-private maritime infrastructure."
+  },
+  "Founder": {
+    "es": "Founder",
+    "de": "Founder",
+    "fr": "Founder",
+    "ru": "Founder",
+    "uk": "Founder",
+    "zh": "Founder",
+    "ar": "Founder",
+    "he": "Founder"
+  },
+  "AGRON Inc.": {
+    "es": "AGRON Inc.",
+    "de": "AGRON Inc.",
+    "fr": "AGRON Inc.",
+    "ru": "AGRON Inc.",
+    "uk": "AGRON Inc.",
+    "zh": "AGRON Inc.",
+    "ar": "AGRON Inc.",
+    "he": "AGRON Inc."
+  },
+  "2026 — Present": {
+    "es": "2026 — Present",
+    "de": "2026 — Present",
+    "fr": "2026 — Present",
+    "ru": "2026 — Present",
+    "uk": "2026 — Present",
+    "zh": "2026 — Present",
+    "ar": "2026 — Present",
+    "he": "2026 — Present"
+  },
+  "Nikolaev Shipbuilding Plant": {
+    "es": "Nikolaev Shipbuilding Plant",
+    "de": "Nikolaev Shipbuilding Plant",
+    "fr": "Nikolaev Shipbuilding Plant",
+    "ru": "Nikolaev Shipbuilding Plant",
+    "uk": "Nikolaev Shipbuilding Plant",
+    "zh": "Nikolaev Shipbuilding Plant",
+    "ar": "Nikolaev Shipbuilding Plant",
+    "he": "Nikolaev Shipbuilding Plant"
+  },
+  "1984 — 1989": {
+    "es": "1984 — 1989",
+    "de": "1984 — 1989",
+    "fr": "1984 — 1989",
+    "ru": "1984 — 1989",
+    "uk": "1984 — 1989",
+    "zh": "1984 — 1989",
+    "ar": "1984 — 1989",
+    "he": "1984 — 1989"
+  },
+  "Digital Invest Inc.": {
+    "es": "Digital Invest Inc.",
+    "de": "Digital Invest Inc.",
+    "fr": "Digital Invest Inc.",
+    "ru": "Digital Invest Inc.",
+    "uk": "Digital Invest Inc.",
+    "zh": "Digital Invest Inc.",
+    "ar": "Digital Invest Inc.",
+    "he": "Digital Invest Inc."
+  },
+  "2001 — 2019": {
+    "es": "2001 — 2019",
+    "de": "2001 — 2019",
+    "fr": "2001 — 2019",
+    "ru": "2001 — 2019",
+    "uk": "2001 — 2019",
+    "zh": "2001 — 2019",
+    "ar": "2001 — 2019",
+    "he": "2001 — 2019"
+  },
+  "CEO & CTO": {
+    "es": "CEO & CTO",
+    "de": "CEO & CTO",
+    "fr": "CEO & CTO",
+    "ru": "CEO & CTO",
+    "uk": "CEO & CTO",
+    "zh": "CEO & CTO",
+    "ar": "CEO & CTO",
+    "he": "CEO & CTO"
+  },
+  "Biotechnology Group Inc.": {
+    "es": "Biotechnology Group Inc.",
+    "de": "Biotechnology Group Inc.",
+    "fr": "Biotechnology Group Inc.",
+    "ru": "Biotechnology Group Inc.",
+    "uk": "Biotechnology Group Inc.",
+    "zh": "Biotechnology Group Inc.",
+    "ar": "Biotechnology Group Inc.",
+    "he": "Biotechnology Group Inc."
+  },
+  "2008 — 2014": {
+    "es": "2008 — 2014",
+    "de": "2008 — 2014",
+    "fr": "2008 — 2014",
+    "ru": "2008 — 2014",
+    "uk": "2008 — 2014",
+    "zh": "2008 — 2014",
+    "ar": "2008 — 2014",
+    "he": "2008 — 2014"
+  },
+  "2000 — 2012": {
+    "es": "2000 — 2012",
+    "de": "2000 — 2012",
+    "fr": "2000 — 2012",
+    "ru": "2000 — 2012",
+    "uk": "2000 — 2012",
+    "zh": "2000 — 2012",
+    "ar": "2000 — 2012",
+    "he": "2000 — 2012"
+  },
+  "XIBI Group Inc.": {
+    "es": "XIBI Group Inc.",
+    "de": "XIBI Group Inc.",
+    "fr": "XIBI Group Inc.",
+    "ru": "XIBI Group Inc.",
+    "uk": "XIBI Group Inc.",
+    "zh": "XIBI Group Inc.",
+    "ar": "XIBI Group Inc.",
+    "he": "XIBI Group Inc."
+  },
+  "2006 — 2011": {
+    "es": "2006 — 2011",
+    "de": "2006 — 2011",
+    "fr": "2006 — 2011",
+    "ru": "2006 — 2011",
+    "uk": "2006 — 2011",
+    "zh": "2006 — 2011",
+    "ar": "2006 — 2011",
+    "he": "2006 — 2011"
+  },
+  "DataPeer Inc.": {
+    "es": "DataPeer Inc.",
+    "de": "DataPeer Inc.",
+    "fr": "DataPeer Inc.",
+    "ru": "DataPeer Inc.",
+    "uk": "DataPeer Inc.",
+    "zh": "DataPeer Inc.",
+    "ar": "DataPeer Inc.",
+    "he": "DataPeer Inc."
+  },
+  "2000 — 2004": {
+    "es": "2000 — 2004",
+    "de": "2000 — 2004",
+    "fr": "2000 — 2004",
+    "ru": "2000 — 2004",
+    "uk": "2000 — 2004",
+    "zh": "2000 — 2004",
+    "ar": "2000 — 2004",
+    "he": "2000 — 2004"
+  },
+  "Founded and led 9 Net Avenue Inc., a hosting and internet infrastructure company. Acquired by Concentric Networks (NASDAQ: CNTX) in 2000; subsequently part of XO Communications (NASDAQ: XOXO).": {
+    "es": "Fundó y dirigió 9 Net Avenue Inc., empresa de hosting e infraestructura de internet. Adquirida por Concentric Networks (NASDAQ: CNTX) en 2000; posteriormente parte de XO Communications (NASDAQ: XOXO).",
+    "de": "Gründete und leitete 9 Net Avenue Inc., ein Hosting- und Internet-Infrastrukturunternehmen. 2000 von Concentric Networks (NASDAQ: CNTX) übernommen; später Teil von XO Communications (NASDAQ: XOXO).",
+    "fr": "A fondé et dirigé 9 Net Avenue Inc., entreprise d'hébergement et d'infrastructure internet. Acquise par Concentric Networks (NASDAQ: CNTX) en 2000 ; ensuite partie de XO Communications (NASDAQ: XOXO).",
+    "ru": "Основал и возглавил 9 Net Avenue Inc. — компанию хостинга и интернет-инфраструктуры. Приобретена Concentric Networks (NASDAQ: CNTX) в 2000; subsequently part of XO Communications (NASDAQ: XOXO).",
+    "uk": "Заснував і очолив 9 Net Avenue Inc. — компанію хостингу та інтернет-інфраструктури. Придбана Concentric Networks (NASDAQ: CNTX) у 2000; subsequently part of XO Communications (NASDAQ: XOXO).",
+    "zh": "创立并领导9 Net Avenue Inc.，一家托管与互联网基础设施公司。2000年被Concentric Networks（NASDAQ: CNTX）收购；随后成为XO Communications（NASDAQ: XOXO）的一部分。",
+    "ar": "أسس وقاد 9 Net Avenue Inc.، شركة استضافة وبنية تحتية للإنترنت. استحوذت عليها Concentric Networks (NASDAQ: CNTX) عام 2000؛ ثم أصبحت جزءاً من XO Communications (NASDAQ: XOXO).",
+    "he": "ייסד והנהיג 9 Net Avenue Inc., חברת אירוח ותשתית אינטרנט. נרכשה על ידי Concentric Networks (NASDAQ: CNTX) ב-2000; subsequently part of XO Communications (NASDAQ: XOXO)."
+  },
+  "9 Net Avenue Inc.": {
+    "es": "9 Net Avenue Inc.",
+    "de": "9 Net Avenue Inc.",
+    "fr": "9 Net Avenue Inc.",
+    "ru": "9 Net Avenue Inc.",
+    "uk": "9 Net Avenue Inc.",
+    "zh": "9 Net Avenue Inc.",
+    "ar": "9 Net Avenue Inc.",
+    "he": "9 Net Avenue Inc."
+  },
+  "1996 — 2000": {
+    "es": "1996 — 2000",
+    "de": "1996 — 2000",
+    "fr": "1996 — 2000",
+    "ru": "1996 — 2000",
+    "uk": "1996 — 2000",
+    "zh": "1996 — 2000",
+    "ar": "1996 — 2000",
+    "he": "1996 — 2000"
+  },
+  "Elitan United Inc.": {
+    "es": "Elitan United Inc.",
+    "de": "Elitan United Inc.",
+    "fr": "Elitan United Inc.",
+    "ru": "Elitan United Inc.",
+    "uk": "Elitan United Inc.",
+    "zh": "Elitan United Inc.",
+    "ar": "Elitan United Inc.",
+    "he": "Elitan United Inc."
+  },
+  "1994 — 1996": {
+    "es": "1994 — 1996",
+    "de": "1994 — 1996",
+    "fr": "1994 — 1996",
+    "ru": "1994 — 1996",
+    "uk": "1994 — 1996",
+    "zh": "1994 — 1996",
+    "ar": "1994 — 1996",
+    "he": "1994 — 1996"
+  },
+  "Astra Corp": {
+    "es": "Astra Corp",
+    "de": "Astra Corp",
+    "fr": "Astra Corp",
+    "ru": "Astra Corp",
+    "uk": "Astra Corp",
+    "zh": "Astra Corp",
+    "ar": "Astra Corp",
+    "he": "Astra Corp"
+  },
+  "1989 — 1994": {
+    "es": "1989 — 1994",
+    "de": "1989 — 1994",
+    "fr": "1989 — 1994",
+    "ru": "1989 — 1994",
+    "uk": "1989 — 1994",
+    "zh": "1989 — 1994",
+    "ar": "1989 — 1994",
+    "he": "1989 — 1994"
+  },
+  "The Record": {
+    "es": "El registro",
+    "de": "Der Werdegang",
+    "fr": "Le parcours",
+    "ru": "Хроника",
+    "uk": "Хроніка",
+    "zh": "履历",
+    "ar": "السجل",
+    "he": "הרישום"
+  },
+  "Data Infrastructure · 1996 — 2000": {
+    "es": "Infraestructura de datos · 1996 — 2000",
+    "de": "Dateninfrastruktur · 1996 — 2000",
+    "fr": "Infrastructure de données · 1996 — 2000",
+    "ru": "Инфраструктура данных · 1996 — 2000",
+    "uk": "Інфраструктура даних · 1996 — 2000",
+    "zh": "数据基础设施 · 1996 — 2000",
+    "ar": "بنية البيانات التحتية · 1996 — 2000",
+    "he": "תשתית נתונים · 1996 — 2000"
+  },
+  "Acquired by Concentric Networks (NASDAQ: CNTX) in 2000; subsequently part of XO Communications (NASDAQ: XOXO). Following the transaction, continued work with public companies and board-level roles.": {
+    "es": "Adquirida por Concentric Networks (NASDAQ: CNTX) en 2000; posteriormente parte de XO Communications (NASDAQ: XOXO). Tras la transacción, continuó el trabajo con empresas públicas y roles a nivel de consejo.",
+    "de": "2000 von Concentric Networks (NASDAQ: CNTX) übernommen; später Teil von XO Communications (NASDAQ: XOXO). Nach der Transaktion weiterhin Arbeit mit Public Companies und Board-Level-Rollen.",
+    "fr": "Acquise par Concentric Networks (NASDAQ: CNTX) en 2000 ; ensuite partie de XO Communications (NASDAQ: XOXO). Après la transaction, poursuite du travail avec sociétés cotées et rôles au niveau du conseil.",
+    "ru": "Приобретена Concentric Networks (NASDAQ: CNTX) в 2000; затем часть XO Communications (NASDAQ: XOXO). После сделки продолжил работу с публичными компаниями и ролями на уровне совета директоров.",
+    "uk": "Придбана Concentric Networks (NASDAQ: CNTX) у 2000; потім частина XO Communications (NASDAQ: XOXO). Після угоди продовжив роботу з публічними компаніями та ролями на рівні ради директорів.",
+    "zh": "2000年被Concentric Networks（NASDAQ: CNTX）收购；后成为XO Communications（NASDAQ: XOXO）的一部分。交易后继续与上市公司合作并担任董事会级别职务。",
+    "ar": "استحوذت عليها Concentric Networks (NASDAQ: CNTX) عام 2000؛ ثم أصبحت جزءاً من XO Communications (NASDAQ: XOXO). واصل العمل مع الشركات العامة والأدوار على مستوى مجلس الإدارة بعد الصفقة.",
+    "he": "נרכשה על ידי Concentric Networks (NASDAQ: CNTX) ב-2000; לאחר מכן חלק מ-XO Communications (NASDAQ: XOXO). המשיך לעבוד עם חברות ציבוריות ותפקידים ברמת דירקטוריון לאחר העסקה."
+  },
+  "Approach": {
+    "es": "Enfoque",
+    "de": "Ansatz",
+    "fr": "Approche",
+    "ru": "Подход",
+    "uk": "Підхід",
+    "zh": "方法",
+    "ar": "النهج",
+    "he": "גישה"
+  },
+  "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — consulting, assessment and validation, capability development, training infrastructure, product development support, geospatial systems through ISDRI, and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.": {
+    "es": "Fundó AGRON Inc. en 2026 para liderar el AGRON Ecosystem — consultoría, evaluación y validación, desarrollo de capacidades, infraestructura de formación, apoyo al desarrollo de productos, sistemas geoespaciales a través de ISDRI y AGRON Maritime Intelligence + Security para yates, marinas e infraestructura marítima privada.",
+    "de": "Gründete AGRON Inc. 2026 zur Führung des AGRON Ecosystem — Beratung, Assessment und Validierung, Capability Development, Trainingsinfrastruktur, Product-Development-Support, geospatial systems über ISDRI und AGRON Maritime Intelligence + Security für Yachten, Marinas und private maritime Infrastruktur.",
+    "fr": "A fondé AGRON Inc. en 2026 pour diriger l'AGRON Ecosystem — conseil, évaluation et validation, développement de capacités, infrastructure de formation, support au développement produit, systèmes géospatiaux via ISDRI et AGRON Maritime Intelligence + Security pour yachts, marinas et infrastructure maritime privée.",
+    "ru": "Основал AGRON Inc. в 2026 году для руководства AGRON Ecosystem — консалтинг, оценка и валидация, развитие возможностей, инфраструктура обучения, поддержка разработки продуктов, геопространственные системы через ISDRI и AGRON Maritime Intelligence + Security для яхт, марин и частной морской инфраструктуры.",
+    "uk": "Заснував AGRON Inc. у 2026 році для керівництва AGRON Ecosystem — консалтинг, оцінка та валідація, розвиток можливостей, інфраструктура навчання, підтримка розробки продуктів, геопросторові системи через ISDRI і AGRON Maritime Intelligence + Security для яхт, марин і приватної морської інфраструктури.",
+    "zh": "于2026年创立AGRON Inc.以领导AGRON Ecosystem——涵盖咨询、评估与验证、能力开发、培训基础设施、产品开发支持、通过ISDRI的地理空间系统，以及面向游艇、 marina和私人海事基础设施的AGRON Maritime Intelligence + Security。",
+    "ar": "أسس AGRON Inc. عام 2026 لقيادة AGRON Ecosystem — استشارات وتقييم وتطوير قدرات وبنية تدريب ودعم تطوير المنتجات وأنظمة geospatial عبر ISDRI وAGRON Maritime Intelligence + Security لليachts والmarinas والبنية البحرية الخاصة.",
+    "he": "ייסד AGRON Inc. ב-2026 כדי להוביל את AGRON Ecosystem — ייעוץ, הערכה ואימות, פיתוח יכולות, תשתית הכשרה, תמיכה בפיתוח מוצרים, מערכות geospatial דרך ISDRI ו-AGRON Maritime Intelligence + Security ליachts, marinas ותשתית ימית פרטית."
+  },
+  "Challenge": {
+    "es": "Desafío",
+    "de": "Herausforderung",
+    "fr": "Défi",
+    "ru": "Вызов",
+    "uk": "Виклик",
+    "zh": "挑战",
+    "ar": "التحدي",
+    "he": "אתגר"
+  },
+  "Organizations building UAV and Counter-UAS capability need independent assessment, structured training, and operational architecture — not isolated platforms or ad-hoc piloting.": {
+    "es": "Las organizaciones que desarrollan capacidad UAV y Counter-UAS necesitan evaluación independiente, formación estructurada y arquitectura operativa — no plataformas aisladas ni pilotos ad hoc.",
+    "de": "Organisationen, die UAV- und Counter-UAS-Fähigkeiten aufbauen, brauchen unabhängiges Assessment, strukturiertes Training und Operating-Architektur — keine isolierten Plattformen oder Ad-hoc-Piloten.",
+    "fr": "Les organisations développant des capacités UAV et Counter-UAS ont besoin d'évaluation indépendante, de formation structurée et d'une architecture opérationnelle — pas de plateformes isolées ni de pilotes ad hoc.",
+    "ru": "Организациям, развивающим возможности UAV и Counter-UAS, нужны независимая оценка, структурированное обучение и операционная архитектура — а не изолированные платформы или ad-hoc piloting.",
+    "uk": "Організаціям, що розвивають можливості UAV і Counter-UAS, потрібні незалежна оцінка, структуроване навчання та операційна архітектура — а не ізольовані платформи чи ad-hoc piloting.",
+    "zh": "构建UAV和Counter-UAS能力的组织需要独立评估、结构化培训和运营架构——而非孤立平台或临时试点。",
+    "ar": "المنظمات التي تبني قدرات UAV وCounter-UAS تحتاج تقييماً مستقلاً وتدريباً منظماً وبنية تشغيلية — لا منصات معزولة أو piloting ad hoc.",
+    "he": "ארגונים שבונים יכולת UAV ו-Counter-UAS זקוקים להערכה עצמאית, הכשרה מובנית וארכיטקטורה תפעולית — לא לפלטפורמות מבודדות או ניסויים ad hoc."
+  },
+  "Robotics & UAV · 2026 — Present": {
+    "es": "Robótica y UAV · 2026 — Presente",
+    "de": "Robotik & UAV · 2026 — heute",
+    "fr": "Robotique & UAV · 2026 — Aujourd'hui",
+    "ru": "Робототехника и БПЛА · 2026 — настоящее время",
+    "uk": "Робототехніка та БПЛА · 2026 — теперішній час",
+    "zh": "机器人与UAV · 2026 — 至今",
+    "ar": "الروبotics وUAV · 2026 — الحاضر",
+    "he": "רובוטיקה ו-UAV · 2026 — הווה"
+  },
+  "Outcome": {
+    "es": "Resultado",
+    "de": "Ergebnis",
+    "fr": "Résultat",
+    "ru": "Результат",
+    "uk": "Результат",
+    "zh": "成果",
+    "ar": "النتيجة",
+    "he": "תוצאה"
+  },
+  "Independent director and board-level work in technology strategy, corporate governance, and growth-stage oversight.": {
+    "es": "Trabajo independiente en juntas directivas y nivel consejo en estrategia tecnológica, gobierno corporativo y supervisión en etapas de crecimiento.",
+    "de": "Unabhängige Board- und Aufsichtsratsarbeit in Technologiestrategie, Corporate Governance und Growth-Stage-Oversight.",
+    "fr": "Mandats indépendants au conseil d'administration en stratégie technologique, gouvernance d'entreprise et supervision en phase de croissance.",
+    "ru": "Независимая работа в советах директоров: технологическая стратегия, корпоративное управление и oversight на growth stage.",
+    "uk": "Незалежна робота в радах директорів: технологічна стратегія, корпоративне управління та oversight на growth stage.",
+    "zh": "独立担任董事会成员，从事技术战略、公司治理和成长期监督工作。",
+    "ar": "عمل مستقل في مجالس الإدارة على استراتيجية التكنولوجيا والحوكمة المؤسسية والإشراف في مراحل النمو.",
+    "he": "עבודה עצמאית בדירקטוריונים באסטרטגיה טכנולוגית, ממשל תאגידי ופיקוח בשלבי צמיחה."
+  },
+  "Board Service": {
+    "es": "Servicio en juntas",
+    "de": "Board Service",
+    "fr": "Mandats au conseil",
+    "ru": "Работа в совете директоров",
+    "uk": "Робота в раді директорів",
+    "zh": "董事会服务",
+    "ar": "خدمة مجلس الإدارة",
+    "he": "שירות דירקטוריון"
+  },
+  "Corporate and technology strategy, organizational development, transactions, and applicable capital-markets experience.": {
+    "es": "Estrategia corporativa y tecnológica, desarrollo organizacional, transacciones y experiencia aplicable en mercados de capitales.",
+    "de": "Corporate- und Technologiestrategie, Organisationsentwicklung, Transaktionen und anwendbare Kapitalmarkterfahrung.",
+    "fr": "Stratégie d'entreprise et technologique, développement organisationnel, transactions et expérience applicable des marchés de capitaux.",
+    "ru": "Корпоративная и технологическая стратегия, организационное развитие, сделки и applicable capital-markets experience.",
+    "uk": "Корпоративна та технологічна стратегія, організаційний розвиток, угоди та applicable capital-markets experience.",
+    "zh": "企业和技术战略、组织发展、交易及适用的资本市场经验。",
+    "ar": "استراتيجية الشركات والتكنولوجيا والتطوير التنظيمي والمعاملات وخبرة أسواق رأس المال.",
+    "he": "אסטרטגיה תאגידית וטכנולוגית, פיתוח ארגוני, עסקאות וניסיון בשוק ההון."
+  },
+  "CEO & Founder Advisory": {
+    "es": "Asesoría para CEO y fundadores",
+    "de": "CEO- & Founder Advisory",
+    "fr": "Conseil CEO & fondateurs",
+    "ru": "Консалтинг для CEO и основателей",
+    "uk": "Консалтинг для CEO та засновників",
+    "zh": "CEO与创始人顾问",
+    "ar": "استشارات CEOs والمؤسسين",
+    "he": "ייעוץ CEO ומייסדים"
+  },
+  "Evaluation of infrastructure, data platforms, security architecture, and applied technology based on documented operating experience.": {
+    "es": "Evaluación de infraestructura, plataformas de datos, arquitectura de seguridad y tecnología aplicada basada en experiencia operativa documentada.",
+    "de": "Bewertung von Infrastruktur, Datenplattformen, Sicherheitsarchitektur und angewandter Technologie auf Basis dokumentierter Operating-Erfahrung.",
+    "fr": "Évaluation de l'infrastructure, des plateformes de données, de l'architecture de sécurité et de la technologie appliquée, fondée sur une expérience opérationnelle documentée.",
+    "ru": "Оценка инфраструктуры, data platforms, security architecture и applied technology на основе documented operating experience.",
+    "uk": "Оцінка інфраструктури, data platforms, security architecture та applied technology на основі documented operating experience.",
+    "zh": "基于 documented 运营经验，评估基础设施、数据平台、安全架构和应用技术。",
+    "ar": "تقييم البنية التحتية ومنصات البيانات وهندسة الأمن والتكنولوجيا التطبيقية بناءً على خبرة تشغيلية موثقة.",
+    "he": "הערכת תשתיות, פלטפורמות נתונים, ארכיטקטורת אבטחה וטכנולוגיה יישומית על בסיס ניסיון תפעולי מתועד."
+  },
+  "Technology Due Diligence": {
+    "es": "Due diligence tecnológico",
+    "de": "Technology Due Diligence",
+    "fr": "Due diligence technologique",
+    "ru": "Технологический due diligence",
+    "uk": "Технологічний due diligence",
+    "zh": "技术尽职调查",
+    "ar": "العناية الواجبة التقنية",
+    "he": "Due diligence טכנולוגי"
+  },
+  "Strategic advisory work is documented on the Advisory page. For professional inquiries, use Contact.": {
+    "es": "El trabajo de asesoría estratégica está documentado en la página Advisory. Para consultas profesionales, use Contact.",
+    "de": "Strategische Advisory-Arbeit ist auf der Advisory-Seite dokumentiert. Für professionelle Anfragen nutzen Sie Contact.",
+    "fr": "Le travail de conseil stratégique est documenté sur la page Advisory. Pour les demandes professionnelles, utilisez Contact.",
+    "ru": "Strategic advisory work документирован на странице Advisory. Для professional inquiries — Contact.",
+    "uk": "Strategic advisory work задокументовано на сторінці Advisory. Для professional inquiries — Contact.",
+    "zh": "战略顾问工作详见Advisory页面。专业咨询请使用Contact。",
+    "ar": "العمل الاستشاري الاستراتيجي موثق في صفحة Advisory. للاستفسارات المهنية، استخدم Contact.",
+    "he": "עבודת ייעוץ אסטרטגי מתועדת בעמוד Advisory. לפניות מקצועיות, השתמשו ב-Contact."
+  },
+  "Advisory →": {
+    "es": "Asesoría →",
+    "de": "Beratung →",
+    "fr": "Conseil →",
+    "ru": "Консалтинг →",
+    "uk": "Консалтинг →",
+    "zh": "顾问 →",
+    "ar": "استشارات →",
+    "he": "ייעוץ →"
+  },
+  "Open Scheduling Calendar": {
+    "es": "Abrir calendario de citas",
+    "de": "Terminkalender öffnen",
+    "fr": "Ouvrir le calendrier",
+    "ru": "Открыть календарь встреч",
+    "uk": "Відкрити календар зустрічей",
+    "zh": "打开预约日历",
+    "ar": "فتح تقويم المواعيد",
+    "he": "פתח יומן תיאומים"
+  },
+  "Schedule a Conversation": {
+    "es": "Programar una conversación",
+    "de": "Gespräch vereinbaren",
+    "fr": "Planifier une conversation",
+    "ru": "Запланировать разговор",
+    "uk": "Запланувати розмову",
+    "zh": "预约对话",
+    "ar": "جدولة محادثة",
+    "he": "קבע שיחה"
+  },
+  "For qualified board, advisory, speaking, and strategic partnership inquiries.": {
+    "es": "Para consultas calificadas de juntas, asesoría, conferencias y alianzas estratégicas.",
+    "de": "Für qualifizierte Anfragen zu Board, Advisory, Vorträgen und strategischen Partnerschaften.",
+    "fr": "Pour demandes qualifiées de conseil, mandats au conseil, conférences et partenariats stratégiques.",
+    "ru": "Для qualified запросов по board, advisory, speaking и strategic partnerships.",
+    "uk": "Для qualified запитів щодо board, advisory, speaking і strategic partnerships.",
+    "zh": "适用于董事会、顾问、演讲和战略合作伙伴方面的 qualified 咨询。",
+    "ar": "للاستفسارات الم calificada عن مجلس الإدارة والاستشارات والمحاضرات والشراكات الاستراتيجية.",
+    "he": "לפניות qualified בנושאי דירקטוריון, ייעוץ, הרצאות ושותפויות אסטרטגיות."
+  },
+  "Scheduling calendar will appear here.": {
+    "es": "El calendario de citas aparecerá aquí.",
+    "de": "Terminkalender erscheint hier.",
+    "fr": "Le calendrier apparaîtra ici.",
+    "ru": "Календарь встреч появится здесь.",
+    "uk": "Календар зустрічей з'явиться тут.",
+    "zh": "预约日历将显示在此处。",
+    "ar": "سيظهر تقويم المواعيد هنا.",
+    "he": "יומן התיאומים יופיע כאן."
+  },
+  "Choose a Convenient Time": {
+    "es": "Elija un horario conveniente",
+    "de": "Passenden Termin wählen",
+    "fr": "Choisir un horaire",
+    "ru": "Выберите удобное время",
+    "uk": "Оберіть зручний час",
+    "zh": "选择方便的时间",
+    "ar": "اختر وقتاً مناسباً",
+    "he": "בחרו זמן נוח"
+  },
+  "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nFounder": {
+    "es": "Digital Invest Inc.\nCEO y miembro del consejo\nAGRON Inc.\nFundador",
+    "de": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nGründer",
+    "fr": "Digital Invest Inc.\nCEO & membre du conseil\nAGRON Inc.\nFondateur",
+    "ru": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nОснователь",
+    "uk": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nЗасновник",
+    "zh": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\n创始人",
+    "ar": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nالمؤسس",
+    "he": "Digital Invest Inc.\nCEO & Board Member\nAGRON Inc.\nמייסד"
+  },
+  "Email": {
+    "es": "Email",
+    "de": "Email",
+    "fr": "Email",
+    "ru": "Email",
+    "uk": "Email",
+    "zh": "Email",
+    "ar": "Email",
+    "he": "Email"
+  },
+  "Inquiry Type": {
+    "es": "Tipo de consulta",
+    "de": "Art der Anfrage",
+    "fr": "Type de demande",
+    "ru": "Тип запроса",
+    "uk": "Тип запиту",
+    "zh": "咨询类型",
+    "ar": "نوع الاستفسار",
+    "he": "סוג פנייה"
+  },
+  "LinkedIn": {
+    "es": "LinkedIn",
+    "de": "LinkedIn",
+    "fr": "LinkedIn",
+    "ru": "LinkedIn",
+    "uk": "LinkedIn",
+    "zh": "LinkedIn",
+    "ar": "LinkedIn",
+    "he": "LinkedIn"
+  },
+  "Charlotte, North Carolina\nUnited States": {
+    "es": "Charlotte, North Carolina\nEstados Unidos",
+    "de": "Charlotte, North Carolina\nVereinigte Staaten",
+    "fr": "Charlotte, North Carolina\nÉtats-Unis",
+    "ru": "Charlotte, North Carolina\nСоединённые Штаты",
+    "uk": "Charlotte, North Carolina\nСполучені Штати",
+    "zh": "Charlotte, North Carolina\n美国",
+    "ar": "Charlotte, North Carolina\nالولايات المتحدة",
+    "he": "Charlotte, North Carolina\nארצות הברית"
+  },
+  "Message": {
+    "es": "Mensaje",
+    "de": "Nachricht",
+    "fr": "Message",
+    "ru": "Сообщение",
+    "uk": "Повідомлення",
+    "zh": "留言",
+    "ar": "رسالة",
+    "he": "הודעה"
+  },
+  "Confidential discussion: contact Michael Kofman through mkofman.com": {
+    "es": "Discusión confidencial: contacte a Michael Kofman en mkofman.com",
+    "de": "Vertrauliches Gespräch: Michael Kofman über mkofman.com kontaktieren",
+    "fr": "Discussion confidentielle : contacter Michael Kofman via mkofman.com",
+    "ru": "Конфиденциальное обсуждение: связаться с Michael Kofman через mkofman.com",
+    "uk": "Конфіденційна розмова: зв'язатися з Michael Kofman через mkofman.com",
+    "zh": "保密讨论：通过 mkofman.com 联系 Michael Kofman",
+    "ar": "مناقشة سرية: تواصل مع Michael Kofman عبر mkofman.com",
+    "he": "דיון סודי: צרו קשר עם Michael Kofman דרך mkofman.com"
+  },
+  "Michael Kofman": {
+    "es": "Michael Kofman",
+    "de": "Michael Kofman",
+    "fr": "Michael Kofman",
+    "ru": "Michael Kofman",
+    "uk": "Michael Kofman",
+    "zh": "Michael Kofman",
+    "ar": "Michael Kofman",
+    "he": "Michael Kofman"
+  },
+  "Navigation": {
+    "es": "Navegación",
+    "de": "Navigation",
+    "fr": "Navigation",
+    "ru": "Навигация",
+    "uk": "Навігація",
+    "zh": "导航",
+    "ar": "التنقل",
+    "he": "ניווט"
+  },
+  "Privacy Policy": {
+    "es": "Política de privacidad",
+    "de": "Datenschutz",
+    "fr": "Politique de confidentialité",
+    "ru": "Политика конфиденциальности",
+    "uk": "Політика конфіденційності",
+    "zh": "隐私政策",
+    "ar": "سياسة الخصوصية",
+    "he": "מדיניות פרטיות"
+  },
+  "All active sites →": {
+    "es": "Todos los sitios activos →",
+    "de": "Alle aktiven Sites →",
+    "fr": "Tous les sites actifs →",
+    "ru": "Все активные сайты →",
+    "uk": "Усі активні сайти →",
+    "zh": "所有活跃网站 →",
+    "ar": "جميع المواقع النشطة →",
+    "he": "כל האתרים הפעילים →"
+  },
+  "Entrepreneur Magazine · 2001": {
+    "es": "Entrepreneur Magazine · 2001",
+    "de": "Entrepreneur Magazine · 2001",
+    "fr": "Entrepreneur Magazine · 2001",
+    "ru": "Entrepreneur Magazine · 2001",
+    "uk": "Entrepreneur Magazine · 2001",
+    "zh": "Entrepreneur Magazine · 2001",
+    "ar": "Entrepreneur Magazine · 2001",
+    "he": "Entrepreneur Magazine · 2001"
+  },
+  "Who's Who": {
+    "es": "Who's Who",
+    "de": "Who's Who",
+    "fr": "Who's Who",
+    "ru": "Who's Who",
+    "uk": "Who's Who",
+    "zh": "Who's Who",
+    "ar": "Who's Who",
+    "he": "Who's Who"
+  },
+  "Satellite transceiver systems, digital communications, and early engineering leadership.": {
+    "es": "Sistemas transceptores satelitales, comunicaciones digitales y liderazgo en ingeniería temprana.",
+    "de": "Satellitentransceiver-Systeme, digitale Kommunikation und frühe Engineering-Führung.",
+    "fr": "Systèmes émetteurs-récepteurs satellitaires, communications numériques et leadership en ingénierie précoce.",
+    "ru": "Спутниковые transceiver systems, digital communications и раннее engineering leadership.",
+    "uk": "Супутникові transceiver systems, digital communications і раннє engineering leadership.",
+    "zh": "卫星收发器系统、数字通信和早期工程领导。",
+    "ar": "أنظمة transceiver للأقمار الصناعية واتصالات رقمية وقيادة هندسية مبكرة.",
+    "he": "מערכות transceiver לווייניות, תקשורת דיגיטלית ומנהיגות הנדסית מוקדמת."
+  },
+  "Internet infrastructure, data centers, storage, and telecommunications at scale.": {
+    "es": "Infraestructura de internet, centros de datos, almacenamiento y telecomunicaciones a escala.",
+    "de": "Internet-Infrastruktur, Rechenzentren, Storage und Telekommunikation im großen Maßstab.",
+    "fr": "Infrastructure internet, centres de données, stockage et télécommunications à grande échelle.",
+    "ru": "Интернет-инфраструктура, дата-центры, storage и telecommunications at scale.",
+    "uk": "Інтернет-інфраструктура, дата-центри, storage і telecommunications at scale.",
+    "zh": "互联网基础设施、数据中心、存储和大规模电信。",
+    "ar": "بنية الإنترنت التحtية ومراكز البيانات والتخزين والاتصالات على نطاق واسع.",
+    "he": "תשתית אינטרנט, מרכזי נתונים, אחסון וטלקום בקנה מידה."
+  },
+  "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.": {
+    "es": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "de": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "fr": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "ru": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "uk": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "zh": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "ar": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc.",
+    "he": "Company-building, acquisitions, and public-company experience including 9 Net Avenue Inc."
+  },
+  "Technology Companies & Public Markets": {
+    "es": "Empresas tecnológicas y mercados públicos",
+    "de": "Technologieunternehmen & öffentliche Märkte",
+    "fr": "Entreprises technologiques & marchés publics",
+    "ru": "Технологические компании и публичные рынки",
+    "uk": "Технологічні компанії та публічні ринки",
+    "zh": "科技公司与公开市场",
+    "ar": "شركات التكنولوجيا والأسواق العامة",
+    "he": "חברות טכנולוגיה ושווקים ציבוריים"
+  },
+  "Biotechnology, genetic data, precision medicine, and health intelligence platforms.": {
+    "es": "Biotecnología, datos genéticos, medicina de precisión y plataformas de inteligencia sanitaria.",
+    "de": "Biotechnologie, genetische Daten, Precision Medicine und Health-Intelligence-Plattformen.",
+    "fr": "Biotechnologie, données génétiques, médecine de précision et plateformes d'intelligence santé.",
+    "ru": "Biotechnology, genetic data, precision medicine и health intelligence platforms.",
+    "uk": "Biotechnology, genetic data, precision medicine і health intelligence platforms.",
+    "zh": "生物技术、基因数据、精准医疗和健康智能平台。",
+    "ar": "التكنولوجيا الحيوية والبيانات الجينية والطب الدقيق ومنصات intelligence الصحية.",
+    "he": "Biotechnology, genetic data, precision medicine ו-health intelligence platforms."
+  },
+  "Aerial-ground robotics, UAV operations, and geospatial infrastructure.": {
+    "es": "Robótica aérea-terrestre, operaciones UAV e infraestructura geoespacial.",
+    "de": "Luft-Boden-Robotik, UAV-Operationen und geospatiale Infrastruktur.",
+    "fr": "Robotique aéro-terrestre, opérations UAV et infrastructure géospatiale.",
+    "ru": "Aerial-ground robotics, UAV operations и geospatial infrastructure.",
+    "uk": "Aerial-ground robotics, UAV operations і geospatial infrastructure.",
+    "zh": "空地机器人、UAV运营和地理空间基础设施。",
+    "ar": "روبotics جو-أرض، عمليات UAV وبنية geospatial.",
+    "he": "Aerial-ground robotics, UAV operations ו-geospatial infrastructure."
+  },
+  "Selected milestones from engineering through current work in autonomous systems.": {
+    "es": "Hitos seleccionados desde la ingeniería hasta el trabajo actual en sistemas autónomos.",
+    "de": "Ausgewählte Meilensteine vom Ingenieurwesen bis zur aktuellen Arbeit an autonomen Systemen.",
+    "fr": "Jalons sélectionnés de l'ingénierie au travail actuel sur les systèmes autonomes.",
+    "ru": "Selected milestones от engineering через current work в autonomous systems.",
+    "uk": "Selected milestones від engineering через current work в autonomous systems.",
+    "zh": "从工程到当前自主系统工作的精选里程碑。",
+    "ar": "محطات مختارة من الهندسة إلى العمل الحالي في الأنظمة المستقلة.",
+    "he": "Selected milestones מהנדסה ועד current work ב-autonomous systems."
+  },
+  "agron1.com →": {
+    "es": "agron1.com →",
+    "de": "agron1.com →",
+    "fr": "agron1.com →",
+    "ru": "agron1.com →",
+    "uk": "agron1.com →",
+    "zh": "agron1.com →",
+    "ar": "agron1.com →",
+    "he": "agron1.com →"
+  },
+  "Perspectives": {
+    "es": "Perspectivas",
+    "de": "Perspektiven",
+    "fr": "Perspectives",
+    "ru": "Перспективы",
+    "uk": "Перспективи",
+    "zh": "观点",
+    "ar": "وجهات نظر",
+    "he": "פרספקטיבות"
+  },
+  "All insights →": {
+    "es": "Todas las perspectivas →",
+    "de": "Alle Einblicke →",
+    "fr": "Toutes les perspectives →",
+    "ru": "Все инсайты →",
+    "uk": "Усі інсайти →",
+    "zh": "全部见解 →",
+    "ar": "جميع الرؤى →",
+    "he": "כל התובנות →"
+  },
+  "Selected Writing": {
+    "es": "Escritos seleccionados",
+    "de": "Ausgewählte Texte",
+    "fr": "Écrits sélectionnés",
+    "ru": "Избранные тексты",
+    "uk": "Обрані тексти",
+    "zh": "精选文章",
+    "ar": "كتابات مختارة",
+    "he": "כתיבה נבחרת"
+  },
+  "The operating and governance disciplines that public-market readiness demands.": {
+    "es": "Las disciplinas operativas y de gobernanza que exige la preparación para mercados públicos.",
+    "de": "Die Operating- und Governance-Disziplinen, die Public-Market-Readiness verlangt.",
+    "fr": "Les disciplines opérationnelles et de gouvernance exigées par la préparation aux marchés publics.",
+    "ru": "Operating и governance disciplines, которые требует public-market readiness.",
+    "uk": "Operating і governance disciplines, які вимагає public-market readiness.",
+    "zh": "公开市场准备所要求的运营和治理纪律。",
+    "ar": "انضباط التشغيل والحوكمة الذي تتطلبه readiness للأسواق العامة.",
+    "he": "Operating ו-governance disciplines ש-public-market readiness דורש."
+  },
+  "Capital Markets": {
+    "es": "Mercados de capitales",
+    "de": "Kapitalmärkte",
+    "fr": "Marchés de capitaux",
+    "ru": "Рынки капитала",
+    "uk": "Ринки капіталу",
+    "zh": "资本市场",
+    "ar": "أسواق رأس المال",
+    "he": "שוק ההון"
+  },
+  "How to build useful health intelligence without outrunning evidence or trust.": {
+    "es": "Cómo construir inteligencia sanitaria útil sin adelantarse a la evidencia o la confianza.",
+    "de": "Wie man nützliche Health Intelligence aufbaut, ohne Evidenz oder Vertrauen zu überholen.",
+    "fr": "Comment construire une intelligence santé utile sans dépasser les preuves ni la confiance.",
+    "ru": "Как создать полезную health intelligence, не опережая доказательства и доверие.",
+    "uk": "Як створити корисну health intelligence, не випереджаючи докази та довіру.",
+    "zh": "如何在不超越证据或信任的前提下构建有用的健康智能。",
+    "ar": "كيفية بناء ذكاء صحي مفيد دون تجاوز الأدلة أو الثقة.",
+    "he": "כיצד לבנות מודיעין בריאותי שימושי מבלי לעקוף ראיות או אמון."
+  },
+  "Precision Medicine": {
+    "es": "Medicina de precisión",
+    "de": "Precision Medicine",
+    "fr": "Médecine de précision",
+    "ru": "Прецизионная медицина",
+    "uk": "Прецизійна медицина",
+    "zh": "精准医疗",
+    "ar": "الطب الدقيق",
+    "he": "רפואת דיוק"
+  },
+  "A framework for turning experiments into governed enterprise capability.": {
+    "es": "Un marco para convertir experimentos en capacidad empresarial gobernada.",
+    "de": "Ein Rahmen, um Experimente in governed Enterprise Capability zu verwandeln.",
+    "fr": "Un cadre pour transformer les expériences en capacité d'entreprise gouvernée.",
+    "ru": "Framework для превращения experiments в governed enterprise capability.",
+    "uk": "Framework для перетворення experiments на governed enterprise capability.",
+    "zh": "将实验转化为受治理的企业能力的框架。",
+    "ar": "إطار لتحويل experiments إلى governed enterprise capability.",
+    "he": "Framework להפיכת experiments ל-governed enterprise capability."
+  },
+  "Artificial Intelligence": {
+    "es": "Inteligencia artificial",
+    "de": "Künstliche Intelligenz",
+    "fr": "Intelligence artificielle",
+    "ru": "Искусственный интеллект",
+    "uk": "Штучний інтелект",
+    "zh": "人工智能",
+    "ar": "الذكاء الاصطناعي",
+    "he": "בינה מלאכותית"
+  },
+  "Executive Briefs": {
+    "es": "Informes ejecutivos",
+    "de": "Executive Briefs",
+    "fr": "Notes exécutives",
+    "ru": "Исполнительные брифы",
+    "uk": "Виконавчі брифи",
+    "zh": "高管简报",
+    "ar": "ملخصات تنفيذية",
+    "he": "תקצירי מנהלים"
+  },
+  "Short, practical perspectives on governance, technology, healthcare, and company building.": {
+    "es": "Perspectivas breves y prácticas sobre gobernanza, tecnología, salud y creación de empresas.",
+    "de": "Kurze, praktische Perspektiven zu Governance, Technologie, Gesundheit und Unternehmensaufbau.",
+    "fr": "Perspectives courtes et pratiques sur gouvernance, technologie, santé et création d'entreprises.",
+    "ru": "Краткие практические perspectives о governance, technology, healthcare и company building.",
+    "uk": "Короткі практичні perspectives про governance, technology, healthcare і company building.",
+    "zh": "关于治理、技术、医疗和企业创建的简短实用观点。",
+    "ar": "Perspectives قصيرة وعملية عن governance والتكنولogia والرعاية الصحية وبناء الشركات.",
+    "he": "Short, practical perspectives על governance, technology, healthcare ו-company building."
+  },
+  "Ideas for Leaders": {
+    "es": "Ideas para líderes",
+    "de": "Ideen für Führungskräfte",
+    "fr": "Idées pour les dirigeants",
+    "ru": "Идеи для лидеров",
+    "uk": "Ідеї для лідерів",
+    "zh": "领导者之思",
+    "ar": "أفكار للقادة",
+    "he": "רעיונות למנהיגים"
+  },
+  "Substantive writing and executive briefs.": {
+    "es": "Escritos sustantivos e informes ejecutivos.",
+    "de": "Substanzielle Texte und Executive Briefs.",
+    "fr": "Écrits substantiels et notes exécutives.",
+    "ru": "Substantive writing и executive briefs.",
+    "uk": "Substantive writing і executive briefs.",
+    "zh": "实质性文章和高管简报。",
+    "ar": "كتابة substantive وexecutive briefs.",
+    "he": "Substantive writing ו-executive briefs."
+  },
+  "Subscribe for Updates": {
+    "es": "Suscribirse a actualizaciones",
+    "de": "Updates abonnieren",
+    "fr": "S'abonner aux mises à jour",
+    "ru": "Подписаться на обновления",
+    "uk": "Підписатися на оновлення",
+    "zh": "订阅更新",
+    "ar": "اشترك في التحديثات",
+    "he": "הירשמו לעדכונים"
+  },
+  "Occasional Notes": {
+    "es": "Notas ocasionales",
+    "de": "Gelegentliche Notizen",
+    "fr": "Notes occasionnelles",
+    "ru": "Время от времени",
+    "uk": "Час від часу",
+    "zh": "不定期札记",
+    "ar": "ملاحظات متفرقة",
+    "he": "הערות מדי פעם"
+  },
+  "Periodic essays and brief observations on technology, governance, and durable company building.": {
+    "es": "Ensayos periódicos y breves observaciones sobre tecnología, gobernanza y creación de empresas duraderas.",
+    "de": "Periodische Essays und kurze Beobachtungen zu Technologie, Governance und dauerhaftem Unternehmensaufbau.",
+    "fr": "Essais périodiques et brèves observations sur technologie, gouvernance et création d'entreprises durables.",
+    "ru": "Periodic essays и brief observations о technology, governance и durable company building.",
+    "uk": "Periodic essays і brief observations про technology, governance і durable company building.",
+    "zh": "关于技术、治理和持久企业创建的定期随笔和简短观察。",
+    "ar": "Periodic essays وbrief observations عن technology وgovernance وبناء شركات durable.",
+    "he": "Periodic essays ו-brief observations על technology, governance ו-durable company building."
+  },
+  "Executive Perspective, Without the Noise": {
+    "es": "Perspectiva ejecutiva, sin ruido",
+    "de": "Executive Perspective, ohne Lärm",
+    "fr": "Perspective exécutive, sans bruit",
+    "ru": "Исполнительная перспектива без шума",
+    "uk": "Виконавча перспектива без шуму",
+    "zh": "高管视角，拒绝噪音",
+    "ar": "منظور تنفيذي بلا ضجيج",
+    "he": "פרספקטיבה מנהלית, ללא רעש"
+  },
+  "Clayton M. Christensen": {
+    "es": "Clayton M. Christensen",
+    "de": "Clayton M. Christensen",
+    "fr": "Clayton M. Christensen",
+    "ru": "Clayton M. Christensen",
+    "uk": "Clayton M. Christensen",
+    "zh": "Clayton M. Christensen",
+    "ar": "Clayton M. Christensen",
+    "he": "Clayton M. Christensen"
+  },
+  "The Innovator's Dilemma": {
+    "es": "The Innovator's Dilemma",
+    "de": "The Innovator's Dilemma",
+    "fr": "The Innovator's Dilemma",
+    "ru": "The Innovator's Dilemma",
+    "uk": "The Innovator's Dilemma",
+    "zh": "The Innovator's Dilemma",
+    "ar": "The Innovator's Dilemma",
+    "he": "The Innovator's Dilemma"
+  },
+  "Daniel Kahneman": {
+    "es": "Daniel Kahneman",
+    "de": "Daniel Kahneman",
+    "fr": "Daniel Kahneman",
+    "ru": "Daniel Kahneman",
+    "uk": "Daniel Kahneman",
+    "zh": "Daniel Kahneman",
+    "ar": "Daniel Kahneman",
+    "he": "Daniel Kahneman"
+  },
+  "Thinking, Fast and Slow": {
+    "es": "Thinking, Fast and Slow",
+    "de": "Thinking, Fast and Slow",
+    "fr": "Thinking, Fast and Slow",
+    "ru": "Thinking, Fast and Slow",
+    "uk": "Thinking, Fast and Slow",
+    "zh": "Thinking, Fast and Slow",
+    "ar": "Thinking, Fast and Slow",
+    "he": "Thinking, Fast and Slow"
+  },
+  "David Deutsch": {
+    "es": "David Deutsch",
+    "de": "David Deutsch",
+    "fr": "David Deutsch",
+    "ru": "David Deutsch",
+    "uk": "David Deutsch",
+    "zh": "David Deutsch",
+    "ar": "David Deutsch",
+    "he": "David Deutsch"
+  },
+  "The Beginning of Infinity": {
+    "es": "The Beginning of Infinity",
+    "de": "The Beginning of Infinity",
+    "fr": "The Beginning of Infinity",
+    "ru": "The Beginning of Infinity",
+    "uk": "The Beginning of Infinity",
+    "zh": "The Beginning of Infinity",
+    "ar": "The Beginning of Infinity",
+    "he": "The Beginning of Infinity"
+  },
+  "Richard Rumelt": {
+    "es": "Richard Rumelt",
+    "de": "Richard Rumelt",
+    "fr": "Richard Rumelt",
+    "ru": "Richard Rumelt",
+    "uk": "Richard Rumelt",
+    "zh": "Richard Rumelt",
+    "ar": "Richard Rumelt",
+    "he": "Richard Rumelt"
+  },
+  "Good Strategy/Bad Strategy": {
+    "es": "Good Strategy/Bad Strategy",
+    "de": "Good Strategy/Bad Strategy",
+    "fr": "Good Strategy/Bad Strategy",
+    "ru": "Good Strategy/Bad Strategy",
+    "uk": "Good Strategy/Bad Strategy",
+    "zh": "Good Strategy/Bad Strategy",
+    "ar": "Good Strategy/Bad Strategy",
+    "he": "Good Strategy/Bad Strategy"
+  },
+  "Thomas S. Kuhn": {
+    "es": "Thomas S. Kuhn",
+    "de": "Thomas S. Kuhn",
+    "fr": "Thomas S. Kuhn",
+    "ru": "Thomas S. Kuhn",
+    "uk": "Thomas S. Kuhn",
+    "zh": "Thomas S. Kuhn",
+    "ar": "Thomas S. Kuhn",
+    "he": "Thomas S. Kuhn"
+  },
+  "The Structure of Scientific Revolutions": {
+    "es": "The Structure of Scientific Revolutions",
+    "de": "The Structure of Scientific Revolutions",
+    "fr": "The Structure of Scientific Revolutions",
+    "ru": "The Structure of Scientific Revolutions",
+    "uk": "The Structure of Scientific Revolutions",
+    "zh": "The Structure of Scientific Revolutions",
+    "ar": "The Structure of Scientific Revolutions",
+    "he": "The Structure of Scientific Revolutions"
+  },
+  "Reading List": {
+    "es": "Lista de lectura",
+    "de": "Leseliste",
+    "fr": "Liste de lecture",
+    "ru": "Список для чтения",
+    "uk": "Список для читання",
+    "zh": "阅读清单",
+    "ar": "قائمة القراءة",
+    "he": "רשימת קריאה"
+  },
+  "Books That Shape Strategic Thinking": {
+    "es": "Libros que moldean el pensamiento estratégico",
+    "de": "Bücher, die strategisches Denken prägen",
+    "fr": "Livres qui façonnent la pensée stratégique",
+    "ru": "Книги, формирующие стратегическое мышление",
+    "uk": "Книги, що формують стратегічне мислення",
+    "zh": "塑造战略思维的书籍",
+    "ar": "كتب تشكّل التفكير الاستراتيجي",
+    "he": "ספרים שמעצבים חשיבה אסטרטגית"
+  },
+  "Recognition, press coverage, and patents are documented separately.": {
+    "es": "Reconocimientos, cobertura de prensa y patentes se documentan por separado.",
+    "de": "Anerkennung, Presseberichte und Patente sind separat dokumentiert.",
+    "fr": "Reconnaissance, couverture presse et brevets sont documentés séparément.",
+    "ru": "Recognition, press coverage и patents документированы отдельно.",
+    "uk": "Recognition, press coverage і patents задокументовано окремо.",
+    "zh": "荣誉、媒体报道和专利另见专门页面。",
+    "ar": "Recognition وpress coverage وpatents documented separately.",
+    "he": "Recognition, press coverage ו-patents documented separately."
+  },
+  "Insights": {
+    "es": "Perspectivas",
+    "de": "Einblicke",
+    "fr": "Perspectives",
+    "ru": "Инсайты",
+    "uk": "Інсайти",
+    "zh": "见解",
+    "ar": "رؤى",
+    "he": "תובנות"
+  },
+  "Intellectual Property": {
+    "es": "Propiedad intelectual",
+    "de": "Geistiges Eigentum",
+    "fr": "Propriété intellectuelle",
+    "ru": "Интеллектуальная собственность",
+    "uk": "Інтелектуальна власність",
+    "zh": "知识产权",
+    "ar": "الملكية الفكرية",
+    "he": "קניין רוחני"
+  },
+  "Selected patents, publications, and research programs connecting engineering rigor with practical business and societal outcomes.": {
+    "es": "Patentes, publicaciones y programas de investigación seleccionados que conectan el rigor de ingeniería con resultados empresariales y sociales prácticos.",
+    "de": "Ausgewählte Patente, Publikationen und Forschungsprogramme, die Engineering-Rigor mit praktischen Business- und gesellschaftlichen Ergebnissen verbinden.",
+    "fr": "Brevets, publications et programmes de recherche sélectionnés reliant la rigueur d'ingénierie à des résultats business et sociétaux concrets.",
+    "ru": "Selected patents, publications и research programs, connecting engineering rigor с practical business и societal outcomes.",
+    "uk": "Selected patents, publications і research programs, connecting engineering rigor з practical business і societal outcomes.",
+    "zh": "精选专利、出版物和研究项目，将工程严谨性与实际的商业和社会成果相连接。",
+    "ar": "Selected patents, publications وresearch programs, connecting engineering rigor مع practical business وsocietal outcomes.",
+    "he": "Selected patents, publications ו-research programs, connecting engineering rigor עם practical business ו-societal outcomes."
+  },
+  "Patents": {
+    "es": "Patentes",
+    "de": "Patente",
+    "fr": "Brevets",
+    "ru": "Патенты",
+    "uk": "Патенти",
+    "zh": "专利",
+    "ar": "براءات الاختراع",
+    "he": "פטנטים"
+  },
+  "Patent work reflects a sustained focus on systems that improve the collection, movement, protection, and interpretation of information.": {
+    "es": "El trabajo de patentes refleja un enfoque sostenido en sistemas que mejoran la recopilación, movimiento, protección e interpretación de información.",
+    "de": "Patentarbeit spiegelt einen anhaltenden Fokus auf Systeme wider, die Sammlung, Bewegung, Schutz und Interpretation von Information verbessern.",
+    "fr": "Le travail de brevets reflète un focus durable sur les systèmes améliorant la collecte, le mouvement, la protection et l'interprétation de l'information.",
+    "ru": "Patent work отражает sustained focus на systems, improving collection, movement, protection и interpretation of information.",
+    "uk": "Patent work відображає sustained focus на systems, improving collection, movement, protection і interpretation of information.",
+    "zh": "专利工作反映了对改善信息收集、传输、保护和解读的系统的持续关注。",
+    "ar": "Patent work reflects sustained focus على systems improving collection, movement, protection وinterpretation of information.",
+    "he": "Patent work reflects sustained focus על systems improving collection, movement, protection ו-interpretation of information."
+  },
+  "Protected Inventions": {
+    "es": "Invenciones protegidas",
+    "de": "Geschützte Erfindungen",
+    "fr": "Inventions protégées",
+    "ru": "Защищённые изобретения",
+    "uk": "Захищені винаходи",
+    "zh": "受保护的发明",
+    "ar": "اختراعات محمية",
+    "he": "המצאות מוגנות"
+  },
+  "Publications": {
+    "es": "Publicaciones",
+    "de": "Publikationen",
+    "fr": "Publications",
+    "ru": "Публикации",
+    "uk": "Публікації",
+    "zh": "出版物",
+    "ar": "منشورات",
+    "he": "פרסומים"
+  },
+  "Published work translates complex technical subjects into methods, frameworks, and decisions useful to practitioners and leaders.": {
+    "es": "La obra publicada traduce temas técnicos complejos en métodos, marcos y decisiones útiles para profesionales y líderes.",
+    "de": "Veröffentlichte Arbeit übersetzt komplexe technische Themen in Methoden, Frameworks und Entscheidungen für Praktiker und Führungskräfte.",
+    "fr": "Les travaux publiés traduisent des sujets techniques complexes en méthodes, cadres et décisions utiles aux praticiens et dirigeants.",
+    "ru": "Published work переводит complex technical subjects в methods, frameworks и decisions, useful practitioners и leaders.",
+    "uk": "Published work перекладає complex technical subjects у methods, frameworks і decisions, useful practitioners і leaders.",
+    "zh": "已发表作品将复杂技术主题转化为对从业者和领导者有用的方法、框架和决策。",
+    "ar": "Published work translates complex technical subjects إلى methods, frameworks وdecisions useful للpractitioners وleaders.",
+    "he": "Published work translates complex technical subjects ל-methods, frameworks ו-decisions useful ל-practitioners ו-leaders."
+  },
+  "Technical & Executive Writing": {
+    "es": "Escritura técnica y ejecutiva",
+    "de": "Technische & Executive Writing",
+    "fr": "Écrits techniques & exécutifs",
+    "ru": "Техническое и исполнительное письмо",
+    "uk": "Технічне та виконавче письмо",
+    "zh": "技术与高管写作",
+    "ar": "كتابة تقنية وتنفيذية",
+    "he": "כתיבה טכנית ומנהלית"
+  },
+  "Research": {
+    "es": "Investigación",
+    "de": "Forschung",
+    "fr": "Recherche",
+    "ru": "Исследования",
+    "uk": "Дослідження",
+    "zh": "研究",
+    "ar": "بحث",
+    "he": "מחקר"
+  },
+  "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling, and autonomous systems.": {
+    "es": "Las iniciativas de investigación abarcan comunicaciones seguras, analítica predictiva, interpretación genética, modelado digital humano y sistemas autónomos.",
+    "de": "Forschungsinitiativen umfassen sichere Kommunikation, prädiktive Analytik, genetische Interpretation, digitales Human Modeling und autonome Systeme.",
+    "fr": "Les initiatives de recherche couvrent communications sécurisées, analytique prédictive, interprétation génétique, modélisation humaine digitale et systèmes autonomes.",
+    "ru": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling и autonomous systems.",
+    "uk": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling і autonomous systems.",
+    "zh": "研究计划涵盖安全通信、预测分析、基因解读、人类数字建模和自主系统。",
+    "ar": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling وautonomous systems.",
+    "he": "Research initiatives span secure communications, predictive analytics, genetic interpretation, human digital modeling ו-autonomous systems."
+  },
+  "Interdisciplinary Programs": {
+    "es": "Programas interdisciplinarios",
+    "de": "Interdisziplinäre Programme",
+    "fr": "Programmes interdisciplinaires",
+    "ru": "Междисциплинарные программы",
+    "uk": "Міждисциплінарні програми",
+    "zh": "跨学科项目",
+    "ar": "برامج متعددة التخصصات",
+    "he": "תוכניות בין-תחומיות"
+  },
+  "Applied Ideas, Documented": {
+    "es": "Ideas aplicadas, documentadas",
+    "de": "Angewandte Ideen, dokumentiert",
+    "fr": "Idées appliquées, documentées",
+    "ru": "Прикладные идеи, задокументированные",
+    "uk": "Прикладні ідеї, задокументовані",
+    "zh": "应用思想，有据可查",
+    "ar": "أفكار مطبّقة، موثّقة",
+    "he": "רעיונות יישומיים, מתועדים"
+  },
+  "Biographies": {
+    "es": "Biografías",
+    "de": "Biografien",
+    "fr": "Biographies",
+    "ru": "Биографии",
+    "uk": "Биографії",
+    "zh": "传记",
+    "ar": "سير ذاتية",
+    "he": "ביוגרפיות"
+  },
+  "Michael Kofman is CEO of Digital Invest Inc. and serves on its board. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000, and leads Digital Invest in bio-mathematical medicine and genomic intelligence. He founded AGRON Inc. in 2026 for autonomous aerial-ground operations and geospatial systems. Author of technical papers on satellite and optical systems; patent in digital satellite HDTV acquired by Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.": {
+    "es": "Michael Kofman es CEO de Digital Invest Inc. y miembro de su consejo. Fundó 9 Net Avenue Inc., adquirida por Concentric Networks en 2000, y dirige Digital Invest en medicina biomatemática e inteligencia genómica. Fundó AGRON Inc. en 2026 para operaciones autónomas aéreo-terrestres y sistemas geoespaciales. Autor de trabajos técnicos sobre sistemas satelitales y ópticos; patente en HDTV satelital digital adquirida por Sony. Formación: Doctor en Ciencias Técnicas, Ph.D. en Tecnologías de la Información.",
+    "de": "Michael Kofman ist CEO von Digital Invest Inc. und Mitglied des Boards. Er gründete 9 Net Avenue Inc., 2000 von Concentric Networks übernommen, und leitet Digital Invest in biomathematischer Medizin und genomischer Intelligenz. Er gründete AGRON Inc. 2026 für autonome Luft-Boden-Operationen und geospatiale Systeme. Autor technischer Arbeiten zu Satelliten- und optischen Systemen; Patent für digitales Satelliten-HDTV, übernommen von Sony. Ausbildung: Doctor of Technical Sciences, Ph.D. in Information Technology.",
+    "fr": "Michael Kofman est CEO de Digital Invest Inc. et membre de son conseil. Il a fondé 9 Net Avenue Inc., acquise par Concentric Networks en 2000, et dirige Digital Invest en médecine biomathématique et intelligence génomique. Il a fondé AGRON Inc. en 2026 pour opérations autonomes aéro-terrestres et systèmes géospatiaux. Auteur de travaux techniques sur systèmes satellitaires et optiques ; brevet HDTV satellitaire numérique acquis par Sony. Formation : Doctor of Technical Sciences, Ph.D. in Information Technology.",
+    "ru": "Michael Kofman — CEO Digital Invest Inc. и член её совета директоров. Основал 9 Net Avenue Inc., приобретённую Concentric Networks в 2000, и возглавляет Digital Invest в biomathematical medicine и genomic intelligence. Основал AGRON Inc. в 2026 для autonomous aerial-ground operations и geospatial systems. Автор technical papers о satellite и optical systems; patent в digital satellite HDTV, acquired Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
+    "uk": "Michael Kofman — CEO Digital Invest Inc. і член її ради директорів. Заснував 9 Net Avenue Inc., придбану Concentric Networks у 2000, і очолює Digital Invest у biomathematical medicine та genomic intelligence. Заснував AGRON Inc. у 2026 для autonomous aerial-ground operations і geospatial systems. Автор technical papers про satellite і optical systems; patent у digital satellite HDTV, acquired Sony. Education: Doctor of Technical Sciences, Ph.D. in Information Technology.",
+    "zh": "Michael Kofman是Digital Invest Inc. CEO并担任董事会成员。他创立了9 Net Avenue Inc.，2000年被Concentric Networks收购，并领导Digital Invest从事生物数学医学和基因组智能。2026年创立AGRON Inc.，从事自主空地作业和地理空间系统。卫星和光学系统技术论文作者；数字卫星HDTV专利被Sony收购。教育：技术科学博士，信息技术博士。",
+    "ar": "Michael Kofman CEO لـ Digital Invest Inc. وعضو مجلس إدارتها. أسس 9 Net Avenue Inc.، acquired by Concentric Networks 2000، ويقود Digital Invest في biomathematical medicine وgenomic intelligence. أسس AGRON Inc. 2026 لـ autonomous aerial-ground operations وgeospatial systems. Author technical papers؛ patent digital satellite HDTV acquired Sony.",
+    "he": "Michael Kofman CEO של Digital Invest Inc. וחבר בדירקטוריון. ייסד 9 Net Avenue Inc., acquired by Concentric Networks 2000, ומוביל Digital Invest ב-biomathematical medicine ו-genomic intelligence. ייסד AGRON Inc. 2026 ל-autonomous aerial-ground operations ו-geospatial systems."
+  },
+  "Official Color Palette": {
+    "es": "Paleta de colores oficial",
+    "de": "Offizielle Farbpalette",
+    "fr": "Palette de couleurs officielle",
+    "ru": "Официальная цветовая палитра",
+    "uk": "Офіційна палітра кольорів",
+    "zh": "官方配色",
+    "ar": "لوحة الألوان الرسمية",
+    "he": "לוח צבעים רשמי"
+  },
+  "Download Brand Assets": {
+    "es": "Descargar activos de marca",
+    "de": "Brand Assets herunterladen",
+    "fr": "Télécharger les assets de marque",
+    "ru": "Скачать бренд-активы",
+    "uk": "Завантажити бренд-активи",
+    "zh": "下载品牌资产",
+    "ar": "تنزيل أصول العلامة التجارية",
+    "he": "הורדת נכסי מותג"
+  },
+  "Brand Assets": {
+    "es": "Activos de marca",
+    "de": "Marken-Assets",
+    "fr": "Assets de marque",
+    "ru": "Бренд-активы",
+    "uk": "Бренд-активи",
+    "zh": "品牌资产",
+    "ar": "أصول العلامة التجارية",
+    "he": "נכסי מותג"
+  },
+  "Approved visual assets for editorial, conference, and partner use. Please preserve proportions, spacing, and original colors.": {
+    "es": "Activos visuales aprobados para uso editorial, conferencias y socios. Preserve proporciones, espaciado y colores originales.",
+    "de": "Genehmigte visuelle Assets für redaktionelle, Konferenz- und Partnernutzung. Proportionen, Abstände und Originalfarben beibehalten.",
+    "fr": "Assets visuels approuvés pour usage éditorial, conférences et partenaires. Conserver proportions, espacements et couleurs d'origine.",
+    "ru": "Approved visual assets для editorial, conference и partner use. Please preserve proportions, spacing и original colors.",
+    "uk": "Approved visual assets для editorial, conference і partner use. Please preserve proportions, spacing і original colors.",
+    "zh": "经批准的视觉资产，供编辑、会议和合作伙伴使用。请保持比例、间距和原始颜色。",
+    "ar": "Approved visual assets للeditorial وconference وpartner use.",
+    "he": "Approved visual assets ל-editorial, conference ו-partner use."
+  },
+  "Primary Logo": {
+    "es": "Logotipo principal",
+    "de": "Primäres Logo",
+    "fr": "Logo principal",
+    "ru": "Основной логотип",
+    "uk": "Основний логотип",
+    "zh": "主标识",
+    "ar": "الشعار الأساسي",
+    "he": "לוגו ראשי"
+  },
+  "Identity & Usage": {
+    "es": "Identidad y uso",
+    "de": "Identität & Nutzung",
+    "fr": "Identité & usage",
+    "ru": "Идентичность и использование",
+    "uk": "Ідентичність та використання",
+    "zh": "标识与使用",
+    "ar": "الهوية والاستخدام",
+    "he": "זהות ושימוש"
+  },
+  "Download PDF": {
+    "es": "Descargar PDF",
+    "de": "PDF herunterladen",
+    "fr": "Télécharger le PDF",
+    "ru": "Скачать PDF",
+    "uk": "Завантажити PDF",
+    "zh": "下载PDF",
+    "ar": "تنزيل PDF",
+    "he": "הורדת PDF"
+  },
+  "Download": {
+    "es": "Descarga",
+    "de": "Download",
+    "fr": "Téléchargement",
+    "ru": "Скачать",
+    "uk": "Завантажити",
+    "zh": "下载",
+    "ar": "تنزيل",
+    "he": "הורדה"
+  },
+  "PDF with official bios, portrait, and press contact — ready to share with organizers and journalists.": {
+    "es": "PDF con biografías oficiales, retrato y contacto de prensa — listo para compartir con organizadores y periodistas.",
+    "de": "PDF mit offiziellen Bios, Porträt und Pressekontakt — bereit für Veranstalter und Journalisten.",
+    "fr": "PDF avec bios officielles, portrait et contact presse — prêt pour organisateurs et journalistes.",
+    "ru": "PDF с официальными биографиями, портретом и пресс-контактом — готов для организаторов и журналистов.",
+    "uk": "PDF з офіційними біографіями, портретом і прес-контактом — готовий для організаторів і журналістів.",
+    "zh": "包含官方简介、肖像和新闻联系人信息的PDF——可与活动组织者和记者分享。",
+    "ar": "PDF يتضمن سيراً ذاتية رسمية وصورة شخصية وجهة اتصال إعلامية — جاهز للمشاركة مع المنظمين والصحفيين.",
+    "he": "PDF עם ביוגרפיות רשמיות, דיוקן ואיש קשר לעיתונות — מוכן לשיתוף עם מארגנים ועיתונאים."
+  },
+  "One-Page Media Kit": {
+    "es": "Kit de medios de una página",
+    "de": "Einseitiges Media Kit",
+    "fr": "Media kit d'une page",
+    "ru": "Одностраничный медиакit",
+    "uk": "Односторінковий media kit",
+    "zh": "单页媒体资料包",
+    "ar": "حزمة إعلامية من صفحة واحدة",
+    "he": "ערכת מדיה בעמוד אחד"
+  },
+  "Strategic advisory conversations with technology, healthcare, and infrastructure organizations.": {
+    "es": "Conversaciones de asesoría estratégica con organizaciones de tecnología, salud e infraestructura.",
+    "de": "Strategische Advisory-Gespräche mit Technologie-, Gesundheits- und Infrastrukturorganisationen.",
+    "fr": "Conversations de conseil stratégique avec organisations technologiques, de santé et d'infrastructure.",
+    "ru": "Стратегические advisory-диалоги с технологическими, медицинскими и инфраструктурными организациями.",
+    "uk": "Стратегічні advisory-діалоги з технологічними, медичними та інфраструктурними організаціями.",
+    "zh": "与科技、医疗和基础设施机构的战略顾问对话。",
+    "ar": "محادثات استشارية استراتيجية مع منظمات التكنولوجيا والرعاية الصحية والبنية التحتية.",
+    "he": "שיחות ייעוץ אסטרטגי עם ארגוני טכנולוגיה, בריאות ותשתיות."
+  },
+  "Advisory — Michael Kofman": {
+    "es": "Asesoría — Michael Kofman",
+    "de": "Beratung — Michael Kofman",
+    "fr": "Conseil — Michael Kofman",
+    "ru": "Консалтинг — Michael Kofman",
+    "uk": "Консалтинг — Michael Kofman",
+    "zh": "顾问 — Michael Kofman",
+    "ar": "استشارات — Michael Kofman",
+    "he": "ייעוץ — Michael Kofman"
+  },
+  "An executive brief on moving artificial intelligence from experimentation to governed, measurable enterprise capability.": {
+    "es": "Informe ejecutivo sobre cómo llevar la inteligencia artificial de la experimentación a capacidad empresarial gobernada y medible.",
+    "de": "Executive Brief über den Übergang von KI-Experimenten zu governed, messbarer Enterprise Capability.",
+    "fr": "Note exécutive sur le passage de l'expérimentation IA à une capacité d'entreprise gouvernée et mesurable.",
+    "ru": "Executive brief о переходе от AI-экспериментов к governed, measurable enterprise capability.",
+    "uk": "Executive brief про перехід від AI-експериментів до governed, measurable enterprise capability.",
+    "zh": "关于将人工智能从实验转向受治理、可衡量企业能力的高管简报。",
+    "ar": "ملخص تنفيذي عن نقل الذكاء الاصطناعي من التجريب إلى قدرة مؤسسية محكومة وقابلة للقياس.",
+    "he": "תקציר מנהלים על מעבר AI מ-experimentation ל-governed enterprise capability."
+  },
+  "AI Strategy Beyond the Pilot — Michael Kofman": {
+    "es": "Estrategia de IA más allá del piloto — Michael Kofman",
+    "de": "KI-Strategie jenseits des Pilots — Michael Kofman",
+    "fr": "Stratégie IA au-delà du pilote — Michael Kofman",
+    "ru": "Стратегия ИИ за пределами пилота — Michael Kofman",
+    "uk": "Стратегія ШІ за межами пілота — Michael Kofman",
+    "zh": "超越试点的AI战略 — Michael Kofman",
+    "ar": "استراتيجية AI — Michael Kofman",
+    "he": "AI Strategy — Michael Kofman"
+  },
+  "An executive brief on translating genomic information into responsible, useful, and scalable clinical intelligence.": {
+    "es": "Informe ejecutivo sobre traducir información genómica en inteligencia clínica responsable, útil y escalable.",
+    "de": "Executive Brief über die Übersetzung genomischer Information in verantwortungsvolle, nützliche und skalierbare klinische Intelligenz.",
+    "fr": "Note exécutive sur la traduction de l'information génomique en intelligence clinique responsable, utile et scalable.",
+    "ru": "Executive brief о переводе геномной информации в responsible, useful, scalable clinical intelligence.",
+    "uk": "Executive brief про перетворення геномної інформації на responsible, useful, scalable clinical intelligence.",
+    "zh": "关于将基因组信息转化为负责任、有用且可扩展临床智能的高管简报。",
+    "ar": "ملخص تنفيذي عن ترجمة المعلومات الجينومية إلى ذكاء سريري مسؤول وم useful وscalable.",
+    "he": "תקציר על תרגום genomic information ל-clinical intelligence."
+  },
+  "From Genetic Data to Clinical Decisions — Michael Kofman": {
+    "es": "De datos genéticos a decisiones clínicas — Michael Kofman",
+    "de": "Von genetischen Daten zu klinischen Entscheidungen — Michael Kofman",
+    "fr": "Des données génétiques aux décisions cliniques — Michael Kofman",
+    "ru": "От генетических данных к клиническим решениям — Michael Kofman",
+    "uk": "Від генетичних даних до клінічних рішень — Michael Kofman",
+    "zh": "从遗传数据到临床决策 — Michael Kofman",
+    "ar": "من البيانات الجينية إلى القرارات السريرية — Michael Kofman",
+    "he": "מנתונים גנטיים להחלטות קליניות — Michael Kofman"
+  },
+  "An executive brief on the operating discipline, governance, and accountability required before and after an initial public offering.": {
+    "es": "Informe ejecutivo sobre la disciplina operativa, gobernanza y responsabilidad requeridas antes y después de una oferta pública inicial.",
+    "de": "Executive Brief über Operating-Disziplin, Governance und Accountability vor und nach einem Börsengang.",
+    "fr": "Note exécutive sur la discipline opérationnelle, la gouvernance et la responsabilité avant et après une introduction en bourse.",
+    "ru": "Executive brief об operating discipline, governance и accountability до и после IPO.",
+    "uk": "Executive brief про operating discipline, governance і accountability до і після IPO.",
+    "zh": "关于IPO前后所需运营纪律、治理和问责的高管简报。",
+    "ar": "ملخص تنفيذي عن operating discipline وgovernance وaccountability قبل وبعد IPO.",
+    "he": "תקציר על operating discipline לפני ואחרי IPO."
+  },
+  "What an IPO Changes — Michael Kofman": {
+    "es": "Lo que cambia un IPO — Michael Kofman",
+    "de": "Was ein IPO verändert — Michael Kofman",
+    "fr": "Ce qu'un IPO change — Michael Kofman",
+    "ru": "Что меняет IPO — Michael Kofman",
+    "uk": "Що змінює IPO — Michael Kofman",
+    "zh": "IPO带来的变化 — Michael Kofman",
+    "ar": "ما يغيره الاكتتاب العام — Michael Kofman",
+    "he": "מה IPO משנה — Michael Kofman"
+  },
+  "The Record — Michael Kofman": {
+    "es": "El registro — Michael Kofman",
+    "de": "Der Werdegang — Michael Kofman",
+    "fr": "Le parcours — Michael Kofman",
+    "ru": "Хроника — Michael Kofman",
+    "uk": "Хроніка — Michael Kofman",
+    "zh": "履历 — Michael Kofman",
+    "ar": "السجل — Michael Kofman",
+    "he": "הרישום — Michael Kofman"
+  },
+  "Contact — Michael Kofman": {
+    "es": "Contacto — Michael Kofman",
+    "de": "Kontakt — Michael Kofman",
+    "fr": "Contact — Michael Kofman",
+    "ru": "Контакты — Michael Kofman",
+    "uk": "Контакти — Michael Kofman",
+    "zh": "联系 — Michael Kofman",
+    "ar": "تواصل — Michael Kofman",
+    "he": "יצירת קשר — Michael Kofman"
+  },
+  "Private executive overview for qualified introductions.": {
+    "es": "Resumen ejecutivo privado para introducciones calificadas.",
+    "de": "Private Executive-Übersicht für qualifizierte Vorstellungen.",
+    "fr": "Aperçu exécutif privé pour introductions qualifiées.",
+    "ru": "Private executive overview для qualified introductions.",
+    "uk": "Private executive overview для qualified introductions.",
+    "zh": "面向合格介绍的私人高管概览。",
+    "ar": "Private executive overview للqualified introductions.",
+    "he": "Private executive overview."
+  },
+  "Executive Overview — Michael Kofman": {
+    "es": "Resumen ejecutivo — Michael Kofman",
+    "de": "Executive Overview — Michael Kofman",
+    "fr": "Aperçu exécutif — Michael Kofman",
+    "ru": "Исполнительный обзор — Michael Kofman",
+    "uk": "Виконавчий огляд — Michael Kofman",
+    "zh": "高管概览 — Michael Kofman",
+    "ar": "نظرة تنفيذية — Michael Kofman",
+    "he": "סקירה מנהלית — Michael Kofman"
+  },
+  "Insights — Michael Kofman": {
+    "es": "Perspectivas — Michael Kofman",
+    "de": "Einblicke — Michael Kofman",
+    "fr": "Perspectives — Michael Kofman",
+    "ru": "Инсайты — Michael Kofman",
+    "uk": "Інсайти — Michael Kofman",
+    "zh": "见解 — Michael Kofman",
+    "ar": "رؤى — Michael Kofman",
+    "he": "תובנות — Michael Kofman"
+  },
+  "Patents, publications, and applied research by Michael Kofman across computing, communications, data, and digital health.": {
+    "es": "Patentes, publicaciones e investigación aplicada de Michael Kofman en computación, comunicaciones, datos y salud digital.",
+    "de": "Patente, Publikationen und angewandte Forschung von Michael Kofman in Computing, Kommunikation, Daten und Digital Health.",
+    "fr": "Brevets, publications et recherche appliquée de Michael Kofman en informatique, communications, données et santé numérique.",
+    "ru": "Патенты, публикации и applied research Michael Kofman в computing, communications, data и digital health.",
+    "uk": "Патенти, публікації та applied research Michael Kofman у computing, communications, data і digital health.",
+    "zh": "Michael Kofman在计算、通信、数据和数字健康领域的专利、出版物和应用研究。",
+    "ar": "Patents, publications وapplied research لـ Michael Kofman.",
+    "he": "Patents, publications ו-applied research."
+  },
+  "Intellectual Property — Michael Kofman": {
+    "es": "Propiedad intelectual — Michael Kofman",
+    "de": "Geistiges Eigentum — Michael Kofman",
+    "fr": "Propriété intellectuelle — Michael Kofman",
+    "ru": "Интеллектуальная собственность — Michael Kofman",
+    "uk": "Інтелектуальна власність — Michael Kofman",
+    "zh": "知识产权 — Michael Kofman",
+    "ar": "الملكية الفكرية — Michael Kofman",
+    "he": "קניין רוחני — Michael Kofman"
+  },
+  "Selected press coverage, awards, and media references spanning Michael Kofman's career in technology and entrepreneurship.": {
+    "es": "Cobertura de prensa, premios y referencias mediáticas seleccionadas de la carrera de Michael Kofman en tecnología y emprendimiento.",
+    "de": "Ausgewählte Presseberichte, Auszeichnungen und Medienreferenzen aus Michael Kofmans Laufbahn in Technologie und Entrepreneurship.",
+    "fr": "Couverture presse, prix et références médias sélectionnés de la carrière de Michael Kofman en technologie et entrepreneuriat.",
+    "ru": "Selected press coverage, awards и media references карьеры Michael Kofman в technology и entrepreneurship.",
+    "uk": "Selected press coverage, awards і media references кар'єри Michael Kofman у technology і entrepreneurship.",
+    "zh": "Michael Kofman在科技和创业领域职业生涯的精选媒体报道、奖项和媒体引用。",
+    "ar": "Selected press coverage spanning Michael Kofman's career.",
+    "he": "Selected press coverage."
+  },
+  "Press Archive — Michael Kofman": {
+    "es": "Archivo de prensa — Michael Kofman",
+    "de": "Presse-Archiv — Michael Kofman",
+    "fr": "Archives presse — Michael Kofman",
+    "ru": "Архив прессы — Michael Kofman",
+    "uk": "Архів преси — Michael Kofman",
+    "zh": "媒体档案 — Michael Kofman",
+    "ar": "أرشيف الصحافة — Michael Kofman",
+    "he": "ארכיון עיתונות — Michael Kofman"
+  },
+  "Privacy policy for mkofman.com — how we handle contact form data and site analytics.": {
+    "es": "Política de privacidad de mkofman.com — cómo manejamos datos del formulario de contacto y analítica del sitio.",
+    "de": "Datenschutzrichtlinie für mkofman.com — Umgang mit Kontaktformulardaten und Site-Analytics.",
+    "fr": "Politique de confidentialité de mkofman.com — gestion des données de formulaire et analytics du site.",
+    "ru": "Privacy policy mkofman.com — contact form data и site analytics.",
+    "uk": "Privacy policy mkofman.com — contact form data і site analytics.",
+    "zh": "mkofman.com隐私政策——如何处理联系表单数据和网站分析。",
+    "ar": "Privacy policy mkofman.com.",
+    "he": "Privacy policy mkofman.com."
+  },
+  "Privacy Policy — Michael Kofman": {
+    "es": "Política de privacidad — Michael Kofman",
+    "de": "Datenschutz — Michael Kofman",
+    "fr": "Politique de confidentialité — Michael Kofman",
+    "ru": "Политика конфиденциальности — Michael Kofman",
+    "uk": "Політика конфіденційності — Michael Kofman",
+    "zh": "隐私政策 — Michael Kofman",
+    "ar": "سياسة الخصوصية — Michael Kofman",
+    "he": "מדיניות פרטיות — Michael Kofman"
+  },
+  "Michael Kofman's principles for building durable companies, governing technology, and leading through consequential change.": {
+    "es": "Los principios de Michael Kofman para construir empresas duraderas, gobernar la tecnología y liderar cambios trascendentales.",
+    "de": "Michael Kofmans Prinzipien für dauerhafte Unternehmen, Technologie-Governance und Führung durch konsequente Veränderung.",
+    "fr": "Principes de Michael Kofman pour bâtir des entreprises durables, gouverner la technologie et diriger des changements majeurs.",
+    "ru": "Принципы Michael Kofman по созданию устойчивых компаний, управлению технологиями и лидерству в условиях значимых перемен.",
+    "uk": "Принципи Michael Kofman щодо створення стійких компаній, управління технологіями та лідерства в умовах значущих змін.",
+    "zh": "Michael Kofman关于构建持久企业、治理技术和引领重大变革的原则。",
+    "ar": "مبادئ Michael Kofman لبناء شركات دائمة وحوكمة التكنولوجيا والقيادة في مواجهة التغيير الجوهري.",
+    "he": "עקרונותיו של Michael Kofman לבניית חברות מתמשכות, ממשל טכנולוגיה ומנהיגות בשינוי משמעותי."
+  },
+  "Leadership Thesis — Michael Kofman": {
+    "es": "Tesis de liderazgo — Michael Kofman",
+    "de": "Leadership Thesis — Michael Kofman",
+    "fr": "Thèse de leadership — Michael Kofman",
+    "ru": "Тезис лидерства — Michael Kofman",
+    "uk": "Тезис лідерства — Michael Kofman",
+    "zh": "领导力论题 — Michael Kofman",
+    "ar": "أطروحة القيادة — Michael Kofman",
+    "he": "תזת מנהיגות — Michael Kofman"
+  },
+  "Brief: AI Strategy": {
+    "es": "Brief: estrategia de IA",
+    "de": "Brief: KI-Strategie",
+    "fr": "Brief : stratégie IA",
+    "ru": "Бриф: стратегия ИИ",
+    "uk": "Бриф: стратегія ШІ",
+    "zh": "简报：AI战略",
+    "ar": "Brief: استراتيجية AI",
+    "he": "Brief: אסטרטגיית AI"
+  },
+  "Brief: Genetic Data": {
+    "es": "Brief: datos genéticos",
+    "de": "Brief: Genetische Daten",
+    "fr": "Brief : données génétiques",
+    "ru": "Бриф: генетические данные",
+    "uk": "Бриф: генетичні дані",
+    "zh": "简报：基因数据",
+    "ar": "Brief: البيانات الجينية",
+    "he": "Brief: נתונים גנטיים"
+  },
+  "Brief: IPO": {
+    "es": "Informe: IPO",
+    "de": "Brief: IPO",
+    "fr": "Note : IPO",
+    "ru": "Бриф: IPO",
+    "uk": "Бриф: IPO",
+    "zh": "简报：IPO",
+    "ar": "ملخص: IPO",
+    "he": "תקציר: IPO"
+  },
+  "Services": {
+    "es": "Servicios",
+    "de": "Leistungen",
+    "fr": "Services",
+    "ru": "Услуги",
+    "uk": "Послуги",
+    "zh": "服务",
+    "ar": "خدمات",
+    "he": "שירותים"
+  },
+  "Press": {
+    "es": "Prensa",
+    "de": "Presse",
+    "fr": "Presse",
+    "ru": "Пресса",
+    "uk": "Пресса",
+    "zh": "媒体",
+    "ar": "صحافة",
+    "he": "עיתונות"
+  },
+  "Leadership Thesis": {
+    "es": "Tesis de liderazgo",
+    "de": "Leadership Thesis",
+    "fr": "Thèse de leadership",
+    "ru": "Тезис лидерства",
+    "uk": "Тезис лідерства",
+    "zh": "领导力论题",
+    "ar": "أطروحة القيادة",
+    "he": "תזת מנהיגות"
+  },
+  "Archive": {
+    "es": "Archivo",
+    "de": "Archiv",
+    "fr": "Archives",
+    "ru": "Архив",
+    "uk": "Архів",
+    "zh": "档案",
+    "ar": "الأرشيف",
+    "he": "ארכיון"
+  },
+  "The feature notes recognition as Entrepreneur of the Year by Entrepreneur Magazine (2001) and discusses DataPeer’s approach to mission-critical storage, iSCSI, and business continuity.": {
+    "es": "El artículo destaca el reconocimiento como Entrepreneur of the Year por Entrepreneur Magazine (2001) y analiza el enfoque de DataPeer en almacenamiento crítico, iSCSI y continuidad del negocio.",
+    "de": "Der Beitrag erwähnt die Auszeichnung als Entrepreneur of the Year durch Entrepreneur Magazine (2001) und DataPeers Ansatz zu mission-critical Storage, iSCSI und Business Continuity.",
+    "fr": "L'article note la reconnaissance comme Entrepreneur of the Year par Entrepreneur Magazine (2001) et l'approche de DataPeer en stockage critique, iSCSI et continuité d'activité.",
+    "ru": "Материал отмечает звание Entrepreneur of the Year от Entrepreneur Magazine (2001) и подход DataPeer к mission-critical storage, iSCSI и business continuity.",
+    "uk": "Матеріал відзначає звання Entrepreneur of the Year від Entrepreneur Magazine (2001) і підхід DataPeer до mission-critical storage, iSCSI і business continuity.",
+    "zh": "该专题提到2001年获Entrepreneur Magazine年度企业家称号，并讨论DataPeer在关键任务存储、iSCSI和业务连续性方面的方法。",
+    "ar": "يشير التقرير إلى تكريم Entrepreneur of the Year من Entrepreneur Magazine (2001) ونهج DataPeer في التخزين الحيوي وiSCSI واستمرارية الأعمال.",
+    "he": "הכתבה מציינת הכרה כ-Entrepreneur of the Year מ-Entrepreneur Magazine (2001) ואת גישת DataPeer לאחסון קritי, iSCSI והמשכיות עסקית."
+  },
+  "An early interview with Michael Kofman as Founder, Chairman, and CEO of DataPeer Inc. — reflecting on fiber optics, satellite transmission, SAN, and the emerging storage market.": {
+    "es": "Entrevista temprana con Michael Kofman como Founder, Chairman y CEO de DataPeer Inc. — sobre fibra óptica, transmisión satelital, SAN y el mercado emergente de almacenamiento.",
+    "de": "Frühes Interview mit Michael Kofman als Founder, Chairman und CEO von DataPeer Inc. — über Fiber Optics, Satellitenübertragung, SAN und den entstehenden Storage-Markt.",
+    "fr": "Première interview de Michael Kofman en tant que fondateur, président et CEO de DataPeer Inc. — sur fibre optique, transmission satellite, SAN et marché émergent du stockage.",
+    "ru": "Раннее интервью с Michael Kofman как Founder, Chairman и CEO DataPeer Inc. — о волоконной оптике, спутниковой передаче, SAN и формирующемся рынке хранения.",
+    "uk": "Раннє інтерв'ю з Michael Kofman як Founder, Chairman і CEO DataPeer Inc. — про волоконну оптику, супутникову передачу, SAN і формуючий ринок зберігання.",
+    "zh": "对Michael Kofman作为DataPeer Inc.创始人、董事长兼CEO的早期采访——谈及光纤、卫星传输、SAN和新兴存储市场。",
+    "ar": "مقابلة مبكرة مع Michael Kofman بصفته Founder وChairman وCEO لـ DataPeer Inc. — حول الألياف البصرية ونقل الأقمار الصناعية وSAN وسوق التخزين الناشئ.",
+    "he": "ראיון מוקדם עם Michael Kofman כ-Founder, Chairman ו-CEO של DataPeer Inc. — על סיבים אופtיים, שידור לווייני, SAN ושוק האחסון המתפתח."
+  },
+  "Industry Feature · DataPeer Inc.": {
+    "es": "Industry Feature · DataPeer Inc.",
+    "de": "Industry Feature · DataPeer Inc.",
+    "fr": "Industry Feature · DataPeer Inc.",
+    "ru": "Industry Feature · DataPeer Inc.",
+    "uk": "Industry Feature · DataPeer Inc.",
+    "zh": "Industry Feature · DataPeer Inc.",
+    "ar": "Industry Feature · DataPeer Inc.",
+    "he": "Industry Feature · DataPeer Inc."
+  },
+  "Open full page scan →": {
+    "es": "Abrir escaneo completo →",
+    "de": "Vollständigen Scan öffnen →",
+    "fr": "Ouvrir le scan complet →",
+    "ru": "Открыть полный скан →",
+    "uk": "Відкрити повний скан →",
+    "zh": "打开完整扫描 →",
+    "ar": "فتح المسح الكامل →",
+    "he": "פתיחת סריקה מלאה →"
+  },
+  "State of the Storage Industry": {
+    "es": "State of the Storage Industry",
+    "de": "State of the Storage Industry",
+    "fr": "State of the Storage Industry",
+    "ru": "State of the Storage Industry",
+    "uk": "State of the Storage Industry",
+    "zh": "State of the Storage Industry",
+    "ar": "State of the Storage Industry",
+    "he": "State of the Storage Industry"
+  },
+  "Press & Media": {
+    "es": "Prensa y medios",
+    "de": "Presse & Medien",
+    "fr": "Presse & médias",
+    "ru": "Пресса и медиа",
+    "uk": "Пресса і медіа",
+    "zh": "媒体",
+    "ar": "صحافة وإعلام",
+    "he": "עיתונות ומדיה"
+  },
+  "A concise archive of third-party recognition and reporting across technology, entrepreneurship, and precision medicine.": {
+    "es": "Un archivo conciso de reconocimiento y reportajes de terceros en tecnología, emprendimiento y medicina de precisión.",
+    "de": "Kompaktes Archiv externer Anerkennung und Berichterstattung zu Technologie, Entrepreneurship und Precision Medicine.",
+    "fr": "Archive concise de reconnaissance tierce et de reportages sur technologie, entrepreneuriat et médecine de précision.",
+    "ru": "Краткий архив стороннего признания и публикаций о технологиях, предпринимательстве и прецизионной медицине.",
+    "uk": "Стислий архів стороннього визнання та публікацій про технології, підприємництво та прецизійну медицину.",
+    "zh": "关于技术、创业和精准医疗的第三方认可与报道简明档案。",
+    "ar": "أرشيف موجز للتقدير والتقارير من جهات خارجية في التكنولوجيا وريادة الأعمال والطب الدقيق.",
+    "he": "ארכיון תמציתי של הכרה ודיווחים מצד שלישי בטכנולוגיה, יזמות ורפואת דיוק."
+  },
+  "Selected Coverage": {
+    "es": "Cobertura seleccionada",
+    "de": "Ausgewählte Berichterstattung",
+    "fr": "Couverture sélectionnée",
+    "ru": "Избранные публикации",
+    "uk": "Обрані публікації",
+    "zh": "精选报道",
+    "ar": "تغطية مختارة",
+    "he": "כיסוי נבחר"
+  },
+  "Recognition beginning in 1999, followed by listings in Who's Who in the World and Who's Who in Science and Engineering.": {
+    "es": "Reconocimiento desde 1999, seguido de inclusiones en Who's Who in the World y Who's Who in Science and Engineering.",
+    "de": "Anerkennung ab 1999, gefolgt von Einträgen in Who's Who in the World und Who's Who in Science and Engineering.",
+    "fr": "Reconnaissance dès 1999, suivie d'inscriptions dans Who's Who in the World et Who's Who in Science and Engineering.",
+    "ru": "Recognition beginning 1999, followed listings Who's Who in the World и Who's Who in Science and Engineering.",
+    "uk": "Recognition beginning 1999, followed listings Who's Who in the World і Who's Who in Science and Engineering.",
+    "zh": "自1999年起获得认可，随后列入Who's Who in the World和Who's Who in Science and Engineering。",
+    "ar": "Recognition beginning in 1999.",
+    "he": "Recognition beginning in 1999."
+  },
+  "Who's Who in America": {
+    "es": "Who's Who in America",
+    "de": "Who's Who in America",
+    "fr": "Who's Who in America",
+    "ru": "Who's Who in America",
+    "uk": "Who's Who in America",
+    "zh": "Who's Who in America",
+    "ar": "Who's Who in America",
+    "he": "Who's Who in America"
+  },
+  "Biographical Recognition": {
+    "es": "Reconocimiento biográfico",
+    "de": "Biografische Anerkennung",
+    "fr": "Reconnaissance biographique",
+    "ru": "Биографическое признание",
+    "uk": "Біографічне визнання",
+    "zh": "传记认可",
+    "ar": "تقدير биográfي",
+    "he": "הכרה биográfית"
+  },
+  "Featured interview as Founder, Chairman, and CEO of DataPeer Inc. on storage networks, iSCSI, and business continuity.": {
+    "es": "Entrevista destacada como Founder, Chairman y CEO de DataPeer Inc. sobre redes de almacenamiento, iSCSI y continuidad del negocio.",
+    "de": "Feature-Interview als Founder, Chairman und CEO von DataPeer Inc. zu Storage Networks, iSCSI und Business Continuity.",
+    "fr": "Interview feature en tant que fondateur, président et CEO de DataPeer Inc. sur réseaux de stockage, iSCSI et continuité d'activité.",
+    "ru": "Featured interview с Michael Kofman как Founder, Chairman и CEO DataPeer Inc. о сетях хранения, iSCSI и непрерывности бизнеса.",
+    "uk": "Featured interview з Michael Kofman як Founder, Chairman і CEO DataPeer Inc. про мережі зберігання, iSCSI і безперервність бізнесу.",
+    "zh": "作为DataPeer Inc.创始人、董事长兼CEO的专题采访，谈及存储网络、iSCSI和业务连续性。",
+    "ar": "مقابلة بارزة مع Michael Kofman بصفته Founder وChairman وCEO لـ DataPeer Inc. حول شبكات التخزين وiSCSI واستمرارية الأعمال.",
+    "he": "ראיון מובלט עם Michael Kofman כ-Founder, Chairman ו-CEO של DataPeer Inc. על רשתות אחסון, iSCSI והמשכיות עסקית."
+  },
+  "Interview": {
+    "es": "Entrevista",
+    "de": "Interview",
+    "fr": "Interview",
+    "ru": "Интервью",
+    "uk": "Інтерв'ю",
+    "zh": "采访",
+    "ar": "مقابلة",
+    "he": "ראיון"
+  },
+  "Entrepreneur Magazine recognition.": {
+    "es": "Reconocimiento de Entrepreneur Magazine.",
+    "de": "Anerkennung durch Entrepreneur Magazine.",
+    "fr": "Reconnaissance Entrepreneur Magazine.",
+    "ru": "Признание Entrepreneur Magazine.",
+    "uk": "Визнання Entrepreneur Magazine.",
+    "zh": "Entrepreneur Magazine 认可。",
+    "ar": "تقدير Entrepreneur Magazine.",
+    "he": "הכרה מ-Entrepreneur Magazine."
+  },
+  "View archive": {
+    "es": "Ver archivo",
+    "de": "Archiv ansehen",
+    "fr": "Voir l'archive",
+    "ru": "Смотреть архив",
+    "uk": "Переглянути архів",
+    "zh": "查看档案",
+    "ar": "عرض الأرشيف",
+    "he": "צפייה בארכיון"
+  },
+  "Entrepreneur of the Year": {
+    "es": "Emprendedor del Año",
+    "de": "Unternehmer des Jahres",
+    "fr": "Entrepreneur de l'année",
+    "ru": "Предприниматель года",
+    "uk": "Підприємець року",
+    "zh": "年度企业家",
+    "ar": "رائد أعمال العام",
+    "he": "יזם השנה"
+  },
+  "Executive Award": {
+    "es": "Premio ejecutivo",
+    "de": "Executive Award",
+    "fr": "Prix exécutif",
+    "ru": "Исполнительная награда",
+    "uk": "Виконавча награда",
+    "zh": "高管奖项",
+    "ar": "جائزة تنفيذية",
+    "he": "פרס מנהלים"
+  },
+  "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine and digital health.": {
+    "es": "Healthcare Tech Outlook reconoció a Digital Invest Inc. entre las principales empresas de EE. UU. que avanzan en medicina de precisión y salud digital.",
+    "de": "Healthcare Tech Outlook würdigte Digital Invest Inc. unter führenden US-Unternehmen in Precision Medicine und Digital Health.",
+    "fr": "Healthcare Tech Outlook a reconnu Digital Invest Inc. parmi les principales entreprises américaines en médecine de précision et santé numérique.",
+    "ru": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine и digital health.",
+    "uk": "Healthcare Tech Outlook recognized Digital Invest Inc. among leading U.S. companies advancing precision medicine і digital health.",
+    "zh": "Healthcare Tech Outlook将Digital Invest Inc.列为推进精准医疗和数字健康的美国领先企业之一。",
+    "ar": "Healthcare Tech Outlook recognized Digital Invest Inc.",
+    "he": "Healthcare Tech Outlook recognized Digital Invest Inc."
+  },
+  "View feature": {
+    "es": "Ver reportaje",
+    "de": "Feature ansehen",
+    "fr": "Voir l'article",
+    "ru": "Смотреть материал",
+    "uk": "Переглянути матеріал",
+    "zh": "查看专题",
+    "ar": "عرض التقرير",
+    "he": "צפייה בכתבה"
+  },
+  "Industry Recognition": {
+    "es": "Reconocimiento sectorial",
+    "de": "Branchenanerkennung",
+    "fr": "Reconnaissance sectorielle",
+    "ru": "Отраслевое признание",
+    "uk": "Галузеве визнання",
+    "zh": "行业认可",
+    "ar": "تقدير صناعي",
+    "he": "הכרה ענפית"
+  },
+  "Legal": {
+    "es": "Aspectos legales",
+    "de": "Rechtliches",
+    "fr": "Mentions légales",
+    "ru": "Правовая информация",
+    "uk": "Правова інформація",
+    "zh": "法律",
+    "ar": "قانوني",
+    "he": "משפטי"
+  },
+  "This policy explains how mkofman.com handles information when you visit the site or send a message.": {
+    "es": "Esta política explica cómo mkofman.com maneja la información cuando visita el sitio o envía un mensaje.",
+    "de": "Diese Richtlinie erklärt, wie mkofman.com Informationen behandelt, wenn Sie die Website besuchen oder eine Nachricht senden.",
+    "fr": "Cette politique explique comment mkofman.com traite les informations lorsque vous visitez le site ou envoyez un message.",
+    "ru": "Эта политика объясняет, как mkofman.com обрабатывает информацию, когда вы посещаете сайт или отправляете сообщение.",
+    "uk": "Ця політика пояснює, як mkofman.com обробляє інформацію, коли ви відвідуєте сайт або надсилаєте повідомлення.",
+    "zh": "本政策说明当您访问网站或发送消息时，mkofman.com如何处理信息。",
+    "ar": "توضح هذه السياسة كيف يتعامل mkofman.com مع المعلومات عند زيارة الموقع أو إرسال رسالة.",
+    "he": "מדיניות זו מסבירה כיצד mkofman.com מטפל במידע כשאתם מבקרים באתר או שולחים הודעה."
+  },
+  "When you submit a contact or footer form, we receive the fields you provide (such as name, email, and message). If analytics are enabled, we may collect anonymized usage data (pages visited, referrer, device type).": {
+    "es": "Al enviar un formulario de contacto o pie de página, recibimos los campos que proporciona (como nombre, email y mensaje). Si la analítica está habilitada, podemos recopilar datos de uso anonimizados (páginas visitadas, referrer, tipo de dispositivo).",
+    "de": "Beim Absenden eines Kontakt- oder Footer-Formulars erhalten wir die von Ihnen angegebenen Felder (z. B. Name, E-Mail und Nachricht). Wenn Analytics aktiviert ist, können anonymisierte Nutzungsdaten erfasst werden (besuchte Seiten, Referrer, Gerätetyp).",
+    "fr": "Lorsque vous soumettez un formulaire de contact ou de pied de page, nous recevons les champs fournis (nom, email, message). Si l'analytique est activée, nous pouvons collecter des données d'usage anonymisées (pages visitées, referrer, type d'appareil).",
+    "ru": "При отправке контактной формы или формы в footer мы получаем указанные вами поля (имя, email, сообщение). Если analytics включена, мы можем собирать anonymized usage data (посещённые страницы, referrer, тип устройства).",
+    "uk": "Надсилаючи контактну форму або форму в footer, ми отримуємо зазначені вами поля (ім'я, email, повідомлення). Якщо analytics увімкнена, ми можемо збирати anonymized usage data (відвідані сторінки, referrer, тип пристрою).",
+    "zh": "提交联系或页脚表单时，我们会收到您提供的字段（如姓名、电子邮件和留言）。如启用分析，我们可能收集匿名使用数据（访问页面、来源、设备类型）。",
+    "ar": "عند إرسال نموذج اتصال أو تذييل، نتلقى الحقول التي تقدمها (مثل الاسم والبريد الإلكتروني والرسالة). إذا كانت التحليلات مفعّلة، قد نجمع بيانات استخدام anonymized (الصفحات الم visited، المصدر، نوع الجهاز).",
+    "he": "בשליחת טופס יצירת קשר או תחתית, אנו מקבלים את השדות שסיפקתם (שם, אימייל, הודעה). אם analytics מופעל, אנו עשויים לאסוף נתוני שימוש anonymized (דפים שבוקרו, referrer, סוג מכשיר)."
+  },
+  "Information We Collect": {
+    "es": "Información que recopilamos",
+    "de": "Informationen, die wir erheben",
+    "fr": "Informations collectées",
+    "ru": "Какую информацию мы собираем",
+    "uk": "Яку інформацію ми збираємо",
+    "zh": "我们收集的信息",
+    "ar": "المعلومات التي نجمعها",
+    "he": "מידע שאנו אוספים"
+  },
+  "Form submissions are used to respond to your inquiry. Analytics help improve the website. We do not sell personal data.": {
+    "es": "Los envíos de formularios se usan para responder a su consulta. La analítica ayuda a mejorar el sitio. No vendemos datos personales.",
+    "de": "Formularübermittlungen dienen der Beantwortung Ihrer Anfrage. Analytics hilft, die Website zu verbessern. Wir verkaufen keine personenbezogenen Daten.",
+    "fr": "Les soumissions servent à répondre à votre demande. L'analytique aide à améliorer le site. Nous ne vendons pas de données personnelles.",
+    "ru": "Данные форм используются для ответа на ваш запрос. Analytics помогает улучшать сайт. Мы не продаём personal data.",
+    "uk": "Дані форм використовуються для відповіді на ваш запит. Analytics допомагає покращувати сайт. Ми не продаємо personal data.",
+    "zh": "表单提交用于回复您的咨询。分析有助于改进网站。我们不出售个人数据。",
+    "ar": "تُستخدم إرسالات النماذج للرد على استفسارك. تساعد التحليلات في تحسين الموقع. لا نبيع البيانات الشخصية.",
+    "he": "שליחות טפסים משמשות להשבת לפנייתכם. analytics עוזר לשפר את האתר. איננו מוכרים נתונים אישיים."
+  },
+  "How We Use Information": {
+    "es": "Cómo usamos la información",
+    "de": "Wie wir Informationen nutzen",
+    "fr": "Utilisation des informations",
+    "ru": "Как мы используем информацию",
+    "uk": "Як ми використовуємо інформацію",
+    "zh": "我们如何使用信息",
+    "ar": "كيف نستخدم المعلومات",
+    "he": "כיצד אנו משתמשים במידע"
+  },
+  "Forms may be processed by Formspree. Analytics may use Plausible or Google Analytics if configured. These providers have their own privacy policies.": {
+    "es": "Los formularios pueden procesarse mediante Formspree. La analítica puede usar Plausible o Google Analytics si está configurada. Estos proveedores tienen sus propias políticas de privacidad.",
+    "de": "Formulare können über Formspree verarbeitet werden. Analytics kann Plausible oder Google Analytics nutzen, falls konfiguriert. Diese Anbieter haben eigene Datenschutzrichtlinien.",
+    "fr": "Les formulaires peuvent être traités par Formspree. L'analytique peut utiliser Plausible ou Google Analytics si configuré. Ces fournisseurs ont leurs propres politiques de confidentialité.",
+    "ru": "Формы могут обрабатываться через Formspree. Analytics может использовать Plausible или Google Analytics при наличии настройки. У этих провайдеров собственные privacy policies.",
+    "uk": "Форми можуть оброблятися через Formspree. Analytics може використовувати Plausible або Google Analytics за наявності налаштування. У цих провайдерів власні privacy policies.",
+    "zh": "表单可能由Formspree处理。分析可能使用Plausible或Google Analytics（如已配置）。这些提供商有各自的隐私政策。",
+    "ar": "قد تُعالج النماذج عبر Formspree. قد تستخدم التحليلات Plausible أو Google Analytics إذا تم تكوينها. لهذه الجهات سياسات خصوصية خاصة.",
+    "he": "טפסים עשויים להיות מעובדים על ידי Formspree. analytics עשוי להשתמש ב-Plausible או Google Analytics אם מוגדר. לספקים אלה מדיניות פרטיות משלהם."
+  },
+  "Third-Party Services": {
+    "es": "Servicios de terceros",
+    "de": "Dienste Dritter",
+    "fr": "Services tiers",
+    "ru": "Сторонние сервисы",
+    "uk": "Сторонні сервіси",
+    "zh": "第三方服务",
+    "ar": "خدمات طرف ثالث",
+    "he": "שירותי צד שלישי"
+  },
+  "You may request access, correction, or deletion of your data by emailing mkofman@mkofman.com.": {
+    "es": "Puede solicitar acceso, corrección o eliminación de sus datos enviando un email a mkofman@mkofman.com.",
+    "de": "Sie können Zugang, Berichtigung oder Löschung Ihrer Daten per E-Mail an mkofman@mkofman.com anfordern.",
+    "fr": "Vous pouvez demander l'accès, la correction ou la suppression de vos données en écrivant à mkofman@mkofman.com.",
+    "ru": "Вы можете запросить доступ, исправление или удаление данных, написав на mkofman@mkofman.com.",
+    "uk": "Ви можете запросити доступ, виправлення або видалення даних, написавши на mkofman@mkofman.com.",
+    "zh": "您可发送邮件至 mkofman@mkofman.com 请求访问、更正或删除您的数据。",
+    "ar": "يمكنك طلب الوصول إلى بياناتك أو تصحيحها أو حذفها عبر البريد mkofman@mkofman.com.",
+    "he": "ניתן לבקש גישה, תיקון או מחיקה של הנתונים שלכם במייל mkofman@mkofman.com."
+  },
+  "Your Rights": {
+    "es": "Sus derechos",
+    "de": "Ihre Rechte",
+    "fr": "Vos droits",
+    "ru": "Ваши права",
+    "uk": "Ваші права",
+    "zh": "您的权利",
+    "ar": "حقوقك",
+    "he": "זכויותיך"
+  },
+  "Questions about this policy: mkofman@mkofman.com": {
+    "es": "Preguntas sobre esta política: mkofman@mkofman.com",
+    "de": "Fragen zu dieser Richtlinie: mkofman@mkofman.com",
+    "fr": "Questions sur cette politique : mkofman@mkofman.com",
+    "ru": "Вопросы по этой политике: mkofman@mkofman.com",
+    "uk": "Питання щодо цієї політики: mkofman@mkofman.com",
+    "zh": "有关本政策的问题：mkofman@mkofman.com",
+    "ar": "أسئلة حول هذه السياسة: mkofman@mkofman.com",
+    "he": "שאלות על מדיניות זו: mkofman@mkofman.com"
+  },
+  "Last updated: July 2026": {
+    "es": "Última actualización: julio de 2026",
+    "de": "Zuletzt aktualisiert: Juli 2026",
+    "fr": "Dernière mise à jour : juillet 2026",
+    "ru": "Последнее обновление: июль 2026",
+    "uk": "Останнє оновлення: липень 2026",
+    "zh": "最后更新：2026年7月",
+    "ar": "آخر تحديث: يوليو 2026",
+    "he": "עודכן לאחרונה: יולי 2026"
+  },
+  "Who's Who in the World": {
+    "es": "Who's Who in the World",
+    "de": "Who's Who in the World",
+    "fr": "Who's Who in the World",
+    "ru": "Who's Who in the World",
+    "uk": "Who's Who in the World",
+    "zh": "Who's Who in the World",
+    "ar": "Who's Who in the World",
+    "he": "Who's Who in the World"
+  },
+  "Who's Who in Science & Engineering": {
+    "es": "Who's Who in Science & Engineering",
+    "de": "Who's Who in Science & Engineering",
+    "fr": "Who's Who in Science & Engineering",
+    "ru": "Who's Who in Science & Engineering",
+    "uk": "Who's Who in Science & Engineering",
+    "zh": "Who's Who in Science & Engineering",
+    "ar": "Who's Who in Science & Engineering",
+    "he": "Who's Who in Science & Engineering"
+  },
+  "Patent": {
+    "es": "Patente",
+    "de": "Patent",
+    "fr": "Brevet",
+    "ru": "Патент",
+    "uk": "Патент",
+    "zh": "专利",
+    "ar": "براءة اختراع",
+    "he": "פטנט"
+  },
+  "Digital Invest Inc. Feature": {
+    "es": "Reportaje sobre Digital Invest Inc.",
+    "de": "Bericht über Digital Invest Inc.",
+    "fr": "Reportage Digital Invest Inc.",
+    "ru": "Репортаж о Digital Invest Inc.",
+    "uk": "Репортаж про Digital Invest Inc.",
+    "zh": "Digital Invest Inc. 专题",
+    "ar": "تقرير عن Digital Invest Inc.",
+    "he": "כתבה על Digital Invest Inc."
+  },
+  "Healthcare Tech Outlook": {
+    "es": "Healthcare Tech Outlook",
+    "de": "Healthcare Tech Outlook",
+    "fr": "Healthcare Tech Outlook",
+    "ru": "Healthcare Tech Outlook",
+    "uk": "Healthcare Tech Outlook",
+    "zh": "Healthcare Tech Outlook",
+    "ar": "Healthcare Tech Outlook",
+    "he": "Healthcare Tech Outlook"
+  },
+  "Top Precision Medicine Solutions": {
+    "es": "Top Precision Medicine Solutions",
+    "de": "Top Precision Medicine Solutions",
+    "fr": "Top Precision Medicine Solutions",
+    "ru": "Top Precision Medicine Solutions",
+    "uk": "Top Precision Medicine Solutions",
+    "zh": "Top Precision Medicine Solutions",
+    "ar": "Top Precision Medicine Solutions",
+    "he": "Top Precision Medicine Solutions"
+  },
+  "Speaking Topics": {
+    "es": "Temas de conferencias",
+    "de": "Vortragsthemen",
+    "fr": "Sujets de conférences",
+    "ru": "Темы выступлений",
+    "uk": "Теми виступів",
+    "zh": "演讲主题",
+    "ar": "موضوعات المحاضرات",
+    "he": "נושאי הרצאות"
+  },
+  "Keynotes, board sessions, and leadership briefings tailored to the audience, sector, and decision context.": {
+    "es": "Keynotes, sesiones de consejo y briefings de liderazgo adaptados a la audiencia, sector y contexto de decisión.",
+    "de": "Keynotes, Board-Sessions und Leadership-Briefings, zugeschnitten auf Publikum, Sektor und Entscheidungskontext.",
+    "fr": "Keynotes, sessions de conseil et briefings de leadership adaptés au public, secteur et contexte de décision.",
+    "ru": "Keynote, заседания советов директоров и leadership-бriefings с учётом аудитории, сектора и контекста решений.",
+    "uk": "Keynote, засідання рад директорів і leadership-briefings з урахуванням аудиторії, сектору та контексту рішень.",
+    "zh": "根据受众、行业和决策背景定制的主旨演讲、董事会会议和领导简报。",
+    "ar": "محاضرات رئيسية وجلسات مجلس إدارة و briefings قيادية م adapted للجمهور والقطاع وسياق القرار.",
+    "he": "Keynotes, ישיבות דירקטוריון ו-briefings מנהיגותיים המותאמים לקהל, לsector ולהקשר ההחלטה."
+  },
+  "Executive Conversations for Consequential Change": {
+    "es": "Conversaciones ejecutivas para el cambio trascendental",
+    "de": "Executive Conversations für konsequente Veränderung",
+    "fr": "Conversations exécutives pour un changement majeur",
+    "ru": "Исполнительные диалоги о значимых переменах",
+    "uk": "Виконавчі діалоги про значущі зміни",
+    "zh": "面向重大变革的高管对话",
+    "ar": "محادثات تنفيذية من أجل تغيير جوهري",
+    "he": "שיחות מנהליות לשינוי משמעותי"
+  },
+  "Boards, audit and risk committees": {
+    "es": "Consejos, comités de auditoría y riesgo",
+    "de": "Boards, Audit- und Risikoausschüsse",
+    "fr": "Conseils, comités d'audit et de risque",
+    "ru": "Советы директоров, комитеты по аудиту и рискам",
+    "uk": "Ради директорів, комітети з аудиту та ризиків",
+    "zh": "董事会、审计与风险委员会",
+    "ar": "مجالس الإدارة ولجان التدقيق والمخاطر",
+    "he": "דירקטוריונים, ועדות ביקורת וסיכונים"
+  },
+  "Board briefing or keynote": {
+    "es": "Briefing de consejo o keynote",
+    "de": "Board-Briefing oder Keynote",
+    "fr": "Briefing conseil ou keynote",
+    "ru": "Briefing для совета или keynote",
+    "uk": "Briefing для ради або keynote",
+    "zh": "董事会简报或主题演讲",
+    "ar": "briefing لمجلس الإدارة أو keynote",
+    "he": "briefing דירקטוריון או keynote"
+  },
+  "Governing AI Before It Governs the Enterprise": {
+    "es": "Gobernar la IA antes de que gobierne la empresa",
+    "de": "KI governen, bevor sie das Unternehmen regiert",
+    "fr": "Gouverner l'IA avant qu'elle ne gouverne l'entreprise",
+    "ru": "Управлять ИИ, прежде чем он начнёт управлять компанией",
+    "uk": "Керувати ШІ, перш ніж він почне керувати компанією",
+    "zh": "在AI治理企业之前治理AI",
+    "ar": "حوكمة الذكاء الاصطناعي قبل أن يحكم المؤسسة",
+    "he": "לממשל AI לפני שהוא ימשול בארגון"
+  },
+  "CEOs, executive teams, investors": {
+    "es": "CEOs, equipos ejecutivos, inversores",
+    "de": "CEOs, Führungsteams, Investoren",
+    "fr": "PDG, équipes exécutives, investisseurs",
+    "ru": "CEO, executive-команды, инвесторы",
+    "uk": "CEO, executive-команди, інвестори",
+    "zh": "CEO、高管团队、投资者",
+    "ar": "CEOs وفرق تنفيذية ومستثمرون",
+    "he": "CEOs, צוותים executive ומשקיעים"
+  },
+  "Keynote or executive workshop": {
+    "es": "Keynote o taller ejecutivo",
+    "de": "Keynote oder Executive Workshop",
+    "fr": "Keynote ou atelier exécutif",
+    "ru": "Keynote или executive workshop",
+    "uk": "Keynote або executive workshop",
+    "zh": "主题演讲或高管工作坊",
+    "ar": "keynote أو workshop تنفيذي",
+    "he": "keynote או workshop executive"
+  },
+  "From Technology Trend to Enterprise Strategy": {
+    "es": "De tendencia tecnológica a estrategia empresarial",
+    "de": "Vom Technologietrend zur Unternehmensstrategie",
+    "fr": "De la tendance technologique à la stratégie d'entreprise",
+    "ru": "От технологического тренда к корпоративной стратегии",
+    "uk": "Від технологічного тренду до корпоративної стратегії",
+    "zh": "从技术趋势到企业战略",
+    "ar": "من trend التكنولوجيا إلى استراتيجية المؤسسة",
+    "he": "מטרnd טכנולוגי לאסטרטegיה ארגונית"
+  },
+  "Founders, growth leaders, private equity": {
+    "es": "Fundadores, líderes de crecimiento, private equity",
+    "de": "Gründer, Wachstumsführer, Private Equity",
+    "fr": "Fondateurs, leaders de croissance, private equity",
+    "ru": "Основатели, лидеры роста, private equity",
+    "uk": "Засновники, лідери зростання, private equity",
+    "zh": "创始人、成长型领导者、私募股权",
+    "ar": "مؤسسون وقادة نمو وprivate equity",
+    "he": "מייסדים, מנהיגי צמיחה ו-private equity"
+  },
+  "Fireside chat or keynote": {
+    "es": "Charla íntima o keynote",
+    "de": "Fireside Chat oder Keynote",
+    "fr": "Discussion ou keynote",
+    "ru": "Fireside chat или keynote",
+    "uk": "Fireside chat або keynote",
+    "zh": "炉边对话或主题演讲",
+    "ar": "fireside chat أو keynote",
+    "he": "fireside chat או keynote"
+  },
+  "Building Companies Through Market Cycles": {
+    "es": "Construir empresas a través de ciclos de mercado",
+    "de": "Unternehmen durch Marktzyklen aufbauen",
+    "fr": "Construire des entreprises à travers les cycles de marché",
+    "ru": "Строить компании через рыночные циклы",
+    "uk": "Будувати компанії через ринкові цикли",
+    "zh": "穿越市场周期构建企业",
+    "ar": "بناء الشركات عبر دورات السوق",
+    "he": "בניית חברות דרך מחזורי שוק"
+  },
+  "Healthcare leaders, clinicians, innovators": {
+    "es": "Líderes sanitarios, clínicos, innovadores",
+    "de": "Healthcare-Führungskräfte, Kliniker, Innovatoren",
+    "fr": "Leaders santé, cliniciens, innovateurs",
+    "ru": "Лидеры здравоохранения, клиницисты, innovatorы",
+    "uk": "Лідери охорони здоров'я, клініцисти, innovatorи",
+    "zh": "医疗领导者、临床医生、创新者",
+    "ar": "قادة الرعاية الصحية وclinicians وinnovators",
+    "he": "מנהיגי בריאות, קlinicians ו-innovators"
+  },
+  "Industry keynote or panel": {
+    "es": "Keynote sectorial o panel",
+    "de": "Branchen-Keynote oder Panel",
+    "fr": "Keynote sectorielle ou panel",
+    "ru": "Отраслевой keynote или panel",
+    "uk": "Галузевий keynote або panel",
+    "zh": "行业主题演讲或 panel",
+    "ar": "keynote صناعي أو panel",
+    "he": "keynote ענפי או panel"
+  },
+  "Precision Medicine: Promise, Proof, and Responsibility": {
+    "es": "Medicina de precisión: promesa, prueba y responsabilidad",
+    "de": "Precision Medicine: Versprechen, Beweis und Verantwortung",
+    "fr": "Médecine de précision : promesse, preuve et responsabilité",
+    "ru": "Precision medicine: обещание, доказательства и ответственность",
+    "uk": "Precision medicine: обіцянка, докази та відповідальність",
+    "zh": "精准医疗：承诺、证据与责任",
+    "ar": "الطب الدقيق: الوعد والدليل والمسؤولية",
+    "he": "רפואת דיוק: הבטחה, הוכחה ואחריות"
+  },
+  "Directors, general counsel, risk leaders": {
+    "es": "Directores, consejo general, líderes de riesgo",
+    "de": "Directors, General Counsel, Risikoführung",
+    "fr": "Administrateurs, directeurs juridiques, leaders risque",
+    "ru": "Директора, general counsel, лидеры по рискам",
+    "uk": "Директори, general counsel, лідери з ризиків",
+    "zh": "董事、总法律顾问、风险领导者",
+    "ar": "directors وgeneral counsel وقادة مخاطر",
+    "he": "directors, general counsel ומנהיגי סיכון"
+  },
+  "Board education session": {
+    "es": "Sesión de formación de consejo",
+    "de": "Board-Education-Session",
+    "fr": "Session de formation du conseil",
+    "ru": "Образовательная сессия для совета директоров",
+    "uk": "Освітня сесія для ради директорів",
+    "zh": "董事会教育会议",
+    "ar": "جلسة تثقيف لمجلس الإدارة",
+    "he": "מפגש חינוך לדירקטוריון"
+  },
+  "The Board's Role in Cyber and Technology Risk": {
+    "es": "El papel del consejo en riesgo cibernético y tecnológico",
+    "de": "Die Rolle des Boards bei Cyber- und Technologierisiko",
+    "fr": "Le rôle du conseil dans le risque cyber et technologique",
+    "ru": "Роль совета директоров в cyber- и technology risk",
+    "uk": "Роль ради директорів у cyber- та technology risk",
+    "zh": "董事会在网络与技术风险中的角色",
+    "ar": "دور مجلس الإدارة في مخاطر السيبر والتكنولوجيا",
+    "he": "תפקיד הדירקטוריון בסיכון סיiber וטכנולוגי"
+  },
+  "Technology and infrastructure organizations": {
+    "es": "Organizaciones de tecnología e infraestructura",
+    "de": "Technologie- und Infrastrukturorganisationen",
+    "fr": "Organisations technologiques et d'infrastructure",
+    "ru": "Технологические и инфраструктурные организации",
+    "uk": "Технологічні та інфраструктурні організації",
+    "zh": "技术与基础设施机构",
+    "ar": "منظمات التكنولوجيا والبنية التحتية",
+    "he": "ארגוני טכנולוגיה ותשתיות"
+  },
+  "Technical-executive keynote": {
+    "es": "Keynote técnico-ejecutivo",
+    "de": "Technisch-executive Keynote",
+    "fr": "Keynote technique-exécutive",
+    "ru": "Технически-executive keynote",
+    "uk": "Технічно-executive keynote",
+    "zh": "技术-高管主题演讲",
+    "ar": "keynote تقني-تنفيذي",
+    "he": "keynote טכני-executive"
+  },
+  "Engineering Trust into Digital Infrastructure": {
+    "es": "Ingeniería de confianza en infraestructura digital",
+    "de": "Vertrauen in digitale Infrastruktur ingenieuren",
+    "fr": "Ingénierie de la confiance dans l'infrastructure numérique",
+    "ru": "Инженерия доверия в цифровой инфраструктуре",
+    "uk": "Інженерія довіри в цифровій інфраструктурі",
+    "zh": "将信任工程化融入数字基础设施",
+    "ar": "هندسة الثقة في البنية التحتية الرقمية",
+    "he": "הנדסת אמון לתשתית דיגיטלית"
+  },
+  "Global leadership teams and universities": {
+    "es": "Equipos de liderazgo global y universidades",
+    "de": "Globale Führungsteams und Universitäten",
+    "fr": "Équipes de direction globales et universités",
+    "ru": "Глобальные leadership-команды и университеты",
+    "uk": "Глобальні leadership-команди та університети",
+    "zh": "全球领导团队和大学",
+    "ar": "فرق قيادة عالمية وجامعات",
+    "he": "צוותי מנהיגות גלובליים ואוניברסיטאות"
+  },
+  "Keynote or moderated conversation": {
+    "es": "Keynote o conversación moderada",
+    "de": "Keynote oder moderiertes Gespräch",
+    "fr": "Keynote ou conversation modérée",
+    "ru": "Keynote или moderated conversation",
+    "uk": "Keynote або moderated conversation",
+    "zh": "主题演讲或 moderated 对话",
+    "ar": "keynote أو محادثة moderated",
+    "he": "keynote או שיחה moderated"
+  },
+  "Leading Across Borders and Disciplines": {
+    "es": "Liderar a través de fronteras y disciplinas",
+    "de": "Führung über Grenzen und Disziplinen hinweg",
+    "fr": "Diriger au-delà des frontières et des disciplines",
+    "ru": "Лидерство через границы и дисциплины",
+    "uk": "Лідерство через кордони та дисципліни",
+    "zh": "跨越边界与学科的领导",
+    "ar": "القيادة عبر الحدود والتخصصات",
+    "he": "מנהיגות מעבר לגבולות ולתחומים"
+  },
+  "Entrepreneurs and next-generation executives": {
+    "es": "Emprendedores y ejecutivos de próxima generación",
+    "de": "Unternehmer und Führungskräfte der nächsten Generation",
+    "fr": "Entrepreneurs et dirigeants de nouvelle génération",
+    "ru": "Предприниматели и executive следующего поколения",
+    "uk": "Підприємці та executive наступного покоління",
+    "zh": "创业者和新一代高管",
+    "ar": "رواد أعمال وتنفيذيون من الجيل التالي",
+    "he": "יזמים ומנהלים מהדור הבא"
+  },
+  "Workshop or fireside chat": {
+    "es": "Taller o charla íntima",
+    "de": "Workshop oder Fireside Chat",
+    "fr": "Atelier ou discussion",
+    "ru": "Workshop или fireside chat",
+    "uk": "Workshop або fireside chat",
+    "zh": "工作坊或炉边对话",
+    "ar": "workshop أو fireside chat",
+    "he": "workshop או fireside chat"
+  },
+  "From Founder to Institution Builder": {
+    "es": "De fundador a constructor de instituciones",
+    "de": "Vom Gründer zum Institution Builder",
+    "fr": "Du fondateur au bâtisseur d'institution",
+    "ru": "От основателя к создателю institution",
+    "uk": "Від засновника до творця institution",
+    "zh": "从创始人到机构建设者",
+    "ar": "من مؤسس إلى باني مؤسسة",
+    "he": "ממייסד לבונה מוסד"
+  },
+  "Board Colleague": {
+    "es": "Colega del consejo",
+    "de": "Board-Kollege",
+    "fr": "Collègue du conseil",
+    "ru": "Коллега по совету директоров",
+    "uk": "Колега з ради директорів",
+    "zh": "董事会同事",
+    "ar": "زميل في مجلس الإدارة",
+    "he": "עמית דירקטוריון"
+  },
+  "Michael combines an engineer's precision with the judgment of an experienced chief executive. He asks the questions that improve the decision.": {
+    "es": "Michael combina la precisión de un ingeniero con el criterio de un CEO experimentado. Hace las preguntas que mejoran la decisión.",
+    "de": "Michael verbindet die Präzision eines Ingenieurs mit dem Urteilsvermögen eines erfahrenen CEOs. Er stellt die Fragen, die die Entscheidung verbessern.",
+    "fr": "Michael combine la précision d'un ingénieur et le jugement d'un CEO expérimenté. Il pose les questions qui améliorent la décision.",
+    "ru": "Michael сочетает инженерную точность с judgment опытного CEO. Он задаёт вопросы, которые улучшают decision.",
+    "uk": "Michael поєднує інженерну точність із judgment досвідченого CEO. Він ставить запитання, які покращують decision.",
+    "zh": "Michael兼具工程师的精确与资深CEO的判断力。他提出改善决策的问题。",
+    "ar": "يجمع Michael دقة الم engineer مع حكم CEO متمرس. يطرح الأسئلة التي تحسّن القرار.",
+    "he": "Michael משלב דיוק של engineer עם judgment של CEO מנוסה. הוא שואל את השאלות שמשפרות decision."
+  },
+  "Public Technology Company": {
+    "es": "Empresa tecnológica pública",
+    "de": "Börsennotiertes Technologieunternehmen",
+    "fr": "Entreprise technologique cotée",
+    "ru": "Публичная технологическая компания",
+    "uk": "Публічна технологічна компанія",
+    "zh": "上市科技公司",
+    "ar": "شركة تقنية عامة",
+    "he": "חברת טכנולוגיה ציבורית"
+  },
+  "Strategic Partner": {
+    "es": "Socio estratégico",
+    "de": "Strategischer Partner",
+    "fr": "Partenaire stratégique",
+    "ru": "Стратегический партнёр",
+    "uk": "Стратегічний партнер",
+    "zh": "战略合作伙伴",
+    "ar": "شريك استراتيجي",
+    "he": "שותף אסטרטגי"
+  },
+  "His ability to connect science, product, governance, and commercial reality brings uncommon clarity to complex initiatives.": {
+    "es": "Su capacidad para conectar ciencia, producto, gobernanza y realidad comercial aporta una claridad poco común a iniciativas complejas.",
+    "de": "Seine Fähigkeit, Wissenschaft, Produkt, Governance und kommerzielle Realität zu verbinden, bringt ungewöhnliche Klarheit in komplexe Initiativen.",
+    "fr": "Sa capacité à relier science, produit, gouvernance et réalité commerciale apporte une clarté rare aux initiatives complexes.",
+    "ru": "Его способность connect science, product, governance и commercial reality приносит uncommon clarity сложным инициативам.",
+    "uk": "Його здатність connect science, product, governance і commercial reality приносить uncommon clarity складним ініціативам.",
+    "zh": "他将科学、产品、治理和商业现实联系起来的能力，为复杂计划带来难得的清晰。",
+    "ar": "قدرته على ربط العلم والمنتج والحوكمة والواقع التجاري ت bring clarity نادرة للمبادرات المعقدة.",
+    "he": "היכולת שלו connect science, product, governance ו-commercial reality מביאה uncommon clarity ליוזמות מורכבות."
+  },
+  "Digital Health Sector": {
+    "es": "Sector de salud digital",
+    "de": "Digital-Health-Sektor",
+    "fr": "Secteur de la santé numérique",
+    "ru": "Сектор цифрового здравоохранения",
+    "uk": "Сектор цифрового охорону здоров'я",
+    "zh": "数字健康领域",
+    "ar": "قطاع الصحة الرقمية",
+    "he": "מגזר בריאות דיגיטלית"
+  },
+  "Executive Collaborator": {
+    "es": "Colaborador ejecutivo",
+    "de": "Executive-Mitwirkender",
+    "fr": "Collaborateur exécutif",
+    "ru": "Executive collaborator",
+    "uk": "Executive collaborator",
+    "zh": "高管合作者",
+    "ar": "متعاون تنفيذي",
+    "he": "שותף executive"
+  },
+  "Michael is direct, thoughtful, and focused on durable value. He helps leadership teams see both the opportunity and the obligation.": {
+    "es": "Michael es directo, reflexivo y centrado en valor duradero. Ayuda a los equipos directivos a ver tanto la oportunidad como la obligación.",
+    "de": "Michael ist direkt, nachdenklich und auf dauerhaften Wert fokussiert. Er hilft Führungsteams, sowohl die Chance als auch die Verpflichtung zu sehen.",
+    "fr": "Michael est direct, réfléchi et centré sur une valeur durable. Il aide les équipes de direction à voir à la fois l'opportunité et l'obligation.",
+    "ru": "Michael direct, thoughtful и focused на durable value. Он помогает leadership teams видеть и opportunity, и obligation.",
+    "uk": "Michael direct, thoughtful і focused на durable value. Він допомагає leadership teams бачити і opportunity, і obligation.",
+    "zh": "Michael直接、深思熟虑，专注于持久价值。他帮助领导团队同时看到机遇与责任。",
+    "ar": "Michael م direct وthoughtful وfocused على durable value. يساعد فرق القيادة على رؤية opportunity وobligation.",
+    "he": "Michael direct, thoughtful ו-focused על durable value. הוא עוזר ל-leadership teams לראות opportunity ו-obligation."
+  },
+  "Global Infrastructure": {
+    "es": "Infraestructura global",
+    "de": "Globale Infrastruktur",
+    "fr": "Infrastructure mondiale",
+    "ru": "Глобальная инфраструктура",
+    "uk": "Глобальна інфраструктура",
+    "zh": "全球基础设施",
+    "ar": "بنية تحتية عالمية",
+    "he": "תשתית גлобלית"
+  },
+  "A strategy is not a catalog of aspirations. It defines where to compete, what capabilities to build, what not to pursue, and how success will be measured.": {
+    "es": "Una estrategia no es un catálogo de aspiraciones. Define dónde competir, qué capacidades construir, qué no perseguir y cómo se medirá el éxito.",
+    "de": "Strategie ist kein Katalog von Aspirationen. Sie definiert, wo zu konkurrieren ist, welche Fähigkeiten aufzubauen sind, was nicht verfolgt werden soll und wie Erfolg gemessen wird.",
+    "fr": "Une stratégie n'est pas un catalogue d'aspirations. Elle définit où concurrencer, quelles capacités construire, quoi ne pas poursuivre et comment le succès sera mesuré.",
+    "ru": "Стратегия — не каталог амбиций. Она определяет, где конкурировать, какие способности строить, чего не pursue и как измерять успех.",
+    "uk": "Стратегія — не каталог амбіцій. Вона визначає, де конкурувати, які спроможності будувати, чого не pursue і як вимірювати успіх.",
+    "zh": "战略不是愿望清单。它定义在哪里竞争、构建哪些能力、不 pursue 什么以及如何衡量成功。",
+    "ar": "الاستراتيجية ليست catalogاً للطموحات. تحدد أين تتنافس وما القدرات التي تبنيها وما لا ت Pursue وكيف يُقاس النجاح.",
+    "he": "אסטרטegיה אינה קטalog של שאיפות. היא מגדירה היכן להת конкуруents, אילו יכולות לבנות, מה לא לרדוף וכיצד יימדד הצלחה."
+  },
+  "Strategy Must Produce Choices": {
+    "es": "La estrategia debe producir decisiones",
+    "de": "Strategie muss Entscheidungen erzeugen",
+    "fr": "La stratégie doit produire des choix",
+    "ru": "Стратегия должна порождать выбор",
+    "uk": "Стратегія повинна породжувати вибір",
+    "zh": "战略必须产生选择",
+    "ar": "يجب أن تنتج الاسترategia خيارات",
+    "he": "אסטרטegיה חייבת לייצר בחירות"
+  },
+  "Boards must understand how technology creates value, concentrates risk, and changes accountability. Delegating every technical question is itself a decision.": {
+    "es": "Los consejos deben entender cómo la tecnología crea valor, concentra riesgo y cambia la responsabilidad. Delegar cada pregunta técnica es en sí una decisión.",
+    "de": "Boards müssen verstehen, wie Technologie Wert schafft, Risiko konzentriert und Accountability verändert. Jede technische Frage zu delegieren ist selbst eine Entscheidung.",
+    "fr": "Les conseils doivent comprendre comment la technologie crée de la valeur, concentre le risque et change la responsabilité. Déléguer chaque question technique est déjà une décision.",
+    "ru": "Советы директоров должны понимать, как технология создаёт ценность, концентрирует риск и меняет подотчётность. Делегирование каждого технического вопроса — само по себе решение.",
+    "uk": "Ради директорів мають розуміти, як технологія створює цінність, конcentрує ризик і змінює підзвітність. Делегування кожного технічного питання — само по собі рішення.",
+    "zh": "董事会必须理解技术如何创造价值、集中风险并改变问责。将每个技术问题外包本身就是决策。",
+    "ar": "يجب أن تفهم مجالس الإدارة كيف تخلق التكنولوجيا قيمة وتركّز المخاطر وتغيّر المساءلة. تفويض كل سؤال تقني قرار بحد ذاته.",
+    "he": "דירקטוריונים חייבים להבין כיצד טכנולוגיה יוצרת ערך, מרכזת סיכון ומשנה אחריות. העברת כל שאלה טכנית לאחרים היא בעצמה החלטה."
+  },
+  "Technology Is a Governance Issue": {
+    "es": "La tecnología es un asunto de gobernanza",
+    "de": "Technologie ist eine Governance-Frage",
+    "fr": "La technologie est un enjeu de gouvernance",
+    "ru": "Технология — вопрос управления",
+    "uk": "Технологія — питання управління",
+    "zh": "技术是治理问题",
+    "ar": "التكنولوجيا مسألة حوكمة",
+    "he": "טכנולוגיה היא סוגיית ממשל"
+  },
+  "Conviction matters, but markets, systems, and science must be tested. Leaders create mechanisms that expose assumptions before customers or regulators do.": {
+    "es": "La convicción importa, pero mercados, sistemas y ciencia deben probarse. Los líderes crean mecanismos que exponen supuestos antes que clientes o reguladores.",
+    "de": "Überzeugung zählt, aber Märkte, Systeme und Wissenschaft müssen getestet werden. Führungskräfte schaffen Mechanismen, die Annahmen sichtbar machen, bevor Kunden oder Regulatoren es tun.",
+    "fr": "La conviction compte, mais marchés, systèmes et science doivent être testés. Les dirigeants créent des mécanismes qui exposent les hypothèses avant clients ou régulateurs.",
+    "ru": "Убеждённость важна, но рынки, системы и науку нужно проверять. Лидеры создают механизмы, выявляющие допущения раньше клиентов или регуляторов.",
+    "uk": "Переконання важливе, але ринки, системи та науку потрібно перевіряти. Лідери створюють механізми, що виявляють припущення раніше клієнтів або регуляторів.",
+    "zh": "信念重要，但市场、系统和科学必须被检验。领导者创建机制，在客户或监管者之前暴露假设。",
+    "ar": "الconviction مهم، لكن الأسواق والأنظمة والعلم يجب اختبارها. يخلق القادة آليات ت expose الافتراضات قبل العملاء أو المنظمين.",
+    "he": "conviction חשוב, אך שווקים, מערכות ומדע חייבים להיבחן. מנהיגים יוצרים מנגנונים שחושפים הנחות לפני לקוחות או רגulators."
+  },
+  "Evidence Should Outrank Enthusiasm": {
+    "es": "La evidencia debe superar al entusiasmo",
+    "de": "Evidenz soll Enthusiasmus übertrumpfen",
+    "fr": "Les preuves doivent primer sur l'enthousiasme",
+    "ru": "Доказательства важнее энтузиазма",
+    "uk": "Докази важливіші за ентузіазм",
+    "zh": "证据应胜过热情",
+    "ar": "يجب أن تتفوق الأدلة على الحماس",
+    "he": "ראיות צריכות לגבור על התלהבות"
+  },
+  "Technical architecture determines speed, resilience, security, and future options. Shortcuts become institutional constraints long after their original context disappears.": {
+    "es": "La arquitectura técnica determina velocidad, resiliencia, seguridad y opciones futuras. Los atajos se convierten en restricciones institucionales mucho después de que desaparece su contexto original.",
+    "de": "Technische Architektur bestimmt Geschwindigkeit, Resilienz, Sicherheit und zukünftige Optionen. Abkürzungen werden zu institutionellen Zwängen lange nach ihrem ursprünglichen Kontext.",
+    "fr": "L'architecture technique détermine vitesse, résilience, sécurité et options futures. Les raccourcis deviennent des contraintes institutionnelles longtemps après leur contexte d'origine.",
+    "ru": "Техническая архитектура определяет скорость, устойчивость, безопасность и будущие опции. Shortcut'ы становятся институциональными ограничениями long after исчезновения их контекста.",
+    "uk": "Технічна архітектура визначає швидкість, стійкість, безпеку та майбутні опції. Shortcut'и стають інституційними обмеженнями long after зникнення їхнього контексту.",
+    "zh": "技术架构决定速度、韧性、安全和未来选项。捷径在其原始背景消失很久后仍会成为制度约束。",
+    "ar": "تحدد البنية التقنية السرعة والمرونة والأمن والخيارات المستقبلية. تصبح الاختصارات قيوداً مؤسسية long after اختفاء سياقها الأصلي.",
+    "he": "ארכיטקטורה טכנית קובעת מהירות, חוסן, אבטחה ואפשרויות עתיד. קיצורי דרך הופכים לאילוצים מוסדיים long after שההקשר המקורי נעלם."
+  },
+  "Architecture Shapes the Enterprise": {
+    "es": "La arquitectura moldea la empresa",
+    "de": "Architektur formt das Unternehmen",
+    "fr": "L'architecture façonne l'entreprise",
+    "ru": "Архитектура формирует компанию",
+    "uk": "Архітектура формує компанію",
+    "zh": "架构塑造企业",
+    "ar": "البنية تشكّل المؤسسة",
+    "he": "ארכיטקטורה מעצבת את הארגון"
+  },
+  "Trust is built through clear commitments, reliable execution, responsible data practices, and direct communication when conditions change.": {
+    "es": "La confianza se construye con compromisos claros, ejecución fiable, prácticas responsables de datos y comunicación directa cuando cambian las condiciones.",
+    "de": "Vertrauen entsteht durch klare Zusagen, verlässliche Ausführung, verantwortungsvolle Datenpraxis und direkte Kommunikation, wenn sich Bedingungen ändern.",
+    "fr": "La confiance se construit par des engagements clairs, une exécution fiable, des pratiques responsables des données et une communication directe quand les conditions changent.",
+    "ru": "Доверие строится через ясные обязательства, надёжное исполнение, ответственную работу с данными и прямую коммуникацию при изменении условий.",
+    "uk": "Довіра будується через чіткі зobов'язання, надійне виконання, відповідальну роботу з даними та пряму комунікацію при зміні умов.",
+    "zh": "信任通过明确承诺、可靠执行、负责任的数据实践以及在条件变化时的直接沟通来建立。",
+    "ar": "يُبنى الثقة عبر التزامات واضحة وتنفيذ موثوق وممارسات بيانات مسؤولة وتواصل مباشر عند تغيّر الظروف.",
+    "he": "אמון נבנה דרך התחייבויות ברורות, ביצוע אמין, פרaktikות נתונים אחראיות ותקשורת ישירה כשהתנאים משתנים."
+  },
+  "Trust Is Operating Infrastructure": {
+    "es": "La confianza es infraestructura operativa",
+    "de": "Vertrauen ist Operating-Infrastruktur",
+    "fr": "La confiance est une infrastructure opérationnelle",
+    "ru": "Доверие — операционная инфраструктура",
+    "uk": "Довіра — операційна інфраструктура",
+    "zh": "信任是运营基础设施",
+    "ar": "الثقة بنية تشغيلية",
+    "he": "אמון הוא תשתית תפעולית"
+  },
+  "Growth investment should reinforce differentiated capabilities and measurable demand, not substitute spending for product-market understanding.": {
+    "es": "La inversión en crecimiento debe reforzar capacidades diferenciadas y demanda medible, no sustituir el gasto por comprensión del producto-mercado.",
+    "de": "Wachstumsinvestitionen sollten differenzierte Fähigkeiten und messbare Nachfrage stärken, nicht Ausgaben für Product-Market-Understanding ersetzen.",
+    "fr": "L'investissement de croissance doit renforcer des capacités différenciées et une demande mesurable, pas substituer les dépenses à la compréhension produit-marché.",
+    "ru": "Инвестиции в рост должны усиливать дифференцированные способности и измеримый спрос, а не заменять траты пониманием product-market.",
+    "uk": "Інвестиції в зростання мають посилювати диференційовані спроможності та вимірюваний попит, а не замінювати витрати розумінням product-market.",
+    "zh": "增长投资应强化差异化能力和可衡量需求，而非用支出替代产品-市场理解。",
+    "ar": "يجب أن تعزز استثمارات النمو القدرات المتمايزة والطلب القابل للقياس، لا أن تحل الإنفاق محل فهم product-market.",
+    "he": "השקעות צמיחה צריכות לחזק יכולות differentiated וביקוש measurable, לא להחליף הוצאות בהבנת product-market."
+  },
+  "Capital Must Follow Capability": {
+    "es": "El capital debe seguir a la capacidad",
+    "de": "Kapital muss der Fähigkeit folgen",
+    "fr": "Le capital doit suivre la capacité",
+    "ru": "Капитал должен следовать за способностями",
+    "uk": "Капітал повинен слідувати за спроможностями",
+    "zh": "资本必须跟随能力",
+    "ar": "يجب أن يتبع رأس المال القدرة",
+    "he": "הון חייב לעקוב אחר יכולת"
+  },
+  "The strongest leaders build systems, talent, and decision quality that endure beyond their own involvement.": {
+    "es": "Los líderes más sólidos construyen sistemas, talento y calidad de decisión que perduran más allá de su propia participación.",
+    "de": "Die stärksten Führungskräfte bauen Systeme, Talent und Entscheidungsqualität, die über ihre eigene Beteiligung hinaus Bestand haben.",
+    "fr": "Les dirigeants les plus solides construisent des systèmes, des talents et une qualité de décision qui perdurent au-delà de leur propre participation.",
+    "ru": "Сильнейшие лидеры строят системы, таланты и качество решений, которые переживают их собственное участие.",
+    "uk": "Найсильніші лідери будують системи, таланти та якість рішень, які переживають їхню власну участь.",
+    "zh": "最强的领导者构建超越自身参与的系统、人才和决策质量。",
+    "ar": "يبني أقوى القادة أنظمة ومواهب وجودة قرار تدوم beyond مشاركتهم.",
+    "he": "המנהיגים החזקים ביותר בונים מערכות, כישרונות ואיכות החלטה שנשארים מעבר למעורבותם."
+  },
+  "Leaders Design Their Successors": {
+    "es": "Los líderes diseñan a sus sucesores",
+    "de": "Führungskräfte gestalten ihre Nachfolger",
+    "fr": "Les dirigeants conçoivent leurs successeurs",
+    "ru": "Лидеры проектируют своих преемников",
+    "uk": "Лідери проектують своїх наступників",
+    "zh": "领导者设计继任者",
+    "ar": "القادة يصمّمون خلفاءهم",
+    "he": "מנהיגים מתכננים את יורשיהם"
+  },
+  "What I Believe": {
+    "es": "En qué creo",
+    "de": "Woran ich glaube",
+    "fr": "Ce en quoi je crois",
+    "ru": "Вo что я верю",
+    "uk": "У що я вірю",
+    "zh": "我的信念",
+    "ar": "ما أؤمن به",
+    "he": "במה אני מאמין"
+  },
+  "Seven Principles for Enduring Organizations": {
+    "es": "Siete principios para organizaciones duraderas",
+    "de": "Sieben Prinzipien für beständige Organisationen",
+    "fr": "Sept principes pour des organisations durables",
+    "ru": "Семь принципов для устойчивых организаций",
+    "uk": "Сім принципів для стійких організацій",
+    "zh": "持久组织的七项原则",
+    "ar": "سبعة مبادئ للمؤسسات الدائمة",
+    "he": "שבעה עקרונות לארגונים מתמשכים"
+  },
+  "The Horizon": {
+    "es": "El horizonte",
+    "de": "Der Horizont",
+    "fr": "L'horizon",
+    "ru": "Горизонт",
+    "uk": "Горizont",
+    "zh": "地平线",
+    "ar": "الأفق",
+    "he": "האופק"
+  },
+  "The defining opportunity is not any single technology. It is the disciplined integration of AI, advanced data systems, biology, and automation into institutions people can trust.": {
+    "es": "La oportunidad definitoria no es una sola tecnología. Es la integración disciplinada de IA, sistemas avanzados de datos, biología y automatización en instituciones en las que la gente puede confiar.",
+    "de": "Die entscheidende Chance ist nicht eine einzelne Technologie. Es ist die disziplinierte Integration von KI, fortgeschrittenen Datensystemen, Biologie und Automation in Institutionen, denen Menschen vertrauen können.",
+    "fr": "L'opportunité décisive n'est pas une seule technologie. C'est l'intégration disciplinée de l'IA, des systèmes de données avancés, de la biologie et de l'automatisation dans des institutions auxquelles on peut faire confiance.",
+    "ru": "Решающая возможность — не одна технология. Это дисциплинированная интеграция ИИ, продвинутых data systems, биологии и automation в institution, которым люди могут доверять.",
+    "uk": "Визначальна можливість — не одна технологія. Це дисциплінована інтеграція ШІ, просунутих data systems, біології та automation в institution, яким люди можуть довіряти.",
+    "zh": "决定性机遇不是任何单一技术，而是将AI、先进数据系统、生物学和自动化 disciplined 融入人们可信赖的机构。",
+    "ar": "الفرصة الحاسمة ليست technology واحدة. بل التكامل المنضبط للذكاء الاصطناعي وأنظمة البيانات المتقدمة والbiology والautomation في مؤسسات يمكن للناس الوثوق بها.",
+    "he": "ההזדמנות המכרעת אינה technology בודדת. זו אינטegration ממושמעת של AI, מערכות נתונים מתקדמות, biology ו-automation במוסדות שאנשים יכולים לסמוך עליהם."
+  },
+  "The Next Advantage Is Responsible Integration": {
+    "es": "La próxima ventaja es la integración responsable",
+    "de": "Der nächste Vorteil ist verantwortungsvolle Integration",
+    "fr": "Le prochain avantage est l'intégration responsable",
+    "ru": "Следующее преимущество — ответственная интеграция",
+    "uk": "Наступна перевага — відповідальна інтеграція",
+    "zh": "下一个优势是 responsible integration",
+    "ar": "الميزة التالية هي التكامل المسؤول",
+    "he": "היתרון הבא הוא אינטגרציה אחראית"
+  },
+  "Technology changes quickly; the obligations of leadership do not. Durable enterprises unite ambition with discipline, evidence, and accountability.": {
+    "es": "La tecnología cambia rápido; las obligaciones del liderazgo, no. Las empresas duraderas unen ambición con disciplina, evidencia y responsabilidad.",
+    "de": "Technologie ändert sich schnell; die Pflichten der Führung nicht. Beständige Unternehmen verbinden Ambition mit Disziplin, Evidenz und Accountability.",
+    "fr": "La technologie change vite ; les obligations du leadership, non. Les entreprises durables unissent ambition, discipline, preuves et responsabilité.",
+    "ru": "Технологии меняются быстро; обязательства лидерства — нет. Устойчивые компании соединяют амбиции с дисциплиной, доказательствами и подотчётностью.",
+    "uk": "Технології змінюються швидко; зобов'язання лідерства — ні. Стійкі компанії поєднують амбіції з дисципліною, доказами та підзвітністю.",
+    "zh": "技术变化迅速；领导力的义务不变。持久企业将雄心与纪律、证据和问责相结合。",
+    "ar": "تتغير التكنولوجيا بسرعة؛ التزامات القيادة لا. توحّد المؤسسات الدائمة الطموح مع الانضباط والأدلة والمساءلة.",
+    "he": "טכנולוגיה משתנה במהירות; חובות המנהיגות — לא. ארגונים מתמשכים מאחדים שאפתנות עם משמעת, ראיות ואחריות."
+  },
+  "Announcements, pilots, and fashionable language do not equal capability. Innovation must improve an outcome that matters.": {
+    "es": "Anuncios, pilotos y lenguaje de moda no equivalen a capacidad. La innovación debe mejorar un resultado que importa.",
+    "de": "Ankündigungen, Piloten und modische Sprache sind keine Fähigkeit. Innovation muss ein Ergebnis verbessern, das zählt.",
+    "fr": "Annonces, pilotes et langage à la mode ne font pas une capacité. L'innovation doit améliorer un résultat qui compte.",
+    "ru": "Анонсы, пилоты и модный язык не равны capability. Инновации должны улучшать результат, который имеет значение.",
+    "uk": "Анонси, пілоти та модна мова не дорівнюють capability. Інновації мають покращувати результат, який має значення.",
+    "zh": "公告、试点和时髦语言不等于能力。创新必须改善重要的结果。",
+    "ar": "الإعلانات وال pilots واللغة العصرية لا ت equal capability. يجب أن تحسّن الابتكار نتيجة مهمة.",
+    "he": "הכרזות, pilots ושפה אופנתית לא שווים capability. חדשנות חייבת לשפר תוצאה שחשובה."
+  },
+  "Innovation Theater": {
+    "es": "Teatro de innovación",
+    "de": "Innovation Theater",
+    "fr": "Théâtre de l'innovation",
+    "ru": "Театр инноваций",
+    "uk": "Театр інновацій",
+    "zh": "创新表演",
+    "ar": "مسرح الابتكار",
+    "he": "תיאטרון חדשנות"
+  },
+  "Scale magnifies unresolved weaknesses. Controls, culture, and accountability should mature before complexity makes correction costly.": {
+    "es": "La escala magnifica debilidades no resueltas. Controles, cultura y responsabilidad deben madurar antes de que la complejidad haga costosa la corrección.",
+    "de": "Skalierung vergrößert ungelöste Schwächen. Controls, Kultur und Accountability sollten reifen, bevor Komplexität Korrektur kostspielig macht.",
+    "fr": "L'échelle amplifie les faiblesses non résolues. Contrôles, culture et responsabilité doivent mûrir avant que la complexité ne rende la correction coûteuse.",
+    "ru": "Масштаб увеличивает нерешённые слабости. Controls, culture и accountability должны созреть, пока complexity не сделает correction costly.",
+    "uk": "Масштаб збільшує невирішені слабкості. Controls, culture і accountability мають дозріти, поки complexity не зробить correction costly.",
+    "zh": "规模放大未解决的弱点。控制、文化和问责应在复杂性使纠正代价高昂之前成熟。",
+    "ar": "يضخّم الحجم نقاط الضعف غير المحلولة. يجب أن تنضج الضوابط والثقافة والمساءلة قبل أن تجعل التعقيدات التصحيح مكلفاً.",
+    "he": "קנה מידה מגביר חולשות לא פתורות. controls, culture ו-accountability צריכים להתבגר לפני שcomplexity הופכת correction ליקר."
+  },
+  "Growth Without Governance": {
+    "es": "Crecimiento sin gobernanza",
+    "de": "Wachstum ohne Governance",
+    "fr": "Croissance sans gouvernance",
+    "ru": "Рост без управления",
+    "uk": "Зростання без управління",
+    "zh": "无治理的增长",
+    "ar": "نمو بلا حوكمة",
+    "he": "צמיחה ללא ממשל"
+  },
+  "Executive confidence should not erase uncertainty. Strong decisions make assumptions visible and preserve options when facts change.": {
+    "es": "La confianza ejecutiva no debe borrar la incertidumbre. Las decisiones sólidas hacen visibles los supuestos y preservan opciones cuando cambian los hechos.",
+    "de": "Executive Confidence soll Unsicherheit nicht tilgen. Starke Entscheidungen machen Annahmen sichtbar und bewahren Optionen, wenn Fakten sich ändern.",
+    "fr": "La confiance exécutive ne doit pas effacer l'incertitude. Les bonnes décisions rendent les hypothèses visibles et préservent les options quand les faits changent.",
+    "ru": "Executive confidence не должна стирать uncertainty. Сильные решения делают assumptions visible и сохраняют options при изменении facts.",
+    "uk": "Executive confidence не повинна стирати uncertainty. Сильні рішення роблять assumptions visible і зберігають options при зміні facts.",
+    "zh": "高管信心不应消除不确定性。强有力的决策使假设可见，并在事实变化时保留选项。",
+    "ar": "لا ينبغي أن تمحو confidence التنفيذية uncertainty. القرارات القوية تجعل الافتراضات visible وتحفظ options عند تغيّر الحقائق.",
+    "he": "confidence מנהלית לא צריכה למחוק uncertainty. החלטות חזקות הופכות assumptions ל-visible ושומרות options כשfacts משתנים."
+  },
+  "False Certainty": {
+    "es": "Falsa certeza",
+    "de": "Falsche Gewissheit",
+    "fr": "Fausse certitude",
+    "ru": "Ложная определённость",
+    "uk": "Хибна певненість",
+    "zh": "虚假确定性",
+    "ar": "يقين زائف",
+    "he": "ודאות כוזבת"
+  },
+  "What I Reject": {
+    "es": "Lo que rechazo",
+    "de": "Was ich ablehne",
+    "fr": "Ce que je rejette",
+    "ru": "Что я отвергаю",
+    "uk": "Що я відкидаю",
+    "zh": "我拒绝的",
+    "ar": "ما أرفضه",
+    "he": "מה שאני דוחה"
+  },
+  "Three Expensive Illusions": {
+    "es": "Tres ilusiones costosas",
+    "de": "Drei teure Illusionen",
+    "fr": "Trois illusions coûteuses",
+    "ru": "Три дорогих иллюзии",
+    "uk": "Три дорогих ілюзії",
+    "zh": "三种昂贵的幻觉",
+    "ar": "ثلاثة أوهام مكلفة",
+    "he": "שלוש אשליות יקרות"
+  },
+  "Build for the Long Term. Decide in the Present.": {
+    "es": "Construir a largo plazo. Decidir en el presente.",
+    "de": "Für die Langzeit bauen. In der Gegenwart entscheiden.",
+    "fr": "Construire pour le long terme. Décider dans le présent.",
+    "ru": "Строить надолго. Решать — сейчас.",
+    "uk": "Будувати надовго. Вирішувати — зараз.",
+    "zh": "为长期建设。在当下决策。",
+    "ar": "البناء على المدى البعيد. القرار في الحاضر.",
+    "he": "לבנות לטווח ארוך. להחליט בהווה."
+  },
+  "Live Projects": {
+    "es": "Proyectos activos",
+    "de": "Live-Projekte",
+    "fr": "Projets actifs",
+    "ru": "Активные проекты",
+    "uk": "Активні проєкти",
+    "zh": "活跃项目",
+    "ar": "مشاريع نشطة",
+    "he": "פרויקטים פעילים"
+  },
+  "Live websites for current companies and portfolio initiatives.": {
+    "es": "Sitios web activos de empresas actuales e iniciativas de portfolio.",
+    "de": "Live-Websites aktueller Unternehmen und Portfolio-Initiativen.",
+    "fr": "Sites web actifs des entreprises actuelles et initiatives portfolio.",
+    "ru": "Активные сайты текущих компаний и портфельных инициатив.",
+    "uk": "Активні сайти поточних компаній і портфельних ініціатив.",
+    "zh": "当前公司和投资组合项目的活跃网站。",
+    "ar": "مواقع حية للشركات الحالية ومبادرات المحفظة.",
+    "he": "אתרים פעילים של חברות נוכחיות ויוזמות portfolio."
+  },
+  "10 live websites · click any card to visit": {
+    "es": "10 sitios activos · haga clic en cualquier tarjeta para visitar",
+    "de": "10 Live-Websites · Klick auf Karte zum Besuch",
+    "fr": "10 sites actifs · cliquez sur une carte pour visiter",
+    "ru": "10 активных сайтов · нажмите на карточку для перехода",
+    "uk": "10 активних сайтів · натисніть на картку для переходу",
+    "zh": "10个活跃网站 · 点击任意卡片访问",
+    "ar": "10 مواقع نشطة · انقر على أي بطاقة للزيارة",
+    "he": "10 אתרים פעילים · לחצו על כרטיס לביקור"
+  },
+  "Active Sites": {
+    "es": "Sitios activos",
+    "de": "Aktive Sites",
+    "fr": "Sites actifs",
+    "ru": "Активные сайты",
+    "uk": "Активні сайти",
+    "zh": "活跃网站",
+    "ar": "مواقع نشطة",
+    "he": "אתרים פעילים"
+  },
+  "Current": {
+    "es": "Actual",
+    "de": "Aktuell",
+    "fr": "Actuel",
+    "ru": "Текущее",
+    "uk": "Поточне",
+    "zh": "当前",
+    "ar": "حالي",
+    "he": "נוכחי"
+  },
+  "Selected History": {
+    "es": "Historia seleccionada",
+    "de": "Ausgewählte Historie",
+    "fr": "Historique sélectionné",
+    "ru": "Избранная история",
+    "uk": "Вибрана історія",
+    "zh": "精选历史",
+    "ar": "تاريخ مختار",
+    "he": "היסטוריה נבחרת"
+  },
+  "Active": {
+    "es": "Activo",
+    "de": "Aktiv",
+    "fr": "Actif",
+    "ru": "Активно",
+    "uk": "Активно",
+    "zh": "活跃",
+    "ar": "نشط",
+    "he": "פעיל"
+  },
+  "Exited": {
+    "es": "Salida",
+    "de": "Exit",
+    "fr": "Sortie",
+    "ru": "Exit",
+    "uk": "Exit",
+    "zh": "已退出",
+    "ar": "خروج",
+    "he": "יציאה"
+  },
+  "Legacy": {
+    "es": "Legado",
+    "de": "Erbe",
+    "fr": "Héritage",
+    "ru": "Наследие",
+    "uk": "Спадщина",
+    "zh": "遗留",
+    "ar": "إرث",
+    "he": "מורשת"
+  },
+  "Aerial-Ground Robotics Operations Network · agron1.com": {
+    "es": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "de": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "fr": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "ru": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "uk": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "zh": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "ar": "Aerial-Ground Robotics Operations Network · agron1.com",
+    "he": "Aerial-Ground Robotics Operations Network · agron1.com"
+  },
+  "Founded AGRON Inc. in 2026 to lead the AGRON Ecosystem — an Aerial-Ground Robotics Operations Network spanning UAV and Counter-UAS consulting, technology assessment, capability development, training infrastructure, product validation, geospatial systems (ISDRI), and AGRON Maritime Intelligence + Security for yachts, marinas, and private maritime infrastructure.": {
+    "es": "Fundó AGRON Inc. en 2026 para liderar el AGRON Ecosystem — una Aerial-Ground Robotics Operations Network que abarca consultoría UAV y Counter-UAS, evaluación tecnológica, desarrollo de capacidades, infraestructura de formación, validación de productos, sistemas geoespaciales (ISDRI) y AGRON Maritime Intelligence + Security para yates, marinas e infraestructura marítima privada.",
+    "de": "Gründete AGRON Inc. 2026 zur Führung des AGRON Ecosystem — ein Aerial-Ground Robotics Operations Network für UAV- und Counter-UAS-Beratung, Technology Assessment, Capability Development, Trainingsinfrastruktur, Product Validation, geospatial systems (ISDRI) und AGRON Maritime Intelligence + Security für Yachten, Marinas und private maritime Infrastruktur.",
+    "fr": "A fondé AGRON Inc. en 2026 pour diriger l'AGRON Ecosystem — un Aerial-Ground Robotics Operations Network couvrant conseil UAV et Counter-UAS, évaluation technologique, développement de capacités, infrastructure de formation, validation produit, systèmes géospatiaux (ISDRI) et AGRON Maritime Intelligence + Security pour yachts, marinas et infrastructure maritime privée.",
+    "ru": "Основал AGRON Inc. в 2026 году для руководства AGRON Ecosystem — Aerial-Ground Robotics Operations Network в области консалтинга UAV и Counter-UAS, оценки технологий, развития возможностей, инфраструктуры обучения, валидации продуктов, геопространственных систем (ISDRI) и AGRON Maritime Intelligence + Security для яхт, марин и частной морской инфраструктуры.",
+    "uk": "Заснував AGRON Inc. у 2026 році для керівництва AGRON Ecosystem — Aerial-Ground Robotics Operations Network у сфері консалтингу UAV і Counter-UAS, оцінки технологій, розвитку можливостей, інфраструктури навчання, валідації продуктів, геопросторових систем (ISDRI) і AGRON Maritime Intelligence + Security для яхт, марин і приватної морської інфраструктури.",
+    "zh": "于2026年创立AGRON Inc.以领导AGRON Ecosystem——涵盖UAV和Counter-UAS咨询、技术评估、能力开发、培训基础设施、产品验证、地理空间系统（ISDRI）以及面向游艇、 marina和私人海事基础设施的AGRON Maritime Intelligence + Security的Aerial-Ground Robotics Operations Network。",
+    "ar": "أسس AGRON Inc. عام 2026 لقيادة AGRON Ecosystem — Aerial-Ground Robotics Operations Network في استشارات UAV وCounter-UAS وتقييم التكنولوجيا وتطوير القدرات وبنية التدريب والتحقق من المنتجات وأنظمة geospatial (ISDRI) وAGRON Maritime Intelligence + Security لليachts والmarinas والبنية البحرية الخاصة.",
+    "he": "ייסד AGRON Inc. ב-2026 כדי להוביל את AGRON Ecosystem — Aerial-Ground Robotics Operations Network בתחום ייעוץ UAV ו-Counter-UAS, הערכת טכנולוגיה, פיתוח יכולות, תשתית הכשרה, אימות מוצרים, מערכות geospatial (ISDRI) ו-AGRON Maritime Intelligence + Security ליachts, marinas ותשתית ימית פרטית."
+  },
+  "Lesson: infrastructure wins when reliability, economics, and customer trust improve together.": {
+    "es": "Lección: la infraestructura gana cuando la fiabilidad, la economía y la confianza del cliente mejoran juntas.",
+    "de": "Lehre: Infrastruktur gewinnt, wenn Zuverlässigkeit, Ökonomie und Kundenvertrauen gemeinsam steigen.",
+    "fr": "Leçon : l'infrastructure gagne quand fiabilité, économie et confiance client progressent ensemble.",
+    "ru": "Урок: инфраструктура побеждает, когда надёжность, экономика и доверие клиентов растут вместе.",
+    "uk": "Урок: інфраструктура перемагає, коли надійність, економіка та довіра клієнтів зростають разом.",
+    "zh": "经验：当可靠性、经济性和客户信任共同提升时，基础设施才能胜出。",
+    "ar": "الدرس: تفوز البنية التحتية عندما تتحسن الموثوقية والاقتصاد وثقة العملاء معاً.",
+    "he": "לקח: תשתית מנצחת כשאמינות, כלכליות ואמון לקוחות משתפרים יחד."
+  },
+  "Lesson: precision medicine requires equal discipline in science, software, privacy, and clinical usefulness.": {
+    "es": "Lección: la medicina de precisión exige la misma disciplina en ciencia, software, privacidad y utilidad clínica.",
+    "de": "Lehre: Precision Medicine erfordert gleiche Disziplin in Wissenschaft, Software, Datenschutz und klinischer Nützlichkeit.",
+    "fr": "Leçon : la médecine de précision exige la même discipline en science, logiciel, confidentialité et utilité clinique.",
+    "ru": "Урок: прецизионная медицина требует одинаковой дисциплины в науке, ПО, конфиденциальности и клинической пользе.",
+    "uk": "Урок: прецизійна медицина вимагає однакової дисципліни в науці, ПЗ, конфіденційності та клінічній користі.",
+    "zh": "经验：精准医疗在科学、软件、隐私和临床实用性上需要同等纪律。",
+    "ar": "الدرس: يتطلب الطب الدقيق انضباطاً متساوياً في العلم والبرمجيات والخصوصية والفائدة السريرية.",
+    "he": "לקח: רפואת דיוק דורשת משמעת שווה במדע, תוכנה, פרטיות ותועלת קלינית."
+  },
+  "Lesson: autonomy creates value only when sensing, communications, and human oversight form one resilient system.": {
+    "es": "Lección: la autonomía crea valor solo cuando la detección, las comunicaciones y la supervisión humana forman un sistema resiliente.",
+    "de": "Lehre: Autonomie schafft Wert nur, wenn Sensing, Kommunikation und menschliche Aufsicht ein resilientes System bilden.",
+    "fr": "Leçon : l'autonomie crée de la valeur seulement quand capteurs, communications et supervision humaine forment un système résilient.",
+    "ru": "Урок: автономия создаёт ценность только когда sensing, коммуникации и человеческий надзор образуют одну устойчивую систему.",
+    "uk": "Урок: автономія створює цінність лише коли sensing, комунікації та людський нагляд утворюють одну стійку систему.",
+    "zh": "经验：只有当感知、通信和人工监督形成一个有韧性的系统时，自主性才创造价值。",
+    "ar": "الدرس: تخلق الاستقلالية قيمة فقط عندما يشكل الاستشعار والاتصالات والإشراف البشري نظاماً واحداً مرناً.",
+    "he": "לקח: אוטונומיה יוצרת ערך רק כשחישה, תקשורת ופיקוח אנושי יוצרים מערכת אחת עמידה."
+  },
+  "Acquired · Concentric Networks, 2000": {
+    "es": "Adquirida · Concentric Networks, 2000",
+    "de": "Übernommen · Concentric Networks, 2000",
+    "fr": "Acquise · Concentric Networks, 2000",
+    "ru": "Приобретена · Concentric Networks, 2000",
+    "uk": "Придбана · Concentric Networks, 2000",
+    "zh": "被收购 · Concentric Networks, 2000",
+    "ar": "مُستحوذ عليها · Concentric Networks, 2000",
+    "he": "נרכשה · Concentric Networks, 2000"
+  },
+  "Founded and led a hosting and internet infrastructure company. Acquired by Concentric Networks (NASDAQ: CNTX) in 2000; subsequently part of XO Communications (NASDAQ: XOXO).": {
+    "es": "Fundó y dirigió una empresa de hosting e infraestructura de internet. Adquirida por Concentric Networks (NASDAQ: CNTX) en 2000; posteriormente parte de XO Communications (NASDAQ: XOXO).",
+    "de": "Gründete und leitete ein Hosting- und Internet-Infrastrukturunternehmen. 2000 von Concentric Networks (NASDAQ: CNTX) übernommen; später Teil von XO Communications (NASDAQ: XOXO).",
+    "fr": "A fondé et dirigé une entreprise d'hébergement et d'infrastructure internet. Acquise par Concentric Networks (NASDAQ: CNTX) en 2000 ; ensuite partie de XO Communications (NASDAQ: XOXO).",
+    "ru": "Основал и возглавил компанию хостинга и интернет-инфраструктуры. Приобретена Concentric Networks (NASDAQ: CNTX) в 2000; затем часть XO Communications (NASDAQ: XOXO).",
+    "uk": "Заснував і очолив компанію хостингу та інтернет-інфраструктури. Придбана Concentric Networks (NASDAQ: CNTX) у 2000; потім частина XO Communications (NASDAQ: XOXO).",
+    "zh": "创立并领导一家托管和互联网基础设施公司。2000年被Concentric Networks（NASDAQ: CNTX）收购；后成为XO Communications（NASDAQ: XOXO）的一部分。",
+    "ar": "أسس وقاد شركة hosting وبنية تحتية للإنترنت. استحوذت عليها Concentric Networks (NASDAQ: CNTX) عام 2000؛ ثم أصبحت جزءاً من XO Communications (NASDAQ: XOXO).",
+    "he": "ייסד והוביל חברת hosting ותשתית אינטרנט. נרכשה על ידי Concentric Networks (NASDAQ: CNTX) ב-2000; לאחר מכן חלק מ-XO Communications (NASDAQ: XOXO)."
+  }
+}
