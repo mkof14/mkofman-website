@@ -189,7 +189,7 @@ window.__LANG_es = {
     "heroSub": "Tecnología, negocios e inversión en infraestructura, ciencias de la vida y sistemas autónomos.",
     "primaryCta": "Solicitar asesoría",
     "secondaryCta": "Ver casos de estudio",
-    "featuredEyebrow": "Como aparece en",
+    "featuredEyebrow": "Del archivo",
     "caseStudiesEyebrow": "Resultados comprobados",
     "caseStudiesTitle": "Casos de estudio",
     "caseStudiesLead": "Fundación, escalamiento y liderazgo de empresas desde su inicio hasta adquisiciones y salidas a bolsa.",

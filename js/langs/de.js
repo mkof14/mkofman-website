@@ -189,7 +189,7 @@ window.__LANG_de = {
     "heroSub": "Technologie, Business und Investment in Infrastruktur, Life Sciences und autonomen Systemen.",
     "primaryCta": "Beratung anfragen",
     "secondaryCta": "Fallstudien ansehen",
-    "featuredEyebrow": "Bekannt aus",
+    "featuredEyebrow": "Aus dem Archiv",
     "caseStudiesEyebrow": "Nachweisbare Ergebnisse",
     "caseStudiesTitle": "Fallstudien",
     "caseStudiesLead": "Unternehmen gründen, skalieren und führen - vom Start bis zu Übernahme und IPO.",

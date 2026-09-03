@@ -265,6 +265,44 @@
   gap: 0;
 }
 
+.press-sources {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.press-sources-list {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+.press-sources-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(196, 162, 101, 0.15);
+}
+
+.press-sources-list li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.press-sources-name {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  color: var(--text);
+}
+
+.press-sources-list .text-link {
+  flex-shrink: 0;
+  font-size: 0.875rem;
+}
+
 .press-year-group {
   border-top: 1px solid var(--border);
   padding: 2rem 0;

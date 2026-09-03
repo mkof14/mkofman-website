@@ -189,7 +189,7 @@ window.__LANG_ar = {
     "heroSub": "التكنولوجيا والأعمال والاستثمار في البنية التحتية وعلوم الحياة والأنظمة المستقلة.",
     "primaryCta": "طلب استشارة",
     "secondaryCta": "عرض دراسات الحالة",
-    "featuredEyebrow": "ظهر في",
+    "featuredEyebrow": "من الأرشيف",
     "caseStudiesEyebrow": "نتائج مثبتة",
     "caseStudiesTitle": "دراسات الحالة",
     "caseStudiesLead": "تأسيس الشركات وتوسيعها وقيادتها من البداية حتى الاستحواذ والطرح العام.",

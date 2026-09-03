@@ -189,7 +189,7 @@ window.__LANG_he = {
     "heroSub": "טכנולוגיה, עסקים והשקעות בתשתיות, מדעי החיים ומערכות אוטונומיות.",
     "primaryCta": "בקשת ייעוץ",
     "secondaryCta": "צפייה במקרי בוחן",
-    "featuredEyebrow": "כפי שפורסם ב",
+    "featuredEyebrow": "מהארכיון",
     "caseStudiesEyebrow": "תוצאות מוכחות",
     "caseStudiesTitle": "מקרי בוחן",
     "caseStudiesLead": "הקמה, הרחבה והובלת חברות מהשלב הראשוני ועד רכישה ו-IPO.",

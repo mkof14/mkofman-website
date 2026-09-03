@@ -189,7 +189,7 @@ window.__LANG_uk = {
     "heroSub": "Технології, бізнес і інвестиції в інфраструктуру, life sciences та автономні системи.",
     "primaryCta": "Запросити консультацію",
     "secondaryCta": "Переглянути кейси",
-    "featuredEyebrow": "Згадки в медіа",
+    "featuredEyebrow": "З архіву",
     "caseStudiesEyebrow": "Підтверджені результати",
     "caseStudiesTitle": "Кейси",
     "caseStudiesLead": "Заснування, масштабування та керівництво компаніями від старту до угод M&A та IPO.",

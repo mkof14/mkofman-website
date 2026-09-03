@@ -189,7 +189,7 @@ window.__LANG_ru = {
     "heroSub": "Технологии, бизнес и инвестиции в инфраструктуру, life sciences и автономные системы.",
     "primaryCta": "Запросить консультацию",
     "secondaryCta": "Смотреть кейсы",
-    "featuredEyebrow": "Упоминания в СМИ",
+    "featuredEyebrow": "Из архива",
     "caseStudiesEyebrow": "Результаты",
     "caseStudiesTitle": "Кейсы",
     "caseStudiesLead": "Основание, масштабирование и руководство компаниями — от ранней стадии до сделок M&A.",

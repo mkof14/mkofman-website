@@ -189,7 +189,7 @@ window.__LANG_zh = {
     "heroSub": "技术、商业与投资 — 涵盖基础设施、生命科学和自主系统。",
     "primaryCta": "申请顾问咨询",
     "secondaryCta": "查看案例研究",
-    "featuredEyebrow": "媒体报道",
+    "featuredEyebrow": "来自档案",
     "caseStudiesEyebrow": "可验证成果",
     "caseStudiesTitle": "案例研究",
     "caseStudiesLead": "从创立到并购和 IPO，持续推动企业创建、扩张与领导。",

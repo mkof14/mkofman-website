@@ -143,7 +143,7 @@ window.__LANG_en = {
     "heroRole": "Technology Executive · Founder · Advisor",
     "heroSub": "Technology, business, and investment across infrastructure, life sciences, and autonomous systems.",
     "heroAlt": "Michael Kofman",
-    "featuredEyebrow": "As Featured In",
+    "featuredEyebrow": "From the Archive",
     "introText": "Michael Kofman is a technology executive and company founder whose career began in satellite engineering before Ukraine's transition to independence, and has spanned internet infrastructure, public technology companies, and life sciences since relocating to the United States. He holds an early patent in digital satellite HDTV technology, later acquired by Sony. He founded 9 Net Avenue Inc., acquired by Concentric Networks in 2000. He is CEO of Digital Invest Inc., in bio-mathematical medicine and genomic intelligence, and founder of AGRON Inc., in autonomous aerial-ground operations and geospatial systems. He advises technology, health, and infrastructure organizations on strategy and growth.",
     "introLink": "Full biography →",
     "currentEyebrow": "Current Work",

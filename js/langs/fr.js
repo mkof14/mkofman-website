@@ -189,7 +189,7 @@ window.__LANG_fr = {
     "heroSub": "Technologie, business et investissement dans l'infrastructure, les sciences de la vie et les systèmes autonomes.",
     "primaryCta": "Demander un accompagnement",
     "secondaryCta": "Voir les études de cas",
-    "featuredEyebrow": "Vu dans",
+    "featuredEyebrow": "Des archives",
     "caseStudiesEyebrow": "Résultats prouvés",
     "caseStudiesTitle": "Études de cas",
     "caseStudiesLead": "Créer, développer et diriger des entreprises de leur lancement jusqu'à l'acquisition et l'IPO.",
